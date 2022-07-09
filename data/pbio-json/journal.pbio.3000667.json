@@ -1,0 +1,110 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000667",
+  "doi": "10.1371/journal.pbio.3000667",
+  "externalIds": [
+    "pii:PBIOLOGY-D-19-03460",
+    "pmid:32298256",
+    "pmcid:PMC7188297"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Portable sequencing as a teaching tool in conservation and biodiversity research",
+  "authors": [
+    {
+      "name": "Mrinalini Watsa",
+      "first": "Mrinalini",
+      "last": "Watsa",
+      "affiliation": "Field Projects International, Saint Louis, Missouri, United States of America; Population Sustainability, San Diego Zoo Global, San Diego, California, United States of America; Department of Biology, University of Missouri–St. Louis, St. Louis, Missouri, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8130-8810"
+      ]
+    },
+    {
+      "name": "Gideon A. Erkenswick",
+      "first": "Gideon A.",
+      "last": "Erkenswick",
+      "affiliation": "Field Projects International, Saint Louis, Missouri, United States of America; Department of Biology, University of Missouri–St. Louis, St. Louis, Missouri, United States of America; Infectious Diseases, School of Medicine, Washington University in St. Louis, St. Louis, Missouri, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6040-1170"
+      ]
+    },
+    {
+      "name": "Aaron Pomerantz",
+      "first": "Aaron",
+      "last": "Pomerantz",
+      "affiliation": "Department of Integrative Biology, University of California, Berkeley, Berkeley, California, United States of America; Marine Biological Laboratory, Woods Hole, Massachusetts, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-6412-9001"
+      ]
+    },
+    {
+      "name": "Stefan Prost",
+      "first": "Stefan",
+      "last": "Prost",
+      "affiliation": "LOEWE-Centre for Translational Biodiversity Genomics, Senckenberg, Frankfurt, Germany; South African National Biodiversity Institute, National Zoological Garden, Pretoria,South Africa",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-6229-3596"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2020-04-16",
+  "volume": "18",
+  "number": "4",
+  "pages": "e3000667",
+  "tags": [
+    "Biodiversity",
+    "Bioinformatics",
+    "Computer software",
+    "Conservation biology",
+    "Conservation genetics",
+    "Conservation science",
+    "DNA barcoding",
+    "DNA sequencing",
+    "Data management",
+    "Database and informatics methods",
+    "Discipline-v3/Biodiversity",
+    "Discipline-v3/Bioinformatics",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Computer and information sciences",
+    "Discipline-v3/Computer software",
+    "Discipline-v3/Conservation biology",
+    "Discipline-v3/Conservation genetics",
+    "Discipline-v3/Conservation science",
+    "Discipline-v3/DNA barcoding",
+    "Discipline-v3/DNA sequencing",
+    "Discipline-v3/Data management",
+    "Discipline-v3/Database and informatics methods",
+    "Discipline-v3/Ecology",
+    "Discipline-v3/Ecology and environmental sciences",
+    "Discipline-v3/Evolutionary biology",
+    "Discipline-v3/Evolutionary systematics",
+    "Discipline-v3/Genetics",
+    "Discipline-v3/Genomics",
+    "Discipline-v3/Molecular biology",
+    "Discipline-v3/Molecular biology techniques",
+    "Discipline-v3/Molecular systematics",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Sequencing techniques",
+    "Discipline-v3/Taxonomy",
+    "Ecology",
+    "Evolutionary biology",
+    "Evolutionary systematics",
+    "Genetics",
+    "Genomics",
+    "Molecular biology",
+    "Molecular biology techniques",
+    "Molecular systematics",
+    "Sequencing techniques",
+    "Taxonomy",
+    "Type/Community Page"
+  ],
+  "abstract": "As biodiversity loss continues to accelerate, there is a critical need for education and biomonitoring across the globe. Portable technologies allow for in situ molecular biodiversity monitoring that has been historically out of reach for many researchers in habitat nations. In the realm of education, portable tools such as DNA sequencers facilitate in situ hands-on training in real-time sequencing and interpretation techniques. Here, we provide step-by-step protocols as a blueprint for a terrestrial conservation genetics field training program that uses low-cost, portable devices to conduct genomics-based training directly in biodiverse habitat countries.",
+  "fullText": "Introduction\n\nWe live in an era characterized by major environmental change, large-scale defaunation, and biodiversity loss [1,2]. The immense task of quantifying the status quo of global ecosystems and the rate of biodiversity loss has been reinforced by developments in high-throughput DNA sequencing (HTS) technologies, which are increasingly being utilized as tools for wildlife conservation [3]. However, researchers and science educators in remote areas can find it difficult to access HTS, often due to a combination of high costs, bulky equipment, and lack of infrastructure, resulting in a high level of dependency on foreign service providers [4,5].\n\nRecent technological innovations, such as portable, low-cost instruments enabling next-generation sequencing in remote environments, are transforming this landscape [6]. A critical advancement is the development of Oxford Nanopore Technologies’ (ONT’s) MinION sequencing platform, which has many advantages compared to other HTS devices. First, the sequencer and 2 flow cells start at an initial cost of US$1,000 and allow for multiplexing of samples within flowcells (generating a maximum output of approximately 10–20 Gigabases [Gb]), further reducing per sample costs. Today, a cheaper flowcell (the Flongle) with a reported output of approximately 1–2 Gb is available, which can be ideal for smaller educational DNA barcoding or metabarcoding projects. Second, the approximately 90-g MinION is powered through a laptop’s USB port, making it both energy efficient and portable. However, its greatest advantage to conservationists is the possibility of conducting in situ sequencing. It has been deployed successfully in a range of field conditions, including real-time sequencing of endangered wildlife in the forests of Ecuador [7], Madagascar [8], and Tanzania [9]. Supporting devices have also become low-cost, portable, and rugged. PCR machines (e.g., MiniPCR, MiniOne; range US$650–US$900) that can be controlled by smartphones and run from simple battery packs, have been field-tested [7]. Small desktop centrifuges, with either a fixed or variable speed, are available from multiple vendors (cost US$150–US$350), but it is even possible to 3D print a manually powered do-it-yourself centrifuge (e.g., the paperfuge [10]). All costs listed were sourced at the time of publication. Thus, the MinION and associated portable equipment can help to minimize sample storage times, sample transport, and associated costs and eliminate the need to export biological specimens across country borders. It must be noted that permits to access and use genetic resources from biological specimens might still be required, as per the Nagoya Protocol of the Convention on Biological Diversity and local and national regulations.\n\nPortable technologies have also been utilized as effective and affordable teaching tools, but publications recapping lesson plans have mostly been from classroom or laboratory settings [11,12]. Here, we outline a blueprint for a conservation genetics field training program based on previous experience conducting molecular biodiversity research in remote areas and 2 field training programs conducted at a field laboratory in the Peruvian Amazon rainforest (2018–2019) (Fig 1). By publishing the program plan and outcomes, we invite a discussion on the practicality, as well as the costs and benefits, of providing training in applied field genomics at remote sites or in countries with limited access to sequencing facilities to participants of varying backgrounds.\n\nWhy implement in situ training programs?\n\nShort field programs, in which participants travel to natural environments to train, can guide career paths, provide local capacity building, and highlight important environmental problems [14–17]. Bringing the science to the sample, effectively turning the paradigm on its head, also welcomes local scientists and educators who perform invaluable environmental monitoring without contemporary methodologies or large research funding. Critically, these programs can attract a wide range of national and international participants from academic, commercial, or private backgrounds.\n\nOur Peruvian training programs were attended by an international audience from 7 countries, with 72% of attendees split equally between Peru and the United States. We did not screen participants based on background or nationality, requiring only that they be over 18 years of age. For every 4 paying participants, we offered a scholarship to one person, first targeting participants from the host country and then more broadly through the Americas. Of the 25 participants, the majority (60%) were professionals in their fields, while the rest were active students (Fig 2). Forty percent identified as female, and the rest identified as male. Conservation scientists, professors of biology, bioinformaticians, and restoration specialists have attended these programs. Sixteen percent of attendees had advanced degrees (PhD or Master’s), while the bulk (40%) had a licenciatura, a Peruvian Bachelor’s degree with honors including the completion of an intensive research project postgraduation. Over 60% had some field or laboratory research experience, only approximately 20% had ever run a PCR or gel before, and even fewer had ever sequenced DNA. This diversity in education, experience, occupation, and country of origin allowed us to tailor the program to a wide variety of individuals, from novices to professionals in the field of genetics.\n\nFrom an instructional perspective, we think that participant diversity is a strong asset to the training program as a whole; indeed, we received only positive feedback from participants with advanced laboratory or bioinformatic experience. All participants gave feedback at the end of their final quiz. A postcourse questionnaire, asking their opinion on how much of a challenge course activities posed, how involved and knowledgeable course instructors were, overall satisfaction, impact on future goals, and whether they would recommend the course to others, was also answered by 10 of the 15 participants in the first program (see S1 Appendix for the anonymized questionnaire and detailed responses). Highly positive feedback was received on project-based learning with real data, use of portable sequencing, the balance between field excursions and laboratory work, the acquisition of new skills, and learning about applications of these skills to conservation genetics test cases. Participants mentioned areas for improvement, including an overwhelming new genetics vocabulary, laboratory work being more intensive than expected, laboratory overcrowding being a stressful factor, and wanting more time to devote to bioinformatics. Based on that, we were able to improve the sharing of samples and laboratory equipment, reduce bench time with fewer case studies, send information on software and basic coding in advance, and reserve 3 days solely for bioinformatics practice in the second course. Since new terminology appeared to be a challenge, we recommend providing a glossary of terms before program inception. To in-country and foreign participants alike, the impact of learning conservation genomics was amplified by being in a habitat of high conservation concern. Using samples from regional wildlife to answer scientific questions of value to local conservationists also makes these field programs meaningful and can result in discoveries publishable by program participants. Participant networks can also produce new research collaborations between individuals and organizations that would not normally form.\n\nWhere formalized options for habitat–country research scientists have been lacking, we can now implement hands-on training in real-time DNA sequencing techniques for genomics-based biomonitoring, simultaneously generating a widespread network of laboratory-trained conservation scientists within regions of high biodiversity.\n\nWhere can field genomics programs be implemented?\n\nA formal laboratory space is not a prerequisite for these programs so long as certain basic requirements are fulfilled, including access to the following: (a) reliable power, (b) sufficient bench space, and (c) cold storage. Commodities like an oven/autoclave for equipment sterilization can further reduce long-term costs; alternatively, presterilized materials can be purchased (see S2 Appendix for equipment recommendations). Our programs were implemented in a more formalized laboratory space; in 2018, a still-ongoing collaborative effort between a Peruvian ecotourism company (Inkaterra Hotels) and conservation research organization based in the US (Field Projects International [FPI]) resulted in the installation of the Amazon rainforest's first dedicated field molecular laboratory, called the “Green Lab.” Located an hour's boat ride from the nearest town of Puerto Maldonado in Peru (12° 31′ S, 69° 2' W), the laboratory itself is housed in a two-room wooden cabin with a thatched roof, relatively open to the elements. We found that the close proximity to a larger city helped tremendously with logistics while, at the same time, the location was remote enough to provide the participants with a true rainforest experience. Energy requirements were met by a combination of solar panels and a generator-based power supply, with the intention of switching entirely to solar energy in the near future (see [18] for a list of laboratory capabilities). Although we focus on terrestrial systems, most of the setups and methods can easily be adjusted to studying marine or aquatic biodiversity.\n\nAmenities such as the internet, even if a low-bandwidth service, while not strictly necessary, do simplify instruction and, for example, could be used for troubleshooting tool installations for bioinformatics practicals that arose due to the range of operating systems on participant laptops. To reduce dependency on internet access, we recommend downloading databases for applications like DNA barcoding (see Table 1), such as the Barcode of Life Data System (BOLD) or the National Center for Biotechnology Information (NCBI)’s nt database, on local hard drives prior to the program. Furthermore, setting up virtual Linux environments on USB drives can help to overcome issues with installations of bioinformatic tools.\n\nSuggested training program outline\n\nWe have put together an example program syllabus that can easily be adapted to suit individual course needs (S3 Appendix). We recommend that programs begin with immersion in the local habitat, including excursions and lectures emphasizing local biodiversity and threats. Appreciation for one’s surroundings highlights the uniqueness of the learning opportunity. Next, we suggest reviewing the fundamentals of genetics, including laboratory skills like pipetting or loading gels, and bioinformatics basics. Often, the bioinformatics approach helps participants understand the choice of molecular methods. As the program progresses, we found it helpful to set aside unstructured times that participants could use to digest material or gain one-on-one time with an instructor; the instructor:student ratios were approximately 1:4. We suggest preparing backups for each step in advance to ensure that mistakes and equipment failures during the program do not hinder workflow completion. Sequencing should preferentially occur at least 3 days before program termination for sufficient time to teach bioinformatic analyses and interpret program data. Experimental case studies can either be conducted in small groups (allowing for more case studies and hands-on experience) or large groups (fewer case studies but a more homogenous experience). We conducted training programs with both approaches. However, a suitable model depends on the desired program outcomes and factors such as group size, sample numbers, and prior participant laboratory experience. We chose a 2-week program length based on instructor and participant availability as well as field accommodation costs. We found shorter durations were more conducive to diverse audience participation (e.g., professionals without university breaks) and to lower program fees.\n\nOverall, we designed the program activities to include 15% field work, 20% lectures, 15% bioinformatics, and 50% laboratory work on independent case studies. Participants utilized a mixture of hand-written laboratory notebooks and software programs to keep notes and took 2 quizzes to help instructors evaluate progress and understanding. Evening lectures and daytime laboratory activities were effective for us but should be modified to suit the needs of individual programs.\n\nExamples of case studies\n\nA variety of sequencing-based experiments exist for conservation education; common methods are summarized in Table 1 with detailed protocols available in S4 Appendix. In our programs, we implemented up to 4 sequencing experiments per program, designed to tackle different conservation genomics challenges and to demonstrate the viability of conducting such analyses in the field. While providing a good overview of techniques in biodiversity research and conservation, fewer case studies allows for deeper immersion into a topic. The most successful projects we found were also those with guaranteed outputs and relatively straightforward bioinformatics pipelines. The most popular of these is DNA barcoding, involving multiplexed amplicon sequencing. It is preferable as a teaching example over others due to its simplicity, well-established protocols, and utility (see Table 1). Participants begin with DNA extraction from various locally collected tissue samples. Simple PCRs for common markers such as Cytochrome c oxidase subunit I (animals) or matk (plants) can be evaluated via agarose gel electrophoresis. Detectable amplicons are then PCR barcoded using custom or kit-based barcodes (e.g., ONT’s 12-barcode kit or [13]), purified using bead cleanups, and quantified on a device such as a Quantus fluorometer (Promega). After normalization, samples are pooled into one or more libraries and end-prepped and dA-tailed (New England BioLabs) prior to sequencing. Sequencing itself can proceed quickly and can be terminated within a few hours, since 10× to 100× coverage has been shown to provide adequate data for building consensus sequences [19]. In some cases, flowcells can be washed and reused within a few days with different barcodes to prevent cross-run sequence contamination. The development of many bioinformatic pipelines in recent years adds to the utility of DNA barcoding as a case study (see [6] for a review). Off-the-shelf software such as Geneious, UGene, or CLCGenomics are Graphical User Interface (GUI)-based but often pricier alternatives.\n\nOther case studies include 16S metabarcoding of intestinal microbiota to assess gut health and diet or environmental DNA (eDNA) samples such as water and soil. Given the higher error rate of the MinION sequencer, scientific conclusions drawn from the data have to be treated carefully [6,20]. Nevertheless, we feel that these are valuable options for teaching. We also tested more complex protocols such as double-digest restriction site–associated DNA sequencing (ddRAD) using MinION sequencing, but we do not recommend these for first-time biologists taking a more introductory-level genomics training. In addition to more ingredients requiring constant cooling or freezing, and increased program costs, the protocol was difficult to implement and required more sequencing power to produce effective results than was feasible during a short training program. All tested protocols are available for use in a collection on protocols.io: dx.doi.org/10.17504/protocols.io.9dnh25e.\n\nConclusion\n\nPortable sequencing technology can help democratize scientific research and conservation efforts. A necessary step to implementing a new conservation tool is training local science educators and conservationists in areas in which research funding and infrastructure are lacking. Here, we have outlined protocols and lessons learned from running a conservation genetics field training program that utilizes low-cost, portable devices to conduct genomics-based training directly in a biodiverse tropical rainforest. We hope that this serves as a resource for others to establish in situ genomics as a teaching tool in both terrestrial and marine conservation and biodiversity research.\n\nSupporting information"
+}

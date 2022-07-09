@@ -1,0 +1,52 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001794",
+  "doi": "10.1371/journal.pbio.1001794",
+  "externalIds": [
+    "pii:PBIOLOGY-D-14-00060",
+    "pmid:24558352",
+    "pmcid:PMC3928048"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Salmonella enterica Serovar Typhimurium Slows Down to Dodge Antibiotics",
+  "authors": [
+    {
+      "name": "Caitlin Sedwick",
+      "first": "Caitlin",
+      "last": "Sedwick",
+      "affiliation": "Freelance Science Writer, San Diego, California, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2014-02",
+  "volume": "12",
+  "number": "2",
+  "pages": "e1001794",
+  "tags": [
+    "Bacterial pathogens",
+    "Discipline-v2/Bacterial pathogens",
+    "Discipline-v2/Biology",
+    "Discipline-v2/Immune cells",
+    "Discipline-v2/Immune defense",
+    "Discipline-v2/Immunity",
+    "Discipline-v2/Immunology",
+    "Discipline-v2/Innate immunity",
+    "Discipline-v2/Microbiology",
+    "Discipline-v2/Salmonella",
+    "Immune cells",
+    "Immune defense",
+    "Immunity",
+    "Immunology",
+    "Innate immunity",
+    "Microbiology",
+    "Salmonella",
+    "Type/Synopsis"
+  ],
+  "fullText": "Today, widespread antibiotic resistance means bacterial infections pose a serious threat to human health. Of course, not all infections are lethal; for example, many people infected by the pathogenic Salmonella enterica serovar Typhimurium (S. Tm.) experience only a bout of diarrhea. However, some people develop “complicated” S. Tm. infections, in which the bacteria spread systemically and provoke life-threatening disease. These infections are aggressively treated with potent antibiotics such as the fluoroquinolone ciprofloxacin, but sometimes even a full course of ciprofloxacin treatment (5–7 days' duration) fails to fully eradicate the bacteria from the body. Therefore, upon cessation of antibiotic treatment, patients experience relapses of the infection. It's unknown how or why this occurs, so Patrick Kaiser, Roland Regoes, Wolf-Dietrich Hardt, and colleagues studied the mechanisms of complicated S. Tm. relapses in their paper published this month in PLOS Biology.\n\nTo explore S. Tm.'s response to antibiotic treatment, Kaiser and colleagues studied the course of infection in C57BL/6 mice. These mice develop diarrhea and systemic infections resembling complicated S. Tm. cases in humans. And, just as in humans, the animals' symptoms improve with ciprofloxacin treatment, but relapse upon withdrawal of the antibiotic.\n\nThe authors' experiments showed that high doses of ciprofloxacin treatment quickly (within three hours) eradicated bacteria from the animals' gut lumen. The antibiotic also quickly reduced bacterial levels within a pouchlike region of the gut called the cecum, and within the lymph node associated with that tissue (the cecum draining lymph node, or cLN). But within two hours of treatment initiation, the rate of bacterial killing in cecal tissue and the cLN was observed to drop precipitously. As a result, viable S. Tm. cells were still present after ten days of treatment, with the highest bacterial concentrations in the cLN, but with bacteria also detectable in other tissues including the cecum and the spleen.\n\nKaiser et al. theorized that these bacteria could be responsible for disease relapse. In support of this idea, they found that S. Tm. bacteria isolated from the cLN of ciprofloxacin-treated mice were still virulent and could establish infections when transferred into new mice. Further experiments showed that, following ciprofloxacin treatment, viable bacteria were found specifically inside “classical” dendritic cells, but not in another cLN cell type, the interstitial dendritic cells. As S. Tm. numbers in ciprofloxacin-treated cLN also changed in concert with the size of the classical dendritic cell population, the authors hypothesized that bacteria living inside dendritic cells form a reservoir that can reinstate infection upon withdrawal of the antibiotic. But how do these bacteria survive antibiotic treatment long enough to cause relapse?\n\nPrior studies had shown that ciprofloxacin quickly kills S. Tm. cells in culture, and also that it easily accesses and penetrates body tissues. In fact, the authors' own control experiments confirmed that ciprofloxacin was able to reach the cLN and penetrate the cells within it, showing that the bacteria were not simply evading exposure to the antibiotic. This led Kaiser and colleagues to investigate the possibility that S. Tm. had instead become resistant to ciprofloxacin. Such resistance could arise from genetic changes that confer permanent partial or full resistance to the antibiotic, but S. Tm. cells isolated from ciprofloxacin-treated animals remained fully susceptible to ciprofloxacin when removed from the animal and grown in culture. Therefore, the researchers suspected that the bacteria's antibiotic resistance was not due to genetic changes, but was instead attributable to a phenotypic adaptation.\n\nThe literature indicated that many bacterial species can become tolerant to antibiotics by switching to slow rates of growth. To find out whether S. Tm. also acquires tolerance through slow growth rates, Kaiser et al. constructed a population dynamics–based simulation for cLN bacterial growth and compared its predictions to data from actual infections. This approach, and subsequent experiments tracking plasmid retention in S. Tm., demonstrated the existence of a slow-growing subpopulation of S. Tm. cells in the cLN. Ultimately, the authors concluded that such slow-growing cells, living within classical dendritic cells, are responsible for relapses in complicated S. Tm. infections.\n\nThere is irony in this situation because classical dendritic cells play a critical role in fighting bacterial infection. They seek out, phagocytose, and digest microbial invaders within peripheral tissues, then bring bacterial fragments to nearby lymph nodes for display to other immune cells. Yet S. Tm. somehow avoids digestion and—whether because of a change induced by phagocytosis or simply because of inherent variations within the bacterial population—a few of the bacteria slow their growth enough to resist the effects of antibiotic treatment. This led Kaiser and colleagues to investigate whether compounds that enhance immune activity could also improve bacterial clearance by ciprofloxacin. Indeed, they found that immune activators such as lipopolysaccharide and CpG dinucleotides reduced bacterial loads in the cLN of ciprofloxacin-treated mice. Altogether, these data explain how S. Tm. gains tolerance to ciprofloxacin, and point to possible improvements for treatment of complicated S. Tm. infections.\n\nKaiser P, Regoes RR, Dolowschiak T, Wotzka SY, Lengefeld J, et al. (2014) Cecum Lymph Node Dendritic Cells Harbor Slow-Growing Bacteria Phenotypically Tolerant to Antibiotic Treatment. doi:10.1371/journal.pbio.1001793"
+}

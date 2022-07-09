@@ -1,0 +1,355 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000099",
+  "doi": "10.1371/journal.pbio.3000099",
+  "externalIds": [
+    "pii:PBIOLOGY-D-18-01024",
+    "pmid:30596645",
+    "pmcid:PMC6338479"
+  ],
+  "license": "This is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Enabling precision medicine via standard communication of HTS provenance, analysis, and results",
+  "authors": [
+    {
+      "name": "Gil Alterovitz",
+      "first": "Gil",
+      "last": "Alterovitz",
+      "affiliation": "Harvard/MIT Division of Health Sciences and Technology, Harvard Medical School, Boston, Massachusetts, United States of America; Computational Health Informatics Program, Boston Children’s Hospital, Boston, Massachusetts, United States of America; Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Dennis Dean",
+      "first": "Dennis",
+      "last": "Dean",
+      "affiliation": "Seven Bridges, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Carole Goble",
+      "first": "Carole",
+      "last": "Goble",
+      "affiliation": "School of Computer Science, The University of Manchester, Manchester, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1219-2137"
+      ]
+    },
+    {
+      "name": "Michael R. Crusoe",
+      "first": "Michael R.",
+      "last": "Crusoe",
+      "affiliation": "Common Workflow Language Project, Vilnius, Lithuania",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-2961-9670"
+      ]
+    },
+    {
+      "name": "Stian Soiland-Reyes",
+      "first": "Stian",
+      "last": "Soiland-Reyes",
+      "affiliation": "School of Computer Science, The University of Manchester, Manchester, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-9842-9718"
+      ]
+    },
+    {
+      "name": "Amanda Bell",
+      "first": "Amanda",
+      "last": "Bell",
+      "affiliation": "The Department of Biochemistry & Molecular Medicine, The George Washington University Medical Center, Washington, DC, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9920-565X"
+      ]
+    },
+    {
+      "name": "Anais Hayes",
+      "first": "Anais",
+      "last": "Hayes",
+      "affiliation": "The Department of Biochemistry & Molecular Medicine, The George Washington University Medical Center, Washington, DC, United States of America"
+    },
+    {
+      "name": "Anita Suresh",
+      "first": "Anita",
+      "last": "Suresh",
+      "affiliation": "Foundation for Innovative New Diagnostics (FIND), Geneva, Switzerland"
+    },
+    {
+      "name": "Anjan Purkayastha",
+      "first": "Anjan",
+      "last": "Purkayastha",
+      "affiliation": "The Department of Biochemistry & Molecular Medicine, The George Washington University Medical Center, Washington, DC, United States of America; OpenBox Bio, Vienna, Virgnia, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-5875-5719"
+      ]
+    },
+    {
+      "name": "Charles H. King",
+      "first": "Charles H.",
+      "last": "King",
+      "affiliation": "The Department of Biochemistry & Molecular Medicine, The George Washington University Medical Center, Washington, DC, United States of America; The McCormick Genomic and Proteomic Center, The George Washington University, Washington, DC, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1409-4549"
+      ]
+    },
+    {
+      "name": "Dan Taylor",
+      "first": "Dan",
+      "last": "Taylor",
+      "affiliation": "Internet 2, Washington, DC, United States of America"
+    },
+    {
+      "name": "Elaine Johanson",
+      "first": "Elaine",
+      "last": "Johanson",
+      "affiliation": "US Food and Drug Administration, Silver Spring, Maryland, United States of America"
+    },
+    {
+      "name": "Elaine E. Thompson",
+      "first": "Elaine E.",
+      "last": "Thompson",
+      "affiliation": "US Food and Drug Administration, Silver Spring, Maryland, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-8633-2417"
+      ]
+    },
+    {
+      "name": "Eric Donaldson",
+      "first": "Eric",
+      "last": "Donaldson",
+      "affiliation": "US Food and Drug Administration, Silver Spring, Maryland, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6119-5014"
+      ]
+    },
+    {
+      "name": "Hiroki Morizono",
+      "first": "Hiroki",
+      "last": "Morizono",
+      "affiliation": "Center for Genetic Medicine, Children's National Medical Center, Washington, DC, United States of America; The Department of Genomics and Precision Medicine, The George Washington University, School of Medicine and Health Sciences, Washington, DC, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9678-5564"
+      ]
+    },
+    {
+      "name": "Hsinyi Tsang",
+      "first": "Hsinyi",
+      "last": "Tsang",
+      "affiliation": "Center for Biomedical Informatics and Information Technology, National Cancer Institute, National Institutes of Health, Gaithersburg, Maryland, United States of America; Attain, McClean, Virginia, United States of America"
+    },
+    {
+      "name": "Jeet K. Vora",
+      "first": "Jeet K.",
+      "last": "Vora",
+      "affiliation": "The Department of Biochemistry & Molecular Medicine, The George Washington University Medical Center, Washington, DC, United States of America"
+    },
+    {
+      "name": "Jeremy Goecks",
+      "first": "Jeremy",
+      "last": "Goecks",
+      "affiliation": "Computational Biology Program, Oregon Health & Science University, Portland Oregon, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4583-5226"
+      ]
+    },
+    {
+      "name": "Jianchao Yao",
+      "first": "Jianchao",
+      "last": "Yao",
+      "affiliation": "MRL IT, Merck & Co., Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Jonas S. Almeida",
+      "first": "Jonas S.",
+      "last": "Almeida",
+      "affiliation": "Stony Brook University, School of Medicine and College of Engineering and Applied Sciences, Stony Brook, New York, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-7883-7922"
+      ]
+    },
+    {
+      "name": "Jonathon Keeney",
+      "first": "Jonathon",
+      "last": "Keeney",
+      "affiliation": "The Department of Biochemistry & Molecular Medicine, The George Washington University Medical Center, Washington, DC, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-7665-6204"
+      ]
+    },
+    {
+      "name": "KanakaDurga Addepalli",
+      "first": "KanakaDurga",
+      "last": "Addepalli",
+      "affiliation": "Attain, McClean, Virginia, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8164-462X"
+      ]
+    },
+    {
+      "name": "Konstantinos Krampis",
+      "first": "Konstantinos",
+      "last": "Krampis",
+      "affiliation": "Department of Biological Sciences, Hunter College of The City University of New York, New York, New York, United States of America; Institute for Computational Biomedicine, Weill Cornell Medical College, New York, New York, United States of America"
+    },
+    {
+      "name": "Krista M. Smith",
+      "first": "Krista M.",
+      "last": "Smith",
+      "affiliation": "The McCormick Genomic and Proteomic Center, The George Washington University, Washington, DC, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-8084-9570"
+      ]
+    },
+    {
+      "name": "Lydia Guo",
+      "first": "Lydia",
+      "last": "Guo",
+      "affiliation": "Wellesley College, Wellesley, Massachusetts, United States of America"
+    },
+    {
+      "name": "Mark Walderhaug",
+      "first": "Mark",
+      "last": "Walderhaug",
+      "affiliation": "The McCormick Genomic and Proteomic Center, The George Washington University, Washington, DC, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-2039-2040"
+      ]
+    },
+    {
+      "name": "Marco Schito",
+      "first": "Marco",
+      "last": "Schito",
+      "affiliation": "Critical Path Institute, Tucson, Arizona, United States of America"
+    },
+    {
+      "name": "Matthew Ezewudo",
+      "first": "Matthew",
+      "last": "Ezewudo",
+      "affiliation": "Critical Path Institute, Tucson, Arizona, United States of America"
+    },
+    {
+      "name": "Nuria Guimera",
+      "first": "Nuria",
+      "last": "Guimera",
+      "affiliation": "DDL Diagnostic Laboratory, Rijswijk, Netherlands",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4481-4386"
+      ]
+    },
+    {
+      "name": "Paul Walsh",
+      "first": "Paul",
+      "last": "Walsh",
+      "affiliation": "NSilico Life Science, Nova Center, Belfield Innovation Park, University College Dublin, Dublin Ireland",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4988-6901"
+      ]
+    },
+    {
+      "name": "Robel Kahsay",
+      "first": "Robel",
+      "last": "Kahsay",
+      "affiliation": "The Department of Biochemistry & Molecular Medicine, The George Washington University Medical Center, Washington, DC, United States of America"
+    },
+    {
+      "name": "Srikanth Gottipati",
+      "first": "Srikanth",
+      "last": "Gottipati",
+      "affiliation": "OTSUKA Pharmaceutical Development & Commercialization, Princeton, New Jersey, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-2887-6464"
+      ]
+    },
+    {
+      "name": "Timothy C. Rodwell",
+      "first": "Timothy C.",
+      "last": "Rodwell",
+      "affiliation": "Foundation for Innovative New Diagnostics (FIND), Geneva, Switzerland"
+    },
+    {
+      "name": "Toby Bloom",
+      "first": "Toby",
+      "last": "Bloom",
+      "affiliation": "New York Genome Center, New York, New York, United States of America"
+    },
+    {
+      "name": "Yuching Lai",
+      "first": "Yuching",
+      "last": "Lai",
+      "affiliation": "DDL Diagnostic Laboratory, Rijswijk, Netherlands"
+    },
+    {
+      "name": "Vahan Simonyan",
+      "first": "Vahan",
+      "last": "Simonyan",
+      "affiliation": "The McCormick Genomic and Proteomic Center, The George Washington University, Washington, DC, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4868-4785"
+      ]
+    },
+    {
+      "name": "Raja Mazumder",
+      "first": "Raja",
+      "last": "Mazumder",
+      "affiliation": "The Department of Biochemistry & Molecular Medicine, The George Washington University Medical Center, Washington, DC, United States of America; The McCormick Genomic and Proteomic Center, The George Washington University, Washington, DC, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-8823-9945"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2018-12-31",
+  "volume": "16",
+  "number": "12",
+  "pages": "e3000099",
+  "tags": [
+    "Bioinformatics",
+    "Biological databases",
+    "Careers in research",
+    "Clinical genetics",
+    "Computational biology",
+    "Database and informatics methods",
+    "Discipline-v3/Bioinformatics",
+    "Discipline-v3/Biological databases",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Careers in research",
+    "Discipline-v3/Clinical genetics",
+    "Discipline-v3/Computational biology",
+    "Discipline-v3/Database and informatics methods",
+    "Discipline-v3/Genetics",
+    "Discipline-v3/Genome analysis",
+    "Discipline-v3/Genomic databases",
+    "Discipline-v3/Genomic medicine",
+    "Discipline-v3/Genomics",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/People and places",
+    "Discipline-v3/Personalized medicine",
+    "Discipline-v3/Population groupings",
+    "Discipline-v3/Precision medicine",
+    "Discipline-v3/Professions",
+    "Discipline-v3/Reproducibility",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Research assessment",
+    "Discipline-v3/Science and technology workforce",
+    "Discipline-v3/Science policy",
+    "Discipline-v3/Scientists",
+    "Genetics",
+    "Genome analysis",
+    "Genomic databases",
+    "Genomic medicine",
+    "Genomics",
+    "Personalized medicine",
+    "Population groupings",
+    "Precision medicine",
+    "Professions",
+    "Reproducibility",
+    "Research assessment",
+    "Science and technology workforce",
+    "Scientists",
+    "Type/Community Page"
+  ],
+  "abstract": "A personalized approach based on a patient's or pathogen’s unique genomic sequence is the foundation of precision medicine. Genomic findings must be robust and reproducible, and experimental data capture should adhere to findable, accessible, interoperable, and reusable (FAIR) guiding principles. Moreover, effective precision medicine requires standardized reporting that extends beyond wet-lab procedures to computational methods. The BioCompute framework (https://w3id.org/biocompute/1.3.0) enables standardized reporting of genomic sequence data provenance, including provenance domain, usability domain, execution domain, verification kit, and error domain. This framework facilitates communication and promotes interoperability. Bioinformatics computation instances that employ the BioCompute framework are easily relayed, repeated if needed, and compared by scientists, regulators, test developers, and clinicians. Easing the burden of performing the aforementioned tasks greatly extends the range of practical application. Large clinical trials, precision medicine, and regulatory submissions require a set of agreed upon standards that ensures efficient communication and documentation of genomic analyses. The BioCompute paradigm and the resulting BioCompute Objects (BCOs) offer that standard and are freely accessible as a GitHub organization (https://github.com/biocompute-objects) following the “Open-Stand.org principles for collaborative open standards development.” With high-throughput sequencing (HTS) studies communicated using a BCO, regulatory agencies (e.g., Food and Drug Administration [FDA]), diagnostic test developers, researchers, and clinicians can expand collaboration to drive innovation in precision medicine, potentially decreasing the time and cost associated with next-generation sequencing workflow exchange, reporting, and regulatory reviews.",
+  "fullText": "Introduction\n\nPrecision medicine requires the seamless production and consumption of genomic information. The National Center for Biotechnology Information’s (NCBI) Database of Genotypes and Phenotypes (dbGaP) [1] and ClinVar [2] illustrate the benefits of genomic data sharing structures such as genome-wide association studies (GWAS). Linkage Disequilibrium Hub (LD Hub), a centralized database of GWAS results for diseases and/or traits [3], is another example of success. Although the importance of data sharing is established, recording, reporting, and sharing of analysis protocols are often overlooked. Standardized genomic data generation empowers clinicians, researchers, and regulatory agencies to evaluate the reliability of biomarkers generated from complex analyses. Trustworthy results are increasingly critical as genomics play a larger role in clinical practice. In addition, fragmented approaches to reporting impede the advancement of genomic data analysis techniques.\n\nThe price of high-throughput sequencing (HTS) decreased from US$20 per base in 1990 to less than US$0.01 per base in 2011 [4]. Lower costs and greater accessibility resulted in a proliferation of data and corresponding analyses that in turn advanced the field of bioinformatics. Novel drug development and precision medicine research stand to benefit from innovative, reliable, and accurate -omics-based (i.e., genomics, transcriptomics, proteomics) investigation [5]. However, the availability of HTS has outpaced existing practices for reporting on the protocols used in data analysis.\n\nFast Healthcare Interoperability Resources (FHIR) [6,7] and the Global Alliance for Genomics and Health (GA4GH) [8] capture and communicate genomic information within specific community domains. The Common Workflow Language (CWL) [9] and research objects (ROs) [10] capture repeatable and reproducible workflows in a domain agnostic manner. The BioCompute framework (https://w3id.org/biocompute/1.3.0) combines these standards via a BioCompute Object (BCO) [11] to report the provenance of genomic sequencing data in the context of regulatory review and research. A BCO is designed to satisfy findable, accessible, interoperable, and reusable (FAIR) data principles [12], ensuring that data and pipelines are available for evaluation, validation, and verification [11,13,14]. The BCO also meets the National Institutes of Health (NIH) strategic plan for data science [15], which states that the quality of clinical data should be maintained at all stages of the research cycle, from generation through the entire analysis process. These characteristics ensure that the BioCompute framework is applicable in any context in which scientists are required to report on data provenance, including large clinical trials or the development of a knowledge base. In the following text, we describe how the BioCompute framework (see Fig 1) leverages and harmonizes FHIR, GA4GH, CWL, and RO to create a unified standard for the collection and reporting of genomic data.\n\nBackground\n\nAt a recent Academy of Medical Sciences symposium on preclinical biomedical research, participants identified several measures for improving reproducibility. These include greater openness and transparency, defined reporting guidelines, and better utilization of standards and quality control measures [16]. Compromised reproducibility dissipates resources and hinders progress in the life sciences, as highlighted by several other publications [17,18].\n\nResearchers utilize two types of reproducibility—method reproducibility and result reproducibility [19]. The first type, also called repeatability, is defined by providing detailed experimental methods so others can repeat the procedure exactly. The second type, also called replicability, is defined by achieving the same results as the original experiment by closely adhering to the methods. Method reproducibility depends on a comprehensive description of research procedures. CWL achieves this aim for computational methods by encouraging scientists to adhere to a common language. This facilitates better methods for identification of errors and locating deviances. ROs for workflows are built on this concept by using metadata manifests that describe the experimental context, including packaging of the method, provenance logs, and the associated codes and data [20].\n\nUniversally reproducible data is an aspirational goal, but challenges remain. Without widely adopted repeatability and analytical standards for Next-Generation Sequencing (NGS)/HTS studies, regulatory agencies, researchers, and industry cannot effectively collaborate to validate results and drive the emergence of new fields [21]. Irreproducible results can cause major delays and be a substantial expenditure for applicants submitting work for regulatory review and may even be viewed as not trustworthy by third-party verification groups or regulatory agencies. A large number of workflow management systems and bioinformatics platforms have been developed to overcome this barrier, each with their own unique method to record computational workflows, pipelines, versions, and parameters, but these efforts remain disorganized and require harmonization to be fully effective. BioCompute enables clear communication of “what was done” and “why it was done” by tracking provenance and documenting processes in a standard format irrespective of the platform or the programming language or even the tool used.\n\nProvenance of data\n\nIn order to be reproducible, the origin and history of research data must be maintained. Provenance refers to a datum’s history starting from the original source, namely, its lineage. A lineage graph can show the source of a datum in a database, data movement between databases or computational processes, or data generated from a computational process. Complementary to data lineage is a process audit. This is a historical trail that provides snapshots of intermediary states, values for configurations and parameters, and traceability of stepwise analytical processing [22]. Such audit trails enable an independent reviewer to effectively evaluate a computational investigation. Both types of records gather critical provenance information to ensure accuracy and validity of experimental results which can be presented as is or collected into databases. Modern computational workflows produce large amounts of fine-grained but useless trace records, whereas modern web developments facilitate easy data transformation and copying. Combing and organizing the large volume of resulting material is a daunting challenge. In the molecular biology field alone, there are hundreds of public databases that curate, filter and annotate data to make them more useful. Only a handful of these retain the “source” data; the remainder consist of secondary views of the source data or views of other publications’ views [23]. Databases are challenged to accurately collect lineage and process records while also maintaining granularity and “black-box” steps [24,25].\n\nProvenance tracing issues have far-reaching effects on scientific work. Advancement depends on confidence in each of the following—accuracy and validity of the data, process used, and knowledge generated by research. Establishing trust is especially difficult when reporting a complex, multistep process involving aggregation, modeling, and analysis [26]. Computational investigations require collaboration with adjacent and disparate fields to effectively analyze a large volume of information. Effective collaboration requires a solution beyond open data to establish open science. Provenance must be preserved and reported to promote transparency and reproducibility in complex analyses [27]. Standards must be established to reliably communicate genomic data between databases and individual scientists.\n\nAn active community has engaged in provenance standardization to achieve these aims [28], culminating in the World Wide Web Consortium (W3C) provenance specification (PROV) [29]. PROV Ontology (PROV-O) is used by FHIR and ROs and is based on the concept of generating an entity target via an agent’s activity (see Fig 2). Workflow management systems capture analytic processes, while bioinformatic platforms capture analysis details. In combination, they provide a record of data provenance. Few, if any, systems and platforms offer a consistent method to accurately capture all facets of the various roles assumed by an agent who manipulates digital artifacts. BCO encourages adoption of standards such as PROV-O (https://www.w3.org/TR/prov-o/) and Open Researcher and Contributor ID (ORCID; https://orcid.org/) by defining how to recreate a complete history of what was computed, how it was computed, by whom it was computed, and why it was computed. Also known as the provenance domain, this section of BCOs incorporate the Provenance, Authoring and Versioning ontology (PAV, namespace http://purl.org/pav/) to capture “just enough” information to track how data are authored, curated, retrieved, and processed among many specific designations of an “agent.”\n\nKey considerations for communication of provenance, analysis, and results\n\nWorkflow management systems\n\nScientific workflows have emerged as a model for representing and managing complex scientific computations [26]. Each step in a workflow specifies a process or computation to be executed, linked with other steps by the data flow and dependencies. In addition, workflows describe the mechanisms to carry out the steps in a distributed computing environment [26,30]. Documentation of both analytic processes and provenance information is essential for useful reporting [31].\n\nWorkflow management systems coordinate the sequential components in an analysis pipeline [30]. They also enable researchers to generate pipelines that can be executed locally on institutional servers and remotely on the cloud [32]. Cloud infrastructure, high-performance computing (HPC) systems, and Big Data cluster-computation frameworks enhance data reproducibility and portability (see S1 Text). Workflow-centric ROs with executable components are an extension of these management systems [5,20]. Extensive reviews of workflow systems currently in use for bioinformatics have already been published [32–35], and we are not recommending any one over the others. Currently, workflow management systems capture provenance information but rarely in the PROV standard (https://www.w3.org/TR/prov-overview/). Therefore, BCOs rely on existing standards that are themselves based on PROV standards, like CWL to manage pipeline details, and ROs and FHIR to unify and enhance interoperability.\n\nBioinformatics platforms\n\nHTS technology is increasingly relevant in the clinical setting, with a growing need to store, access, and compute more sequencing reads and other biomedical data [36]. The increase in computational requirements has directed the scientists in this space to a call for standard usage methods on integrated computing infrastructure, including storage and computational nodes. This kind of standardization will minimize transfer costs and remove the bottlenecks found in both downstream analyses and community communication of computational analysis results [37]. For bioinformatics platforms, communication requirements include (a) recording all analysis details such as parameters and input data sets and (b) sharing analysis details so that others can understand and reproduce analyses.\n\nHTC environments deliver large amounts of processing capacity over long periods of time. These are ideal environments for long-term computation projects, such as those performed for genomic research [38]. Most HTC platforms utilize distributed cloud-computing environments to support extra-large data set storage and computation, as well as hosting tools and workflows for many biological analyses. Cloud-based infrastructures also reduce the “data silo” phenomenon by converting data into reproducible formats that facilitate communication (see S1 Text). Additionally, the National Cancer Institute (NCI) has initiated the Cloud Pilots project in order to test a distributed computing approach for the multilevel, large-scale data sets available on The Cancer Genome Atlas (TCGA) [39]. Several of the high-throughput [26], cloud-based platforms that have been developed, including High-performance Integrated Virtual Environment (HIVE) [37,40] and Galaxy [41]—along with commercial platforms from companies like DNAnexus (dnanexus.com) and Seven Bridges Genomics (sevenbridges.com)—have participated in the development of BioCompute. This participation ensures that while using these bioinformatics platforms, users would not need to keep track of all of the information needed to create a BCO. Such information will be automatically or semiautomatically collected during the creation and running of a workflow.\n\nThe genomic community has come to acknowledge the necessity of data sharing and communication to facilitate reproducibility and standardization [42,43]. Data sharing is crucial in everything from long-term clinical treatments to public-health emergency response [44]. Extending bioinformatics platforms to include data provenance, standard workflow computation, and encoding results with available standards through BCO implementation will greatly support the exchange of genomic data analysis methods for regulatory review.\n\nRegulatory supporting standards\n\nAssessment of data submitted in a regulatory application requires clear communication of data provenance, computational workflows, and traceability. A regulatory reviewer must be able to verify that sequencing was done appropriately and that pipelines and parameters were applied correctly, and assess the final results. They must have the tools to critically evaluate the validity of results such as allelic difference or variant call. Because of these requirements, review of any clinical trial or any submission supported with HTS results requires considerable time and expertise. Inclusion of a BCO with a regulatory submission would help to ensure that data provenance is unambiguous and that the bioinformatics workflow is fully documented [11,15,23,45,46].\n\nTo truly understand and compare computational tests, a standard method (like BCO) requires tools to capture progress and to communicate the workflow and input/output data. As the regulatory field progresses, methods have been developed and are being continually refined to capture workflows and exchange data electronically [26]. See Fig 3 for BioCompute extensions to HTS analysis that support data provenance and reproducibility.\n\nBCOs and their harmonizing efforts\n\nThe BioCompute paradigm and BCOs were conceptualized to capture the specific details of HTS computational analyses. The primary objectives of a BCO is to (a) harmonize and communicate HTS data and computational results as well as (b) encourage interoperability and the reproducibility of bioinformatics protocols. Harmonizing HTS computational analyses is especially applicable to clarify the results from clinical trials and other genomic related data for regulatory submissions.\n\nThe BioCompute paradigm is novel in its combination of existing standards with the methodologies and tools to evaluate an experiment both programmatically and empirically. The BCO takes a snapshot of an experiment’s entire computational procedure adhering to FAIR data guidelines. A BCO is findable and publicly accessible through the BCO portal, interoperable by maintaining the computational context and data provenance, which also makes the computational experiment reusable. Using this snapshot of the experiment, which can include the range of acceptable experimental results in the verification kit, allows any other user to run the exact experiment and produce the same results. Additionally, through the use of provenance and usability domains, a reviewer can quickly decide whether the underlying scientific principles merit approval or whether further review or reanalysis is required.\n\nBCO specification\n\nThe BCO specification provides details about the BCO structure. BCOs are represented in JavaScript Object Notation (JSON) formatted text. The JSON format was chosen because it is both human and machine readable as well as easy to write and store. Top-level BCO fields include BCO identifier, type, digital signature, and specification version. The rest of the information is organized into several domains. Below is a brief summary of the type of information present in the various domains. For additional details, please see the latest version of the BCO specification (https://w3id.org/biocompute/releases).\n\nProvenance domain includes fields such as structured name, version, inheritance, status, contributors, license, and creation and modification dates. Usability domain provides a clear description of the intended use of the BCO. Extension domain allows users to add content related to other standards that enhances interoperability. Description domain provides details such as keywords, external references, and human-readable descriptions and sequence of pipeline steps. The execution domain is machine-readable information that can be used to run the entire pipeline. Parametric domain provides information on parameters that were changed from default, and the input/output domain provides links to input and output files. The error domain includes details that can be used to verify whether a particular BCO has been used as intended and that any errors are within the acceptable range. Error domain along with verification kit (such as in silico generated read files with known mutations) of the BCO allows verification of a workflow in different bioinformatics platforms, for example.\n\nBCO implementation\n\nThe BCO stores information relating to every package and every script—including nuanced data that are often not reported, like version number—in a human- and machine-readable format. A typical workflow analyzing HTS data may have a dozen iterations as different software, packages, and scripts are used—each with their own parameters. Through trial and error, various analyses and parameters are refined, which may yield new insights. If new insights are discovered, a snapshot of the state that produced the result in question can be stored as a BCO. To further increase the probability of successful replication, the BCO can even be verified before it is sent out for replication. In this step, for example, a third-party can verify that all input parameters across the entire analysis pipeline will generate robust and reliable output within the usability domain described in the BCO.\n\nThe BCO is therefore far more efficient than any existing means of communicating HTS analysis information. For example, a researcher has discovered a specific variant that corresponds to a population being studied in her own country, and she is interested in learning the relevance of this variant in other populations. By using a BCO, her entire analysis can be quickly understood and repeated by her international colleagues, working with their own data sets, with high confidence in the ability to compare all of the results. If the researcher then uses her data for a clinical trial that is subsequently submitted to the FDA for regulatory review, she can be confident that all of the necessary details are included to successfully repeat her analysis. The final result is a transparent, efficient process that may substantially reduce the amount of time, money, and potential confusion involved with clarifying any details that might otherwise have been overlooked.\n\nIn order to form a more cooperative community we have migrated all of the BioCompute development to GitHub (https://github.com/biocompute-objects) and are following the Open-Stand.org principles for collaborative open standards development (https://open-stand.org/about-us/principles/). The BioCompute specification has been published as a GitHub repository so that comments and issues can be addressed using the GitHub issue-tracking system. The GitHub organization is setup to have a separate repository for each of the use case examples or implementations. Each of these will be able to link back to the specification, encouraging parallelized development.\n\nBCO use case: The relational sequencing tuberculosis-unified variant pipeline\n\nSeveral BCO examples are available in repositories under the BioCompute organization on GitHub (https://github.com/biocompute-objects/). As an example, the Unified Variant Pipeline (UVP) BCO is described. The complex UVP BCO captures a validated whole genome sequencing (WGS) analysis pipeline, for The Relational Sequencing Tuberculosis (ReSeqTB) knowledge base. This knowledge base is a one-stop resource for curated Mycobacterium tuberculosis genotypic and phenotypic data that have been standardized and aggregated [47]. It is designed as a global resource to rapidly predict M. tuberculosis antimicrobial resistance from raw sequence data. The UVP is an Illumina-based consensus NGS pipeline comprising several bioinformatic tools with defined thresholds designed to annotate and produce a list of mutations (SNPs and indels) in comparison to a reference M. tuberculosis genome. The ReSeqTB platform also includes a database containing phenotypic metadata from culture-based testing and molecular probe-based genotypic data, all housed in a cloud environment enabling multitiered user access. In addition, a web-based application containing public data is now freely available (www.reseqtb.org).\n\nA publicly available BCO was developed and released for the UVP to standardize and communicate the process for inputting drug resistance profiles using sequence-based technologies. The UVP BCO for ReSeqTB delineates the key aspects or domains in both human- and machine- readable JSON file format. The current version of the UVP BCO can be found in the public BCO GitHub (https://github.com/biocompute-objects/UVP-BCO). As multiple bioinformatic pipelines currently exist for M. tuberculosis, the BioCompute paradigm will allow users, including regulators, to identify variables and the ways in which they differ between pipelines, while assessing sources of error, in order to standardize and validate HTS results required for patient management.\n\nDiscussion and conclusions\n\nRobust and reproducible data analysis is key to successful personalized medicine and genomic initiatives. Researchers, clinicians, administrators, and patients are all tied by the information in electronic health records (EHRs) and databases. Current systems rely on data stored with incomplete provenance records and in different computing languages. This has created a cumbersome and inefficient healthcare environment.\n\nThe initiatives discussed in this manuscript seek to make data and analyses communicable, repeatable, and reproducible to facilitate collaboration and information sharing from data producers to data users. Without an infrastructure like BCO, increased HTS creates silos of unusable data, making standardized regulation of reproducibility more difficult. To clear the bottleneck for downstream analysis, the provenance (or origin) of data along with the analysis details (e.g., parameters, workflow versions) must be tracked to ensure accuracy and validity. The development of high-throughput, cloud-based infrastructures (such as DNAnexus, Galaxy, HIVE, and Seven Bridges Genomics) enables users to capture data provenance and store the analyses in infrastructures that allow easy user interaction and creation of BCOs according to BCO specifications described above and in the specification document (https://github.com/biocompute-objects/BCO_Specification).\n\nPlatform-independent provenance has largely been ignored in HTS. Emerging standards enable both representation of genomic information and linking of provenance information. By harmonizing across these standards, provenance information can be captured across both clinical and research settings, extending into the conceptual, experimental methods and the underlying computational workflows. There are several use cases of such work, including submission for FDA diagnostic evaluations, the original use case for the BCO. Such standards also enable robust and reproducible science and facilitate open science between collaborators, and the development of these standards is meant to satisfy the needs of downstream consumers of genomic information.\n\nThe need to reproducibly communicate HTS computational analyses and results has led to collaboration among disparate industry groups. Through outreach activities—including conferences and workshops—awareness of the importance of standardization, tracking, and reproducibility methods has improved [9,48]. Standards like FHIR and ROs capture the underlying data provenance to be shared in frameworks like GA4GH, enabling collaboration around reproducible data and analyses. New computing standards like CWL increase the scalability and reproducibility of data analysis. The BioCompute paradigm acts as a harmonizing umbrella to facilitate human and machine communication, increasing interoperability in fields that use genomic data. Detailed BioCompute specifications (available at: https://github.com/biocompute-objects/BCO_Specification/) can be used to generate BCOs by any bioinformatics platform that pulls underlying data and analysis provenance into its infrastructure. Ongoing BCO pilots are currently working to streamline the flow, with the goal of providing users with effortlessly reproducible bioinformatics analyses. As BCOs aim to simplify the review of data that are essential for FDA approval, these pilots mirror clinical trials involving HTS data for FDA submissions.\n\nSubsequently, the incorporation of a verification test kit (a test for the range of input values that will still produce the same output values) that evaluates the integrity of the BCO will enable pipelines described by a BCO to be implemented on other servers. The verification test kit would consist of simulated or real HTS data sets in which the expected results are known. Each unique implementation of the BCO can then be tested using this verification kit to ensure that it reports the expected results. This work will further the development of the error domain, which describes the observed deviations from the expected results. We can arrive at values in this domain by repeatedly running the pipeline on the verification kit data and testing the analysis methods deployed. In this way, BioCompute can fulfill the goal of communicating exactly what was done and also what it means scientifically.\n\nCommunity involvement has grown to more than 300 contributors, participants, and collaborators from public institutions (including NCI, the FDA, and others), universities (including George Washington University, University of Manchester, Harvard, and others), and several private sector partners. The BioCompute effort has resulted in two publications, three workshops, and FDA submissions. Efforts to integrate the BioCompute standard into existing platforms mentioned above are underway. The standard has also moved to Working Group status within the Institute of Electrical and Electronics Engineers (IEEE; http://sites.ieee.org/sagroups-2791/) and is expected to be an International Organization for Standardization (ISO)-recognized standard. Finally, publicly accessible databases of crowd-sourced BCOs that allow researchers or clinicians to reproduce workflows in a variety of contexts are also planned.\n\nSupporting information"
+}

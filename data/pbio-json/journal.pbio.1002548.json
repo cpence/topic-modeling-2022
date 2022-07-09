@@ -1,0 +1,44 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1002548",
+  "doi": "10.1371/journal.pbio.1002548",
+  "externalIds": [
+    "pii:PBIOLOGY-D-16-01141",
+    "pmid:27548059",
+    "pmcid:PMC4993379"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Correction: Multiple Citation Indicators and Their Composite across Scientific Disciplines",
+  "authors": [
+    {
+      "name": "John P.A. Ioannidis",
+      "first": "John P.A.",
+      "last": "Ioannidis"
+    },
+    {
+      "name": "Richard Klavans",
+      "first": "Richard",
+      "last": "Klavans"
+    },
+    {
+      "name": "Kevin W. Boyack",
+      "first": "Kevin W.",
+      "last": "Boyack"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2016-08-22",
+  "volume": "14",
+  "number": "8",
+  "pages": "e1002548",
+  "tags": [
+    "Type/Correction"
+  ],
+  "fullText": "The authors would like to clarify that the correlations in Fig 1 are based on the log-transformed values for NC, H, Hm, S, SF, and SFL, using ln(val+1)/ln(max(val)+1). Np and Cpp were not log-transformed."
+}

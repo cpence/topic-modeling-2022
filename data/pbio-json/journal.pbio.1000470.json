@@ -1,0 +1,48 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1000470",
+  "doi": "10.1371/journal.pbio.1000470",
+  "externalIds": [
+    "pii:10-PLBI-S-8381R2",
+    "pmid:20824167",
+    "pmcid:PMC2930867"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Firing Hot, Firing Cold: How Poikilotherms Compensate for Temperature Swings",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson",
+      "affiliation": "Freelance Science Writer, Sherborn, Massachusetts, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2010-08",
+  "volume": "8",
+  "number": "8",
+  "pages": "e1000470",
+  "tags": [
+    "Discipline/Biophysics",
+    "Discipline/Biophysics/Experimental Biophysical Methods",
+    "Discipline/Computational Biology/Systems Biology",
+    "Discipline/Evolutionary Biology",
+    "Discipline/Marine and Aquatic Sciences/Evolutionary Biology",
+    "Discipline/Neuroscience",
+    "Discipline/Neuroscience/Motor Systems",
+    "Discipline/Neuroscience/Neural Homeostasis",
+    "Discipline/Neuroscience/Theoretical Neuroscience",
+    "Discipline/Physiology",
+    "Discipline/Physiology/Integrative Physiology",
+    "Discipline/Physiology/Motor Systems",
+    "Discipline/Physiology/Neural Homeostasis",
+    "Type/Synopsis"
+  ],
+  "fullText": "If you are reading this, you have one less problem than the crabs that are the subject of a new study in this issue of PLoS Biology. Humans, like all mammals (as well as birds), are “warm-blooded,” or more correctly “homeothermic,” meaning we maintain our core body organs at a constant temperature. We expend considerable energy to do so, and may die when we cannot. In contrast, crabs, cod, caterpillars, and the like are “cold-blooded,” or “poikilothermic,” with body temperatures that change with the environment they are in. When the mercury plunges, a poikilotherm, and everything that happens within it, merely slows down.\n\nAt the most basic level, all those things happening within the poikilotherm are chemical reactions, and it is their precise coordination that allows the organism to keep on living. But chemists have long known that reactions differ in the degree to which they will speed up and slow down in response to temperature changes. So here is the problem the crab has that we do not: how does it make sure that processes relevant to a given behavior remain coordinated across a wide range of temperatures?\n\nLamont Tang, Eve Marder, and colleagues set out to answer this question for a group of neurons in Cancer borealis, a North Atlantic crab that flourishes in intertidal and subtidal ecosystems where the water temperature may swing as much as 15°C in a day and more than 20°C between winter and summer. Chewing and filtering of food is driven by a rhythmic motor pattern maintained by the coordinated firing of a small network of neurons. The neurons fire in a specific sequence with time lags between them. To maintain effective chewing and filtering, those temporal relationships should remain the same—that is, they must remain “in phase” with each other, even if the overall frequency of firing changes with temperature.\n\nThe authors began by confirming that this was so, showing that while the firing frequency increased almost four-fold between 7°C and 23°C, the phase relationships were unaltered. In the language of the physical chemist, a system's responsiveness to a temperature change is known as its “Q10”. A reaction that doubles its rate with a 10-degree rise in temperature has a Q10 of 2, while one that changes not at all has a Q10 of 1. Thus, while the frequency had a Q10 of 2.3, the phase relationships had a Q10 of 1, displaying almost perfect “temperature compensation.”\n\nThey next asked what features of the system might account for this temperature compensation. Whether a neuron fires is determined by multiple physical properties, including the current flow through its ion channels, each of which has its own response to temperature change. Two kinds of these, called the transient outward current and the hyperpolarization-activated inward current, oppose each other, and the authors found that each had a high Q10.\n\nTurning to computer models of neuronal firing, they demonstrated that not all model neurons were able to adjust to temperature changes while maintaining an appropriate firing pattern. In a model of one of the crab's neurons, they found that temperature change altered the phase of the neuron when the Q10 of the membrane currents was set to 1, but the phase was largely maintained when they substituted the experimentally measured Q10's from the two opposing currents.\n\nThis is no coincidence, the authors argue. Like all poikilotherms, the crab is subject to strong selective pressure in an environment where temperatures fluctuate, and selection of membrane ensembles that maintain neuronal firing integrity in the face of wide temperature swings is likely to be strongly favored. These exact results may not be found in other cold-blooded creatures, since the precise composition of their neuronal membranes may differ. But since both a crab and a cod must solve the same problem in the cold Atlantic waters, they may be more similar at the cellular level than they appear to be on your plate.\n\nTang LS, Goeritz M, Caplan JS, Taylor AL, Fisek M, et al. (2010) Precise Temperature Compensation of Phase in a Rhythmic Motor Pattern. doi:10.1371/journal.pbio.1000469"
+}

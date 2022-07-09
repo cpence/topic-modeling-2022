@@ -1,0 +1,129 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1000285",
+  "doi": "10.1371/journal.pbio.1000285",
+  "externalIds": [
+    "pii:09-PLBI-RA-2004R3",
+    "pmid:20087410",
+    "pmcid:PMC2799514"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A Predominantly Neolithic Origin for European Paternal Lineages",
+  "authors": [
+    {
+      "name": "Patricia Balaresque",
+      "first": "Patricia",
+      "last": "Balaresque",
+      "affiliation": "Department of Genetics, University of Leicester, Leicester, United Kingdom"
+    },
+    {
+      "name": "Georgina R. Bowden",
+      "first": "Georgina R.",
+      "last": "Bowden",
+      "affiliation": "Department of Genetics, University of Leicester, Leicester, United Kingdom"
+    },
+    {
+      "name": "Susan M. Adams",
+      "first": "Susan M.",
+      "last": "Adams",
+      "affiliation": "Department of Genetics, University of Leicester, Leicester, United Kingdom"
+    },
+    {
+      "name": "Ho-Yee Leung",
+      "first": "Ho-Yee",
+      "last": "Leung",
+      "affiliation": "Department of Genetics, University of Leicester, Leicester, United Kingdom"
+    },
+    {
+      "name": "Turi E. King",
+      "first": "Turi E.",
+      "last": "King",
+      "affiliation": "Department of Genetics, University of Leicester, Leicester, United Kingdom"
+    },
+    {
+      "name": "Zoë H. Rosser",
+      "first": "Zoë H.",
+      "last": "Rosser",
+      "affiliation": "Department of Genetics, University of Leicester, Leicester, United Kingdom"
+    },
+    {
+      "name": "Jane Goodwin",
+      "first": "Jane",
+      "last": "Goodwin",
+      "affiliation": "Ty Celyn, Maeshafod, Blaina, Gwent, United Kingdom"
+    },
+    {
+      "name": "Jean-Paul Moisan",
+      "first": "Jean-Paul",
+      "last": "Moisan",
+      "affiliation": "Laboratoire d'Etude du Polymorphisme de l'ADN, Faculté de Médecine, Nantes, France"
+    },
+    {
+      "name": "Christelle Richard",
+      "first": "Christelle",
+      "last": "Richard",
+      "affiliation": "Laboratoire d'Etude du Polymorphisme de l'ADN, Faculté de Médecine, Nantes, France"
+    },
+    {
+      "name": "Ann Millward",
+      "first": "Ann",
+      "last": "Millward",
+      "affiliation": "Molecular Medicine Research Group, Peninsula Medical School, Universities of Exeter and Plymouth, Plymouth, United Kingdom"
+    },
+    {
+      "name": "Andrew G. Demaine",
+      "first": "Andrew G.",
+      "last": "Demaine",
+      "affiliation": "Molecular Medicine Research Group, Peninsula Medical School, Universities of Exeter and Plymouth, Plymouth, United Kingdom"
+    },
+    {
+      "name": "Guido Barbujani",
+      "first": "Guido",
+      "last": "Barbujani",
+      "affiliation": "Dipartimento di Biologia ed Evoluzione, Università di Ferrara, Ferrara, Italy"
+    },
+    {
+      "name": "Carlo Previderè",
+      "first": "Carlo",
+      "last": "Previderè",
+      "affiliation": "Dipartimento di Medicina Legale e Sanità Pubblica, Università di Pavia, Pavia, Italy"
+    },
+    {
+      "name": "Ian J. Wilson",
+      "first": "Ian J.",
+      "last": "Wilson",
+      "affiliation": "Institute of Human Genetics, Newcastle University, Newcastle upon Tyne, United Kingdom"
+    },
+    {
+      "name": "Chris Tyler-Smith",
+      "first": "Chris",
+      "last": "Tyler-Smith",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, United Kingdom"
+    },
+    {
+      "name": "Mark A. Jobling",
+      "first": "Mark A.",
+      "last": "Jobling",
+      "affiliation": "Department of Genetics, University of Leicester, Leicester, United Kingdom"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2010-01",
+  "dateAccepted": "2009-12-10",
+  "dateReceived": "2009-05-08",
+  "volume": "8",
+  "number": "1",
+  "pages": "e1000285",
+  "tags": [
+    "Discipline/Genetics and Genomics/Population Genetics",
+    "Type/Research Article"
+  ],
+  "abstract": "Most present-day European men inherited their Y chromosomes from the farmers who spread from the Near East 10,000 years ago, rather than from the hunter-gatherers of the Paleolithic.",
+  "fullText": "Introduction\n\nEvents underlying the distribution of genetic diversity among modern European populations have been the subject of intense debate since the first genetic data became available [1]. Anatomically modern humans, originating in East Africa, colonized Europe from the Near East ∼40 thousand years ago (KYA), then during the last glacial maximum populations retreated into the peninsulas of Iberia, Italy, and the Balkans, followed by northward recolonization from these refugia ∼14 KYA. The most important cultural transition was the adoption of agriculture originating in the Fertile Crescent in the Near East at the start of the Neolithic, ∼10 KYA [2]. It spread rapidly westwards via Anatolia [3] (Figure 1A), reaching Ireland by 6 KYA, accompanied by the development of sedentary populations and demographic expansion. Debate has focused on whether this spread was due to the movement and expansion of Near-Eastern farmers (demic diffusion), or to the transmission of cultural innovation to existing populations (acculturation), who then themselves expanded.\n\nThe observation of southeast–northwest frequency clines for “classical” genetic markers [1],[4], autosomal DNA markers [5],[6], and Y-chromosomal markers [7],[8] (though not for mitochondrial DNA [mtDNA] [9]) has been used to support the demic diffusion model. No dates can be automatically attached to these clines, however, and some [1], detected by principal component analysis, may simply reflect isolation by distance [10]. The direction of movement underlying a cline can also be ambiguous: the high-frequency pole could indicate the area of preexisting substrate least affected by a migration originating far away, or the final destination of a wave of migration into thinly populated territory, where expansion and drift have had their greatest effects [11].\n\nThe origins of a frequency cline of a lineage can be illuminated by analysing the diversity within it. For Y-chromosomal lineages defined by binary markers (haplogroups), this can be done using multiple microsatellites. This approach has been applied to haplogroups E, J [12], and I [13] within Europe, but the major western European lineage has not yet been focused upon. The frequency of the major western European lineage, haplogroup (hg) R1b1b2, follows a cline from 12% in Eastern Turkey to 85% in Ireland (Figure 1B), and is currently carried by some 110 million European men. Previous studies of lineages approximately equivalent to hgR1b1b2 [7],[8] suggested that it has a Paleolithic origin, based simply on its high frequency in the west. Here, in contrast, we show that the geographical distribution of diversity within the haplogroup is best explained by its spread from a single source from the Near East via Anatolia during the Neolithic. Taken together with the evidence on the origins of many other European haplogroups, this indicates that the great majority of the Y chromosomes of Europeans have their origins in the Neolithic expansion.\n\nResults\n\nTo investigate the origins of hgR1b1b2, we assembled a dataset of 840 chromosomes from this haplogroup with associated nine-locus microsatellite haplotypes (Table 1; Table S1). The diversity of the lineage within each population (measured by mean microsatellite variance) should reflect its age: under a hypothesis of recolonization from southern refugia, we expect a gradient of diversity correlating with latitude, whereas Neolithic expansion from Anatolia predicts a correlation primarily with longitude. Figure 1C shows the geographical distribution of mean microsatellite variance, and Figure 2 shows that although there is no evidence for correlation with latitude (R2 = 0.06; p = 0.268), the correlation with longitude is significant (R2 = 0.358; p = 0.004), with greatest diversity in the east (strongly influenced by highly diverse samples within Turkey), thus providing support for the Neolithic colonization hypothesis.\n\nThe two hypotheses also make different predictions for the number of sources of diversity within hgR1b1b2: under the postglacial recolonization model, we expect multiple sources, whereas under the Neolithic expansion model, we expect only one. We can test this by examining the phylogenetic relationships among microsatellite haplotypes. A reduced median network of 859 haplotypes (Figure 3) shows a simple star-like structure indicative of expansion from one source: 74 haplotypes (8.6%) lie in its central node, and this node plus its single-step mutational neighbours together comprise 214 haplotypes (24.9%). Haplotypes belonging to populations from all three refugia are present in the core of the network. This pattern seems incompatible with recolonization from differentiated refugial populations, and in terms of the history of hgR1b1b2, the refugia possess no special status. The core of the network also contains haplotypes from Turkey (Anatolia), which is compatible with a subpopulation from this region acting as a source for the westwards-expanding lineage.\n\nDoes the time to the most recent common ancestor (TMRCA) of the hgR1b1b2 chromosomes support a Paleolithic origin? Mean estimates for individual populations vary (Table 2), but the oldest value is in Central Turkey (7,989 y [95% confidence interval (CI): 5,661–11,014]), and the youngest in Cornwall (5,460 y [3,764–7,777]). The mean estimate for the entire dataset is 6,512 y (95% CI: 4,577–9,063 years), with a growth rate of 1.95% (1.02%–3.30%). Thus, we see clear evidence of rapid expansion, which cannot have begun before the Neolithic period.\n\nThe similarity between the isochron map of Neolithic sites (Figure 1A; [3]) and those of hgR1b1b2 frequency (Figure 1B) and diversity (Figure 1C) is striking. Further support for the association of the expansion of hgR1b1b2 with that of farming comes from a statistical comparison of the variables. The frequency of hgR1b1b2 at different points in Europe is significantly negatively correlated (R2 = 0.390; p = 0.0005) with the dates of local Neolithic sites (Figure 4A). For the local variance of the microsatellite haplotypes within hgR1b1b2, the correlation with Neolithic dates is significantly positive (R2 = 0.331; p = 0.0124; Figure 4B).\n\nDiscussion\n\nPrevious observations of the east–west clinal distribution of the common Western European hgR1b1b2 (or its equivalent) [7],[8] considered it to be part of a Paleolithic substrate into which farmers from the Near East had diffused. Later analyses have also considered variance, and have conformed to the Paleolithic explanation [14],[15]. Here, we concur that the cline results from demic diffusion, but our evidence supports a different interpretation: that R1b1b2 was carried as a rapidly expanding lineage from the Near East via Anatolia to the western fringe of Europe during the Neolithic. Such mutations arising at the front of a wave of expansion have a high probability of surviving and being propagated, and can reach high frequencies far from their source [11]. Successive founder effects at the edge of the expansion wave can lead to a reduction in microsatellite diversity, even as the lineage increases in frequency.\n\nThe innovations in the Near East also spread along the southern shore of the Mediterranean, reflected in the expansion of hgE1b1b1b (E-M81) [16], which increases in frequency and reduces in diversity from east to west. In sub-Saharan Africa, hgE1b1a (E-M2) underwent a massive expansion associated with the Bantu expansion [17],[18]. In India, the spread of agriculture has been associated with the introduction of several Y lineages [19], and in Japan, lineages within hgO spread with the Yayoi migration [20], which brought wet rice agriculture to the archipelago. On a more recent timescale, the expansion of the Han culture in China has been linked to demic diffusion [21]. In this context, the apparently low contribution of incoming Y chromosomes to the European Neolithic, despite its antiquity and impact, has appeared anomalous. Our interpretation of the history of hgR1b1b2 now makes Europe a prime example of how expansion of a Y-chromosomal lineage tends to accompany technological and cultural change.\n\nOther lineages also show evidence of European Neolithic expansion, hgE1b1b1 (E-M35) and hgJ, in particular [12]. Indeed, hgI is the only major lineage for which a Paleolithic origin is generally accepted, but it comprises only 18% of European Y chromosomes [13]. The Basques contain only 8%–20% of this lineage, but 75%–87% hgR1b1b2 (Table S1); our findings therefore challenge their traditional “Mesolithic relict” status, and in particular, their use as a proxy for a Paleolithic parental population in admixture modelling of European Y-chromosomal prehistory [22].\n\nIs the predominance of Neolithic-expansion lineages among Y chromosomes reflected in other parts of the genome? Mitochondrial DNA diversity certainly presents a different picture: no east–west cline is discernible, most lineages have a Paleolithic TMRCA [23], and hgH [24] and hgV [25] show signatures of postglacial expansion from the Iberian peninsula. Demic diffusion involves both females and males, but the disparity between mtDNA and Y-chromosomal patterns could arise from an increased and transmitted reproductive success for male farmers compared to indigenous hunter-gatherers, without a corresponding difference between females from the two groups. This would lead to the expansion of incoming Y lineages—as suggested by the high growth rate observed for hgR1b1b2. Similar conclusions have been reached for the Bantu expansion (in which the current Bantu-speaking populations carry many mtDNA lineages originating from hunter-gatherers [26]), the introduction of agriculture to India [19] and the Han expansion [21].\n\nSome studies have found evidence of east–west clines for autosomal loci [6],[27]. By contrast, recent genome-wide SNP typing surveys [28]–[30] find a basic south–north division or gradient, including greater diversity in the south, but they provide no indication of the time-depth of the underlying events, which could in principle involve contributions from the original colonization, postglacial Paleolithic recolonization, Neolithic expansion, and later contact between Africa and southern Europe [31].\n\nThe distinction between the geographical patterns of variation of the Y chromosome and those of mtDNA suggest sex-specific factors in patterning European diversity, but the rest of the genome has yet to reveal definitive information. Detailed studies of X-chromosomal and autosomal haplotypes promise to further illuminate the roles of males and females in prehistory.\n\nMaterials and Methods\n\nEthics Statement\n\nMales were recruited with informed consent, following ethical approval by the Leicestershire Research Ethics Committee and the ethics committees of the Universities of Ferrara, Pavia, and Exeter and Plymouth.\n\nDNA Samples and Haplotyping\n\nA total of 2,574 DNA samples from European males, assigned to populations based on two generations of residence, were typed for the SNP M269 [17], defining hgR1b1b2. Following PCR amplification using the primers 5′-CTAAAGATCAGAGTATCTCCCTTTG-3′ and 5′-ATTTCTAGGAGTTCACTGTATTAC-3′, the T to C transition was analysed by digestion with BstNI, which cleaves M269-C-allele chromosomes only. Samples from the Iberian peninsula were typed using the SNaPshot (ABI) procedure [31]. Haplotype data were obtained for up to 20 Y-specific microsatellites [32],[33]. Data from the Ysearch database (http://www.ysearch.org) for Germany (GE) and Ireland (IR) were added, together with published data for Turkey, subdivided into East, West, and Central subpopulations based on published sampling information [14]. To avoid a bias from very large samples of hgR1b1b2 (GE and IR), these were randomly subsampled to give sample sizes of 75. This allowed a comparison of nine-locus haplotypes (DYS19, DYS388, DYS389I, DYS389II, DYS390, DYS391, DYS392, DYS393, and DYS439) for 849 hgR1b1b2 chromosomes, subdivided into 23 populations. Greek and Serbian samples were too small for population-based analyses, but were included in Network analysis.\n\nAnalysis\n\nNeolithic dates, frequencies of hgR1b1b2, and local microsatellite variances were displayed using Surfer 8.02 (Golden Software) by the gridding method. Latitudes and longitudes were based on sampling centres.\n\nIntrahaplogroup diversity was assessed for populations with hgR1b1b2 sample size ≥15 as the mean of the individual microsatellite variances [34], as has been done elsewhere (e.g., [35]); this measure is highly correlated (R2 = 0.871; p = 6.72×10−10) with a more conventional measure, average squared distance (ASD) [36]. Regression analyses were carried out in the R statistical package [37] to compare these two measures, and also to compare mean of variance with latitude and longitude.\n\nA reduced median network [38] of microsatellite haplotypes was constructed using Network 4.5 and Network Publisher, using weighting based on the inverse of the microsatellite variances.\n\nTMRCA and population growth rates were estimated using BATWING [39], under a model of exponential population growth and splitting. Whereas standard use of BATWING assumes a random sample from a population, we validated its use to analyse single haplogroups. Justification of this, together with other details, is given in Text S1.\n\nTo assess the correlation between the dates of Neolithic sites and the local hgR1b1b2 frequency and variance, we considered 765 sites and their associated calibrated radiocarbon dates [3]. We identified sites lying within a buffer-zone of 150-km radius around each location for which we had frequency or variance data (Figure 1B and 1C). When more than one site was identified in a given buffer-zone, we considered the mean of the dates. Regression analyses were carried out as described above.\n\nSupporting Information"
+}

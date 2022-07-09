@@ -1,0 +1,82 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001784",
+  "doi": "10.1371/journal.pbio.1001784",
+  "externalIds": [
+    "pii:PBIOLOGY-D-13-03836",
+    "pmid:24504521",
+    "pmcid:PMC3913552"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Low Frequency of ESRRA–C11orf20 Fusion Gene in Ovarian Carcinomas",
+  "authors": [
+    {
+      "name": "Francesca Micci",
+      "first": "Francesca",
+      "last": "Micci",
+      "affiliation": "Section for Cancer Cytogenetics, Institute for Cancer Genetics and Informatics, The Norwegian Radium Hospital, Oslo University Hospital, Oslo, Norway; Centre for Cancer Biomedicine, University of Oslo, Oslo, Norway"
+    },
+    {
+      "name": "Ioannis Panagopoulos",
+      "first": "Ioannis",
+      "last": "Panagopoulos",
+      "affiliation": "Section for Cancer Cytogenetics, Institute for Cancer Genetics and Informatics, The Norwegian Radium Hospital, Oslo University Hospital, Oslo, Norway; Centre for Cancer Biomedicine, University of Oslo, Oslo, Norway"
+    },
+    {
+      "name": "Jim Thorsen",
+      "first": "Jim",
+      "last": "Thorsen",
+      "affiliation": "Section for Cancer Cytogenetics, Institute for Cancer Genetics and Informatics, The Norwegian Radium Hospital, Oslo University Hospital, Oslo, Norway; Centre for Cancer Biomedicine, University of Oslo, Oslo, Norway"
+    },
+    {
+      "name": "Ben Davidson",
+      "first": "Ben",
+      "last": "Davidson",
+      "affiliation": "Department of Pathology, The Norwegian Radium Hospital, Oslo University Hospital, Oslo, Norway; Faculty of Medicine, University of Oslo, Oslo, Norway"
+    },
+    {
+      "name": "Claes Gøran Tropé",
+      "first": "Claes Gøran",
+      "last": "Tropé",
+      "affiliation": "Department of Gynecology, The Norwegian Radium Hospital, Oslo University Hospital, Oslo, Norway"
+    },
+    {
+      "name": "Sverre Heim",
+      "first": "Sverre",
+      "last": "Heim",
+      "affiliation": "Section for Cancer Cytogenetics, Institute for Cancer Genetics and Informatics, The Norwegian Radium Hospital, Oslo University Hospital, Oslo, Norway; Centre for Cancer Biomedicine, University of Oslo, Oslo, Norway; Faculty of Medicine, University of Oslo, Oslo, Norway"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2014-02",
+  "dateAccepted": "2013-12-23",
+  "dateReceived": "2013-09-28",
+  "volume": "12",
+  "number": "2",
+  "pages": "e1001784",
+  "tags": [
+    "Cancer genetics",
+    "Cancers and neoplasms",
+    "Discipline-v2/Biology",
+    "Discipline-v2/Cancer genetics",
+    "Discipline-v2/Cancers and neoplasms",
+    "Discipline-v2/Genetics",
+    "Discipline-v2/Gynecological tumors",
+    "Discipline-v2/Medicine",
+    "Discipline-v2/Oncology",
+    "Discipline-v2/Ovarian cancer",
+    "Genetics",
+    "Gynecological tumors",
+    "Oncology",
+    "Ovarian cancer",
+    "Type/Research Article"
+  ],
+  "abstract": "A study by Francesca Micci and colleagues shows that the ESRRA-C11orf20 fusion transcript is rare in ovarian carcinoma, contrary to a previously reported frequency of 15%.",
+  "fullText": "Introduction\n\nCancer of the ovary makes up 30% of all malignant diseases of the female genital tract. Prognosis is poor, with a mean 5-year survival rate in Europe of 32%. This unfavorable outcome is largely attributable to a lack of early warning symptoms and signs and also a lack of diagnostic tests that allow early detection. As a result, approximately 70% of patients present with advanced stage, metastatic disease [1].\n\nA number of specific genes have been identified as playing a role in ovarian carcinogenesis; the ones that have received the most attention are BRCA1 and BRCA2 followed by TP53. In addition, integrated genomic analysis of ovarian carcinomas has identified four ovarian cancer transcriptional subtypes, three microRNA subtypes, four promoter methylation subtypes, and a transcriptional signature associated with survival duration [2], attesting to the genetic complexity of these tumors.\n\nThe identification of recurrent gene fusions in common epithelial cancers—for example, TMPRSS2/ERG in prostate cancer [3] and EML4/ALK in nonsmall cell lung carcinomas [4],[5]—has raised the question of whether fusion genes are pathogenetically important also in ovarian carcinomas. Salzman et al. [6] reported the first recurrent fusion transcript in serous ovarian carcinomas. They used deep paired-end sequencing to detect the fusion gene ESRRA–C11orf20 in 10 out of 67 (15%) serous ovarian carcinomas examined, a finding that holds great promise for our understanding of ovarian tumorigenesis as well as, potentially, for new treatment strategies. The fusion was brought about by rearrangements in the long arm of chromosome 11, in subband 11q13.1. The gene ESRRA (estrogen-related receptor alpha) encodes a nuclear receptor that is closely related to the estrogen receptor, whereas its partner is but an open reading frame sequence. Because ESRRA and C11orf20 (also known as TEX40) normally lie only 11 kb apart, it is possible that the rearrangement leading to their fusion is an incidental consequence of another functionally important genetic event or that it is merely a “passenger” to other structural rearrangements.\n\nTo test how frequent ESRRA/C11orf20 fusion is in ovarian carcinomas of all subtypes, we performed PCR analysis of 230 ovarian carcinomas, of which 197 were of the serous subtype and 163 of the 197 were of stages III and IV—that is, the very same carcinoma subset examined by Salzman et al. [6].\n\nResults and Discussion\n\nThe PCR analysis of the 230 ovarian carcinomas showed no fusion transcript for the ESRRA/C11orf20. A synthetic DNA plasmid containing the reported ESRRA/C11orf20 fusion was included as a positive control for our PCR experiments and was the only sample showing the transcript and demonstrating, at the same time, the validity of the experiments (Figure 1).\n\nWe also performed high-throughput sequencing of 23 ovarian carcinomas (already tested by PCR analysis), of which 10 were serous, five endometrioid, four clear cell, three mucinous, and one of a mixed endometrioid and undifferentiated subtype. Each sample was sequenced to yield about 60∼70 million reads using the Illumina HiSeq 2000 instrument. We extracted from the raw data all sequences containing the last 20 bp before the putative break of the ESRRA exon 2 gene sequence, getting 2,705 reads in total. We also found 58, 59, and 49 reads containing the first 20 bp of the C11orf20 exon 3, exon 4, and exon 5 gene sequences, respectively (Table 1). From the extracted ESRRA- and C11orf20-specific sequences, none contained sequences of both ESRRA and C11orf20. The comparison was performed by investigating if the ESRRA-specific sequences contained C11orf20 exon 3, 4, or 5 sequences and vice versa. It is possible to argue that the fusion gene, if present, should be driven by the ESRRA promoter, and therefore that the fusion gene read counts should be more similar to the high ESRRA ones than to the low C11orf20 ones. As a result, assuming the presence of the fusion, the C11orf20 reads should have been totally dominated by the fusion, something that was not seen (Table 1). Furthermore, all 2,705 sequences were used in a Blast search to verify their identity. The Blast search identified specific ESRRA and C110rf20 sequences but revealed no sequences containing both ESRRA and C11orf20 gene sequences. When searching in the same series of sequenced carcinomas (n = 23) for involvement of either the ESRRA or C11orf20 in alternative fusions—that is, with other partner(s)—none was found.\n\nWe therefore conclude that the frequency of the ESRRA/C11orf20 gene fusion in serous ovarian carcinomas of stages III and IV must be considerable less than that reported by Salzman et al. (0/163 in our experience, compared with 10/67 in their study) [6]. We have no explanation for the frequency differences observed. It is important to note that the difference in frequency calculated above is based only on adenocarcinomas of stages III and IV—that is, 163 tumors—as the remaining 67 tumors were of different histological subtypes or serous adenocarcinomas of grades I and II, which would not necessarily be expected to carry the same genetic fusion.\n\nLooking into the possible mechanism—that is, chromosomal rearrangement(s)—by which the ESRRA/C11orf20 fusion could have originated, it seems that a simple deletion or inversion could not alone have produced it. Both genes are located 5′ to 3′ from centromere to telomere on 11q, with C11orf20 proximal to ESRRA (Figure 1); therefore, to get a fusion in which ESRRA is 5′ in a chimeric transcript would require a tandem duplication with a breakpoint in the central region. Regardless of how it may have been generated, however, it seems clear that the said fusion cannot be a common pathogenetic event in this tumor type.\n\nMaterials and Methods\n\nSpecimen Collection and RNA Extraction\n\nThe tumors were surgically removed at The Norwegian Radium Hospital from 1999 to 2010. The RNA was extracted using Trizol reagent according to the manufacturer's instructions (Invitrogen, Grand Island, NY), and its quality was checked by Experion Automated Electrophoresis System (Bio-Rad Laboratories, Hercules, CA). cDNA was synthesized using the Iscript advanced cDNA synthesis kit for RT-qPCR (Bio-Rad). Quality was checked using the TaqMan Gene Expression Assays for actin B (ACTB) and Glyceraldehyde 3-phosphate dehydrogenase (GAPDH). To measure the expression of ACTB and GAPDH, the assays Hs99999903_m1 and Hs99999905_m1, obtained from Applied Biosystems (Life Technologies, Carlsbad, CA), were used and run on a CFX96 Real-Time System (Bio-Rad).\n\nRT-PCR\n\nFor the first RT-PCR reaction we used the G1P1-FWD (5′-GGCATTGAGCCTCTCTACATCA-3′) mapping between 240 and 261 bp in the ESRRA gene (accession number NM_004451 version 4) and REV_pair3 (5′-GGGTCAGGCTTGGGTCTG -3′) located between 681 and 698 bp of the C11orf20 (accession number NM_001039496 version 1) combination of primers—that is, the same primers as Salzman et al. [6]. The PCR cycles were as follows: initial denaturation at 94°C for 30 s, followed by 30 cycles, 15 s at 94°C, 30 s at 55°C; and 60 s at 70°C [6]. For the nested RT-PCR, the primers were G1P2-FWD (5′-AAAGGGTTCCTCGGAGACAGAGA-3′) located between 290 and 312 base pairs in the ESRRA gene (accession number NM_004451 version 4) and F1-REV (5′-TAATTCACGTACAGCCTCTTGCTCCG-3′) mapping between 597 and 622 bp of the C11orf20 gene (accession number NM_001039496 version 1) [6]. The cycles were as follows: 15 s at 94°C, 30 s at 55°C, and 60 s at 72°C [6]. The nested PCR was run for 30 cycles. A synthetic DNA plasmid containing the reported ESRRA/C11orf20 fusion was included as a positive control in our PCR experiments.\n\nRNA Sequencing\n\nHigh-throughput sequencing was performed on 23 ovarian carcinomas, of which 10 were serous, five endometrioid, four clear cell, three mucinous, and one of a mixed endometrioid and undifferentiated subtype. A total of 3 µg of RNA was sent for high-throughput pair-end RNA-sequencing to the Norwegian Sequencing Centre at Ullevål Hospital (www.sequencing.uio.no). We used paired-end HTS with an average sequence read of 60–70 millions. We analyzed the sequences only with respect to the ESRRA and C11orf20 genes. The last 20 bp of the ESRRA exon 2 gene sequence before the putative break and the first 20 bp of the C11orf20 exon 3, exon 4, and exon 5 gene sequences have been extracted from the raw data (fastq-files) and further analyzed for putative gene fusions."
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0000054",
+  "doi": "10.1371/journal.pbio.0000054",
+  "license": "This is an open-access article distributed under the terms of the Public Library of Science Open-Access License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Novel “Checkpoint” Mechanism Mediates DNA Damage Responses",
+  "journal": "PLoS Biology",
+  "date": "2003-11",
+  "dateElectronic": "2003-11-17",
+  "volume": "1",
+  "number": "2",
+  "pages": "e54",
+  "tags": [
+    "Discipline/Oncology",
+    "System Taxonomy/Eukaryotes",
+    "System Taxonomy/Homo (human)",
+    "System Taxonomy/Saccharomyces",
+    "System Taxonomy/Schizosaccharomymes",
+    "Type/Synopsis"
+  ],
+  "fullText": "Of all the tasks a cell must accomplish day in and day out, protecting its genome may be the most important. Genomes confront all manner of potential assaults, from the strand-splitting action of gamma-radiation to the simple copying mistakes sometimes made when DNA replicates before a cell divides. Though some mutations are harmless, others can disrupt gene action, leading to cancer and other diseases. To guard against such events, healthy cells maintain quality-control “checkpoints” that sense and respond to DNA injuries, as well as to defects in DNA replication, and that prevent cell division until the DNA can be repaired. If the damage is beyond repair, apoptosis pathways set about the business of destroying the afflicted cell.\n\nMany of the genes and protein complexes involved in these checkpoint responses have been identified, but the biochemical mechanisms that in some cases trigger cell cycle arrest are not fully understood. Experiments by Philip Hanawalt and his student David Pettijohn at Stanford University in 1963 suggested that the molecular machinery of DNA replication and repair—which they discovered at sites of damage—are quite similar and closely linked. While many studies have since supported that link, Viola Ellison and Bruce Stillman, the director of the Cold Spring Harbor Laboratory, have found new evidence that the two processes may indeed coincide by showing that protein complexes regulating a cellular checkpoint in DNA repair operate much like similar complexes involved in DNA replication.\n\nThe molecular pathways governing the replication of DNA before cell division are well known. As the double-stranded DNA molecule unwinds, different protein complexes step in to ensure that each strand is faithfully reproduced. Two protein complexes required for this process are replication factor C (RFC) and proliferating cell nuclear antigen (PCNA). In the 1980s, Stillman's laboratory isolated PCNA and RFC and showed that they function together to “load” PCNA onto a structure in DNA that is created after DNA synthesis begins. PCNA forms a clamp around the DNA strand and regulates the DNA polymerases that duplicate the DNA double helix.\n\nStudies in yeast had identified a series of proteins required for the DNA synthesis phase of the cell cycle and the DNA damage checkpoint pathways; mutations in these proteins' genes make cells very sensitive to radiation (hence the name Rad genes). A subset of these proteins, which are conserved in human cells, form two protein complexes—RSR and RHR—that function like RFC and PCNA, respectively, with RSR loading the RHR clamp onto DNA. Ellison and Stillman demonstrate that both pairs of “clamp-loading” complexes follow similar biochemical steps, but, significantly, RFC and RSR favor different DNA structures for clamp loading. While it was known that the RSR/RHR complexes exist in human cells, it had not been established that the two types of clamps prefer different DNA targets. The researchers also show that the RSR/RHR biochemistry depends on RPA, a protein known to be involved in the DNA damage-response pathway.\n\nThe discovery that RSR loads its RHR clamp onto a different DNA structure was unexpected; it suggests not only that the two clamp loaders have distinct replication and repair functions, but also how the checkpoint machinery might work to prevent DNA damage from being passed on to future generations. By establishing the chemical requirements of RSR/RHR interactions as well as the preferred DNA-binding substrate, the researchers have charted the way for determining the different functions of these cell cycle checkpoint complexes and how the complexes' different subunits affect these functions. The researchers propose that the role of this checkpoint machinery is not as an initial sensor of DNA damage, but rather as a facilitator of DNA repair, stepping in after preliminary repairs to DNA lesions have been made. Ellison and Stillman's work helps establish a biochemical model for studying how both of these checkpoint complexes function to coordinate replication and repair—and promise to help scientists understand how cancer develops when the checkpoint repair mechanisms fail."
+}

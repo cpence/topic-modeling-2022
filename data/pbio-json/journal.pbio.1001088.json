@@ -1,0 +1,208 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001088",
+  "doi": "10.1371/journal.pbio.1001088",
+  "externalIds": [
+    "pii:PBIOLOGY-D-11-01170",
+    "pmid:21713030",
+    "pmcid:PMC3119656"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "The Genomic Standards Consortium",
+  "authors": [
+    {
+      "name": "Dawn Field",
+      "first": "Dawn",
+      "last": "Field",
+      "affiliation": "Centre for Ecology & Hydrology, Maclean Building, Crowmarsh Gifford, Wallingford, Oxfordshire, United Kingdom"
+    },
+    {
+      "name": "Linda Amaral-Zettler",
+      "first": "Linda",
+      "last": "Amaral-Zettler",
+      "affiliation": "The Josephine Bay Paul Center for Comparative Molecular Biology and Evolution, Marine Biological Laboratory, Woods Hole, Massachusetts, United States of America"
+    },
+    {
+      "name": "Guy Cochrane",
+      "first": "Guy",
+      "last": "Cochrane",
+      "affiliation": "European Molecular Biology Laboratory (EMBL) Outstation, European Bioinformatics Institute (EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "James R. Cole",
+      "first": "James R.",
+      "last": "Cole",
+      "affiliation": "Center for Microbial Ecology, Michigan State University, East Lansing, Michigan, United States of America"
+    },
+    {
+      "name": "Peter Dawyndt",
+      "first": "Peter",
+      "last": "Dawyndt",
+      "affiliation": "Department of Applied Mathematics and Computer Science, Ghent University, Ghent, Belgium"
+    },
+    {
+      "name": "George M. Garrity",
+      "first": "George M.",
+      "last": "Garrity",
+      "affiliation": "Department of Microbiology and Molecular Genetics, Michigan State University, East Lansing, Michigan, United States of America"
+    },
+    {
+      "name": "Jack Gilbert",
+      "first": "Jack",
+      "last": "Gilbert",
+      "affiliation": "Argonne National Laboratory, Argonne, Illinois, United States of America; Department of Ecology and Evolution, University of Chicago, Chicago, Illinois, United States of America"
+    },
+    {
+      "name": "Frank Oliver Glöckner",
+      "first": "Frank Oliver",
+      "last": "Glöckner",
+      "affiliation": "Microbial Genomics Group, Max Planck Institute for Marine Microbiology and Jacobs University Bremen, Bremen, Germany"
+    },
+    {
+      "name": "Lynette Hirschman",
+      "first": "Lynette",
+      "last": "Hirschman",
+      "affiliation": "Information Technology Center, The MITRE Corporation, Bedford, Massachusetts, United States of America"
+    },
+    {
+      "name": "Ilene Karsch-Mizrachi",
+      "first": "Ilene",
+      "last": "Karsch-Mizrachi",
+      "affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "Hans-Peter Klenk",
+      "first": "Hans-Peter",
+      "last": "Klenk",
+      "affiliation": "DSMZ - German Collection of Microorganisms and Cell Cultures GmbH, Braunschweig, Germany"
+    },
+    {
+      "name": "Rob Knight",
+      "first": "Rob",
+      "last": "Knight",
+      "affiliation": "Department of Chemistry and Biochemistry, University of Colorado, Boulder, Colorado, United States of America"
+    },
+    {
+      "name": "Renzo Kottmann",
+      "first": "Renzo",
+      "last": "Kottmann",
+      "affiliation": "Microbial Genomics Group, Max Planck Institute for Marine Microbiology and Jacobs University Bremen, Bremen, Germany"
+    },
+    {
+      "name": "Nikos Kyrpides",
+      "first": "Nikos",
+      "last": "Kyrpides",
+      "affiliation": "DOE Joint Genome Institute, Walnut Creek, California, United States of America"
+    },
+    {
+      "name": "Folker Meyer",
+      "first": "Folker",
+      "last": "Meyer",
+      "affiliation": "Argonne National Laboratory, Argonne, Illinois, United States of America; Computation Institute, University of Chicago, Chicago, Illinois, United States of America"
+    },
+    {
+      "name": "Inigo San Gil",
+      "first": "Inigo",
+      "last": "San Gil",
+      "affiliation": "LTER Network Office, Department of Biology, University of New Mexico, Albuquerque, New Mexico, United States of America"
+    },
+    {
+      "name": "Susanna-Assunta Sansone",
+      "first": "Susanna-Assunta",
+      "last": "Sansone",
+      "affiliation": "University of Oxford, Oxford e-Research Centre, Oxford, United Kingdom"
+    },
+    {
+      "name": "Lynn M. Schriml",
+      "first": "Lynn M.",
+      "last": "Schriml",
+      "affiliation": "Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+    },
+    {
+      "name": "Peter Sterk",
+      "first": "Peter",
+      "last": "Sterk",
+      "affiliation": "Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Tatiana Tatusova",
+      "first": "Tatiana",
+      "last": "Tatusova",
+      "affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "David W. Ussery",
+      "first": "David W.",
+      "last": "Ussery",
+      "affiliation": "Center for Biological Sequence Analysis, The Technical University of Denmark, Lyngby, Denmark"
+    },
+    {
+      "name": "Owen White",
+      "first": "Owen",
+      "last": "White",
+      "affiliation": "Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, Maryland, United States of America"
+    },
+    {
+      "name": "John Wooley",
+      "first": "John",
+      "last": "Wooley",
+      "affiliation": "University of California San Diego, La Jolla, California, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2011-06",
+  "volume": "9",
+  "number": "6",
+  "pages": "e1001088",
+  "tags": [
+    "Bio-ontologies",
+    "Biological data management",
+    "Comparative genomics",
+    "Computational biology",
+    "Discipline-v2/Bio-ontologies",
+    "Discipline-v2/Biological data management",
+    "Discipline-v2/Biology",
+    "Discipline-v2/Comparative genomics",
+    "Discipline-v2/Computational biology",
+    "Discipline-v2/Ecology",
+    "Discipline-v2/Evolutionary biology",
+    "Discipline-v2/Gene prediction",
+    "Discipline-v2/Genome analysis tools",
+    "Discipline-v2/Genome databases",
+    "Discipline-v2/Genome sequencing",
+    "Discipline-v2/Genomics",
+    "Discipline-v2/Marine biology",
+    "Discipline-v2/Metagenomics",
+    "Discipline-v2/Microbiology",
+    "Discipline-v2/Model organisms",
+    "Discipline-v2/Sequence analysis",
+    "Discipline-v2/Sequence assembly tools",
+    "Discipline/Computational Biology",
+    "Discipline/Ecology",
+    "Discipline/Evolutionary Biology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Marine and Aquatic Sciences",
+    "Ecology",
+    "Evolutionary biology",
+    "Gene prediction",
+    "Genome analysis tools",
+    "Genome databases",
+    "Genome sequencing",
+    "Genomics",
+    "Marine biology",
+    "Metagenomics",
+    "Microbiology",
+    "Model organisms",
+    "Sequence analysis",
+    "Sequence assembly tools",
+    "Type/Community Page"
+  ],
+  "abstract": "A vast and rich body of information has grown up as a result of the world's enthusiasm for 'omics technologies. Finding ways to describe and make available this information that maximise its usefulness has become a major effort across the 'omics world. At the heart of this effort is the Genomic Standards Consortium (GSC), an open-membership organization that drives community-based standardization activities, Here we provide a short history of the GSC, provide an overview of its range of current activities, and make a call for the scientific community to join forces to improve the quality and quantity of contextual information about our public collections of genomes, metagenomes, and marker gene sequences.",
+  "fullText": "Introduction\n      \nWe currently have thousands of genomes, hundreds of metagenomes, and tens of thousands of marker gene data sets in the public domain, and these numbers are rapidly increasing [1]. Next-generation sequencing technologies promise to further fill the public databases with a bounty of information unthinkable even a few years ago. Each data set represents an organism or community with a unique biological history, sampling location, environmental context, and set of biologically interesting traits. Hence, each of these data sets makes a unique contribution to the ongoing creation of our public online catalogue of life.\n\nWe are now witnessing the rapid democratization of access to sequencing capacity—an immense opportunity for the global community, if proper stewardship of these data keeps pace [2],[3]. This stewardship must include enriching public sequence databases with the biological context of these sequences (Box 1), which will in turn necessitate the adoption of a fresh attitude to reporting results, both in our papers and our submissions to the public databases. Large, well-contextualized genome, metagenome, and marker gene data sets (e.g., ribosomal gene surveys) provide ideal opportunities for comparison and contrasting using computational means to solve a wide range of questions in biology (including questions in medicine, physiology, developmental biology, biogeochemistry, evolution, ecology, etc.).\n\n          Box 1. When the Cost of a Bacterial Genome Sequence Is Almost Nothing, That Organism's Contextual Information Is Increasingly Valuable\n          \nConsider the scenario where a new E. coli sequence has been obtained from a futuristic handheld device (like a Star Trek tricorder) that generates the complete genome in seconds. While the genome sequence may only be slightly different from strains already in the public databases, the metadata associated with this bug is both unique and crucial. Where and when was the E. coli isolated? Was it transmitted as a food-borne pathogen? Did it hospitalize the patient from whom it was isolated? Was it part of a larger infectious outbreak? Knowledge that a pathogen was isolated from diseased patients or healthy controls will readily assist in intervention strategies derived from machine-readable data.\n\nThese data sets should be treated as part of a larger whole—a catalogue of life on earth—that will allow us to observe, as we sample in time and space, how life changes. A range of ongoing and proposed megasequencing projects also promise to make great inroads into this grand vision (i.e., the Genomic Encyclopedia of Bacteria and Archaea [GEBA] [4], Human Microbiome Project [HMP] [5], Microbial Earth Project [http://genome.jgi-psf.org/programs/bacteria-archaea/MEP/index.jsf], Earth Microbiome Project [6], Genomes 10K [7], Tara Oceans [http://oceans.taraexpeditions.org/], Malaspina [http://en.wikipedia.org/wiki/Malaspina_Expedition_2010], Sorcerer II Global Ocean Sampling expedition [8]).\n\nHow must we now change the way we think about these data sets to prepare to integrate and co-analyze these large suites of related and contrasting data? Clearly, these data must be stored in robust comprehensive electronic systems that link to specific environments, diseases, or physiological states such that these relationships are electronically retrievable. To achieve this goal we urgently need shared standards that are both easy to use and scientifically robust.\n\n      The Genomic Standards Consortium\n      \nThe GSC was established in late 2005 [9],[10] to tackle the challenge of working towards better descriptions of genomes and metagenomes through community-level, consensus-driven solutions. The GSC's mission is to work towards 1) the implementation of new genomic standards, 2) methods of capturing and exchanging the information captured in these standards (metadata, or contextual data) and 3) harmonization of information collection and analysis efforts across the wider genomics community.\n\nThe GSC fulfils this mission by holding face-to-face meetings, forming working groups, and building consensus products that can be widely used in this community. Thus far, the GSC has created a standard, the Minimum Information about any (x) Sequence (MIxS), that includes three minimum information checklists for describing genomes, metagenomes, and environmental marker sequences (MIGS/MIMS/MIMARKS) upon submission to the public databases and publication [11],[12]. MIxS requires core information on habitat, geolocation, and sequencing methodology as well as fields specific to data type and a range of optional environmental packages to capture core measurements defining a broad range of habitats, including water, soil, and host-associated habitats. The International Nucleotide Sequence Database Collaboration (INSDC; DDBJ/EMBL/GenBank) has created a GSC “keyword” (MIxS) to mark the richer entries complying with this standard.\n\nOther working groups are dedicated to 1) the maintenance of an extensible markup language (GCDML) that provides a reference implementation of the MIxS checklists [13], 2) development of tools and software, 3) compliance and curation, and 4) biodiversity. Those requiring help complying with MIxS (curation support) should contact the compliance working group, and those requiring technical assistance in implementing/adopting these standards in software or database projects should contact the developer's working group (technical support). The developer and compliance groups work closely together, for example, to support compliance through a range of portals, including GOLD [1], MG-Rast [14], CAMERA [15], IMG/m [16], the RDP [17], SILVA [18], megx.net [19], and the ISA software suite [20]. The Biodiversity group works with communities to make sure that GSC standards evolve in harmony with standards for describing taxonomy and biodiversity.\n\nThe GSC has also stepped forward to create a journal designed to underpin the emerging field of standards development in the biological sciences [21]. The Standards in Genomic Sciences journal now serves as a formal voice for the GSC and supports the publication of standardized genome, metagenome, and pan-genome reports and other standards-supportive publications like Standard Operating Procedures (SOPs) [22] from the scientific community at large.\n\nThe GSC is now maturing into a hub for the coordination of large-scale projects. Two projects running under the GSC umbrella are the Microbial Earth Project, which calls for the coordinated sequencing of over 9,000 type strains (http://genome.jgi-psf.org/programs/bacteria-archaea/MEP/index.jsf), and the M5 project, which calls for the coordinated development of a next-generation computational infrastructure (http://gensc.org/gc_wiki/index.php/M5) [23].\n\nThe GSC also works closely with a range of related communities and helped drive the formation of the Environment Ontology [24], the Minimum Information for Biological and Biomedical Investigations (MIBBI) initiative [2], and most recently the BioSharing forum [3, 25].\n\n      A Call for Participation and Adoption\n      \nThe Internet has resulted in a Cambrian explosion of productivity and data sharing through the adoption of a huge stack of agreed-upon protocols (standards) that allow many devices and programs to communicate to the transformative benefit of the everyday user [26]. Enabling access to user-generated content is key to harnessing the resources of a distributed community: Flickr has over 5 billion photographs uploaded, and Wikipedia has over 3.5 million English articles as of this writing. Standards for organizing sequence data will be similarly needed as sequencing instruments themselves, especially as these instruments are more and more commoditized and owned by individuals rather than institutions.\n\nThe tagline of the GSC is “Innovation through Collaboration”. For any standard to create a lasting impact requires substantial input from the wider scientific community, including adoption and support. The GSC urges researchers interested in pushing the boundaries of genomic science through collaboration to join and contribute expertise to building the GSC roadmap for the future. Membership in the GSC and all working groups is currently defined by participation. The GSC has a Board and several standing committees in addition to its working groups. For more information on the GSC, please see http://gensc.org/.\n\n      Conclusions\n      \nThe GSC is working to become the authoritative working body in the area of genomics for the development and adoption of standards. We anticipate that the need for a collaborative body in which to build consensus at the community level and undertake large-scale projects will only increase with time, as in many ways the era of genomics is just beginning. In the future, sequence generation will only increase as access is further democratized. On one extreme, it will be like any other industrial commodity and will be outsourced into a global manufacturing marketplace. On the other, mid- to large-scale sequencing will be as locally accessible as a benchtop microscope or PCR machine is to a typical university researcher. Making these diverse streams of data accessible in a coherent framework will require new, standardized ways of describing, storing, and exchanging this information. The framework required to do this will involve acceptance of profound sociological and technological changes in how we do business in the genomic sciences."
+}

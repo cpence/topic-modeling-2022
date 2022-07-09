@@ -1,0 +1,41 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0040150",
+  "doi": "10.1371/journal.pbio.0040150",
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Genes Affect Population Growth, but the Environment Determines How",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2006-05",
+  "dateElectronic": "2006-04-25",
+  "volume": "4",
+  "number": "5",
+  "pages": "e150",
+  "tags": [
+    "Discipline/Ecology",
+    "Discipline/Evolutionary Biology",
+    "Discipline/Genetics and Genomics",
+    "System Taxonomy/Animals",
+    "System Taxonomy/Arthropods",
+    "System Taxonomy/Eukaryotes",
+    "System Taxonomy/Insects",
+    "Type/Synopsis"
+  ],
+  "fullText": "Why does a population in the wild grow or shrink, or remain the same over generations? Genes would seem an obvious factor, but in fact there is remarkably little evidence that genetic effects influence year-to-year population dynamics, beyond the well-recognized negative effect from inbreeding on very small populations.\n\nThis lack of evidence for a genetic effect partly reflects the difficulty of choosing which gene to study, as only a few genes may be under strong selection at any given time, and fewer still will affect population dynamics. It also partly reflects an important truth about natural selection—it may determine who survives to reproduce, but not necessarily the total number of survivors. In many cases, ecological factors such as resource abundance and natural enemies may overwhelm any slight genetic effect on population dynamics.\n\nFinding a genetic effect, then, would require both knowing which pin in the genetic haystack to look for and having detailed knowledge of the complex and powerful environmental factors against which this effect plays out. In a new study, Ilkka Hanski and Ilik Saccheri show that variants of a sugar-metabolizing gene do indeed influence population growth in a species of butterfly, but in a complex and habitat-dependent way.\n\nThe authors studied the Glanville fritillary butterfly on the Åland Islands in Finland, where its population dynamics are well studied, and its habitat—patches of dry meadows spread across the landscape—is well mapped. They focused on the gene phosphoglucose isomerase \n\t\t\t\t(Pgi), a key enzyme in the breakdown of sugar. The \n\t\t\t\tPgi gene occurs in several forms, or alleles, whose proteins differ in their kinetic properties and thermal stability. These alleles have been previously linked to differences in flight metabolic rate and fecundity in this butterfly, making the gene a good candidate for observing a population effect, if there is one. The \n\t\t\t\tf and \n\t\t\t\td alleles of \n\t\t\t\tPgi are the most common, and previous work has shown that butterflies with either an \n\t\t\t\tff or an \n\t\t\t\tfd genotype have a higher flight metabolic rate and are more fecund than those with a \n\t\t\t\tdd genotype.\n\nBy analyzing genotypes, population growth, and habitat area simultaneously among more than 130 small butterfly populations, the authors showed that, in small meadows, growth was highest when the \n\t\t\t\tff or \n\t\t\t\tfd genotypes predominated, but in larger meadows, the opposite was true—these genotypes predicted a decline in numbers instead of a rise, while \n\t\t\t\tdd was favored. The effect appeared to be specific to \n\t\t\t\tPgi, as there was no correlation with genotype for any of the six other genes.\n\nThe likely explanation for this effect, according to the authors, is related to the differences in maturation and egg laying between females bearing \n\t\t\t\tf and \n\t\t\t\td alleles. Those with \n\t\t\t\tf alleles mature quickly and lay more eggs early on, just the strategy for exploiting a small patch, from which many butterflies risk drifting away rather quickly in their life. Those with \n\t\t\t\td alleles mature later but also die later, allowing them to exploit a larger habitat more thoroughly. However, the authors note that this may not be the only, or even the main, reason for the genotype-habitat area effect, since \n\t\t\t\tPgi is likely to influence many different aspects of life history.\n\nThe results of this study confirm that, under the right circumstances, intraspecific genetic variation can influence population growth. But they also make an important point about fitness. A major goal of evolutionary physiology is to understand the selective advantage of the traits found in a population, and it is often tempting in this pursuit to assume there is a single “best” genotype. This study provides a strong counterargument against such one-size-fits-all models of evolution, pointing out that in the ecological theater, which script plays best is a function of exactly which stage you are on.",
+  "externalIds": [
+    "pmid:20076568",
+    "pmcid:PMC1440943"
+  ]
+}

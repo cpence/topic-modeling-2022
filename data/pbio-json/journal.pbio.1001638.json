@@ -1,0 +1,511 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001638",
+  "doi": "10.1371/journal.pbio.1001638",
+  "externalIds": [
+    "pii:PBIOLOGY-D-13-01644",
+    "pmid:24013487",
+    "pmcid:PMC3754883"
+  ],
+  "license": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "The COMBREX Project: Design, Methodology, and Initial Results",
+  "authors": [
+    {
+      "name": "Brian P. Anton",
+      "first": "Brian P.",
+      "last": "Anton",
+      "affiliation": "New England Biolabs, Ipswich, Massachusetts, United States of America"
+    },
+    {
+      "name": "Yi-Chien Chang",
+      "first": "Yi-Chien",
+      "last": "Chang",
+      "affiliation": "Bioinformatics Program, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Peter Brown",
+      "first": "Peter",
+      "last": "Brown",
+      "affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Han-Pil Choi",
+      "first": "Han-Pil",
+      "last": "Choi",
+      "affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Lina L. Faller",
+      "first": "Lina L.",
+      "last": "Faller",
+      "affiliation": "Bioinformatics Program, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Jyotsna Guleria",
+      "first": "Jyotsna",
+      "last": "Guleria",
+      "affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Zhenjun Hu",
+      "first": "Zhenjun",
+      "last": "Hu",
+      "affiliation": "Bioinformatics Program, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Niels Klitgord",
+      "first": "Niels",
+      "last": "Klitgord",
+      "affiliation": "Bioinformatics Program, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Ami Levy-Moonshine",
+      "first": "Ami",
+      "last": "Levy-Moonshine",
+      "affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Almaz Maksad",
+      "first": "Almaz",
+      "last": "Maksad",
+      "affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Varun Mazumdar",
+      "first": "Varun",
+      "last": "Mazumdar",
+      "affiliation": "Bioinformatics Program, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Mark McGettrick",
+      "first": "Mark",
+      "last": "McGettrick",
+      "affiliation": "Diatom Software LLC, Holliston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Lais Osmani",
+      "first": "Lais",
+      "last": "Osmani",
+      "affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Revonda Pokrzywa",
+      "first": "Revonda",
+      "last": "Pokrzywa",
+      "affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "John Rachlin",
+      "first": "John",
+      "last": "Rachlin",
+      "affiliation": "Diatom Software LLC, Holliston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Rajeswari Swaminathan",
+      "first": "Rajeswari",
+      "last": "Swaminathan",
+      "affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Benjamin Allen",
+      "first": "Benjamin",
+      "last": "Allen",
+      "affiliation": "Program for Evolutionary Dynamics, Harvard University, Cambridge, Massachusetts, United States of America; Department of Mathematics, Emmanuel College, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Genevieve Housman",
+      "first": "Genevieve",
+      "last": "Housman",
+      "affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Caitlin Monahan",
+      "first": "Caitlin",
+      "last": "Monahan",
+      "affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Krista Rochussen",
+      "first": "Krista",
+      "last": "Rochussen",
+      "affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Kevin Tao",
+      "first": "Kevin",
+      "last": "Tao",
+      "affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Ashok S. Bhagwat",
+      "first": "Ashok S.",
+      "last": "Bhagwat",
+      "affiliation": "Department of Chemistry, Wayne State University, Detroit, Michigan, United States of America"
+    },
+    {
+      "name": "Steven E. Brenner",
+      "first": "Steven E.",
+      "last": "Brenner",
+      "affiliation": "Department of Plant and Microbial Biology, University of California, Berkeley, California, United States of America"
+    },
+    {
+      "name": "Linda Columbus",
+      "first": "Linda",
+      "last": "Columbus",
+      "affiliation": "Department of Chemistry, University of Virginia, Charlottesville, Virginia, United States of America"
+    },
+    {
+      "name": "Valérie de Crécy-Lagard",
+      "first": "Valérie",
+      "last": "de Crécy-Lagard",
+      "affiliation": "Department of Microbiology and Cell Science, University of Florida, Gainesville, Florida, United States of America"
+    },
+    {
+      "name": "Donald Ferguson",
+      "first": "Donald",
+      "last": "Ferguson",
+      "affiliation": "Department of Microbiology, Miami University, Oxford, Ohio, United States of America"
+    },
+    {
+      "name": "Alexey Fomenkov",
+      "first": "Alexey",
+      "last": "Fomenkov",
+      "affiliation": "New England Biolabs, Ipswich, Massachusetts, United States of America"
+    },
+    {
+      "name": "Giovanni Gadda",
+      "first": "Giovanni",
+      "last": "Gadda",
+      "affiliation": "Department of Chemistry, Georgia State University, Atlanta, Georgia, United States of America"
+    },
+    {
+      "name": "Richard D. Morgan",
+      "first": "Richard D.",
+      "last": "Morgan",
+      "affiliation": "New England Biolabs, Ipswich, Massachusetts, United States of America"
+    },
+    {
+      "name": "Andrei L. Osterman",
+      "first": "Andrei L.",
+      "last": "Osterman",
+      "affiliation": "Bioinformatics and Systems Biology, Sanford Burnham Medical Research Institute, La Jolla, California, United States of America"
+    },
+    {
+      "name": "Dmitry A. Rodionov",
+      "first": "Dmitry A.",
+      "last": "Rodionov",
+      "affiliation": "Bioinformatics and Systems Biology, Sanford Burnham Medical Research Institute, La Jolla, California, United States of America"
+    },
+    {
+      "name": "Irina A. Rodionova",
+      "first": "Irina A.",
+      "last": "Rodionova",
+      "affiliation": "Bioinformatics and Systems Biology, Sanford Burnham Medical Research Institute, La Jolla, California, United States of America"
+    },
+    {
+      "name": "Kenneth E. Rudd",
+      "first": "Kenneth E.",
+      "last": "Rudd",
+      "affiliation": "Department of Biochemistry and Molecular Biology, University of Miami, Miami, Florida, United States of America"
+    },
+    {
+      "name": "Dieter Söll",
+      "first": "Dieter",
+      "last": "Söll",
+      "affiliation": "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "James Spain",
+      "first": "James",
+      "last": "Spain",
+      "affiliation": "School of Civil and Environmental Engineering, Georgia Institute of Technology, Atlanta, Georgia, United States of America"
+    },
+    {
+      "name": "Shuang-yong Xu",
+      "first": "Shuang-yong",
+      "last": "Xu",
+      "affiliation": "New England Biolabs, Ipswich, Massachusetts, United States of America"
+    },
+    {
+      "name": "Alex Bateman",
+      "first": "Alex",
+      "last": "Bateman",
+      "affiliation": "European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridgeshire, United Kingdom"
+    },
+    {
+      "name": "Robert M. Blumenthal",
+      "first": "Robert M.",
+      "last": "Blumenthal",
+      "affiliation": "Department of Medical Microbiology and Immunology, and Program in Bioinformatics, University of Toledo, Toledo, Ohio, United States of America"
+    },
+    {
+      "name": "J. Martin Bollinger",
+      "first": "J. Martin",
+      "last": "Bollinger",
+      "affiliation": "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, Pennsylvania, United States of America"
+    },
+    {
+      "name": "Woo-Suk Chang",
+      "first": "Woo-Suk",
+      "last": "Chang",
+      "affiliation": "Department of Biology, University of Texas-Arlington, Arlington, Texas, United States of America"
+    },
+    {
+      "name": "Manuel Ferrer",
+      "first": "Manuel",
+      "last": "Ferrer",
+      "affiliation": "Spanish National Research Council (CSIC), Institute of Catalysis, Madrid, Spain"
+    },
+    {
+      "name": "Iddo Friedberg",
+      "first": "Iddo",
+      "last": "Friedberg",
+      "affiliation": "Department of Microbiology, Miami University, Oxford, Ohio, United States of America"
+    },
+    {
+      "name": "Michael Y. Galperin",
+      "first": "Michael Y.",
+      "last": "Galperin",
+      "affiliation": "National Center for Biotechnology Information (NCBI), National Institutes of Health (NIH), Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "Julien Gobeill",
+      "first": "Julien",
+      "last": "Gobeill",
+      "affiliation": "Department of Library and Information Sciences, University of Applied Sciences Western Switzerland, Geneva, Switzerland; Bibliomics and Text Mining Group, Swiss Institute of Bioinformatics, Geneva, Switzerland"
+    },
+    {
+      "name": "Daniel Haft",
+      "first": "Daniel",
+      "last": "Haft",
+      "affiliation": "J. Craig Venter Institute, Rockville, Maryland, United States of America"
+    },
+    {
+      "name": "John Hunt",
+      "first": "John",
+      "last": "Hunt",
+      "affiliation": "Biological Sciences, Columbia University, New York, New York, United States of America"
+    },
+    {
+      "name": "Peter Karp",
+      "first": "Peter",
+      "last": "Karp",
+      "affiliation": "Bioinformatics Research Group, Artificial Intelligence Center, SRI International, Menlo Park, California, United States of America"
+    },
+    {
+      "name": "William Klimke",
+      "first": "William",
+      "last": "Klimke",
+      "affiliation": "National Center for Biotechnology Information (NCBI), National Institutes of Health (NIH), Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "Carsten Krebs",
+      "first": "Carsten",
+      "last": "Krebs",
+      "affiliation": "Department of Biochemistry and Molecular Biology, Pennsylvania State University, University Park, Pennsylvania, United States of America"
+    },
+    {
+      "name": "Dana Macelis",
+      "first": "Dana",
+      "last": "Macelis",
+      "affiliation": "New England Biolabs, Ipswich, Massachusetts, United States of America"
+    },
+    {
+      "name": "Ramana Madupu",
+      "first": "Ramana",
+      "last": "Madupu",
+      "affiliation": "J. Craig Venter Institute, Rockville, Maryland, United States of America"
+    },
+    {
+      "name": "Maria J. Martin",
+      "first": "Maria J.",
+      "last": "Martin",
+      "affiliation": "European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridgeshire, United Kingdom"
+    },
+    {
+      "name": "Jeffrey H. Miller",
+      "first": "Jeffrey H.",
+      "last": "Miller",
+      "affiliation": "Department of Microbiology, Immunology, and Molecular Genetics, University of California, Los Angeles, Los Angeles, California, United States of America"
+    },
+    {
+      "name": "Claire O'Donovan",
+      "first": "Claire",
+      "last": "O'Donovan",
+      "affiliation": "European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridgeshire, United Kingdom"
+    },
+    {
+      "name": "Bernhard Palsson",
+      "first": "Bernhard",
+      "last": "Palsson",
+      "affiliation": "Department of Bioengineering, University of California, San Diego, La Jolla, California, United States of America"
+    },
+    {
+      "name": "Patrick Ruch",
+      "first": "Patrick",
+      "last": "Ruch",
+      "affiliation": "Department of Library and Information Sciences, University of Applied Sciences Western Switzerland, Geneva, Switzerland; Bibliomics and Text Mining Group, Swiss Institute of Bioinformatics, Geneva, Switzerland"
+    },
+    {
+      "name": "Aaron Setterdahl",
+      "first": "Aaron",
+      "last": "Setterdahl",
+      "affiliation": "Department of Chemistry, Indiana University Southeast, New Albany, Indiana, United States of America"
+    },
+    {
+      "name": "Granger Sutton",
+      "first": "Granger",
+      "last": "Sutton",
+      "affiliation": "J. Craig Venter Institute, Rockville, Maryland, United States of America"
+    },
+    {
+      "name": "John Tate",
+      "first": "John",
+      "last": "Tate",
+      "affiliation": "Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridgeshire, United Kingdom"
+    },
+    {
+      "name": "Alexander Yakunin",
+      "first": "Alexander",
+      "last": "Yakunin",
+      "affiliation": "Department of Chemical Engineering and Applied Chemistry, University of Toronto, Toronto, Ontario, Canada"
+    },
+    {
+      "name": "Dmitri Tchigvintsev",
+      "first": "Dmitri",
+      "last": "Tchigvintsev",
+      "affiliation": "Department of Chemical Engineering and Applied Chemistry, University of Toronto, Toronto, Ontario, Canada"
+    },
+    {
+      "name": "Germán Plata",
+      "first": "Germán",
+      "last": "Plata",
+      "affiliation": "Center for Computational Biology and Bioinformatics, Columbia University, New York, New York, United States of America; Integrated Program in Cellular, Molecular, Structural, and Genetic Studies, Columbia University, New York, New York, United States of America"
+    },
+    {
+      "name": "Jie Hu",
+      "first": "Jie",
+      "last": "Hu",
+      "affiliation": "Center for Computational Biology and Bioinformatics, Columbia University, New York, New York, United States of America"
+    },
+    {
+      "name": "Russell Greiner",
+      "first": "Russell",
+      "last": "Greiner",
+      "affiliation": "Department of Computing Science, University of Alberta, Edmonton, Alberta, Canada"
+    },
+    {
+      "name": "David Horn",
+      "first": "David",
+      "last": "Horn",
+      "affiliation": "School of Physics and Astronomy, Tel Aviv University, Tel Aviv, Israel"
+    },
+    {
+      "name": "Kimmen Sjölander",
+      "first": "Kimmen",
+      "last": "Sjölander",
+      "affiliation": "Berkeley Phylogenomics Group, University of California, Berkeley, California, United States of America"
+    },
+    {
+      "name": "Steven L. Salzberg",
+      "first": "Steven L.",
+      "last": "Salzberg",
+      "affiliation": "Departments of Medicine and Biostatistics, McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, United States of America"
+    },
+    {
+      "name": "Dennis Vitkup",
+      "first": "Dennis",
+      "last": "Vitkup",
+      "affiliation": "Center for Computational Biology and Bioinformatics, Columbia University, New York, New York, United States of America"
+    },
+    {
+      "name": "Stanley Letovsky",
+      "first": "Stanley",
+      "last": "Letovsky",
+      "affiliation": "Bioinformatics Program, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Daniel Segrè",
+      "first": "Daniel",
+      "last": "Segrè",
+      "affiliation": "Bioinformatics Program, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Charles DeLisi",
+      "first": "Charles",
+      "last": "DeLisi",
+      "affiliation": "Bioinformatics Program, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Richard J. Roberts",
+      "first": "Richard J.",
+      "last": "Roberts",
+      "affiliation": "New England Biolabs, Ipswich, Massachusetts, United States of America; Bioinformatics Program, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Martin Steffen",
+      "first": "Martin",
+      "last": "Steffen",
+      "affiliation": "Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Simon Kasif",
+      "first": "Simon",
+      "last": "Kasif",
+      "affiliation": "Bioinformatics Program, Boston University, Boston, Massachusetts, United States of America; Department of Biomedical Engineering, Boston University, Boston, Massachusetts, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2013-08",
+  "volume": "11",
+  "number": "8",
+  "pages": "e1001638",
+  "tags": [
+    "Biochemistry",
+    "Biological data management",
+    "Comparative genomics",
+    "Computational biology",
+    "Discipline-v2/Biochemistry",
+    "Discipline-v2/Biological data management",
+    "Discipline-v2/Biology",
+    "Discipline-v2/Comparative genomics",
+    "Discipline-v2/Computational biology",
+    "Discipline-v2/Enzymes",
+    "Discipline-v2/Escherichia coli",
+    "Discipline-v2/Functional genomics",
+    "Discipline-v2/Gene function",
+    "Discipline-v2/Genetics",
+    "Discipline-v2/Genome databases",
+    "Discipline-v2/Genome sequencing",
+    "Discipline-v2/Genomics",
+    "Discipline-v2/Microbial pathogens",
+    "Discipline-v2/Microbiology",
+    "Discipline-v2/Model organisms",
+    "Discipline-v2/Molecular genetics",
+    "Discipline-v2/Prokaryotic models",
+    "Discipline-v2/Sequence analysis",
+    "Enzymes",
+    "Escherichia coli",
+    "Functional genomics",
+    "Gene function",
+    "Genetics",
+    "Genome databases",
+    "Genome sequencing",
+    "Genomics",
+    "Microbial pathogens",
+    "Microbiology",
+    "Model organisms",
+    "Molecular genetics",
+    "Prokaryotic models",
+    "Sequence analysis",
+    "Type/Community Page"
+  ],
+  "abstract": "Experimental data exists for only a vanishingly small fraction of sequenced microbial genes. This community page discusses the progress made by the COMBREX project to address this important issue using both computational and experimental resources.",
+  "fullText": "Introduction\n\nPrior to the “genomic era,” when the acquisition of DNA sequence involved significant labor and expense, the sequencing of genes was strongly linked to the experimental characterization of their products. Sequencing at that time directly resulted from the need to understand an experimentally determined phenotype or biochemical activity. Now that DNA sequencing has become orders of magnitude faster and less expensive, focus has shifted to sequencing entire genomes. Since biochemistry and genetics have not, by and large, enjoyed the same improvement of scale, public sequence repositories now predominantly contain putative protein sequences for which there is no direct experimental evidence of function. Computational approaches attempt to leverage evidence associated with the ever-smaller fraction of experimentally analyzed proteins to predict function for these putative proteins. Maximizing our understanding of function over the universe of proteins in toto requires not only robust computational methods of inference but also a judicious allocation of experimental resources, focusing on proteins whose experimental characterization will maximize the number and accuracy of follow-on predictions.\n\nCOMBREX (COMputational BRidges to EXperiments, http://combrex.bu.edu) is an NIH-funded enterprise that has brought computational and experimental biologists together, with the goal of greatly improving our overall understanding of microbial protein function [1],[2]. Since its inception, it has made significant progress toward the following goals: identifying the minority of proteins that have already been experimentally characterized, serving as a public repository of novel protein function predictions made by diverse methods, producing a clear chain of evidence from experiment to prediction, identifying (“recommending”) those functional predictions whose verification will contribute most to our overall understanding of protein function, and actually funding the experiments to test function. The recommendation system is a proof of concept based on active learning principles and includes, for a given protein, criteria including phylogenetic distribution of its protein family, biological and clinical phenotypes associated with it, the availability of protein structure data, and its sequence distance from experimentally determined proteins or from the other proteins in its family.\n\nCOMBREX comprises several interrelated efforts. First, the project is building a community of researchers (the COMBREX Community) committed to achieving the goals above. Second, the project maintains a web-accessible database (the COMBREX Database) of known and predicted functions for microbial proteins. The database search features enable biologists to identify predictions whose experimental verification is particularly important. Finally, the project issues small monetary awards (COMBREX grants) to biologists to fund the experimental testing of such predictions. In this paper, we provide a brief review of COMBREX, focusing on its overall design, its computational resources, and the experimental results from the first phase of the project.\n\nOverview of COMBREX\n\nThe activities of the COMBREX Community are summarized in Figure 1. As a starting point, we identify those proteins with experimentally confirmed functions (a functional “ground truth”). The COMBREX Community and its collaborators have assembled and are in the process of curating such a set, called the Gold Standard Database (GSDB). This set of known sequence-function relationships will ultimately serve as the basis for making predictions for similar proteins whose functions have not been experimentally determined and can be used to train other types of prediction-generating algorithms. Currently, the GSDB can be selectively accessed through the COMBREX Database by searching for proteins whose functions are experimentally determined.\n\nThe objectives of the COMBREX Database are to act as a comprehensive repository of protein function predictions and experimental data, and to recommend important predictions to researchers for experimental analysis. Approximately 3.3 million proteins from more than 1,000 completely sequenced microbial genomes are represented in the database, and these are associated with about 2.5 million predictions of function. The functional status of each protein (that is, whether the function is known through direct observation, through prediction, or not at all) is summarized in Figure 2: experimentally characterized proteins are designated green, proteins with functional predictions blue, and those with no available predictions black (see Materials and Methods in Text S1 for further description of the color coding). The small fraction of experimentally characterized proteins is necessarily an underestimate because the GSDB is still a work in progress, but we estimate the true number is likely no more than ten-fold larger. The fraction of proteins with at least one computationally predicted function (76%) is by far the largest category, although the degree to which the prediction specifies a precise function varies widely.\n\nPredictive models learn the most about a set of proteins through the experiment that produces the maximum gain of information over the entire set, and so identifying such experiments is of critical importance. Protein function predictions within the COMBREX Database are prioritized based on the expected information to be gained by their experimental testing. Information gained from experiments can be defined formally using probabilistic criteria [3], but can be understood intuitively in terms of the number of proteins for which predictions can be made, and the accuracy of those predictions, using the new experimental evidence. The recommendation system that performs the prioritization is intended to provide guidance to experimental researchers interested in applying for COMBREX grants. These grants are issued to biochemists and molecular biologists to enable the experiments needed to characterize specific microbial proteins, giving preference to those of “high priority” as identified by this system. The results of successful experiments can then be added to the GSDB, thereby completing the cycle depicted in Figure 1. COMBREX grants are dependent upon external funding, and the first round of awards was generously supported by the NIH using a novel funding mechanism. COMBREX continues to seek additional sources of funding to enlarge the participating community internationally.\n\nCOMBREX Grants: Experiments Funded\n\nOur funding model encourages the experimental characterization of proteins through small-scale funding of many laboratories using grants directly managed by COMBREX. Although high-throughput methods may ultimately allow for the study of many proteins simultaneously, at present the most effective way to accurately characterize protein function is through the dedicated examination of individual proteins. In order to maximize the value of COMBREX grants, they are preferentially issued to laboratories with demonstrated experience in the proposed assays. There are experimental and economic efficiencies to be gained by this in that these laboratories will typically already possess many of the reagents required for the assay, including relevant substrate libraries, as well as personnel with the expertise to conduct the assays rapidly. In addition, we advocate the testing of several members of a given protein family within a single grant whenever possible, since once all the necessary components are in place to test a single protein, there are only marginal increases in cost and labor needed to test multiple similar proteins. Importantly, should these similar proteins demonstrate different functions, this approach has the potential to delineate functional boundaries in sequence space, improving the follow-on predictions for many other proteins. All COMBREX grant applications are reviewed by an external panel of scientists to ensure that the proposed work is scientifically sound and that each laboratory is well suited to the proposed tasks.\n\nIn the first year of the project, COMBREX-funded and COMBREX-associated experimental efforts have initiated the examination of 140 proteins. (Funded teams can be found on the COMBREX website, at http://combrex.bu.edu/acknowledgments, and a complete list of these proteins can be found in Table S1.) In the ideal case that all of the proposed experiments are successful, the potential impact of these experiments in terms of follow-on predictions would be significant: the 140 proteins reside in Protein Clusters containing in total more than 3,200 proteins (resulting in high-confidence predictions for these) and are similar to over 60,000 proteins with BLAST E-values less than 1e-05 (resulting in lower-confidence predictions for these). Furthermore, among these 140 proteins are encoded eight Pfam-defined domains of unknown function (DUFs), resulting in novel predictive insights for all other proteins containing these DUFs (a total of 1,610 in the COMBREX Database). Finally, 37 of these 140 proteins contain a total of 28 unique Pfam-defined domains shared with human proteins, providing functional insights that may impact human health.\n\nResearch on about half of these proteins has been successfully completed, and results for some have been published [4]–[8], while research on the other half is still in progress. For those results that have been reported, 65% of proteins (44 of 68) have been verified to have the predicted function described in the COMBREX grant proposal, while no activity was observed for the remaining 24 (Table S1). Nine manuscripts funded by these COMBREX grants have been submitted for publication or are in preparation. As examples, we highlight the results of three COMBREX grants in Text S1.\n\nConnecting Function Predictions with Experimental Data\n\nA major effort of COMBREX is to make predictions of gene function traceable to their experimental underpinnings. This knowledge is critical to any researcher attempting to assess the probability that a particular prediction is correct. Unfortunately, this information has generally not been maintained in most databases. Indeed, it is frequently unclear whether an annotated function describes the results of an experiment performed on that protein or is an inference made based upon homology to some other protein on which the experiment was performed.\n\nIn the COMBREX Database, this trace should ideally make clear the method used to generate the prediction, the input to the method, and the confidence in the &lt;gene, prediction&gt; pairing as measured by the method's scoring scheme. In practice, this is not always possible, particularly for unsourced annotations imported from public databases. However, direct comparison of such unsourced annotations with COMBREX-supported GSDB-based similarity assessment can provide some measure of confidence. For many uncharacterized proteins, COMBREX provides predictions based on sequence similarity to GSDB proteins: we note the GSDB protein that is the source of the prediction, the experimentally determined function, the publication(s) describing those experiments, and the degree of sequence similarity. As additional proofs of concept, we have explored similarities based upon protein structure and protein domain composition to assess the extent to which the experimental data in the GSDB can generate predictions for the remaining uncharacterized proteins. Specifically, we sought to determine the fractions of all uncharacterized proteins (blue or black) that can be related to experimentally characterized proteins (green) through sequence and domain-composition similarity under various thresholds. Results of these analyses, which are described in Text S1, show that existing experimental information can provide functional insight into more than half of all uncharacterized proteins.\n\nPrioritizing Predictions for Experimental Testing\n\nGiven the enormous mismatch in the rates of gene discovery by DNA sequencing and protein function confirmation by experiment, there is a compelling motivation to identify those proteins for which experimental results would be maximally informative in terms of follow-on predictive power. The COMBREX Database attempts to prioritize predictions based on the expected information to be gained by their experimental testing. We envision eventually employing a comprehensive metric based on probabilistic functional linkage [12]–[14] to assess “importance” using information theoretical principles. Our current recommendation system is a prototype that uses several relatively simple criteria to identify “important” proteins and make funding decisions.\n\nThe first criterion is the functional status of proteins assigned by COMBREX, with the rationale being to focus on those that have testable predicted functions but no associated experimental evidence (blue genes [Figure 2]). Second, when recommending proteins to examine from within a large family (cluster), COMBREX recommends candidates based on two properties: genome of origin and position within the cluster. We have chosen two “focus organisms,” Escherichia coli K-12 MG1655 and Helicobacter pylori 26695, for which we would like to obtain a large amount of experimental evidence, and we encourage confirming predictions from genes in these two strains. If a cluster does not contain a member from either of these genomes, COMBREX recommends gene(s) with the shortest average sequence distance to all other members of the cluster, in an attempt to select a gene most likely to be representative of the family (see Materials and Methods in Text S1). Third, we recommend proteins from larger protein families over those from smaller families, where a “family” is a super-cluster as defined by ProtClustDB (Materials and Methods in Text S1). Under the assumption that families are isofunctional, experimental evidence from one protein is likely to have an impact on our total understanding of protein function that is proportionate to the size of its family. This concept has been the subject of one published list of proposed experimental targets [15]. Finally, we recognize that there are significant contributory factors to “importance” that are independent of family size or sequence similarity. Examples of such factors might include being a key member of a particular biochemical pathway, having a biochemical function not previously identified experimentally, indicating functional diversification within a family previously thought to be isofunctional, or being associated with a phenotype of interest. This last factor benefits greatly from community input, and we encourage Community members to nominate proteins they believe to be important. A more detailed discussion of prioritization criteria can be found in Text S1.\n\nTaking the above criteria into consideration, COMBREX has identified 100 genes we believe are of high priority for experimental analysis (http://combrex.bu.edu/top100) and specifically encourage proposals to characterize these proteins.\n\nToward a Gold Standard Database\n\nExperimental observations provide the foundation on which all functional predictions rest. In order to properly trace predictions to experiments, as well as to intelligently select maximally informative proteins for future experimental testing, one requires comprehensive knowledge of the identities of previously characterized proteins. In collaboration with NCBI, JCVI, and UniProt, we have begun assembling such a comprehensive set, namely the GSDB. A schema for the nomination and inclusion of genes in the GSDB is shown in Figure S4. First, candidate genes with functions that are believed to be experimentally determined are identified, either by importation from other curated databases such as EcoCyc, CharProtDB (JCVI) [16],[17], REBASE, and UniProtKB/Swiss-Prot, or by “nomination” by COMBREX Community members via the website. Once identified, candidate genes are manually examined by volunteer curators to see if they meet the criteria for inclusion in the GSDB.\n\nTwo criteria must be met for a gene/protein to meet the curation standards. First, the biochemical function of the gene product must have been determined experimentally in a published work or fully documented in a public database. Second, the DNA and/or protein sequence of the precise protein whose function was determined must also be known and be publicly available. Typically, this involves knowing with some precision the bacterial or archaeal strain from which the experimentally determined protein was isolated or cloned. These criteria are specified to ensure an unambiguous correspondence between sequence and function.\n\nAt present, the GSDB is small but growing; statistics are shown in Table 1. While the total number of experimentally characterized proteins is unknown, we estimate the number to be well above 50,000. The open-source, collaborative nature of COMBREX and partnering databases, combined with extensive participation from the scientific community at large, will be required for comprehensive identification of characterized proteins. We encourage everyone to nominate the proteins about which they have knowledge using the simple submission form at the COMBREX website (http://combrex.bu.edu/gold_form; requires registration) and to volunteer to help curate candidate GSDB proteins.\n\nA Community-Based Model\n\nCOMBREX was initiated in response to a 2004 PLOS Biology editorial that proposed a community-wide effort to better understand the proteins encoded in the genomes we are continuing to sequence [1]. For success, the project relies on community participation for three major efforts: biochemical study of proteins by experimental biologists, computational function prediction by computational biologists, and manual curation of experimental information in the GSDB.\n\nThe biochemical effort by COMBREX is predicated on three principles: prioritization of experiments, parallelization of effort, and dissemination of results. Since we are limited to funding a relatively small number of experiments, prioritization is intended to guide us toward preferentially funding those experiments that can tell us the most not just about the specific proteins under study, but about other proteins for which these experimental results can generate predictions. The prioritization system, though rudimentary in its current form, is formally grounded in machine learning, specifically in active learning theory [3],[18],[19] (see Text S1).\n\nDissemination of the experimental results of COMBREX grants involves updating the GSDB, which leads directly to the generation of computational functional predictions for other proteins. The community of biologists relies heavily on gene and protein “annotations” in public databases for this predictive information, but these have several long-recognized shortcomings: the process by which a given annotation was generated is typically not transparent, the information is not always current with published literature, the error rate among these annotations can be high, and many lower-throughput methods of functional inference are not utilized [20]–[22]. Therefore, reliance on any one database for the predictive evidence COMBREX needs to effectively prioritize proteins would be unwise. We have therefore taken the approach not of selecting or generating the single best functional prediction for a given protein, but rather serving as a repository of predictions from many sources, which can be compared and evaluated using both statistical and biological criteria. While we work closely with several groups that specialize in benchmarking and competition, we also seek to identify methodologies that have complementary capabilities. This approach opens the door for the dissemination of results from specialized algorithms for functional prediction in a way not previously possible. The emphasis on function predictions, the documentation of evidence for these predictions, and the prioritization of uncharacterized proteins for experimental testing distinguish COMBREX from other publicly available microbial genomics resources such as IMG [23], SEED [24], GOLD [25], BioCyc [26], and others, each of which have their own unique emphasis.\n\nThe GSDB project, which requires the distillation of decades of published literature, also requires public participation through what we envision to be a crowdsourcing model. We have assembled preliminary data through collaboration with UniProt and with CharProtDB, a partially curated set of proteins with experimental evidence assembled by JCVI to serve as a source of evidence for its microbial genome annotation pipeline. However, manual curation or wiki-style collaboration will ultimately be needed to ensure the completeness of the information and the precise linkage of sequence and function. Our best hope for the success of the fledgling GSDB is broad participation from the experimental community in identifying characterized proteins and performing the necessary curation.\n\nThe public participation encouraged and required by COMBREX may have the additional benefit of exposing younger students to the biological sciences. The small-scale grant model that COMBREX has employed enables participation at the undergraduate level for appropriately equipped laboratories, since the necessary assays are frequently straightforward, self-contained in scope, and have technical challenges that can easily be met by beginning students with appropriate supervision. Furthermore, curricula built around teaching the techniques of cloning, protein purification, and biochemical assay to multiple students can be readily adapted to testing multiple related proteins in parallel. As an example of COMBREX-funded undergraduate participation, students in one laboratory section at the University of Virginia under the supervision of Linda Columbus were able to successfully investigate biochemical activities and enzyme kinetics for three previously uncharacterized proteins: TM0441 (results of different substrates further support the findings of Rodionova and colleagues [27] [and see Text S1]) and TM0542 from Thermotoga maritima, and Ta0880 from Thermoplasma acidophilum DSM1728 [28]. COMBREX hopes to continue collaboration with this group (http://biochemlab.org) and to replicate these successes as part of an educational component at numerous undergraduate institutions.\n\nConcluding Remarks\n\nCOMBREX is attempting to leverage relatively scant experimental resources to understand a large and growing collection of microbial proteins, the vast majority of which will likely never be directly functionally characterized. Computational predictions must continue to provide the basis for our understanding of most proteins. It is imperative that these predictions be as reliable as possible, and whenever possible, traceable to the experiments that provided the evidence for each prediction. When allocating experimental resources for this task, not all proteins are of equal benefit. In the most simplistic sense, characterization of a judiciously chosen protein generates or improves predictions for many other proteins across many genomes, while characterization of a protein related to few or no other proteins (often referred to as an ORFan [29],[30]) may have a much smaller impact. Despite the large number of genome sequences already available, new ORFans continue to appear at a significant frequency, leading some to estimate that the bacterial pan-genome may be of infinite size [31]. This suggests that a complete understanding of all bacterial proteins may be impossible, hence the need for prioritization. As an alternative to complete understanding, as proof of concept we adopted the twin goals of pushing our overall understanding toward the asymptote (by giving priority to conserved genes) and working toward the complete understanding of all proteins in one or a few genomes (by identifying “focus organisms”). With community participation on the experimental, computational, and curatorial sides, we feel these goals are within reach.\n\nPredictions of Protein Function\n\nSources of predictions:\n\nCOMBREX Community members, who can submit the results of their novel computational algorithms. We recognize that no single computational framework is likely to provide the most, or the best, predictions for all genes, and so we encourage the submission of predictions from a wide range of methodologies.\n\nResults of high-throughput experimentation, which may provide general clues to the functional role(s) of a protein.\n\nFunctional associations generated by COMBREX's own algorithms, which link uncharacterized proteins to sufficiently similar GSDB proteins.\n\nAnnotations available in publicly available databases such as the UniProt Knowledgebase (UniProtKB) [9], ProtClustDB [10], and RefSeq [11]. This group is by far the largest contributor, and COMBREX views any annotation or assignment of protein function that is not explicitly based on the experimental testing of that protein as a prediction.\n\nCurrent progress: Currently, six computational teams have submitted function predictions to COMBREX, covering a total of 10,254 individual proteins (Table S5). We strongly encourage additional computational groups with published sets of predictions to consider submission to COMBREX, which can help publicize predictions and aid in the recruitment of experimentalists to test them. COMBREX does not have as a goal the comparison of the relative accuracies of various methods, but rather aims to integrate predictions from different sources and methodologies to gain the most complete possible picture of predicted functions for each protein. Users may browse and compare the predictions to draw their own conclusions about the protein's likely function. To date, three predictions submitted to COMBREX by computational teams have been successfully validated by experimental assays (manuscript in preparation).\n\nSupporting Information"
+}

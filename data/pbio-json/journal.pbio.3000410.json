@@ -1,0 +1,288 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000410",
+  "doi": "10.1371/journal.pbio.3000410",
+  "externalIds": [
+    "pii:PBIOLOGY-D-19-01863",
+    "pmid:32663219",
+    "pmcid:PMC7360023"
+  ],
+  "license": "This is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "The ARRIVE guidelines 2.0: Updated guidelines for reporting animal research",
+  "authors": [
+    {
+      "name": "Nathalie Percie du Sert",
+      "first": "Nathalie",
+      "last": "Percie du Sert",
+      "affiliation": "NC3Rs, London, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9478-0540"
+      ]
+    },
+    {
+      "name": "Viki Hurst",
+      "first": "Viki",
+      "last": "Hurst",
+      "affiliation": "NC3Rs, London, United Kingdom"
+    },
+    {
+      "name": "Amrita Ahluwalia",
+      "first": "Amrita",
+      "last": "Ahluwalia",
+      "affiliation": "The William Harvey Research Institute, London, United Kingdom; Barts Cardiovascular CTU, Queen Mary University of London, London, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7626-6399"
+      ]
+    },
+    {
+      "name": "Sabina Alam",
+      "first": "Sabina",
+      "last": "Alam",
+      "affiliation": "Taylor & Francis Group, London, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8615-9658"
+      ]
+    },
+    {
+      "name": "Marc T. Avey",
+      "first": "Marc T.",
+      "last": "Avey",
+      "affiliation": "Health Science Practice, ICF, Durham, North Carolina, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8696-3232"
+      ]
+    },
+    {
+      "name": "Monya Baker",
+      "first": "Monya",
+      "last": "Baker",
+      "affiliation": "Nature, San Francisco, California, United States of America"
+    },
+    {
+      "name": "William J. Browne",
+      "first": "William J.",
+      "last": "Browne",
+      "affiliation": "School of Education, University of Bristol, Bristol, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-6659-6885"
+      ]
+    },
+    {
+      "name": "Alejandra Clark",
+      "first": "Alejandra",
+      "last": "Clark",
+      "affiliation": "PLOS ONE, Cambridge, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-1292-0408"
+      ]
+    },
+    {
+      "name": "Innes C. Cuthill",
+      "first": "Innes C.",
+      "last": "Cuthill",
+      "affiliation": "School of Biological Sciences, University of Bristol, Bristol, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-5007-8856"
+      ]
+    },
+    {
+      "name": "Ulrich Dirnagl",
+      "first": "Ulrich",
+      "last": "Dirnagl",
+      "affiliation": "QUEST Center for Transforming Biomedical Research, Berlin Institute of Health & Department of Experimental Neurology, Charite Universitätsmedizin Berlin, Berlin, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-0755-6119"
+      ]
+    },
+    {
+      "name": "Michael Emerson",
+      "first": "Michael",
+      "last": "Emerson",
+      "affiliation": "National Heart and Lung Institute, Imperial College London, London, United Kingdom"
+    },
+    {
+      "name": "Paul Garner",
+      "first": "Paul",
+      "last": "Garner",
+      "affiliation": "Centre for Evidence Synthesis in Global Health, Clinical Sciences Department, Liverpool School of Tropical Medicine, Liverpool, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-0607-6941"
+      ]
+    },
+    {
+      "name": "Stephen T. Holgate",
+      "first": "Stephen T.",
+      "last": "Holgate",
+      "affiliation": "Clinical and Experimental Sciences, University of Southampton, Southampton, United Kingdom"
+    },
+    {
+      "name": "David W. Howells",
+      "first": "David W.",
+      "last": "Howells",
+      "affiliation": "Tasmanian School of Medicine, University of Tasmania, Hobart, Australia",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-2512-7724"
+      ]
+    },
+    {
+      "name": "Natasha A. Karp",
+      "first": "Natasha A.",
+      "last": "Karp",
+      "affiliation": "Data Sciences & Quantitative Biology, Discovery Sciences, R&D, AstraZeneca, Cambridge, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8404-2907"
+      ]
+    },
+    {
+      "name": "Stanley E. Lazic",
+      "first": "Stanley E.",
+      "last": "Lazic",
+      "affiliation": "Prioris.ai Inc, Ottawa, Canada"
+    },
+    {
+      "name": "Katie Lidster",
+      "first": "Katie",
+      "last": "Lidster",
+      "affiliation": "NC3Rs, London, United Kingdom"
+    },
+    {
+      "name": "Catriona J. MacCallum",
+      "first": "Catriona J.",
+      "last": "MacCallum",
+      "affiliation": "Hindawi Ltd, London, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-9623-2225"
+      ]
+    },
+    {
+      "name": "Malcolm Macleod",
+      "first": "Malcolm",
+      "last": "Macleod",
+      "affiliation": "Centre for Clinical Brain Sciences, University of Edinburgh, Edinburgh, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-9187-9839"
+      ]
+    },
+    {
+      "name": "Esther J. Pearl",
+      "first": "Esther J.",
+      "last": "Pearl",
+      "affiliation": "NC3Rs, London, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6510-0959"
+      ]
+    },
+    {
+      "name": "Ole H. Petersen",
+      "first": "Ole H.",
+      "last": "Petersen",
+      "affiliation": "Academia Europaea Knowledge Hub, Cardiff University, Cardiff, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-6998-0380"
+      ]
+    },
+    {
+      "name": "Frances Rawle",
+      "first": "Frances",
+      "last": "Rawle",
+      "affiliation": "Medical Research Council, London, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8877-6262"
+      ]
+    },
+    {
+      "name": "Penny Reynolds",
+      "first": "Penny",
+      "last": "Reynolds",
+      "affiliation": "Statistics in Anesthesiology Research (STAR) Core, Department of Anesthesiology, College of Medicine, University of Florida, Gainesville, Florida, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7480-6275"
+      ]
+    },
+    {
+      "name": "Kieron Rooney",
+      "first": "Kieron",
+      "last": "Rooney",
+      "affiliation": "Discipline of Exercise and Sport Science, Faculty of Medicine and Health, University of Sydney, Sydney, Australia",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6563-7617"
+      ]
+    },
+    {
+      "name": "Emily S. Sena",
+      "first": "Emily S.",
+      "last": "Sena",
+      "affiliation": "Centre for Clinical Brain Sciences, University of Edinburgh, Edinburgh, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-3282-8502"
+      ]
+    },
+    {
+      "name": "Shai D. Silberberg",
+      "first": "Shai D.",
+      "last": "Silberberg",
+      "affiliation": "National Institute of Neurological Disorders and Stroke, Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "Thomas Steckler",
+      "first": "Thomas",
+      "last": "Steckler",
+      "affiliation": "Janssen Pharmaceutica NV, Beerse, Belgium",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9927-5121"
+      ]
+    },
+    {
+      "name": "Hanno Würbel",
+      "first": "Hanno",
+      "last": "Würbel",
+      "affiliation": "Veterinary Public Health Institute, Vetsuisse Faculty, University of Bern, Bern, Switzerland",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-2934-3010"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2020-07-14",
+  "volume": "18",
+  "number": "7",
+  "pages": "e3000410",
+  "tags": [
+    "Discipline-v3/Experimental design",
+    "Discipline-v3/Mathematical and statistical techniques",
+    "Discipline-v3/Mathematics",
+    "Discipline-v3/Physical sciences",
+    "Discipline-v3/Reproducibility",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Research assessment",
+    "Discipline-v3/Research design",
+    "Discipline-v3/Research facilities",
+    "Discipline-v3/Research laboratories",
+    "Discipline-v3/Research reporting guidelines",
+    "Discipline-v3/Research validity",
+    "Discipline-v3/Science policy",
+    "Discipline-v3/Statistical methods",
+    "Discipline-v3/Statistics",
+    "Experimental design",
+    "Mathematical and statistical techniques",
+    "Mathematics",
+    "Reproducibility",
+    "Research assessment",
+    "Research design",
+    "Research facilities",
+    "Research laboratories",
+    "Research reporting guidelines",
+    "Research validity",
+    "Statistical methods",
+    "Statistics",
+    "Type/Perspective"
+  ],
+  "abstract": "Reproducible science requires transparent reporting. The ARRIVE guidelines (Animal Research: Reporting of In Vivo Experiments) were originally developed in 2010 to improve the reporting of animal research. They consist of a checklist of information to include in publications describing in vivo experiments to enable others to scrutinise the work adequately, evaluate its methodological rigour, and reproduce the methods and results. Despite considerable levels of endorsement by funders and journals over the years, adherence to the guidelines has been inconsistent, and the anticipated improvements in the quality of reporting in animal research publications have not been achieved. Here, we introduce ARRIVE 2.0. The guidelines have been updated and information reorganised to facilitate their use in practice. We used a Delphi exercise to prioritise and divide the items of the guidelines into 2 sets, the “ARRIVE Essential 10,” which constitutes the minimum requirement, and the “Recommended Set,” which describes the research context. This division facilitates improved reporting of animal research by supporting a stepwise approach to implementation. This helps journal editors and reviewers verify that the most important items are being reported in manuscripts. We have also developed the accompanying Explanation and Elaboration (E&amp;E) document, which serves (1) to explain the rationale behind each item in the guidelines, (2) to clarify key concepts, and (3) to provide illustrative examples. We aim, through these changes, to help ensure that researchers, reviewers, and journal editors are better equipped to improve the rigour and transparency of the scientific process and thus reproducibility.",
+  "fullText": "See S1 Annotated Byline for individual authors’ positions at the time this article was submitted.\n\nWhy good reporting is important\n\nIn recent years, concerns about the reproducibility of research findings have been raised by scientists, funders, research users, and policy makers [1, 2]. Factors that contribute to poor reproducibility include flawed study design and analysis, variability and inadequate validation of reagents and other biological materials, insufficient reporting of methodology and results, and barriers to accessing data [3]. The bioscience community has introduced a range of initiatives to address the problem, from open access and open practices to enable the scrutiny of all aspects of the research [4, 5] through to study preregistration to shift the focus towards robust methods rather than the novelty of the results [6, 7], as well as resources to improve experimental design and statistical analysis [8–10].\n\nTransparent reporting of research methods and findings is an essential component of reproducibility. Without this, the methodological rigour of the studies cannot be adequately scrutinised, the reliability of the findings cannot be assessed, and the work cannot be repeated or built upon by others. Despite the development of specific reporting guidelines for preclinical and clinical research, evidence suggests that scientific publications often lack key information and that there continues to be considerable scope for improvement [11–18]. Animal research is a good case in point, where poor reporting impacts on the development of therapeutics and irreproducible findings can spawn an entire field of research, or trigger clinical studies, subjecting patients to interventions unlikely to be effective [2, 19, 20].\n\nIn an attempt to improve the reporting of animal research, the Animal Research: Reporting of In Vivo Experiments (ARRIVE) guidelines were published in 2010. The guidelines consist of a checklist of the items that should be included in any manuscript that reports in vivo experiments, to ensure a comprehensive and transparent description [21–30]. They apply to any area of research using live animal species and are especially pertinent to describe comparative research in the laboratory or other formal test setting. The guidelines are also relevant in a wider context, for example, for observational research, studies conducted in the field, and where animal tissues are used. In the 10 years since publication, the ARRIVE guidelines have been endorsed by more than a thousand journals from across the life sciences. Endorsement typically includes advocating their use in guidance to authors and reviewers. However, despite this level of support, recent studies have shown that important information as set out in the ARRIVE guidelines is still missing from most publications sampled. This includes details on randomisation (reported in only 30%–40% of publications), blinding (reported in only approximately 20% of publications), sample size justification (reported in less than 10% of publications), and animal characteristics (all basic characteristics reported in less than 10% of publications) [11, 31, 32].\n\nEvidence suggests that 2 main factors limit the impact of the ARRIVE guidelines. The first is the extent to which editorial and journal staff are actively involved in enforcing reporting standards. This is illustrated by a randomised controlled trial at PLOS ONE, designed to test the effect of requesting a completed ARRIVE checklist in the manuscript submission process. This single editorial intervention, which did not include further verification from journal staff, failed to improve the disclosure of information in published papers [33]. In contrast, other studies using shorter checklists (primarily focused on experimental design) with more editorial follow-up have shown a marked improvement in the nature and detail of the information included in publications [34–36]. It is likely that the level of resource required from journals and editors currently prohibits the implementation of all the items of the ARRIVE guidelines.\n\nThe second issue is that researchers and other individuals and organisations responsible for the integrity of the research process are not sufficiently aware of the consequences of incomplete reporting. There is some evidence that awareness of ARRIVE is linked to the use of more rigorous experimental design standards [37]; however, researchers are often unfamiliar with the much larger systemic bias in the publication of research and in the reliability of certain findings and even of entire fields [33, 38–40]. This lack of understanding affects how experiments are designed and grant proposals prepared, how animals are used and data recorded in the laboratory, and how manuscripts are written by authors or assessed by journal staff, editors, and reviewers.\n\nApproval for experiments involving animals is generally based on a harm–benefit analysis, weighing the harms to the animals involved against the benefits of the research to society. If the research is not reported in enough detail, even when conducted rigorously, the benefits may not be realised, and the harm–benefit analysis and public trust in the research are undermined [41]. As a community, we must do better to ensure that, where animals are used, the research is both well designed and analysed as well as transparently reported. Here, we introduce the revised ARRIVE guidelines, referred to as ARRIVE 2.0. The information included has been updated, extended, and reorganised to facilitate the use of the guidelines, helping to ensure that researchers, editors, and reviewers—as well as other relevant journal staff—are better equipped to improve the rigour and reproducibility of animal research.\n\nIntroducing ARRIVE 2.0\n\nIn ARRIVE 2.0, we have improved the clarity of the guidelines, prioritised the items, added new information, and generated the accompanying Explanation and Elaboration (E&amp;E) document to provide context and rationale for each item [42] (also available at https://www.arriveguidelines.org). New additions comprise inclusion and exclusion criteria, which are a key aspect of data handling and prevent the ad hoc exclusion of data [43]; protocol registration, a recently emerged approach that promotes scientific rigour and encourages researchers to carefully consider the experimental design and analysis plan before any data are collected [44]; and data access, in line with the FAIR Data Principles [45] (Findable, Accessible, Interoperable, and Reusable). S1 Table summarises the changes.\n\nThe most significant departure from the original guidelines is the classification of items into 2 prioritised groups, as shown in Tables 1 and 2. There is no ranking of the items within each group. The first group is the “ARRIVE Essential 10,” which describes information that is the basic minimum to include in a manuscript, as without this information, reviewers and readers cannot confidently assess the reliability of the findings presented. It includes details on the study design, the sample size, measures to reduce subjective bias, outcome measures, statistical methods, the animals, experimental procedures, and results. The second group, referred to as the “Recommended Set,” adds context to the study described. This includes the ethical statement, declaration of interest, protocol registration, and data access, as well as more detailed information on the methodology such as animal housing, husbandry, care, and monitoring. Items on the abstract, background, objectives, interpretation, and generalisability also describe what to include in the more narrative parts of a manuscript.\n\nRevising the guidelines has been an extensive and collaborative effort, with input from the scientific community carefully built into the process. The revision of the ARRIVE guidelines has been undertaken by an international working group—the authors of this publication—with expertise from across the life sciences community, including funders, journal editors, statisticians, methodologists, and researchers from academia and industry. We used a Delphi exercise [46] with external stakeholders to maximise diversity in fields of expertise and geographical location, with experts from 19 countries providing feedback on each item, suggesting new items, and ranking items according to their relative importance for assessing the reliability of research findings. This ranking resulted in the prioritisation of the items of the guidelines into the 2 sets. Demographics of the Delphi panel and full methods and results are presented in Supporting Information S1 Delphi and S1 Data. Following their publication on BioRxiv, the revised guidelines and the E&amp;E were also road tested with researchers preparing manuscripts describing in vivo studies, to ensure that these documents were well understood and useful to the intended users. This study is presented in Supporting Information S1 Road Testing and S2 Data.\n\nWhile reporting animal research in adherence to all 21 items of ARRIVE 2.0 represents best practice, the classification of the items into 2 groups is intended to facilitate the improved reporting of animal research by allowing an initial focus on the most critical issues. This better allows journal staff, editors, and reviewers to verify that the items have been adequately reported in manuscripts. The first step should be to ensure compliance with the ARRIVE Essential 10 as a minimum requirement. Items from the Recommended Set can then be added over time and in line with specific editorial policies until all the items are routinely reported in all manuscripts. ARRIVE 2.0 are fully compatible with and complementary to other guidelines that have been published in recent years. By providing a comprehensive set of recommendations that are specifically tailored to the description of in vivo research, they help authors reporting animal experiments adhere to the National Institutes of Health (NIH) standards [43] and the minimum standards framework and checklist (Materials, Design, Analysis and Reporting [MDAR] [47]). The revised guidelines are also in line with many journals’ policies and will assist authors in complying with information requirements on the ethical review of the research [48, 49], data presentation and access [50–52], statistical methods [51, 52], and conflicts of interest [53, 54].\n\nAlthough the guidelines are written with researchers and journal editorial policies in mind, it is important to stress that researchers alone should not have to carry the responsibility for transparent reporting. Funders, institutions, and publishers’ endorsement of ARRIVE has been instrumental in raising awareness to date; they now have a key role to play in building capacity and championing the behavioural changes required to improve reporting practices. This includes embedding ARRIVE 2.0 in appropriate training, workflows, and processes to support researchers in their different roles. While the primary focus of the guidelines has been on the reporting of animal studies, ARRIVE also has other applications earlier in the research process, including in the planning and design of in vivo experiments. For example, requesting a description of the study design in line with the guidelines in funding or ethical review applications ensures that steps to minimise experimental bias are considered at the beginning of the research cycle [55].\n\nConclusion\n\nTransparent reporting is clearly essential if animal studies are to add to the knowledge base and inform future research, policy, and clinical practice. ARRIVE 2.0 prioritises the reporting of information related to study reliability. This enables research users to assess how much weight to ascribe to the findings and, in parallel, promotes the use of rigorous methodology in the planning and conduct of in vivo experiments [37], thus increasing the likelihood that the findings are reliable and, ultimately, reproducible.\n\nThe intention of ARRIVE 2.0 is not to supersede individual journal requirements but to promote a harmonised approach across journals to ensure that all manuscripts contain the essential information needed to appraise the research. Journals usually share a common objective of improving the methodological rigour and reproducibility of the research they publish, but different journals emphasise different pieces of information [56–58]. Here, we propose an expert consensus on information to prioritise. This will provide clarity for authors, facilitate transfer of manuscripts between journals, and accelerate an improvement of reporting standards.\n\nConcentrating the efforts of the research and publishing communities on the ARRIVE Essential 10 items provides a manageable approach to evaluate reporting quality efficiently and assess the effect of interventions and policies designed to improve the reporting of animal experiments. It provides a starting point for the development of operationalised checklists to assess reporting, ultimately leading to the build of automated or semi-automated artificial intelligence tools that can detect missing information rapidly [59].\n\nImproving reporting is a collaborative endeavour, and concerted effort from the biomedical research community is required to ensure maximum impact. We welcome collaboration with other groups operating in this area, as well as feedback on ARRIVE 2.0 and our implementation strategy.\n\nSupporting information"
+}

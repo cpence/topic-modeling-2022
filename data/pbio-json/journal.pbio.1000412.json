@@ -1,0 +1,68 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1000412",
+  "doi": "10.1371/journal.pbio.1000412",
+  "externalIds": [
+    "pii:10-PLBI-PS-5990R2",
+    "pmid:20613859",
+    "pmcid:PMC2893951"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Improving Bioscience Research Reporting: The ARRIVE Guidelines for Reporting Animal Research",
+  "authors": [
+    {
+      "name": "Carol Kilkenny",
+      "first": "Carol",
+      "last": "Kilkenny",
+      "affiliation": "The National Centre for the Replacement, Refinement and Reduction of Animals in Research, London, United Kingdom"
+    },
+    {
+      "name": "William J. Browne",
+      "first": "William J.",
+      "last": "Browne",
+      "affiliation": "School of Veterinary Science, University of Bristol, Bristol, United Kingdom"
+    },
+    {
+      "name": "Innes C. Cuthill",
+      "first": "Innes C.",
+      "last": "Cuthill",
+      "affiliation": "School of Biological Sciences, University of Bristol, Bristol, United Kingdom"
+    },
+    {
+      "name": "Michael Emerson",
+      "first": "Michael",
+      "last": "Emerson",
+      "affiliation": "National Heart and Lung Institute, Imperial College London, United Kingdom"
+    },
+    {
+      "name": "Douglas G. Altman",
+      "first": "Douglas G.",
+      "last": "Altman",
+      "affiliation": "Centre for Statistics in Medicine, University of Oxford, Oxford, United Kingdom"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2010-06",
+  "volume": "8",
+  "number": "6",
+  "pages": "e1000412",
+  "tags": [
+    "Discipline/Developmental Biology",
+    "Discipline/Immunology",
+    "Discipline/Infectious Diseases",
+    "Discipline/Neuroscience",
+    "Discipline/Oncology",
+    "Discipline/Pharmacology",
+    "Discipline/Physiology",
+    "Discipline/Science Policy",
+    "Discipline/Virology/Animal Models of Infection",
+    "Type/Perspective"
+  ],
+  "fullText": "In the last decade the number of bioscience journals has increased enormously, with many filling specialised niches reflecting new disciplines and technologies. The emergence of open-access journals has revolutionised the publication process, maximising the availability of research data. Nevertheless, a wealth of evidence shows that across many areas, the reporting of biomedical research is often inadequate, leading to the view that even if the science is sound, in many cases the publications themselves are not “fit for purpose,” meaning that incomplete reporting of relevant information effectively renders many publications of limited value as instruments to inform policy or clinical and scientific practice [1]–[21]. A recent review of clinical research showed that there is considerable cumulative waste of financial resources at all stages of the research process, including as a result of publications that are unusable due to poor reporting [22]. It is unlikely that this issue is confined to clinical research [2]–[14],[16]–[20].\n\nFailure to describe research methods and to report results appropriately therefore has potential scientific, ethical, and economic implications for the entire research process and the reputation of those involved in it. This is particularly true for animal research, one of the most controversial areas of science. The largest and most comprehensive review of published animal research undertaken to date, to our knowledge, has highlighted serious omissions in the way research using animals is reported [5]. The survey, commissioned by the National Centre for the Replacement, Refinement and Reduction of Animals in Research (NC3Rs), a UK Government-sponsored scientific organisation, found that only 59% of the 271 randomly chosen articles assessed stated the hypothesis or objective of the study, and the number and characteristics of the animals used (i.e., species/strain, sex, and age/weight). Most of the papers surveyed did not report using randomisation (87%) or blinding (86%) to reduce bias in animal selection and outcome assessment. Only 70% of the publications that used statistical methods fully described them and presented the results with a measure of precision or variability [5]. These findings are a cause for concern and are consistent with reviews of many research areas, including clinical studies, published in recent years [2]–[22].\n\nGood Reporting Is Essential for Peer Review and to Inform Future Research\n\nScrutiny by scientific peers has long been the mainstay of “quality control” for the publication process. The way that experiments are reported, in terms of the level of detail of methods and the presentation of key results, is crucial to the peer review process and, indeed, the subsequent utility and validity of the knowledge base that is used to inform future research. The onus is therefore on the research community to ensure that their research articles include all relevant information to allow in-depth critique, and to avoiding duplicating studies and performing redundant experiments. Ideally scientific publications should present sufficient information to allow a knowledgeable reader to understand what was done, why, and how, and to assess the biological relevance of the study and the reliability and validity of the findings. There should also be enough information to allow the experiment to be repeated [23]. The problem therefore is how to ensure that all relevant information is included in research publications.\n\nUsing Reporting Guidelines Measurably Improves the Quality of Reporting\n\nEvidence provided by reviews of published research suggests that many researchers and peer reviewers would benefit from guidance about what information should be provided in a research article. The CONSORT Statement for randomised controlled clinical trials was one of the first guidelines developed in response to this need [24],[25]. Since publication, an increasing number of leading journals have supported CONSORT as part of their instructions to authors [26],[27]. As a result, convincing evidence is emerging that CONSORT improves the quality and transparency of reports of clinical trials [28],[29].\n\nFollowing CONSORT, many other guidelines have been developed—there are currently more than 90 available for reporting different types of health research, most of which have been published in the last ten years (see http://www.equator-network.org and references [30],[31]). Guidelines have also been developed to improve the reporting of other specific bioscience research areas including metabolomics and gene expression studies [32]–[37]. Several organisations support the case for improved reporting and recommend the use of reporting guidelines, including the International Committee of Medical Journal Editors, the Council of Science Editors, the Committee on Publication Ethics, and the Nuffield Council for Bioethics [38]–[41].\n\nImproving the Reporting of Animal Experiments—The ARRIVE Guidelines\n\nMost bioscience journals currently provide little or no guidance on what information to report when describing animal research [42]–[50]. Our review found that 4% of the 271 journal articles assessed did not report the number of animals used anywhere in the methods or the results sections [5]. Reporting animal numbers is essential so that the biological and statistical significance of the experimental results can be assessed or the data reanalysed, and is also necessary if the experimental methods are to be repeated. Improved reporting of these and other details will maximise the availability and utility of the information gained from every animal and every experiment, preventing unnecessary animal use in the future. To address this, we led an initiative to produce guidelines for reporting animal research. The guidelines, referred to as ARRIVE (Animals in Research: Reporting In Vivo Experiments), have been developed using the CONSORT Statement as their foundation [24],[25].\n\nThe ARRIVE guidelines consist of a checklist of 20 items describing the minimum information that all scientific publications reporting research using animals should include, such as the number and specific characteristics of animals used (including species, strain, sex, and genetic background); details of housing and husbandry; and the experimental, statistical, and analytical methods (including details of methods used to reduce bias such as randomisation and blinding). All the items in the checklist have been included to promote high-quality, comprehensive reporting to allow an accurate critical review of what was done and what was found.\n\nConsensus and consultation are the corner-stones of the guideline development process [51]. To maximise their utility, the ARRIVE guidelines have been prepared in consultation with scientists, statisticians, journal editors, and research funders. We convened an expert working group, comprising researchers and statisticians from a range of disciplines, and journal editors from Nature Cell Biology, Science, Laboratory Animals, and the British Journal of Pharmacology (see Acknowledgments). At a one-day meeting in June 2009, the working group agreed the scope and broad content of a draft set of guidelines that were then used as the basis for a wider consultation with the scientific community, involving researchers, and grant holders and representatives of the major bioscience funding bodies including the Medical Research Council, Wellcome Trust, Biotechnology and Biological Sciences Research Council, and The Royal Society (see Table 1). Feedback on the content and wording of the items was incorporated into the final version of the checklist. Further feedback on the content utility of the guidelines is encouraged and sought.\n\nThe ARRIVE guidelines (see Table 2) can be applied to any area of bioscience research using laboratory animals, and the inherent principles apply not only to reporting comparative experiments but also to other study designs. Laboratory animal refers to any species of animal undergoing an experimental procedure in a research laboratory or formal test setting. The guidelines are not intended to be mandatory or absolutely prescriptive, nor to standardise or formalise the structure of reporting. Rather they provide a checklist that can be used to guide authors preparing manuscripts for publication, and by those involved in peer review for quality assurance, to ensure completeness and transparency.\n\nImproved Reporting Will Maximise the Output of Published Research\n\nThese guidelines were developed to maximise the output from research using animals by optimising the information that is provided in publications on the design, conduct, and analysis of the experiments. The need for such guidelines is further illustrated by the systematic reviews of animal research that have been carried out to assess the efficacy of various drugs and interventions in animal models [8],[9],[13],[52]–[55]. Well-designed and -reported animal studies are the essential building blocks from which such a systematic review is constructed. The reviews have found that, in many cases, reporting omissions, in addition to the limitations of the animal models used in the individual studies assessed in the review, are a barrier to reaching any useful conclusion about the efficacy of the drugs and interventions being compared [2],[3].\n\nDriving improvements in reporting research using animals will require the collective efforts of authors, journal editors, peer reviewers, and funding bodies. There is no single simple or rapid solution, but the ARRIVE guidelines provide a practical resource to aid these improvements. The guidelines will be published in several leading bioscience research journals simultaneously [56]–[60], and publishers have already endorsed the guidelines by including them in their journal Instructions to Authors subsequent to publication. The NC3Rs will continue to work with journal editors to extend the range of journals adopting the guidelines, and with the scientific community to disseminate the guidelines as widely as possible (http://www.nc3rs.org.uk/ARRIVE)."
+}

@@ -1,0 +1,38 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001990",
+  "doi": "10.1371/journal.pbio.1001990",
+  "externalIds": [
+    "pii:PBIOLOGY-D-14-03245",
+    "pmid:25386988",
+    "pmcid:PMC4227634"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Glia Talk Back",
+  "authors": [
+    {
+      "name": "Rachel Jones",
+      "first": "Rachel",
+      "last": "Jones",
+      "affiliation": "Freelance Science Writer and Editor, Welwyn, Hertfordshire, United Kingdom"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2014-11",
+  "volume": "12",
+  "number": "11",
+  "pages": "e1001990",
+  "tags": [
+    "Discipline-v2/Biology and life sciences",
+    "Discipline-v2/Neuroscience",
+    "Neuroscience",
+    "Type/Synopsis"
+  ],
+  "fullText": "The cells in mammalian brains fall into two main categories: neurons and glia. The idea that glia are second-class citizens in the brain, existing merely to sustain and support the more important and complex neurons, has been challenged in recent years by evidence that glial cells have important functions of their own. Perhaps the best-studied glial cells from this point of view are astrocytes, which outnumber neurons five-to-one and are involved in synaptic transmission and the regulation of neuronal processing.\n\nAnother type of glia, oligodendrocytes, produces the myelin sheaths that provide insulation for the brain's wiring—neuronal axons—and they do so in response to neuronal activity. The cells that give rise to oligodendrocytes (oligodendrocyte precursor cells, or OPCs) also seem to have additional functions, including being the only type of glia to receive synaptic inputs from neurons. Another hint that OPCs are important for more than just producing oligodendrocytes is that they are found throughout the brain in numbers far greater than would be needed for that role.\n\nOPCs have a membrane-spanning signaling protein called NG2 (for neuron/glia antigen 2) that is not found on any other glia or on neurons. This protein, along with the synapses between neurons and OPCs, disappears when OPCs differentiate into oligodendrocytes. OPCs change their behavior in response to neuronal activity, but exactly how they do so—and whether this communication is unidirectional or goes both ways—is unclear.\n\nA new study by Dominik Sakry, Angela Neitz, et al., published in PLOS Biology, has investigated the role of NG2 in the communication between neurons and OPCs. Previous results showed that it was possible to extract an extracellular part of NG2 from the extracellular matrix, indicating that it was shed from the protein. Now, Sakry et al. have shown that this fragment is produced by activity-dependent cleavage of NG2 by proteins called secretases.\n\nThe new results demonstrate that a secretase called ADAM10, together with other secretases, cleaves NG2 on cultured OPCs in response to increases in neuronal network activity (Figure 1). This process generates three fragments of NG2: a large ectodomain, which is released extracellularly, and two smaller pieces, one of which remains attached to the membrane and the other of which is released inside the cell. When the researchers used a specific inhibitor to block the activity of ADAM10, both activity-dependent and constitutive cleavage of NG2 were prevented.\n\nTo investigate the physiological functions of NG2 cleavage in the brain, the researchers used mutant mice that lacked NG2. In the brain's somatosensory cortex, neurons called pyramidal neurons usually show a strong and lasting increase in synaptic strength in response to certain patterns of activity that is called long-term potentiation (LTP) and is crucially involved in memory and learning; this LTP was severely impaired in the mutant mice and also in normal mice in which ADAM10 was inhibited.\n\nBut what was the molecular basis of these changes? Neurotransmitter receptors such as AMPA receptors consist of complexes of protein subunits, and the functional properties of these receptors depend on the combination of subunits that makes up each receptor. In mice lacking NG2, neuronal AMPA receptors showed altered subunit compositions compared with receptors in normal mice, probably accounting for the reduced receptor currents and impaired LTP.\n\nRemarkably, when cultured brain slices from mice that lack NG2 were treated with a recombinant protein containing the two neurexin-like domains from the extracellular domain of NG2 that is shed by cleavage, the properties of neuronal AMPA receptors in the slices returned to normal. The neurexin-like domains therefore seem to be crucial for the modulation of neuronal physiology by NG2 cleavage. Finally, mutant mice lacking NG2 showed deficits in behaviors that depend on the somatosensory cortex, highlighting the physiological relevance of this bi-directional communication between neurons and OPCs.\n\nAlthough many questions are raised by these results, they nonetheless show that OPCs not only receive input from neurons, but also can modulate neuronal properties and activity. These findings add weight to the concept that glial cells are far more than simple support cells—the more we look, the more functions we find for these jacks-of-all-trades. It is becoming clear that neurons and glia talk to each other constantly; further details of this conversation can only help us to understand the mysteries of the brain.\n\nSakry D, Neitz A, Singh J, Frischknecht R, Marongiu D, et al. (2014) Oligodendrocyte Precursor Cells Modulate the Neuronal Network by Activity-Dependent Ectodomain Cleavage of Glial NG2. doi:10.1371/journal.pbio.1001993"
+}

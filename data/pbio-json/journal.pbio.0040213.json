@@ -1,0 +1,37 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0040213",
+  "doi": "10.1371/journal.pbio.0040213",
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A Novel Phage Protein Mediates the Virus's Removal from Bacterial Chromosomes",
+  "authors": [
+    {
+      "name": "Liza Gross",
+      "first": "Liza",
+      "last": "Gross"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2006-06",
+  "dateElectronic": "2006-05-30",
+  "volume": "4",
+  "number": "6",
+  "pages": "e213",
+  "tags": [
+    "Discipline/Biochemistry",
+    "Discipline/Genetics and Genomics",
+    "System Taxonomy/Eubacteria",
+    "Type/Synopsis"
+  ],
+  "fullText": "Long before anyone realistically entertained the notion of engineering transgenic corn, cloned dogs, or designer babies, scientists looked for clues to the fundamental properties of life in much simpler organisms. Studies in one such organism—bacteria-infecting viruses called bacteriophages, or phages—produced some of the most important discoveries of molecular biology: identifying DNA as the genetic material, elucidating the mechanism of genome replication, and revealing the power of recombinant DNA, the backbone of genetic engineering.\n\nNearly 60 years after phage's golden era, scientists are still using the virus to illuminate the inner workings of the cell. And now in a new study, Pallavi Ghosh, Laura Wasil, and Graham Hatfull describe a novel phage protein that uses an unusual mechanism to induce the infectious stage of the phage life cycle.\n\nLacking the means of self-replication, phages inject their genome into a bacterial cell and co-opt its molecular machinery to mass produce new viruses, ultimately destroying the cell to release its progeny. Temperate phages can reproduce through this lytic life cycle or enter a lysogenic life cycle during which they integrate their DNA into the bacteria's genome as a noninfectious “prophage.” The prophage remains harmless until it is excised from the bacterial genome.\n\nBoth integration and excision depend on the combined efforts of integrases and recombination directionality factors (RDFs) in a cut-and-connect operation called site-specific recombination. During integration, integrases mediate DNA-strand exchange between phage DNA—at the phage attachment site, \n\t\t\t\tattP—and bacterial DNA—at the bacterial attachment site, \n\t\t\t\tattB. Successful integration creates junction sites—\n\t\t\t\tattL and \n\t\t\t\tattR—on both sides of the integrated prophage that mark future excision sites. RDFs can catalyze integration or excision, typically by binding to DNA near the respective recombination sites and forming a complex with integrase that remodels the DNA and creates macromolecular structures that promote one process while inhibiting the other.\n\nWhile much is understood about how tyrosine integrases (so-called because the amino acid tyrosine mediates the catalytic reaction) effect site-specific recombination, Ghosh et al. were interested in the more cryptic serine integrases. Serine integrases lack many of the features other enzymes use to regulate site-specific recombination, such as DNA-binding cofactors or DNA remodeling, and little is known about the few RDFs that have been linked to them. To learn more about serine integrase activity, the researchers worked with a phage called Bxb1 that uses a serine integrase to insinuate itself into the genome of the bacterium \n\t\t\t\tMycobacterium smegmatis.\n\nThey first analyzed the Bxb1 genome to identify candidate RDFs using standard bioinformatic methods, but RDFs are too diverse to allow accurate sequence comparisons. So they turned to an experimental method to isolate the RDF, using a phage strain with genes organized akin to an integrated prophage, complete with recombination junctions \n\t\t\t\t(attL and \n\t\t\t\tattR) and integrase \n\t\t\t\t(int). From this strain, they engineered an “excision tester strain” with one stretch of sequence conferring antibiotic resistance and another conferring sucrose sensitivity (thus, stunting growth) inserted between the \n\t\t\t\tattL and \n\t\t\t\tattR junctions. Successful excisive recombination would remove the intervening sequence and confer sucrose resistance, allowing the strain to grow in sucrose.\n\nTo identify excision-related sequences, Ghosh et al. created a Bxb1 DNA library and incorporated it into the tester strain, producing colonies of genetically transformed strains. The resulting colonies produced sucrose-resistant strains, which had undergone site-specific excision recombination between \n\t\t\t\tattL and \n\t\t\t\tattR, the researchers confirmed, which had been mediated by a fragment of Bxb1 DNA and a putative RDF. And by creating genetic variants of the tester strains, they showed that excisive recombination requires both the Bxb1 integrase \n\t\t\t\tgpInt and a candidate Bxb1 RDF.\n\nOnly one region in this putative RDF, gp47, had been previously described. And though it is much larger and unlike any other known RDF, the researchers show that gp47 does indeed catalyze excisive recombination and can inhibit integration, like other RDFs. Bxb1 gp47 distinguishes itself, however, by regulating site-specific recombination through novel interactive mechanisms that don't require complex macromolecular structures or direct DNA binding. Instead, the researchers propose, it instigates excisive recombination through transient interactions with gpInt–\n\t\t\t\tattL/R junctions—and blocks integrative recombination through more stable interactions that prevent gpInt–\n\t\t\t\tattB and gtInt–\n\t\t\t\tattP complexes from forming productive associations.\n\nAltogether, these results point to a novel RDF with an unusual strategy for regulating integration and excision. Though the gp47 RDF acts through protein–protein interactions rather than through direct DNA-binding interactions, its effects depend on the specific DNA site that gpInt binds. With evidence that gp47 also plays a role in DNA replication, the researchers plan to investigate whether this novel enzyme uses the same strategy to interact with other phage proteins—and maybe even to commandeer host machinery and unleash infection.",
+  "externalIds": [
+    "pmid:20076596",
+    "pmcid:PMC1470462"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001458",
+  "doi": "10.1371/journal.pbio.1001458",
+  "externalIds": [
+    "pii:PBIOLOGY-D-12-04469",
+    "pmid:23824301",
+    "pmcid:PMC3692443"
+  ],
+  "license": "Roberts. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A Read-Through Drug Put through Its Paces",
+  "authors": [
+    {
+      "name": "Roland G. Roberts",
+      "first": "Roland G.",
+      "last": "Roberts",
+      "affiliation": "Public Library of Science, Cambridge, United Kingdom"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2013-06",
+  "volume": "11",
+  "number": "6",
+  "pages": "e1001458",
+  "tags": [
+    "Discipline-v2/Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "An estimated 10% of all human genetic diseases are caused by nonsense mutations. These look like the stop codons that occur naturally at the ends of protein-coding sequences in our genomes, but they arise instead in the middle of the protein code, with potentially devastating consequences. Instead of faithfully trundling along a gene transcript, translating it into a useful protein product, the ribosome stops dead in its tracks, leaving the protein incomplete. If only we could somehow trick the ribosome into ignoring these premature stop signs, surely enough full-length protein could be made to substantially improve the symptoms of unfortunate patients.\n\nThat was the vision behind the discovery in 2007 of PTC124, a so-called “read-through” drug. PTC124 (also known as Ataluren) was initially identified via an in vitro screen and efficacy was demonstrated in promoting read-through of mutations that cause Duchenne muscular dystrophy, a severe, lethal, and relatively common genetic disease. Subsequently, however, reports of efficacy for this and other genetic diseases have been patchy, and people in the field have started to ask just how good a drug it is.\n\nA previous study had hinted at flaws in the assay that was used to screen drugs during the identification of PTC124. The system was based on an engineered transcript, part of which encodes an enzyme from fireflies called luciferase; this can be made to emit light, and is widely used as a “reporter gene” in labs around the globe (Figure 1a). The discoverers of PTC124 introduced a nonsense mutation, just like the ones that cause genetic diseases, so that in the absence of a drug (or in the presence of a drug that doesn't work) very little luciferase was made (Figure 1b). The idea behind this assay is that if you then hit on a drug that actually works, the ribosomes will read through the mutation and generate much more luciferase (Figure 1c).\n\nBut what if, instead of tricking the ribosome, the drug tricks the assay? What if, say, the drug interacts directly with luciferase and thereby somehow enhances its luminescence, giving the impression of enhanced read-through (Figure 1d)? This seems to be, at least partially, the case for PTC124, which has been shown to bind directly to luciferase and stabilize it.\n\nIn this issue of PLOS Biology, Stuart McElroy, Irwin McLean, and colleagues fill in the other side of the question: namely, whether PTC124 does nevertheless promote the read-through of nonsense mutations. To do this, they first confirm the spurious effect on firefly luciferase, and demonstrate that this doesn't occur when they instead use a luciferase from an exotic marine animal called the sea pansy, or another traditional reporter gene, beta-galactosidase. They go on to systematically test the effects of PTC124 on the read-through of all possible stop codon contexts (the three-nucleotide stop codon itself, plus the adjacent influential nucleotide) and on a range of different scenarios. In each case, PTC124 fails to enhance read-through, while another well-characterized read-through drug, G418, works to varying degrees.\n\nWhere does this leave us with PTC124 and its potential to tackle the 10% of cases of genetic disease that are thought to result from nonsense mutations? We should remember at this point that McElroy and colleagues only test cells (not intact animals), that they only look at the read-through activity of this drug, and that there are several publications that do suggest clinical efficacy (particularly for cystic fibrosis). The conclusion remains, however, that if PTC124 does indeed have beneficial effects on some genetic diseases, it's more likely that this is down to serendipity than the purported mechanism of translational read-through.\n\nNumerous groups are still working on developing effective drugs that can override premature stop codons—in case you wondered, G418 is sadly too toxic for clinical use. PTC124 aside, this manuscript also raises interesting issues for the design and interpretation of high-throughput drug screening assays, and also potentially for the consequences of an initially strong positive screen result on subsequent evaluation of drug efficacy.\n\nMcElroy SP, Nomura T, Torrie LS, Warbrick E, Gartner U, et al. (2013) A Lack of Premature Termination Codon Read Through Efficacy of PTC124 (Ataluren) in a Diverse Array of Reporter Assays. doi:10.1371/journal.pbio.1001593"
+}

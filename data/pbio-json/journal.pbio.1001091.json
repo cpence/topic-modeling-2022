@@ -1,0 +1,273 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001091",
+  "doi": "10.1371/journal.pbio.1001091",
+  "externalIds": [
+    "pii:PBIOLOGY-D-11-00301",
+    "pmid:21750661",
+    "pmcid:PMC3130012"
+  ],
+  "license": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Modernizing Reference Genome Assemblies",
+  "authors": [
+    {
+      "name": "Deanna M. Church",
+      "first": "Deanna M.",
+      "last": "Church",
+      "affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "Valerie A. Schneider",
+      "first": "Valerie A.",
+      "last": "Schneider",
+      "affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "Tina Graves",
+      "first": "Tina",
+      "last": "Graves",
+      "affiliation": "The Genome Institute at Washington University, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Katherine Auger",
+      "first": "Katherine",
+      "last": "Auger",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Fiona Cunningham",
+      "first": "Fiona",
+      "last": "Cunningham",
+      "affiliation": "The European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Nathan Bouk",
+      "first": "Nathan",
+      "last": "Bouk",
+      "affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "Hsiu-Chuan Chen",
+      "first": "Hsiu-Chuan",
+      "last": "Chen",
+      "affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "Richa Agarwala",
+      "first": "Richa",
+      "last": "Agarwala",
+      "affiliation": "National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "William M. McLaren",
+      "first": "William M.",
+      "last": "McLaren",
+      "affiliation": "The European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Graham R.S. Ritchie",
+      "first": "Graham R.S.",
+      "last": "Ritchie",
+      "affiliation": "The European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Derek Albracht",
+      "first": "Derek",
+      "last": "Albracht",
+      "affiliation": "The Genome Institute at Washington University, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Milinn Kremitzki",
+      "first": "Milinn",
+      "last": "Kremitzki",
+      "affiliation": "The Genome Institute at Washington University, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Susan Rock",
+      "first": "Susan",
+      "last": "Rock",
+      "affiliation": "The Genome Institute at Washington University, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Holland Kotkiewicz",
+      "first": "Holland",
+      "last": "Kotkiewicz",
+      "affiliation": "The Genome Institute at Washington University, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Colin Kremitzki",
+      "first": "Colin",
+      "last": "Kremitzki",
+      "affiliation": "The Genome Institute at Washington University, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Aye Wollam",
+      "first": "Aye",
+      "last": "Wollam",
+      "affiliation": "The Genome Institute at Washington University, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Lee Trani",
+      "first": "Lee",
+      "last": "Trani",
+      "affiliation": "The Genome Institute at Washington University, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Lucinda Fulton",
+      "first": "Lucinda",
+      "last": "Fulton",
+      "affiliation": "The Genome Institute at Washington University, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Robert Fulton",
+      "first": "Robert",
+      "last": "Fulton",
+      "affiliation": "The Genome Institute at Washington University, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Lucy Matthews",
+      "first": "Lucy",
+      "last": "Matthews",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Siobhan Whitehead",
+      "first": "Siobhan",
+      "last": "Whitehead",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Will Chow",
+      "first": "Will",
+      "last": "Chow",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "James Torrance",
+      "first": "James",
+      "last": "Torrance",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Matthew Dunn",
+      "first": "Matthew",
+      "last": "Dunn",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Glenn Harden",
+      "first": "Glenn",
+      "last": "Harden",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Glen Threadgold",
+      "first": "Glen",
+      "last": "Threadgold",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Jonathan Wood",
+      "first": "Jonathan",
+      "last": "Wood",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Joanna Collins",
+      "first": "Joanna",
+      "last": "Collins",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Paul Heath",
+      "first": "Paul",
+      "last": "Heath",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Guy Griffiths",
+      "first": "Guy",
+      "last": "Griffiths",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Sarah Pelan",
+      "first": "Sarah",
+      "last": "Pelan",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Darren Grafham",
+      "first": "Darren",
+      "last": "Grafham",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Evan E. Eichler",
+      "first": "Evan",
+      "last": "E. Eichler",
+      "affiliation": "Department of Genome Sciences, University of Washington School of Medicine, Seattle, Washington, United States of America; Howard Hughes Medical Institute, Seattle, Washington, United States of America"
+    },
+    {
+      "name": "George Weinstock",
+      "first": "George",
+      "last": "Weinstock",
+      "affiliation": "The Genome Institute at Washington University, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Elaine R. Mardis",
+      "first": "Elaine R.",
+      "last": "Mardis",
+      "affiliation": "The Genome Institute at Washington University, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Richard K. Wilson",
+      "first": "Richard K.",
+      "last": "Wilson",
+      "affiliation": "The Genome Institute at Washington University, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Kerstin Howe",
+      "first": "Kerstin",
+      "last": "Howe",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Paul Flicek",
+      "first": "Paul",
+      "last": "Flicek",
+      "affiliation": "The European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Tim Hubbard",
+      "first": "Tim",
+      "last": "Hubbard",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge, United Kingdom"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2011-07",
+  "volume": "9",
+  "number": "7",
+  "pages": "e1001091",
+  "tags": [
+    "Discipline-v2/Biology",
+    "Discipline-v2/Genome complexity",
+    "Discipline-v2/Genome sequencing",
+    "Discipline-v2/Genomic medicine",
+    "Discipline-v2/Genomics",
+    "Discipline/Genetics and Genomics",
+    "Genome complexity",
+    "Genome sequencing",
+    "Genomic medicine",
+    "Genomics",
+    "Type/Community Page"
+  ],
+  "fullText": "The Rationale for the GRC\n      \nThe availability of a high quality human genome assembly has revolutionized biomedical research. Genomics has now entered the realm of clinical genetics, with many groups using either whole genome sequencing [1],[2] or whole exome sequencing [3] to identify variants underlying diseases and informing treatment options [4]. Advances in technology have increased the number of sequenced human genomes; however, de novo assembly of next generation sequencing reads is still problematic. The alignment of sequencing reads from these new genomes to a high quality reference genome remains a critical aspect of data interpretation [5].\n\nWhile the human reference assembly is the highest quality mammalian assembly available, it is not without shortcomings. The “finished” assembly [6] contained over 300 gaps in the euchromatic portion of the genome, tiling path errors and regions represented by uncommon alleles. Furthermore, assessment of genome-wide variation revealed regions of the genome with complex, structurally diverse, allelic representations [7]–[9] that were insufficiently represented in the reference genome. Other analyses identified sequences that failed to align to the reference assembly either because the reference assembly contained a valid deletion allele or underrepresented multi-copy genes [10]–[13]. The Genome Reference Consortium (GRC) was formed to address these issues.\n\nThe GRC (the GRC consists of The Genome Institute at Washington University, The Wellcome Trust Sanger Institute, The European Bioinformatics Institute, and The National Center for Biotechnology Information) is an international consortium with expertise in genome mapping, sequencing, and informatics. The goal of the GRC is to provide high quality genome assemblies that will allow a user to place any sequence greater than 500 bp into a chromosome context. While this report focuses largely on recent GRC advances concerning the human reference assembly, the GRC is also responsible for the mouse and zebrafish reference assemblies. Continued improvement of the human reference assembly is critical as we move towards an era of clinical and personal genomics. The reference genomes of mouse and zebrafish are similarly critical in light of their importance as model organisms and the significant investments made in creating community resources such as gene knockout collections.\n\n      Assembly Management\n      \nTwo major problems faced the GRC at the outset of this project, the decentralized nature of the Human Genome Project and the lack of a suitable data model for representing complex genomes. Much of the data underlying curation decisions had not been captured nor standardized. The human reference assembly had never been submitted to the International Nucleotide Sequence Database Collaboration (INSDC) [14] and thus lacked stable, trackable sequence identifiers that could be accessed from any INSDC database.\n\nInitial efforts at assembling the human genome were guided by the concept of “a golden path” [15], a single clone tiling path that could be reduced to one non-redundant haploid representation of the human genome. While this model fit well with the prediction that single nucleotide variants (SNVs) would be the predominant source of variation in the population, it is now clear that structural variation is a much larger source of genomic diversity than previously recognized [16],[17]. Additionally, this model did not deal robustly with sequences that were not part of chromosome assemblies. These often represent sequences that cannot be easily ordered or oriented on the chromosome assembly due to structural complexity but frequently contain genes that may be of biological interest [18] or represent alternate haplotypes of regions in the chromosome assembly [9],[19]. Earlier versions of the reference genome assembly included some of these allelic variants (such as at the MHC region) but the sequences themselves often were not used because they had no relation to the chromosome sequence and could not be easily distinguished from sequences reflecting biological or artificial duplication.\n\nThe GRC has addressed these problems by establishing common tools and standard operating procedures (SOPs) so that the genome assembly is now constructed in a regularized fashion. We have developed a single database to store all data underlying the genome assembly. Finally, we have developed a system to track individual regions that are under review. All of these data are made publicly available through our Web site (http://genomereference.org/).\n\nAdditionally, the GRC has formalized an assembly model (Figure 1 and Box 1) that provides for improved accounting for all sequences, including those that are not part of chromosome assemblies, and facilitates genome annotation by placing additional structure on those sequences. Structurally complex regions can be represented by more than one tiling path; one of which will be integrated into the chromosome assembly while the others will be instantiated as an independent sequence that, by alignment to the chromosome, provides the chromosome context for the alternate allele.\n\nBox 1. Assembly Definitions\n\nAGP: A file used to describe the instructions for building a contig, scaffold, or chromosome sequence. This file specifies the order, orientation, and switch points for each component.\n\nAlternate Locus: A sequence that provides an alternate representation of a locus found in a largely haploid assembly. These sequences don’t represent a complete chromosome sequence, although there is no hard limit on the size of the alternate locus; currently these are less than 5 Mb.\n\nAssembly: A set of sequences (chromosomes, unlocalized, unplaced, and alternate loci) used to represent an organism’s genome.\n\nAssembly Unit: Collections of sequences used to define discrete parts of an assembly.\n\nComponent: The basic genomic level sequence used to construct the genome; typically these are clone sequences, Whole Genome Shotgun sequences, or PCR fragments. These sequences must be submitted to GenBank/EMBL/DDBJ.\n\nContig: A contiguous sequence generated from determining the non-redundant path along an ordered set of component sequences. A contig should contain no gaps.\n\nPatch: A genome patch is a scaffold sequence that is part of a minor genome release. These sequences either correct errors in the assembly (a FIX patch) or add additional alternate loci (a NOVEL patch). These sequences allow us to update the assembly information without disrupting the chromosome coordinate system. FIX patches will be removed at the next major assembly release, as the changes will be rolled into the new assembly. NOVEL patches will be moved from the PATCHES assembly unit to a proper assembly unit.\n\nPrimary Assembly Unit: Represents the collection of sequences that, when combined, represent a non-redundant haploid genome.\n\nScaffold: An ordered and oriented set of contigs. A scaffold will contain gaps, but there is typically some evidence to support the contig order, orientation, and gap size estimates.\n\nTPF: Tiling Path File; this provides the order of the component sequences that are used to build a higher order sequence (contig, scaffold, or chromosome).\n\nSwitch Point: The base at which the contig sequence stops being generated from one component sequence and switches to using the next component sequence. There must be at least one switch point between adjacent component sequences in a contig.\n\nUnlocalized sequence: A sequence found in an assembly that is associated with a specific chromosome, but that cannot be ordered or oriented on that chromosome.\n\nUnplaced sequence: A sequence found in an assembly that is not associated with any chromosome.\n\nWe have also introduced the concept of a “minor” assembly update, in the form of genome patches. This mechanism provides users with timely access to genome improvements without inducing frequent changes to the coordinate system upon which assembly annotations are based. Because genome patches take the same form as alternate loci the two forms of data can be similarly managed.\n\nThe release cycle for major assembly updates will not occur on a fixed schedule. In order to minimize the need for frequent re-annotation, major assembly updates will occur infrequently when we have produced at least 100 fix patches or affected &gt;1% of the euchromatic sequence. The GRC will announce planned updates on their Web site at least 6 months in advance of any major assembly release. Additional, detailed information regarding major releases will be publicly announced via the Web site as data freeze dates approach. Minor assembly updates will be made quarterly.\n\n      Assembly Quality and Improvement\n      \nWe have produced a major release of the human reference assembly, GRCh37, which was submitted in June of 2009 to the INSDC (GCA_000001405.1), and four minor assembly updates, with the last patch, GRCh37.p4 (GCA_000002405.5), released in April 2011. Detailed information concerning genome assembly construction is on our Web site (http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/info/index.shtml).\n\nThe top part of Figure 2 shows the distribution of issue types that were resolved for these assembly releases. Some assembly updates are relatively minor, involving the correction of a single nucleotide discrepancy in the assembly (e.g., HG-445; http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/issue_detail.cgi?id=HG-445) while others involved multiple components and required generation of new, region-specific tiling paths (e.g., HG-2; http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/issue_detail.cgi?id=HG-2). (Figure 2) [20].\n\nWhile the model changes described above facilitated our assembly management and reporting, we also wished to investigate whether these updates would allow for improved genome analysis. To investigate this, we first tried to recover sequence identified as novel in a personal genome, theYH1 human assembly [12]. Roughly 25% could be placed in a chromosome context using GRCh37.p2 (see supplemental table 1 and supplemental figure 1 at http://www.ncbi.nlm.nih.gov/genome/assembly/grc/supplement/). The remaining sequences are being investigated to determine if they warrant inclusion in a future assembly release.\n\nWe also wished to investigate the impact on alignment of next generation sequencing reads. We selected two samples from the 1,000 Genomes project [21], NA12156 and NA12878, (SRA accessions ERX000125 and ERX000080, respectively) and aligned their reads to GRCh37, with and without the alternate loci. We demonstrated that removal of the alternate loci leads to misalignment of approximately two-thirds of the alternate-locus specific reads (see supplemental table 2, supplemental figure 2 at http://www.ncbi.nlm.nih.gov/genome/assembly/grc/supplement/). These data clearly demonstrate that that inclusion of alternate representations for genomic loci can improve alignment quality and thus avoid spurious variation calls.\n\n      Policy Implications\n      \nWe envision the high quality reference assemblies generated by the GRC having a long-term role in biomedical research because they most accurately capture all forms of human genetic variation and facilitate investigation of human disease in model organisms. With this in mind, we have built a reference assembly infrastructure to support transparent curation and assembly production. We have also updated the assembly model so that it better represents our current understanding of genome structure and diversity. We will use this model to encompass new discoveries and ultimately capture all significant variations in the human population structure as discovered through projects such as 1,000 genomes. Additionally, we wish to engage the research and clinical communities to identify regions that require targeted effort and to incorporate information from groups performing detailed work on specific loci. The GRC can only be truly successful with community input. Users can report problems directly to the GRC via our Web page (http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/ReportAnIssue.shtml).\n\nIt is difficult to overstate the importance of the human reference assembly, even in the age of personal genomics. Given current sequencing and assembly technology, there is a clear need for a high quality reference that can represent structural diversity across all populations. Providing a representation of this diversity is critical for next generation sequence analysis. Even using an assembly with only three regions with alternative alleles, we show improved alignment quality and by extension variation calling, which is the primary product of personal genomics. More genomic alignment tools that can take the alternate representations into account need to be developed.\n\nUnderstanding how genotype influences phenotype necessitates an accurate and complete picture of all loci in multiple populations. For many genomic regions, this can be denoted by a sequence with annotated SNPs and small indels, but other loci will require multiple sequence instances for complete representation. Some human loci, such as the 1q21 region, which remains misassembled in GRCh37.p2, are sufficiently complex that significant effort is needed to obtain even one correct sequence for the region. Additional work is required to sort out the haplotypes segregating among various populations, many of which contribute to phenotypes associated with multiple developmental disorders [22].\n\nWhile assemblies using next generation sequencing are beginning to approach the quality of long-read Whole Genome Shotgun assemblies [23], they continue to fail in complex regions. While it is likely that sequencing and assembly technology will improve such that de novo assembly of individual genomes will approach the quality of the human reference, it is not clear when this will happen. However, even when this is a common occurrence, we see a role for the GRC in integrating the data from thousands of human genomes to produce a “gold-standard” reference assembly. We anticipate a continued need for a high quality reference assembly that will allow any human sequence to be placed into a chromosome context quickly and easily. As we march down the path of personal genomics it is critical that we devote resources to the current reference assembly in order to support clinical applications. As we continue to understand how genotype influences phenotype, the best possible reference assembly available must be made available to the research community."
+}

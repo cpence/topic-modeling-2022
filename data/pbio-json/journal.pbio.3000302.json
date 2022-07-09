@@ -1,0 +1,110 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000302",
+  "doi": "10.1371/journal.pbio.3000302",
+  "externalIds": [
+    "pii:PBIOLOGY-D-19-00757",
+    "pmid:31158224",
+    "pmcid:PMC6564034"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Plant health emergencies demand open science: Tackling a cereal killer on the run",
+  "authors": [
+    {
+      "name": "Sophien Kamoun",
+      "first": "Sophien",
+      "last": "Kamoun",
+      "affiliation": "The Sainsbury Laboratory, University of East Anglia, Norwich Research Park, Norwich, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-0290-0315"
+      ]
+    },
+    {
+      "name": "Nicholas J. Talbot",
+      "first": "Nicholas J.",
+      "last": "Talbot",
+      "affiliation": "The Sainsbury Laboratory, University of East Anglia, Norwich Research Park, Norwich, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6434-7757"
+      ]
+    },
+    {
+      "name": "M. Tofazzal Islam",
+      "first": "M. Tofazzal",
+      "last": "Islam",
+      "affiliation": "Department of Biotechnology, Bangabandhu Sheikh Mujibur Rahman Agricultural University, Gazipur, Bangladesh",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-7613-0261"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2019-06-03",
+  "volume": "17",
+  "number": "6",
+  "pages": "e3000302",
+  "tags": [
+    "Agriculture",
+    "Asia",
+    "Bangladesh",
+    "Careers in research",
+    "Cereal crops",
+    "Crop science",
+    "Crops",
+    "Discipline-v3/Agriculture",
+    "Discipline-v3/Asia",
+    "Discipline-v3/Bangladesh",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Careers in research",
+    "Discipline-v3/Cereal crops",
+    "Discipline-v3/Crop science",
+    "Discipline-v3/Crops",
+    "Discipline-v3/Eukaryota",
+    "Discipline-v3/Fungal genetics",
+    "Discipline-v3/Genetics",
+    "Discipline-v3/Geographical locations",
+    "Discipline-v3/Grasses",
+    "Discipline-v3/Mycology",
+    "Discipline-v3/Open science",
+    "Discipline-v3/Organisms",
+    "Discipline-v3/People and places",
+    "Discipline-v3/Plant fungal pathogens",
+    "Discipline-v3/Plant pathogens",
+    "Discipline-v3/Plant pathology",
+    "Discipline-v3/Plant science",
+    "Discipline-v3/Plants",
+    "Discipline-v3/Population groupings",
+    "Discipline-v3/Professions",
+    "Discipline-v3/Science and technology workforce",
+    "Discipline-v3/Science policy",
+    "Discipline-v3/Scientists",
+    "Discipline-v3/Wheat",
+    "Eukaryota",
+    "Fungal genetics",
+    "Genetics",
+    "Geographical locations",
+    "Grasses",
+    "Mycology",
+    "Open science",
+    "Organisms",
+    "Plant fungal pathogens",
+    "Plant pathogens",
+    "Plant pathology",
+    "Plant science",
+    "Plants",
+    "Population groupings",
+    "Professions",
+    "Science and technology workforce",
+    "Scientists",
+    "Type/Perspective",
+    "Wheat"
+  ],
+  "abstract": "Outbreaks of emerging plant diseases and insect pests are increasing at an alarming rate threatening the food security needs of a booming world population. The role of plant pathologists in addressing these threats to plant health is critical. Here, we share our personal experience with the appearance in Bangladesh of a destructive new fungal disease called wheat blast and stress the importance of open-science platforms and crowdsourced community responses in tackling emerging plant diseases. Benefits of the open-science approach include recruitment of multidisciplinary experts, application of cutting-edge methods, and timely replication of data analyses to increase the robustness of the findings. Based on our experiences, we provide some general recommendations and practical guidance for responding to emerging plant diseases.",
+  "fullText": "Wheat likely isn’t the first thing that comes to mind when we think of the densely populated south Asian country of Bangladesh. Yet wheat has become the second largest food crop in the country, after rice, helping Bangladeshi farmers feed their 160 million countrymen. Wheat production has grown from approximately 0.1 million in the 1970s to 1.4 million tons in 2015. Domestic consumption had also risen to about 6 million tons per annum with wheat being an important ingredient of Bengali cuisine. To meet the gap, Bangladesh imported wheat in large amounts—and this is where the problems began.\n\nThe wheat crop in Bangladesh had long been viewed as relatively disease free. Many of the usual wheat diseases familiar to farmers elsewhere in the world, such as Septoria leaf blotch and rust diseases, were seldom reported. Many wheat farmers managed to grow a healthy crop with little need to spray fungicides. Then, in February 2016, the crop failed. Dramatically. An untimely rainfall followed by a sudden outbreak of a new fungal disease devastated 15,000 hectares of wheat in 8 districts with yield loss of up to 100% [1]. Some farmers lost their entire crop and had nothing to harvest. Others were forced to burn their sterile fields to prevent further spread of the pathogen. Unusually hot and humid climatic conditions due to untimely rain fall further exacerbated the epidemic [2].\n\nAs news of this destructive outbreak spread out, we volunteered to apply the latest genomics technology to identify the precise nature and origin of the culprit. With the help of instant messaging, 2 of us (Tofazzal and Sophien) coordinated the rapid collection of diseased samples and transcriptome sequencing directly from diseased plant tissue. This approach, known as field pathogenomics, enables swift genetic diagnostic of a pathogen population without time-consuming culturing and purification of the fungus [3]. We elected to publicly release the sequence data of our samples through an open-science web platform that we called OpenWheatBlast (http://www.wheatblast.net). Nick and other plant pathologists volunteered unpublished genome sequence data of the wheat blast pathogen to add to our data and the single genome sequence that was publicly available prior to OpenWheatBlast. Two population geneticists, Daniel Croll and Pierre Gladieux, volunteered to independently analyse the data. Both of their conclusions were unequivocal. The Bangladeshi strain of the wheat blast fungus is closely related to the South American population of the wheat blast pathogen Magnaporthe oryzae (Syn. Pyricularia oryzae). Based on phylogenomic analyses of these independent groups and our laboratory tests, we concluded that the pathogen was introduced to Bangladesh from South America [1]. This scenario is not that surprising. About 6 months before the outbreak, a scandal broke out in Bangladesh following investigative reporting by local science journalists, notably Iftekhar Mahmud, who found that wheat imported from Brazil was “rotten and infected with fungi” [4]. Given that wheat blast is a seed-transmitted disease, it remains plausible that infected wheat shipments from 2015 somehow made it to agricultural fields a few months later.\n\nEmerging plant diseases call for a rapid, coordinated response\n\nThe wheat blast epidemic is emblematic of the rise in emerging plant diseases [5–7]. As the world is becoming more and more interconnected and global trade spreads, plant pathogens are increasingly invading new continents. Climate change and the propensity of these pathogens to jump from one host to another only exacerbate this problem.\n\nWhen emergencies such as the wheat blast outbreak take place, we expect scientists to immediately release the data and recruit experts. Sometimes this does happen. But we were taken aback by a rather hostile response from some quarters of the community to our rallying cry for international experts to volunteer their time, funds, and resources to help Bangladesh address the emergency. Fortunately, the agriculture minister of Bangladesh, Matia Chowdhury, was extremely supportive. After listening to Tofazzal the day after the launch of OpenWheatBlast, she was full of pride and praise for the team’s unprompted engagement and call to arms. Nonetheless, this progressive attitude towards open science remains somewhat exceptional among decision makers and scientists alike. Traditional plant pathologists work at a pace that is often set by their desire to publish papers and stake priority claims in discovery. Research groups hold on to data, are careful to withhold findings until they can submit a manuscript, and are not necessarily forthcoming in sharing strains and host varieties. What the wheat blast outbreak has shown is that this situation cannot stand. When a crisis is underway, it needs a swift, coordinated response. If researchers studying Ebola or Zika virus acted in such an unforthcoming manner, they would be jailed—and rightly so. The response to outbreaks of human diseases are immediate and exemplified by open data, public information, and a scientifically informed, coordinated response. This is clearly what is required for wheat blast and other emerging crop diseases that threaten food security. It is for this reason that the International Society for Plant Pathology (ISPP) has recently proposed a code of ethics, which our experience suggests is urgently needed [8]. Immediate data sharing and the communication of accurate information to the general public, farmers, and political leaders are all critical. Local engagement and regular dialogue with journalists and communicators is also vital in our experience (see Table 1).\n\nThree years after the 2016 outbreak—just days before we wrote this article—we visited wheat fields in Meherpur near the Bangladesh-India border (Fig 1, S1 Video, S2 Video). This region is now viewed as a hotspot of wheat blast and legitimate concerns that the pathogen would spread over to India and elsewhere remain [2]. Meherpur looks different now than it did prior to the 2016 outbreak. And we have witnessed an unforeseen consequence of blast disease: a food crop has been replaced with a drug crop. Tobacco companies moved in quickly after the wheat blast outbreak, promising farmers guaranteed prices and up-front cash incentives. So now tobacco grows in fields that once grew wheat, and the stench of curing tobacco hangs in the air as children play through racks of drying leaves. A sorry sight.\n\nAlthough there has not been a repeat of the 2016 epidemic, the disease has spread to 8 more neighbouring districts within a couple of years. The pathogen is clearly now well established in Bangladesh. Wheat blast symptoms are widespread and, in some cases, devastating. It was a powerful and emotional experience for us to stand in the infested fields of Meherpur and hold an empty grainless wheat spike. One of the farmers we visited lost his first sowing in early February 2019 and resorted to harvesting the wheat as fodder long before it set grain. His second sowing at first sight seemed healthy but, despite regular fungicide spraying, signs of wheat blast were evident. As we left Meherpur, a wet weather front was settling in, and we could only brace ourselves for an even more dramatic outbreak.\n\nWheat cultivation has decreased considerably in the blast-affected districts of Bangladesh to about half of 2016 levels. And in India, West Bengal has declared a 3-year ‘wheat holiday’ following reports of wheat blast in 2017 [2], and the noticeable switch to tobacco cultivation is particularly perverse. But all is not bad. The finding that the pathogen is of the same genetic stock as South American populations meant that the knowledge gathered in Brazil about forecasting, fungicide treatments, and varietal choices can be immediately applied in Asia.\n\nBangladeshi wheat breeders working with the International Maize and Wheat Improvement Center (CIMMYT) have trialed and released a new wheat variety BARIgom 33 that promises to mitigate the impact of the disease. Other sources of wheat blast resistance, such as the gene Rmg8, appear to be effective against a Bangladeshi strain of the fungus [9]. Our own approach is to harness clustered regularly interspaced short palindromic repeats (CRISPR) gene editing technology to breed resistant wheat plants. Already, in collaboration with Emma Wallington at the National Institute of Agricultural Botany, our team has generated the first CRISPR-edited wheat lines, and we have initiated disease resistance tests. In parallel, we continue to monitor the evolution of the pathogen. Given that the Bangladesh population appears to be clonal, we need a high-resolution genome map to precisely define any genetic changes. The near-complete genome sequences of 4 Bangladeshi isolates from 2016 and 2017 that we recently publicly released are a first step in this direction [10]. Throughout these efforts, we have pledged to openly share data, analyses, and bioresources without restriction and prior to formal publication in journal articles.\n\nBuilding support for an open-source response\n\nThe introduction of wheat blast to Bangladesh is a plant health disaster that has already had both economic and societal consequences for a developing country. We hope that our open-source response has helped to rally the community towards the common goal of fighting this formidable foe and limiting the damage it can cause in Bangladesh and other countries in the region. Our approach has also raised awareness of donors and policy makers for increased funding. The success of our project could, however, also serve as an example for dealing with any future plant health emergency, and we have outlined a set of recommendations and practical actinos, based on our experience in Table 1. Plant pathologists should be ready to embrace open science, given the marked increase in new disease outbreaks [5,7]. However, it is clear that the incentive structures in contemporary academia do not promote open sharing of data ahead of publication. Too much stock is still given to publication of ‘breakthrough’ discoveries of emerging diseases, rather than promoting and, indeed, rewarding actions that could actually lead to more rapid disease control. Only by recognizing these real-world impacts, rather than simple publication metrics, will the situation change. We therefore strongly encourage leaders within universities and institutes to look carefully at these activities and ensure they are captured in promotion criteria and for learned societies and national academies to take a strong stand in reviewing academic incentive structures, so they are fit for purpose. We can be fairly confident that any crop disease that is present anywhere in the world will spread to other areas where climatic conditions allow. Eventually, globalisation will trump phytosanitary inspections, however rigorous they may be. We urgently need to be better prepared and to work proactively to breed locally adapted varieties against diseases that are not yet present in countries around the world. Because the lesson of wheat blast is that these diseases are coming.\n\nWe hope that the friendships and collegiality that has developed among our OpenWheatBlast network will inspire other scientists to openly share their data and work together to make the world a better place for us and future generations.\n\nSupporting information"
+}

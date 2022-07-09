@@ -1,0 +1,556 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000182",
+  "doi": "10.1371/journal.pbio.3000182",
+  "externalIds": [
+    "pii:PBIOLOGY-D-18-00556",
+    "pmid:30925180",
+    "pmcid:PMC6440615"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Evolthon: A community endeavor to evolve lab evolution",
+  "authors": [
+    {
+      "name": "Sivan Kaminski Strauss",
+      "first": "Sivan",
+      "last": "Kaminski Strauss",
+      "affiliation": "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4220-4592"
+      ]
+    },
+    {
+      "name": "Dvir Schirman",
+      "first": "Dvir",
+      "last": "Schirman",
+      "affiliation": "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-5175-0176"
+      ]
+    },
+    {
+      "name": "Ghil Jona",
+      "first": "Ghil",
+      "last": "Jona",
+      "affiliation": "Department of Life Sciences Core Facilities, Weizmann Institute of Science, Rehovot, Israel"
+    },
+    {
+      "name": "Aaron N. Brooks",
+      "first": "Aaron N.",
+      "last": "Brooks",
+      "affiliation": "European Molecular Biology Laboratory (EMBL), Genome Biology Unit, Heidelberg, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-5309-7307"
+      ]
+    },
+    {
+      "name": "Aditya M. Kunjapur",
+      "first": "Aditya M.",
+      "last": "Kunjapur",
+      "affiliation": "Department of Genetics, Harvard Medical School, Boston, Massachusetts, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6869-9530"
+      ]
+    },
+    {
+      "name": "Alex N. Nguyen Ba",
+      "first": "Alex N.",
+      "last": "Nguyen Ba",
+      "affiliation": "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1357-6386"
+      ]
+    },
+    {
+      "name": "Alice Flint",
+      "first": "Alice",
+      "last": "Flint",
+      "affiliation": "Department of Biochemistry, University of Cambridge, Cambridge, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9912-119X"
+      ]
+    },
+    {
+      "name": "Andras Solt",
+      "first": "Andras",
+      "last": "Solt",
+      "affiliation": "Department of Biochemistry, University of Cambridge, Cambridge, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-4035-8421"
+      ]
+    },
+    {
+      "name": "Andreas Mershin",
+      "first": "Andreas",
+      "last": "Mershin",
+      "affiliation": "Massachusetts Institute of Technology, Center for Bits and Atoms, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Atray Dixit",
+      "first": "Atray",
+      "last": "Dixit",
+      "affiliation": "Broad Institute of MIT and Harvard, Cambridge, Massachusetts, United States of America; Harvard-MIT Division of Health Sciences and Technology, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Avihu H. Yona",
+      "first": "Avihu H.",
+      "last": "Yona",
+      "affiliation": "Physics of Living Systems, Department of Physics, Massachusetts Institute of Technology, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Bálint Csörgő",
+      "first": "Bálint",
+      "last": "Csörgő",
+      "affiliation": "Institute of Biochemistry, Biological Research Centre of the Hungarian Academy of Sciences, Szeged, Hungary"
+    },
+    {
+      "name": "Bede Phillip Busby",
+      "first": "Bede Phillip",
+      "last": "Busby",
+      "affiliation": "European Molecular Biology Laboratory (EMBL), Genome Biology Unit, Heidelberg, Germany; European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Cambridge, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-3410-9998"
+      ]
+    },
+    {
+      "name": "Bianca P. Hennig",
+      "first": "Bianca P.",
+      "last": "Hennig",
+      "affiliation": "European Molecular Biology Laboratory (EMBL), Genome Biology Unit, Heidelberg, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-7733-8160"
+      ]
+    },
+    {
+      "name": "Csaba Pál",
+      "first": "Csaba",
+      "last": "Pál",
+      "affiliation": "Institute of Biochemistry, Biological Research Centre of the Hungarian Academy of Sciences, Szeged, Hungary"
+    },
+    {
+      "name": "Daniel Schraivogel",
+      "first": "Daniel",
+      "last": "Schraivogel",
+      "affiliation": "European Molecular Biology Laboratory (EMBL), Genome Biology Unit, Heidelberg, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-5734-6980"
+      ]
+    },
+    {
+      "name": "Daniel Schultz",
+      "first": "Daniel",
+      "last": "Schultz",
+      "affiliation": "Department of Microbiology and Immunology, Geisel School of Medicine at Dartmouth, Hanover, New Hampshire, United States of America"
+    },
+    {
+      "name": "David G. Wernick",
+      "first": "David G.",
+      "last": "Wernick",
+      "affiliation": "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot, Israel"
+    },
+    {
+      "name": "Deepa Agashe",
+      "first": "Deepa",
+      "last": "Agashe",
+      "affiliation": "National Centre for Biological Sciences, Bangalore, India",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-0374-8159"
+      ]
+    },
+    {
+      "name": "Dikla Levi",
+      "first": "Dikla",
+      "last": "Levi",
+      "affiliation": "Department of Life Sciences Core Facilities, Weizmann Institute of Science, Rehovot, Israel"
+    },
+    {
+      "name": "Dmitry Zabezhinsky",
+      "first": "Dmitry",
+      "last": "Zabezhinsky",
+      "affiliation": "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel"
+    },
+    {
+      "name": "Dor Russ",
+      "first": "Dor",
+      "last": "Russ",
+      "affiliation": "Faculty of Biology, Technion–Israel Institute of Technology, Haifa, Israel"
+    },
+    {
+      "name": "Ehud Sass",
+      "first": "Ehud",
+      "last": "Sass",
+      "affiliation": "Department of Structural Biology, Weizmann Institute of Science, Rehovot, Israel",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-4302-1496"
+      ]
+    },
+    {
+      "name": "Einat Tamar",
+      "first": "Einat",
+      "last": "Tamar",
+      "affiliation": "Faculty of Biology, Technion–Israel Institute of Technology, Haifa, Israel"
+    },
+    {
+      "name": "Elad Herz",
+      "first": "Elad",
+      "last": "Herz",
+      "affiliation": "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot, Israel"
+    },
+    {
+      "name": "Emmanuel D. Levy",
+      "first": "Emmanuel D.",
+      "last": "Levy",
+      "affiliation": "Department of Structural Biology, Weizmann Institute of Science, Rehovot, Israel"
+    },
+    {
+      "name": "George M. Church",
+      "first": "George M.",
+      "last": "Church",
+      "affiliation": "Department of Genetics, Harvard Medical School, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Idan Yelin",
+      "first": "Idan",
+      "last": "Yelin",
+      "affiliation": "Faculty of Biology, Technion–Israel Institute of Technology, Haifa, Israel",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-2515-4113"
+      ]
+    },
+    {
+      "name": "Iftach Nachman",
+      "first": "Iftach",
+      "last": "Nachman",
+      "affiliation": "Department of Biochemistry and Molecular Biology, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv, Israel",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4667-0398"
+      ]
+    },
+    {
+      "name": "Jeffrey E. Gerst",
+      "first": "Jeffrey E.",
+      "last": "Gerst",
+      "affiliation": "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8411-6881"
+      ]
+    },
+    {
+      "name": "Joseph M. Georgeson",
+      "first": "Joseph M.",
+      "last": "Georgeson",
+      "affiliation": "Department of Structural Biology, Weizmann Institute of Science, Rehovot, Israel"
+    },
+    {
+      "name": "Katarzyna P. Adamala",
+      "first": "Katarzyna P.",
+      "last": "Adamala",
+      "affiliation": "University of Minnesota, Minneapolis, Minnesota, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1066-7207"
+      ]
+    },
+    {
+      "name": "Lars M. Steinmetz",
+      "first": "Lars M.",
+      "last": "Steinmetz",
+      "affiliation": "European Molecular Biology Laboratory (EMBL), Genome Biology Unit, Heidelberg, Germany; Stanford Genome Technology Center, Stanford University, Palo Alto, California, United States of America; Department of Genetics, Stanford University School of Medicine, Stanford, California, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-3962-2865"
+      ]
+    },
+    {
+      "name": "Marc Rübsam",
+      "first": "Marc",
+      "last": "Rübsam",
+      "affiliation": "European Molecular Biology Laboratory (EMBL), Genome Biology Unit, Heidelberg, Germany"
+    },
+    {
+      "name": "Markus Ralser",
+      "first": "Markus",
+      "last": "Ralser",
+      "affiliation": "Department of Biochemistry, University of Cambridge, Cambridge, United Kingdom; The Molecular Biology of Metabolism laboratory, The Francis Crick Institute, London, United Kingdom; Department of Biochemistry, Charitè University Medicine, Berlin, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-9535-7413"
+      ]
+    },
+    {
+      "name": "Michael Klutstein",
+      "first": "Michael",
+      "last": "Klutstein",
+      "affiliation": "Faculty of Dental Medicine, The Hebrew University of Jerusalem, Jerusalem, Israel",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4041-3112"
+      ]
+    },
+    {
+      "name": "Michael M. Desai",
+      "first": "Michael M.",
+      "last": "Desai",
+      "affiliation": "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America; Department of Physics, Harvard University, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Nilima Walunjkar",
+      "first": "Nilima",
+      "last": "Walunjkar",
+      "affiliation": "National Centre for Biological Sciences, Bangalore, India"
+    },
+    {
+      "name": "Ning Yin",
+      "first": "Ning",
+      "last": "Yin",
+      "affiliation": "Faculty of Biology, Technion–Israel Institute of Technology, Haifa, Israel"
+    },
+    {
+      "name": "Noa Aharon Hefetz",
+      "first": "Noa",
+      "last": "Aharon Hefetz",
+      "affiliation": "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel"
+    },
+    {
+      "name": "Noah Jakimo",
+      "first": "Noah",
+      "last": "Jakimo",
+      "affiliation": "Massachusetts Institute of Technology, Center for Bits and Atoms, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Olga Snitser",
+      "first": "Olga",
+      "last": "Snitser",
+      "affiliation": "Faculty of Biology, Technion–Israel Institute of Technology, Haifa, Israel"
+    },
+    {
+      "name": "Omri Adini",
+      "first": "Omri",
+      "last": "Adini",
+      "affiliation": "Faculty of Dental Medicine, The Hebrew University of Jerusalem, Jerusalem, Israel"
+    },
+    {
+      "name": "Prashant Kumar",
+      "first": "Prashant",
+      "last": "Kumar",
+      "affiliation": "Department of Biochemistry, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Rachel Soo Hoo Smith",
+      "first": "Rachel",
+      "last": "Soo Hoo Smith",
+      "affiliation": "Massachusetts Institute of Technology, Center for Bits and Atoms, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Razi Zeidan",
+      "first": "Razi",
+      "last": "Zeidan",
+      "affiliation": "Department of Biochemistry and Molecular Biology, George S. Wise Faculty of Life Sciences, Tel Aviv University, Tel Aviv, Israel",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-6012-1563"
+      ]
+    },
+    {
+      "name": "Ronen Hazan",
+      "first": "Ronen",
+      "last": "Hazan",
+      "affiliation": "Faculty of Dental Medicine, The Hebrew University of Jerusalem, Jerusalem, Israel"
+    },
+    {
+      "name": "Roni Rak",
+      "first": "Roni",
+      "last": "Rak",
+      "affiliation": "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-3843-3659"
+      ]
+    },
+    {
+      "name": "Roy Kishony",
+      "first": "Roy",
+      "last": "Kishony",
+      "affiliation": "Faculty of Biology, Technion–Israel Institute of Technology, Haifa, Israel; Faculty of Computer Science, Technion–Israel Institute of Technology, Haifa, Israel"
+    },
+    {
+      "name": "Shannon Johnson",
+      "first": "Shannon",
+      "last": "Johnson",
+      "affiliation": "Massachusetts Institute of Technology, Center for Bits and Atoms, Cambridge, Massachusetts, United States of America; Harvard University Extension School, Cambridge, Massachusetts, United States of America; Harvard Medical School, Boston, Massachusetts, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-6758-224X"
+      ]
+    },
+    {
+      "name": "Shira Nouriel",
+      "first": "Shira",
+      "last": "Nouriel",
+      "affiliation": "Faculty of Dental Medicine, The Hebrew University of Jerusalem, Jerusalem, Israel"
+    },
+    {
+      "name": "Sibylle C. Vonesch",
+      "first": "Sibylle C.",
+      "last": "Vonesch",
+      "affiliation": "European Molecular Biology Laboratory (EMBL), Genome Biology Unit, Heidelberg, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-2485-1048"
+      ]
+    },
+    {
+      "name": "Simmie Foster",
+      "first": "Simmie",
+      "last": "Foster",
+      "affiliation": "Harvard Medical School, Boston, Massachusetts, United States of America; Massachusetts General Hospital, Boston, Massachusetts, United States of America; Boston Children’s Hospital, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Tal Dagan",
+      "first": "Tal",
+      "last": "Dagan",
+      "affiliation": "Institute of Microbiology, Kiel University, Kiel, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9042-192X"
+      ]
+    },
+    {
+      "name": "Tanita Wein",
+      "first": "Tanita",
+      "last": "Wein",
+      "affiliation": "Institute of Microbiology, Kiel University, Kiel, Germany"
+    },
+    {
+      "name": "Thrasyvoulos Karydis",
+      "first": "Thrasyvoulos",
+      "last": "Karydis",
+      "affiliation": "Massachusetts Institute of Technology, Center for Bits and Atoms, Cambridge, Massachusetts, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7148-9665"
+      ]
+    },
+    {
+      "name": "Timothy M. Wannier",
+      "first": "Timothy M.",
+      "last": "Wannier",
+      "affiliation": "Department of Genetics, Harvard Medical School, Boston, Massachusetts, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4165-4751"
+      ]
+    },
+    {
+      "name": "Timothy Stiles",
+      "first": "Timothy",
+      "last": "Stiles",
+      "affiliation": "Massachusetts Institute of Technology, Center for Bits and Atoms, Cambridge, Massachusetts, United States of America; BosLab, Somerville, Massachusetts, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7069-2426"
+      ]
+    },
+    {
+      "name": "Viridiana Olin-Sandoval",
+      "first": "Viridiana",
+      "last": "Olin-Sandoval",
+      "affiliation": "Department of Biochemistry, University of Cambridge, Cambridge, United Kingdom; Department of Nutrition Physiology, Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran, Mexico City, Mexico"
+    },
+    {
+      "name": "William F. Mueller",
+      "first": "William F.",
+      "last": "Mueller",
+      "affiliation": "European Molecular Biology Laboratory (EMBL), Genome Biology Unit, Heidelberg, Germany"
+    },
+    {
+      "name": "Yinon M. Bar-On",
+      "first": "Yinon M.",
+      "last": "Bar-On",
+      "affiliation": "Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot, Israel",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-8477-609X"
+      ]
+    },
+    {
+      "name": "Orna Dahan",
+      "first": "Orna",
+      "last": "Dahan",
+      "affiliation": "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel"
+    },
+    {
+      "name": "Yitzhak Pilpel",
+      "first": "Yitzhak",
+      "last": "Pilpel",
+      "affiliation": "Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, Israel",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-3200-9344"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2019-03-29",
+  "volume": "17",
+  "number": "3",
+  "pages": "e3000182",
+  "tags": [
+    "Algorithms",
+    "Animal studies",
+    "Applied mathematics",
+    "Bacterial evolution",
+    "Bacteriology",
+    "Computational techniques",
+    "Discipline-v3/Algorithms",
+    "Discipline-v3/Animal studies",
+    "Discipline-v3/Applied mathematics",
+    "Discipline-v3/Bacterial evolution",
+    "Discipline-v3/Bacteriology",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Computational techniques",
+    "Discipline-v3/Eukaryota",
+    "Discipline-v3/Evolutionary adaptation",
+    "Discipline-v3/Evolutionary algorithms",
+    "Discipline-v3/Evolutionary biology",
+    "Discipline-v3/Evolutionary computation",
+    "Discipline-v3/Evolutionary genetics",
+    "Discipline-v3/Evolutionary processes",
+    "Discipline-v3/Experimental organism systems",
+    "Discipline-v3/Fungal evolution",
+    "Discipline-v3/Fungi",
+    "Discipline-v3/Mathematics",
+    "Discipline-v3/Microbial evolution",
+    "Discipline-v3/Microbiology",
+    "Discipline-v3/Model organisms",
+    "Discipline-v3/Mycology",
+    "Discipline-v3/Natural selection",
+    "Discipline-v3/Organismal evolution",
+    "Discipline-v3/Organisms",
+    "Discipline-v3/Physical sciences",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Saccharomyces",
+    "Discipline-v3/Saccharomyces cerevisiae",
+    "Discipline-v3/Simulation and modeling",
+    "Discipline-v3/Yeast",
+    "Discipline-v3/Yeast and fungal models",
+    "Eukaryota",
+    "Evolutionary adaptation",
+    "Evolutionary algorithms",
+    "Evolutionary biology",
+    "Evolutionary computation",
+    "Evolutionary genetics",
+    "Evolutionary processes",
+    "Experimental organism systems",
+    "Fungal evolution",
+    "Fungi",
+    "Mathematics",
+    "Microbial evolution",
+    "Microbiology",
+    "Model organisms",
+    "Mycology",
+    "Natural selection",
+    "Organismal evolution",
+    "Organisms",
+    "Saccharomyces",
+    "Saccharomyces cerevisiae",
+    "Simulation and modeling",
+    "Type/Community Page",
+    "Yeast",
+    "Yeast and fungal models"
+  ],
+  "abstract": "In experimental evolution, scientists evolve organisms in the lab, typically by challenging them to new environmental conditions. How best to evolve a desired trait? Should the challenge be applied abruptly, gradually, periodically, sporadically? Should one apply chemical mutagenesis, and do strains with high innate mutation rate evolve faster? What are ideal population sizes of evolving populations? There are endless strategies, beyond those that can be exposed by individual labs. We therefore arranged a community challenge, Evolthon, in which students and scientists from different labs were asked to evolve Escherichia coli or Saccharomyces cerevisiae for an abiotic stress—low temperature. About 30 participants from around the world explored diverse environmental and genetic regimes of evolution. After a period of evolution in each lab, all strains of each species were competed with one another. In yeast, the most successful strategies were those that used mating, underscoring the importance of sex in evolution. In bacteria, the fittest strain used a strategy based on exploration of different mutation rates. Different strategies displayed variable levels of performance and stability across additional challenges and conditions. This study therefore uncovers principles of effective experimental evolutionary regimens and might prove useful also for biotechnological developments of new strains and for understanding natural strategies in evolutionary arms races between species. Evolthon constitutes a model for community-based scientific exploration that encourages creativity and cooperation.",
+  "fullText": "Introduction\n\nThe known saying, “Nothing in biology makes sense except in light of evolution,” [1] clearly exemplifies the pivotal role of evolutionary thinking in biology. Classical investigations in evolution are based on observing and comparing organisms in nature, and they require inference of the past conditions and species history. Though extremely insightful, this approach can be effectively complemented by “lab-evolution,” a research paradigm in which organisms, typically microbes, are evolved in the lab. In this controlled setup, species can be challenged by changing environmental conditions, e.g., starvation, exposure to antibiotic drugs, high temperature, high salinity [2–5], or by perturbing their genes [6–8], and then they can be followed as they evolve, inspecting a diversity of physiological and genomic means of adaptation. Therefore, rather than simply observing a snapshot, an entire evolutionary “movie” can be followed, during which the environment is not only known but can also be controlled and manipulated. The Long Term Evolutionary Experiment [2] is a famous experiment that essentially established the field, and in recent years many experiments followed [9–12].\n\nConsider then the following challenge: you are given a microbe and you are asked to evolve it in the lab towards a new challenge, say to extreme temperature or to a toxic drug. What evolutionary regime will achieve “best” results? Naturally, one would expose the population to the challenge (e.g., high temperature or the drug), but open questions would include: (i) What is the optimal level of exposure to the stress? (ii) Should the stress level be constant throughout the experiment, or should it increase, decrease, oscillate, or fluctuate randomly with time? (iii) What should be the population size? Small populations feature evolutionary bottleneck and high effect of drift; (iv) If the organism can exercise sexual mating, should that be allowed? (v) Should mutation rate be manipulated, e.g., by exposing the evolving cells to a mutagen, or by working with a strain that features high mutation rate? (vi) Should cells be allowed to cycle between all stages of growth, as in serial dilution regimes[2], or should they be grown in a chemostat in constant logarithmic phase [13]?\n\nOne can be very creative in designing an evolutionary experiment, and the number of degrees of freedom is essentially unlimited. Post factum, one could ask, how did the evolutionary strategy employed affected performance? For example, it has been shown in yeast that exposure to an abruptly applied challenge, high temperature, as opposed to incremental increase in the temperature, pushed cells to evolve very different solutions. When exposed to an abrupt increase in temperature, yeast evolved through aneuploidy, a solution that proves to be maladaptive in other stresses, and that might not endure well after short relaxation periods [3]. Therefore, an interesting possibility is that the adaptation regime applied during evolution would affect the stability and generality of the adaptation.\n\nAlthough many works were done looking at individual evolution strategies, there is no larger-scale study aiming to compare the effects of different evolution strategies. In a first of its kind initiative in the evolution biology community, we, along with various experimental-evolution groups worldwide, have participated in the first Evolthon Challenge, a tournament that challenged participants to come up with creative ways to evolve microorganisms in the lab. We focused here on either Escherichia coli or Saccharomyces cerevisiae, and the challenge was adaptation to low temperature. The inspiration for the Evolthon Challenge came from the successes of other community efforts to advance and generate new thought in other fields, most notably, Axelrod's Tournament in evolutionary game theory [14], the systems biology competition Dialogue for Reverse Engineering Assessments and Methods (DREAM)[15], and the International Genetically Engineered Machine (iGEM) competition in the field of synthetic biology [16]. We were eager to create a platform to enable the joint exploration of the range of possibilities in evolving a trait with the belief that such an endeavor will allow researchers and students to explore, be creative, collaborate, share knowledge and insight, to educate themselves through this process, and contribute knowledge and advance the field of lab evolution. The ultimate goal is to seed a collection of creative lab evolution strategies and generate a first-of-its-kind lab evolution strategies database, that will grow further past this initial publication, from which researchers and biotechnologists will be able to select and adapt further.\n\nThe Evolthon Challenge outline\n\nIn the Evolthon Challenge, participants faced a clearly defined challenge: evolve a microbe, either E. coli or S. cerevisiae, so that it will be as fit as possible at lower than optimal temperature, i.e., 20°C or 15°C, respectively. Each participant received from the organizers a uniquely genome-barcoded strain (either bacteria or yeast) and was given three months to evolve or engineer the strain toward the set challenge in whatever method they wanted before sending it back to the organizers’ lab. The strains were then competed with one another to determine their fitness under the low temperature challenge and on other challenges that were not announced originally. Participants were not allowed to introduce “bio-weapons” to directly toxify other competing strains, but other than that, they were allowed to use genetics, genome engineering, chemical treatments, exposure to environmental stress, etc. (The full set of instructions can be found in S1 Text).\n\nThe fitness of each strain was assessed in the organizers’ lab in two standardized ways; first, each strain was grown in isolation, its growth curve under low temperature was generated and used to deduce various growth parameters that were compared to the ancestor’s values. The second means for evaluation was a pooled competition experiment, in which all strains, from each of the two species separately, were grown together and were allowed to compete, thus revealing the relative fitness of the strains to one another. Sequencing the barcodes during the competition enabled the determination of the relative frequency of each strain across a time course, thus determining its relative fitness. To account for biases originating from lab-to-lab technical variation, the competition between all evolving strains was carried out twice, once in the organizers’ lab and once in an additional lab.\n\nEvolution is an arena of trade-offs. For example, a strain can become well adapted to one extreme condition, but it might lose its fitness to the original environment, featuring various levels of “evolutionary memory.” Furthermore, it is possible that by adapting to one stress the evolved strain may have “generalized,” i.e., it might now become adapted to other stresses as well. A particularly interesting notion is that the evolutionary strategy used to evolve the strain for the original challenge could affect such tradeoffs and ability to “memorize” the adaptation to the original temperature, or to “generalize” and become fit in other conditions too. We therefore also assessed the strains’ ability to cope with other growth conditions whose nature were not announced to the participants ahead of time.\n\nResults\n\nThe Evolthon Challenge announcement generated great interest among the lab evolution community, with more than 20 labs from 6 countries and 12 academic institutes opting to participate. Each participant designed its own strategy for the evolution of its strain. The different strategies that participants used were very diverse, and they included strategies based on increasing mutagenesis, genomic engineering, mating (in yeast), and more. Fig 1 summarizes the strategies employed.\n\nFig 2 localizes the various strategies on a conceptual plane that is spanned by two “principal axes;” the horizontal axis characterizes the extent of genetic manipulation, and the vertical one characterizes the environment regime employed. Strategies on the far right side employed elaborate genome engineering; those on the left side did not intervene genetically at all with the evolving genomes, whereas the middle of this axis represents strategies that were based on enhanced mutagenesis, sexual mating with other diverse strains, random integration of DNA fragments from various sources, etc. For example, some participants engineered genomes to introduce beneficial mutations at various levels of design, ranging from knock-in of genes induced as cold-resistance proteins, to random transformation of genomic DNA from cold-resistant yeast strains. A cluster of strategies in yeast used sexual mating. The vertical axis represents the environmental exposure regime, when applicable, exercised in each strategy. High on the vertical axis are strategies that exposed cells to fluctuating temperature, and lower on this axis are those kept at a constant temperature. Some participants evolved their strains under a constant temperature, either the announced low temperature, or either constantly higher or lower temperatures throughout the evolution. Lowest on the y axis are strategies that monotonically change the temperature during evolution and those in which no evolution was employ. A noteworthy strategy is the daily-dilution routine performed at the desired condition (performed in a “Lenski-style” lab evolution [2]), because it is the common strategy used in lab evolution experiments. It was implemented both in E. coli and in S. cerevisiae, respectively, at 20°C or 15°C (strategies #5 “E. coli Daily dilution” and #22 “S. cerevisiae Daily dilution”). Strategies also differed in other aspects of their lab evolution protocol, such as number of generation, population size, and the environmental settings. More information about each of the strategies can be found in S2 Text and S1 Table.\n\nThe spread of exercised strategies on this plane also exposes regions that were not explored here. For example, none of the participants combined rational design with evolution under changing temperatures. Furthermore, although some strategies decreased the temperature gradually along evolution, no strategy featured a gradual increase of temperature. Such evolutionary regimes could be examined in future.\n\nMost evolved strains exhibited improved fitness in the cold environment\n\nComparison of the fitness of the ancestral strains with those of the evolved strains, measured by individual growth curves, revealed that all evolved E. coli strains significantly improved their fitness in the cold environment as compared to their ancestor (Fig 3A and 3B). In S. cerevisiae, the picture was more complex, in which some strains improved their fitness whereas the fitness of others either did not change or actually declined (Fig 3A and 3C). To further quantify how strains adapted to the cold environment, we analyzed the individual growth curves and extracted three growth parameters for each strain: lag phase duration, growth rate in the exponential phase, and the yield (maximal optical density [OD]) at the stationary phase [17] (Table 1). As can be seen from Fig 3D and 3E, the evolved E. coli and S. cerevisiae strains (respectively) behave differently. All E. coli strains mainly evolved by significantly shortening the lag phase duration, and they also improved their growth rate to some extent, whereas their yield showed little improvement (Fig 3F). In S. cerevisiae, in addition to strains that improved their fitness, there were strains in which none of the parameters were improved, and even strains that performed worse than the ancestor, mainly due to increase of lag time (Fig 3G). Moreover, unlike E. coli that mainly improved its lag, the fittest strains in S. cerevisiae primarily improved their yield (Fig 3D and 3E). The ancestral strains of S. cerevisiae and E. coli have different growth dynamics, especially a different lag phase duration (under the low temperature regimes). In S. cerevisiae, the lag phase is approximately 11% of the entire growth cycle (5 hours of lag phase out of 45 hours until stationary). In E. coli, the lag phase duration is also 5 hours, but the entire growth cycle duration is 25 hours (thus lag phase covers some 20% of the cycle) (Fig 3B and 3C Top rows). In light of this dynamics, it seems that the benefit of shortening the lag phase is higher in E. coli than in S. cerevisiae. These results indicate that, unlike a potential naïve expectation, increase in growth rate might be less common in adapting to a new environment; in contrast shortening lag phase appears to be the immediate avenue for adaptation in E.coli. Shortening of lag phase was revealed as the main means of adaptation in E.coli population that were not exposed to such abiotic stress [18] but rather evolved to utilize nonfavorable carbon source. This commonality suggests that evolution of shortened lag phase in E. coli may be a common adaptation mean featured in different types of conditions. Because both E. coli and S. cerevisiae were evolved under the same type of stress, i.e., cold temperature, our data allowed us to compare the type of improvement featured by the two organisms. By looking on the correlation across evolving strains, in their improvements in each of the growth phases, we note a difference between the two types of organisms. Whereas in yeasts strategies that improved the performance of the cells in one phase typically improved performance in other phases, in E. coli, correlations exist only between lag phase and growth phase improvements (S1 Fig).\n\nEvaluating fitness using the pooled competition assay\n\nDifferent strains featured various levels of improvement in different growth phase parameters (Fig 3D–3G). Because it is not clear which of the parameters mostly effected ultimate evolutionary success, we conducted a pooled competition experiment to evaluate fitness of each strain at the presence of all others. We competed all bacteria and separately all yeast strains for up to 60 generations, employing a conventional routine of daily dilution into a fresh medium. Competition was done in rich media at the designated low temperature (either 20°C or 15°C for E. coli and S. cerevisiae, respectively). We then sequenced the barcode region of the strains in generation 0, 20, 40, and 60 to follow changes in frequency over time. We estimated the fitness of each strain using a published algorithm [19] [20]. The pooled competition results show that one evolved E. coli variant (strain #7, the “Variable mutation-rate selection” strategy) and one evolved S. cerevisiae variant (strain #17, the “Breeding with natural variation” strategy) took over the population, both in the organizer’s lab and the other two labs that performed the competition, hence, having the highest fitness based on the pooled competition (Fig 4A and S2 Fig). Having measured separately each strain’s growth parameters allowed us to mathematically simulate and predict the results of the competition in this coculture experiment. This computational procedure employs an extension of the logistic growth equation (see S3 Text). This model assumes competition between strains on shared resources in the coculture, and it assumes otherwise no direct effects between strains, negative (e.g., killing) or positive, which were indeed forbidden in the original call for the Evolthon Challenge. It was encouraging to see that these in silico predictions agree very well with the results of the pooled competition (S3 Fig), indicating that largely, indeed, strains did not affect one another directly in this competition setup.\n\nBecause one yeast strain (strain #17, “Breeding with natural variation” strategy) took over the population, we could not rank, in its presence, the rest of the strains. We thus removed this strain from the pool and repeated a competition between all other strains. The winner in this event was strain #26, a “Mating” strategy, another strategy that exercised sexual mating (S4A Fig, lower panel). A third strategy that utilized mating, strategy #19, “Adaptive lab evolution with mating,” obtained the second highest estimated yield in the individual growth curves analysis (Fig 3C and Table 1). Therefore the three fittest yeast strains, coming from three independent labs, were those that utilized sexual reproduction as a means to evolve. In particular, these strategies mated the Evolthon strain with phenotypically diverse natural isolates of yeast strains. They either selected a natural isolate prior to mating, based on growth advantage in cold (strains #19 and #26), or they mated the Evolthon strain with a library of wild isolates, selecting for growth advantage in cold after mating (strain #17). The success of the mating-based strategies in yeast can be rationalized because sex is very well known to improve adaptation because it allows the evolving populations to recombine beneficial mutations that would have otherwise segregated in different populations [21]. In contrast to the success of mating-based strategies, several strategies that used DNA transformations of various sorts (see Table 1) did not fare very well.\n\nIn bacteria, the winning strategy, strategy #7, the “Variable mutation-rate selection” strategy, used a high mutation rate using an error-prone DNA polymerase, which was induced at alternative levels. The best colony from the combined evolutionary repeats was chosen for submission. Here, too, we later removed the winner strain and repeated the competition in order to reveal the second highest (S4A Fig, Upper panel). In this case, the winner was a strategy termed “Survival of the fittest group by means of selection” (strain #6) that employed a more complex population genetics approach (the approach utilizes directional selection while increasing the number of tested genotypes; see S1 Table and S2 Text).\n\nIn both E. coli and yeast, we had a strategy termed “daily dilution,” in which cells were daily transferred to fresh media while growing in the same conditions of the final competition. This strategy is commonly used in many lab evolution experiments. These strategies were among the poorest to evolve (Table 1, and S5 Fig). These results indicate that the Evolthon collection of lab evolution strategies likely consists of many useful new means to conduct experiments in evolution in the lab that could improve evolution of microorganisms.\n\nTo control for possible biases originating from slight technical differences between labs and in order to examine the robustness of the competition results, we performed the pooled competition experiment under the low temperature conditions in two additional Evolthon labs (one for E. coli and the other for yeast) using different shakers, incubators, etc. and repeated the barcode sequencing-based fitness measurements, as described above. The results were highly correlated between these repeats, indicating that the results reflect the true ranking of the strains (S2 Fig).\n\nRevealing trade-offs, memory, and generalization upon adaptation\n\nEvolution often trades off between competing tasks. For example, when improving fitness towards a certain challenge under selection, organisms might compromise their fitness in another environment, in particular the original environment to which they were already adapted. Are there evolutionary strategies that intensify or weaken such trade-offs compared to others? We utilized our set of evolved strains to examine trade-offs by competing the strains in different conditions that were not revealed to the various participating labs when the challenge was announced. The three conditions that we chose were (1) performance at extreme temperature conditions (“extremity”)—here we sought to assess how well each strain performs at an even lower temperature of 8°C; (2) trade-off between evolutionary change and previous legacy (”evolutionary memory”)—Here we were interested in assessing whether evolution toward low temperature compromised the fitness at the original “comfort-zone” temperature (37°C and 30°C for E. coli and yeast, respectively); (3) performance under a different stressor (“generalization”)—here, we wanted to test whether strains that evolved toward one stress, low temperature, have also gained adaptation, perhaps as an evolutionary by-product, to another stress, an osmotic stress, using NaCl for E. coli and sorbitol for yeast.\n\nThe results in yeast were very clear: the sexually reproducing strain (strain #17, “Breeding with natural variation”) outperformed all others under each of the three additional conditions (Fig 4B lower panel). Here, too, we repeated the competitions in the different conditions without the winning strain (strain #17) to try and reveal other dynamics. The winning strain in the original low temperature challenge condition, i.e., mating strategy #26, won in all other conditions, demonstrating the benefit of sexual reproduction on evolution for unforeseen challenges too (S4B Fig, lower panel). In bacteria, the situation was more complex (Fig 4B upper panel). The winner in the generalization condition was strain #6, “Survival of the fittest group by means of selection,” but in extremity conditions, both strain #6 and strain #7, “Variable mutation-rate selection” (the winner of the completion at 15°C), were the best strains. The behavior of the “Variable mutation-rate selection” strategy across the conditions was interesting. Although this strategy performed the best under the designated low temperature conditions, it did worse in the other, unforeseen challenges. This behavior might indicate that a mutagen can be beneficial in finding a good genetic solution to a particular environment under selection but might compromise other parts of the genome that are presently not under selection but that might prove crucial in the future. As done in yeast, here, too, we removed the winner strain of the challenge condition (strain #7) and repeated the competition in all conditions. The second best strain (strain #6) in the challenge condition, which is the best strain in the generalization condition, won in all conditions once we removed strain #7 (S4B Fig, upper panel).\n\nDiscussion\n\nEvolthon was the first community challenge in lab evolution. It was successful in engaging many labs, mainly through the independent work of students that were very creative, though often employing “backyard biology” in the lab. The joint work of many labs brought two essential assets. First, the strategies chosen were very diverse, highly creative, and they open many new possibilities for new developments. As can be seen in Fig 2, many potential combinations of strategies were not explored (here) so far. Many additional degrees of freedom may still be utilized. Second, in terms of number and heterogeneity of approaches experimented here, such a community effort can much exceed the scale that is typically achievable by individual researchers and students.\n\nIt is also important to note a central limitation of Evolthon and community challenges of this sort. Due to the very nature of this mode of science making, it cannot, and probably should not, attempt to cover and examine systematically all possible parameters and degrees of freedom in the space of strategies. For example, if a conventional research was aimed at finding the concentration of a mutagen that maximizes evolutionary adaptation, typically a single researcher in one lab, they would have carried out an orderly experiment with appropriate controls in which a whole range of concentrations were examined. However, natural evolution actually works the “Evolthon way” in the sense that genomes never evolve by systematically varying their parameters over a range of potential values (say, expression level of a gene or affinity of an enzyme to a substrate). Instead, evolution tries out sporadic solutions and continues with the fittest. In that respect, we might say that here we apply the nature of the evolutionary process to the study of evolution itself.\n\nThe conceptual directions revealed here could be important for other fields of biology. For example, in biotechnology, optimal evolutionary strategies are important. It is a common practice to use lab evolution to evolve strains with desired applied properties, such as degradation of biological products [22,23], production of products [24], etc. The search for optimal strategies can lead towards efficient means to screen the parameter space of evolutionary strategies.\n\nIn clinical applications, such as in infectious diseases and cancer, it is crucial that the cells will not evolve resistance. The regimen of application of drugs could enhance, or perhaps suppress, evolution of resistance. Can efforts of the type conducted here reveal anti-evolution regimes, e.g., for drug application, that would allow on one hand effective treatment and, on the other, would limit the capacity of the attacked cells to evolve resistance? Perhaps the least efficient strategies tried here could be most useful in this opposite challenge.\n\nIn Natural ecologies, when species compete in nature, they often feature an evolutionary arms race. For example, when they attack one another with antibiotics, or when immune cells attack pathogens, they may have evolved to limit the capacity of the other side to evolve resistance to the treatment. The type of thinking presented here could be developed further to ask which attack strategies are more or less prone to allow evolution of resistance by the other side. It would be interesting if attack strategies that appear in nature tend to be those to which resistance is harder to evolve.\n\nBox. Building the Evolthon community and future challenges\n\nMany participants of Evolthon met in the Genome Evolution conference, presented their strategies, and discussed the future of the project towards establishing a community in lab evolution. Managing such a community is both enjoyable and challenging. There were several values that are already shared by members of this community: (i) Transparency and sharing: All protocols, results, raw data, and processed files were shared early on between all participants so that everyone can process and analyze the data and reach conclusions independently. The strains themselves are sharable, too, now with the broader scientific community. (ii) Effective communication: Many of the Evolthon participants have met in a broader conference to discussed their strategies and future challenges. A lot of the community organization was done through email, and a special challenge was the analysis of data by all authors and writing this paper. A considerable amount of effort went into the coordination of these activities, and the organizer’s lab had to take a coordinating role. A Facebook page was setup where members can share advice, comments, ask questions, etc. (iii) Independence: All participants were totally independent in thinking about their strategies; no advice or tasks were given ahead of time. A particular issue was the possibility that due to differences in the experimental setup in each lab (e.g., shakers, incubators, etc.), performance in the pooled competition at the organizer’s lab would reflect the similarity between these conditions in different labs. By repeating the competitions in two additional labs we could alleviate this concern. The organizer’s lab took upon itself to perform a “Lenski-style” strategy to ensure that the most commonly used mode of lab evolution is being explored here. All participants took care of their own budget, but the organizer’s lab covered the pooled competition sequencing costs. (iv) Exact detailed guidance: The call for Evolthon (S1 Text) was very detailed, specifying not only the challenge but the exact conditions in which experiments will be done.\n\nOur experience also raised several points one should consider when organizing this type of community efforts. One is the issue of which platforms to use in order to publish the event such that it will reach as many members of the community as possible. Another point to consider is the amount of instruction and limitation to be imposed on the participants. An ideal scenario should allow creativity on hand, while controlling for technical variation between labs that would be necessary for valid comparisons of performance. The characteristics of the chosen challenge should also be considered; on one hand the challenge should be broad enough to allow many types of solutions; on the other hand, it should be simple enough to be accessible to many labs and students.\n\nFinally, we call upon the community of evolutionary biologists to keep developing this arena of mutual exploration in experimental evolution. For example, in a brainstorming session at the 2016 Genome Evolution Conference, the community discussed the next Evolthon challenges. One challenge that emerged was to evolve cells (bacteria, yeast, mammal) towards more efficient heterologous expression of a foreign gene, e.g., human antibodies, hormones, etc. We invite current and prospective members of this community to express their opinions on future challenges towards launching one in near future, on the forum in Evolthon web page (https://evolthon2016.wixsite.com/home/forum-1/the-next-evolthon).\n\nSupporting information"
+}

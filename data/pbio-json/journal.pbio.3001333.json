@@ -1,0 +1,232 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3001333",
+  "doi": "10.1371/journal.pbio.3001333",
+  "externalIds": [
+    "pii:PBIOLOGY-D-21-00129",
+    "pmid:34252080"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Viral dynamics of acute SARS-CoV-2 infection and applications to diagnostic and public health strategies",
+  "authors": [
+    {
+      "name": "Stephen M. Kissler",
+      "first": "Stephen M.",
+      "last": "Kissler",
+      "affiliation": "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, United States of America",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0001-6000-8387"
+      ]
+    },
+    {
+      "name": "Joseph R. Fauver",
+      "first": "Joseph R.",
+      "last": "Fauver",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "Christina Mack",
+      "first": "Christina",
+      "last": "Mack",
+      "affiliation": "Real World Solutions, IQVIA, Durham, North Carolina, United States of America; Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-3495-3796"
+      ]
+    },
+    {
+      "name": "Scott W. Olesen",
+      "first": "Scott W.",
+      "last": "Olesen",
+      "affiliation": "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, United States of America",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0001-5400-4945"
+      ]
+    },
+    {
+      "name": "Caroline Tai",
+      "first": "Caroline",
+      "last": "Tai",
+      "affiliation": "Real World Solutions, IQVIA, Durham, North Carolina, United States of America"
+    },
+    {
+      "name": "Kristin Y. Shiue",
+      "first": "Kristin Y.",
+      "last": "Shiue",
+      "affiliation": "Real World Solutions, IQVIA, Durham, North Carolina, United States of America; Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-5337-6656"
+      ]
+    },
+    {
+      "name": "Chaney C. Kalinich",
+      "first": "Chaney C.",
+      "last": "Kalinich",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0001-9675-0065"
+      ]
+    },
+    {
+      "name": "Sarah Jednak",
+      "first": "Sarah",
+      "last": "Jednak",
+      "affiliation": "Department of Health Management and Policy, University of Michigan School of Public Health, Ann Arbor, Michigan, United States of America"
+    },
+    {
+      "name": "Isabel M. Ott",
+      "first": "Isabel M.",
+      "last": "Ott",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-7134-0956"
+      ]
+    },
+    {
+      "name": "Chantal B. F. Vogels",
+      "first": "Chantal B. F.",
+      "last": "Vogels",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0003-0027-6480"
+      ]
+    },
+    {
+      "name": "Jay Wohlgemuth",
+      "first": "Jay",
+      "last": "Wohlgemuth",
+      "affiliation": "Quest Diagnostics, San Juan Capistrano, California, United States of America"
+    },
+    {
+      "name": "James Weisberger",
+      "first": "James",
+      "last": "Weisberger",
+      "affiliation": "Bioreference Laboratories, Elmwood Park, New Jersey, United States of America"
+    },
+    {
+      "name": "John DiFiori",
+      "first": "John",
+      "last": "DiFiori",
+      "affiliation": "Hospital for Special Surgery, New York, New York, United States of America; National Basketball Association, New York, New York, United States of America"
+    },
+    {
+      "name": "Deverick J. Anderson",
+      "first": "Deverick J.",
+      "last": "Anderson",
+      "affiliation": "Duke Center for Antimicrobial Stewardship and Infection Prevention, Durham, North Carolina, United States of America",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0001-6882-5496"
+      ]
+    },
+    {
+      "name": "Jimmie Mancell",
+      "first": "Jimmie",
+      "last": "Mancell",
+      "affiliation": "Department of Medicine, University of Tennessee Health Science Center, Memphis, Tennessee, United States of America"
+    },
+    {
+      "name": "David D. Ho",
+      "first": "David D.",
+      "last": "Ho",
+      "affiliation": "Aaron Diamond AIDS Research Center, Columbia University Vagelos College of Physicians and Surgeons, New York, New York, United States of America"
+    },
+    {
+      "name": "Nathan D. Grubaugh",
+      "first": "Nathan D.",
+      "last": "Grubaugh",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0003-2031-1933"
+      ]
+    },
+    {
+      "name": "Yonatan H. Grad",
+      "first": "Yonatan H.",
+      "last": "Grad",
+      "affiliation": "Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, United States of America"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2021-07-12",
+  "dateAccepted": "2021-06-21",
+  "dateReceived": "2021-01-14",
+  "volume": "19",
+  "number": "7",
+  "pages": "e3001333",
+  "tags": [
+    "Artificial gene amplification and extension",
+    "Coronaviruses",
+    "Diagnostic medicine",
+    "Discipline-v3/Artificial gene amplification and extension",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Coronaviruses",
+    "Discipline-v3/Diagnostic medicine",
+    "Discipline-v3/Linear regression analysis",
+    "Discipline-v3/Mathematical and statistical techniques",
+    "Discipline-v3/Mathematics",
+    "Discipline-v3/Medical microbiology",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Microbial pathogens",
+    "Discipline-v3/Microbiology",
+    "Discipline-v3/Molecular biology",
+    "Discipline-v3/Molecular biology techniques",
+    "Discipline-v3/Molting",
+    "Discipline-v3/Organisms",
+    "Discipline-v3/Pathogens",
+    "Discipline-v3/Pathology and laboratory medicine",
+    "Discipline-v3/Physical sciences",
+    "Discipline-v3/Physiological processes",
+    "Discipline-v3/Physiology",
+    "Discipline-v3/Polymerase chain reaction",
+    "Discipline-v3/Public and occupational health",
+    "Discipline-v3/RNA viruses",
+    "Discipline-v3/Regression analysis",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/SARS CoV 2",
+    "Discipline-v3/SARS coronavirus",
+    "Discipline-v3/Statistical methods",
+    "Discipline-v3/Statistics",
+    "Discipline-v3/Viral disease diagnosis",
+    "Discipline-v3/Viral pathogens",
+    "Discipline-v3/Viral persistence and latency",
+    "Discipline-v3/Virology",
+    "Discipline-v3/Virus testing",
+    "Discipline-v3/Viruses",
+    "Linear regression analysis",
+    "Mathematical and statistical techniques",
+    "Mathematics",
+    "Medical microbiology",
+    "Microbial pathogens",
+    "Microbiology",
+    "Molecular biology",
+    "Molecular biology techniques",
+    "Molting",
+    "Organisms",
+    "Pathogens",
+    "Pathology and laboratory medicine",
+    "Physiological processes",
+    "Physiology",
+    "Polymerase chain reaction",
+    "Public and occupational health",
+    "RNA viruses",
+    "Regression analysis",
+    "SARS CoV 2",
+    "SARS coronavirus",
+    "Statistical methods",
+    "Statistics",
+    "Type/Research Article",
+    "Viral disease diagnosis",
+    "Viral pathogens",
+    "Viral persistence and latency",
+    "Virology",
+    "Virus testing",
+    "Viruses"
+  ],
+  "abstract": "SARS-CoV-2 infections are characterized by viral proliferation and clearance phases and can be followed by low-level persistent viral RNA shedding. The dynamics of viral RNA concentration, particularly in the early stages of infection, can inform clinical measures and interventions such as test-based screening. We used prospective longitudinal quantitative reverse transcription PCR testing to measure the viral RNA trajectories for 68 individuals during the resumption of the 2019–2020 National Basketball Association season. For 46 individuals with acute infections, we inferred the peak viral concentration and the duration of the viral proliferation and clearance phases. According to our mathematical model, we found that viral RNA concentrations peaked an average of 3.3 days (95% credible interval [CI] 2.5, 4.2) after first possible detectability at a cycle threshold value of 22.3 (95% CI 20.5, 23.9). The viral clearance phase lasted longer for symptomatic individuals (10.9 days [95% CI 7.9, 14.4]) than for asymptomatic individuals (7.8 days [95% CI 6.1, 9.7]). A second test within 2 days after an initial positive PCR test substantially improves certainty about a patient’s infection stage. The effective sensitivity of a test intended to identify infectious individuals declines substantially with test turnaround time. These findings indicate that SARS-CoV-2 viral concentrations peak rapidly regardless of symptoms. Sequential tests can help reveal a patient’s progress through infection stages. Frequent, rapid-turnaround testing is needed to effectively screen individuals before they become infectious.",
+  "fullText": "Introduction\n\nA critical strategy to curb the spread of SARS-CoV-2 is to rapidly identify and isolate infectious individuals. Because symptoms are an unreliable indicator of infectiousness and infections are frequently asymptomatic [1], testing is key to determining whether a person is infected and may be contagious. Real-time quantitative reverse transcription polymerase chain reaction (RT-qPCR) tests are the gold standard for detecting SARS-CoV-2 infection. Normally, these tests yield a binary positive/negative diagnosis based on detection of viral RNA. However, they can also quantify the viral titer via the cycle threshold (Ct). The Ct is the number of thermal cycles needed to amplify sampled viral RNA to a detectable level: the higher the sampled viral RNA concentration, the lower the Ct. This inverse correlation between Ct and viral concentration makes RT-qPCR tests far more valuable than a binary diagnostic, as they can be used to reveal a person’s progress through key stages of infection [2], with the potential to assist clinical and public health decision-making. However, the dynamics of the Ct during the earliest stages of infection, when contagiousness is rapidly increasing, have been unclear, because diagnostic testing is usually performed after the onset of symptoms, when viral RNA concentration has peaked and already begun to decline, and is performed only once [3,4]. Without a clear picture of the course of SARS-CoV-2 viral concentrations across the full duration of acute infection, it has been impossible to specify key elements of testing algorithms such as the frequency of rapid at-home testing [5] that would be needed to reliably screen infectious individuals before they transmit infection. Here, we fill this gap by analyzing the prospective longitudinal SARS-CoV-2 RT-qPCR testing performed for players, staff, and vendors during the resumption of the 2019–2020 National Basketball Association (NBA) season.\n\nMethods\n\nData collection\n\nThe study period began in teams’ local cities from June 23 through July 9, 2020, and testing continued for all teams as they transitioned to Orlando, Florida, through September 7, 2020. A total of 68 individuals (90% male) were tested at least 5 times during the study period and recorded at least 1 positive test with Ct value &lt; 40. Most consecutive tests (85%) were recorded within 1 day of each other, and fewer than 3% of the intervals between consecutive tests exceeded 4 days (S1 Fig). Many individuals were being tested daily as part of Orlando campus monitoring. Due to a lack of new infections among players and team staff after clearing quarantine in Orlando, all players and team staff included in the results predate the Orlando phase of the restarted season. A diagnosis of “acute” or “persistent” infection was abstracted from physician records. “Acute” denoted a likely new infection. “Persistent” indicated the presence of virus in a clinically recovered individual, likely due to infection that developed prior to the onset of the study. There were 46 acute infections; the remaining 22 individuals were assumed to be persistently shedding SARS-CoV-2 RNA due to a known infection that occurred prior to the study period [6]. This persistent RNA shedding can last for weeks after an acute infection and likely represents noninfectious viral RNA [7]. Of the individuals included in the study, 27 of the 46 with acute infections and 40 of the 68 overall were staff and vendors. The Ct values for all tests for the 68 individuals included in the analysis, with their designations of acute or persistent infection, are depicted in S2–S5 Figs. A schematic diagram of the data collection and analysis pipeline is given in Fig 1.\n\nEthics\n\nResidual de-identified viral transport media from anterior nares and oropharyngeal swabs collected from NBA players, staff, and vendors were obtained from Quest Diagnostics or BioReference Laboratories. In accordance with the guidelines of the Yale Human Investigation Committee, this work with de-identified samples was approved for research not involving human subjects by the Yale Institutional Review Board (HIC protocol #2000028599). This project was designated exempt by the Harvard Institutional Review Board (IRB20-1407).\n\nStatistical analysis\n\nDue to imperfect sampling, persistent viral shedding, and test uncertainty near the limit of detection, a straightforward analysis of the data would be insufficient to reveal the duration and peak magnitude of the viral trajectory. Imperfect sampling would bias estimates of the peak viral concentration towards lower concentrations/higher Ct values since the moment of peak viral concentration is unlikely to be captured. Persistent shedding and test uncertainty would bias estimates of the trajectory duration towards longer durations of infection. To address these problems, we used a Bayesian statistical model to infer the peak Ct value and the durations of the proliferation and clearance stages for the 46 acute infections (Fig 1; S1 Text). We assumed that the viral concentration trajectories consisted of a proliferation phase, with exponential growth in viral RNA concentration, followed by a clearance phase, characterized by exponential decay in viral RNA concentration [8]. Since Ct values are roughly proportional to the negative logarithm of viral concentration [2], this corresponds to a linear decrease in Ct followed by a linear increase. We therefore constructed a piecewise linear regression model to estimate the peak Ct value, the time from infection onset to peak (i.e., the duration of the proliferation stage), and the time from peak to infection resolution (i.e., the duration of the clearance stage). This allowed us to separate the viral trajectories into the 3 distinct phases: proliferation (from the onset of detectability to the peak viral concentration, or to to tp in S6 Fig), clearance (from the peak viral concentration to the resolution of acute infection, or tp to tr in S6 Fig), and persistence (lasting indefinitely after the resolution of acute infection, or after tr in S6 Fig; see also Fig 1). Note that for the 46 individuals with acute infections, the persistence phase is identified using the viral trajectory model, whereas for the 22 other infections, the entire series of observations was classified as “persistent” due to clinical evidence of a probable infection prior to the start of the study period. We estimated the parameters of the regression model by fitting to the available data using a Hamiltonian Monte Carlo algorithm [9] yielding simulated draws from the Bayesian posterior distribution for each parameter. Full details on the fitting procedure are given in S1 Text. Code is available at https://github.com/gradlab/CtTrajectories [10].\n\nInferring stage of infection\n\nNext, we determined whether individual or paired Ct values can reveal whether an individual is in the proliferation, clearance, or persistent stage of infection. To assess the predictive value of a single Ct value, we extracted all observed Ct values within a 5-unit window (e.g., between 30.0 and 34.9 Ct) and measured how frequently these values sat within the proliferation stage, the clearance stage, or the persistent stage. We measured these frequencies across 10,000 posterior parameter draws to account for the fact that Ct values near stage transitions (e.g., near the end of the clearance stage) could be assigned to different infection stages depending on the parameter values (see Fig 1, bottom right). We did this for 23 windows with midpoint spanning from Ct = 37.5 to Ct = 15.5 in increments of 1 Ct.\n\nTo calculate the probability that a Ct value sitting within a 5-unit window corresponded to an acute infection (i.e., either the proliferation or the clearance stage), we summed the proliferation and clearance frequencies for all samples within that window and divided by the total number of samples in the window. We similarly calculated the probability that a Ct sitting within the 5-unit window corresponded to just the proliferation phase.\n\nTo assess the information gained by conducting a second test within 2 days of an initial positive test, we restricted our attention to all samples that had a subsequent sample taken within 2 days. We repeated the above calculations for (a) consecutive tests with decreasing Ct and (b) consecutive tests with increasing Ct. That is, we measured the frequency with which a given Ct value sitting within a 5-unit window, followed by a second test with either a lower or a higher Ct, sat within with the proliferation, clearance, or persistence stages.\n\nMeasuring the effective sensitivity of screening tests\n\nThe sensitivity of a test is defined as the probability that the test correctly identifies an individual who is positive for some criterion of interest. For clinical diagnostic SARS-CoV-2 tests, the criterion of interest is current infection with SARS-CoV-2. Alternatively, a common goal is to predict infectiousness at some point in the future, as in the context of test-based screening prior to a social gathering. The “effective sensitivity” of a test in this context (i.e., its ability to predict future infectiousness) may differ substantially from its clinical sensitivity (i.e., its ability to detect current infection). A test’s effective sensitivity depends on its inherent characteristics, such as its limit of detection and sampling error rate, as well as the viral dynamics of infected individuals.\n\nTo illustrate this, we estimated the effective sensitivity of (a) a test with a limit of detection of 40 Ct and a 1% sampling error probability (akin to RT-qPCR) and (b) a test with a limit of detection of 35 Ct and a 5% sampling error probability (akin to some rapid antigen tests). We measured the frequency with which such tests would successfully identify an individual who would be infectious at the time of a gathering when the test was administered between 0 and 3 days prior to the gathering, given viral trajectories informed by the longitudinal testing data (see schematic in Fig 1). To accomplish this, we drew 1,000 individual-level viral concentration trajectories from the fitted model, restricting to trajectories with peak viral concentration above a given infectiousness threshold (any samples with peak viral concentration below the infectiousness threshold would never be infectious and so would not factor into the sensitivity calculation). For the main analysis, we assumed that the infectiousness threshold was at 30 Ct [11]. In a supplemental analysis, we also assessed infectiousness thresholds of 35 and 20 Ct. We drew onset-of-detectability times (i.e., the onset of the proliferation stage) according to a random uniform distribution so that each person would have a Ct value exceeding the infectiousness threshold at the time of the gathering. Then, we calculated the fraction of trajectories that would be successfully identified using a test with (a) a limit of detection of 40 Ct and (b) a limit of detection of 35 Ct, administered between 0 and 3 days prior to the gathering. Full details are given in S1 Text and S7A Fig.\n\nNext, we shifted attention from the individual to the gathering. We estimated the number of individuals who would be expected to arrive at a 1,000-person gathering while infectious given each testing strategy (40-Ct limit of detection with 1% false negative rate; 35-Ct limit of detection with 5% false negative rate) assuming a 2% prevalence of PCR-detectable infection in the population. To do so, we again drew 1,000 individual-level viral concentration trajectories from the fitted model and drew onset-of-detectability times according to a random uniform distribution from the range of possible times that would allow for the person to have detectable virus (Ct &lt; 40) during the gathering. We counted the number of people who would have been infectious at the gathering (a) in the absence of testing and (b) given a test administered between 0 and 3 days prior to the gathering. As before, we assumed that the infectiousness threshold corresponded to a Ct value of 30 for the main analysis and considered infectiousness thresholds of 35 Ct and 20 Ct in a supplemental analysis. Full details are given in S1 Text and S7B Fig. To facilitate the exploration of different scenarios, we have generated an online tool (https://stephenkissler.shinyapps.io/shiny/) where users can input test and population characteristics and calculate the effective sensitivity and expected number of infectious individuals at a gathering.\n\nResults\n\nOf the 46 individuals with acute infections, 13 reported symptoms at the time of diagnosis; the timing of the onset of symptoms was not recorded. The median number of positive tests for the 46 individuals was 3 (IQR 2, 5). The minimum recorded Ct value across the 46 individuals had mean 26.4 (IQR 23.2, 30.4). The recorded Ct values for the acute infections with individual-level piecewise linear regressions are depicted in Fig 2.\n\nBased on the viral trajectory model, the mean peak Ct value for symptomatic individuals was 22.3 (95% credible interval [CI] 19.3, 25.3), the mean duration of the proliferation phase was 3.4 days (95% CI 2.0, 4.8), and the mean duration of clearance was 10.9 days (95% CI 7.9, 14.4) (Fig 3). This compares with 22.3 Ct (95% CI 20.0, 24.4), 3.5 days (95% CI 2.5, 4.5), and 7.8 days (95% CI 6.1, 9.7), respectively, for individuals who did not report symptoms at the time of diagnosis (Fig 3). This yielded a slightly longer overall duration of acute infection for individuals who reported symptoms (14.3 days [95% CI 11.0, 17.7]) versus those who did not (11.2 days [95% CI 9.4, 13.4]). For all individuals, regardless of symptoms, the mean peak Ct value, proliferation duration, clearance duration, and duration of acute shedding were 22.3 Ct (95% CI 20.5, 23.9), 3.3 days (95% CI 2.5, 4.2), 8.5 days (95% CI 6.9, 10.1), and 11.7 days (95% CI 10.1, 13.6) (S8 Fig). A full list of the model-inferred viral trajectory parameters is reported in Table 1. There was a substantial amount of individual-level variation in the peak Ct value and the proliferation and clearance stage durations (S9–S14 Figs).\n\nUsing the full dataset of 68 individuals, we estimated the frequency with which a given Ct value was associated with an acute infection (i.e., the proliferation or clearance phase, but not the persistence phase) and, if so, the probability that it was associated with the proliferation stage alone. The probability of an acute infection increased rapidly with decreasing Ct (increasing viral load), with Ct &lt; 30 virtually guaranteeing an acute infection in this dataset (Fig 4A). However, a single Ct value provided little information about whether an acute infection was in the proliferation or the clearance stage (Fig 4B). This is unsurprising since the viral trajectory must pass through any given value during both the proliferation and the clearance stage. With roughly uniform sampling over time, a given Ct value is more likely to correspond to the clearance stage simply because the clearance stage is longer.\n\nWe assessed whether a second test within 2 days of the first could improve these predictions. A positive test followed by a second test with lower Ct (higher viral RNA concentration) was slightly more likely to be associated with an active infection than a positive test alone (Fig 4C), and was much more likely to be associated with the proliferation phase than with the clearance phase (Fig 4D).\n\nWe next estimated how the effective sensitivity of a pre-event screening test declines with increasing time to the event. For a test with a limit of detection of 40 Ct and a 1% chance of sampling error, the effective sensitivity declines from 99% when the test coincides with the start of the event to 76% when the test is administered 2 days prior to the event (Fig 5A), assuming a threshold of infectiousness at 30 Ct [11]. This 2-day-ahead sensitivity is slightly lower than the effective sensitivity of a test with a limit of detection at 35 Ct and a 5% sampling error administered 1 day before the event (82%), demonstrating that limitations in testing technology can be compensated for by reducing turnaround time. Using these effective sensitivities, we estimated the number of infectious individuals who would be expected to arrive at a gathering with 1,000 people given a pre-gathering screening test and a 2% prevalence of infectiousness in the population. Just as the effective sensitivity declines with time to the gathering, the predicted number of infectious individuals rises with time to the gathering (Fig 5B) since longer delays between the screening test and the gathering make it more likely that an individual’s infection will be undetectable at the time of testing but the individual will be infectious at the time of the event. Changing the infectiousness threshold modulates the magnitude of the decline in effective sensitivity associated with longer testing delays; however, the overall pattern is consistent (S18 Fig).\n\nDiscussion\n\nWe provide to our knowledge the first comprehensive data on the early-infection RT-qPCR Ct dynamics associated with SARS-CoV-2 infection. We found that viral titers peak quickly, normally within 3 days of the first possible RT-qPCR detection, regardless of symptoms. Our findings highlight that repeated PCR tests can be used to infer the stage of a patient’s infection. While a single test can inform on whether a patient is in the acute or persistent viral RNA shedding stage, a subsequent test can help identify whether viral RNA concentrations are increasing or decreasing, thus informing clinical care. For example, patients near the beginning of their infection may need to be isolated for different amounts of time than patients near the end of their infection. For patients at risk for complications, closer monitoring and more proactive treatment may be preferred for patients near the start of infection than for those who are already nearing its resolution. We also show that the effective sensitivity of pre-event screening tests declines rapidly with test turnaround time due to the rapid progression from detectability to peak viral titers. Due to the transmission risk posed by large gatherings [12], the trade-off between test speed and sensitivity must be weighed carefully. Our data offer to our knowledge the first direct measurements capable of informing such decisions.\n\nOur findings on the duration of SARS-CoV-2 viral RNA shedding expand on and agree with previous studies [13–15] and with observations that peak Ct does not differ substantially between symptomatic and asymptomatic individuals [3]. While previous studies have largely relied on serial sampling of admitted hospital patients, our study used prospective sampling of ambulatory infected individuals to characterize complete viral dynamics for the presymptomatic stage and for individuals who did not report symptoms. This allowed us to assess differences between the viral RNA proliferation and clearance stages for individuals with and without reported symptoms. The similarity in the early-infection viral RNA dynamics for symptomatic and asymptomatic individuals underscores the need for SARS-CoV-2 screening regardless of symptoms. The progression from a negative test to a peak Ct value 2–4 days later aligns with modeling assumptions made in various studies [5,16] to evaluate the potential effectiveness of frequent rapid testing programs, strengthening the empirical bases for their findings. Taken together, the dynamics of viral RNA shedding substantiate the need for frequent population-level SARS-CoV-2 screening and a greater availability of diagnostic tests.\n\nThe statistical model we developed to infer the viral trajectory parameters is phenomenological: It assumes an exponential increase in viral RNA concentration followed by an exponential decay but does not explicitly encode a biological mechanism leading to these exponential rates and the transition between them. Similar phenomenological models have been used to study the viral dynamics of HIV [17]. More biologically explicit mechanistic models have been used to study SARS-CoV-2 [18,19], but these remain in the early stages of development due to the limited amount of data available to inform such models. Since our primary interest is in the public health implications of SARS-CoV-2 viral trajectories with different magnitudes and durations, a phenomenological model is suitable and has the advantage of being straightforward to implement. The data presented here could be used to parameterize detailed mechanistic models as well, from which further biological insights about SARS-CoV-2 might be gained.\n\nOur findings are limited for several reasons. The sample size is small, especially with respect to symptomatic acutely infected individuals. The cohort does not constitute a representative sample from the population, as it was a predominantly male, healthy, young population inclusive of professional athletes. Viral trajectories may differ for individuals who have been vaccinated or who have been infected with different SARS-CoV-2 variants, which we were unable to assess due to the time frame of our study. Some of the trajectories were sparsely sampled, limiting the precision of our posterior estimates. Symptom reporting was imperfect, particularly after initial evaluation, as follow-up during the course of the disease was not systematic for all individuals. As with all predictive tests, the probabilities that link Ct values with infection stages (Fig 4) pertain to the population from which they were calibrated and do not necessarily generalize to other populations for which the prevalence of infection and testing protocols may differ. Still, we anticipate that the central patterns will hold across populations: first, that low Ct values (&lt;30) strongly predict acute infection and, second, that a follow-up test collected within 2 days of an initial positive test can substantially help to discern whether a patients are closer to the beginning or the end of their infection. Our study did not test for the presence of infectious virus, though previous studies have documented a close inverse correlation between Ct values and culturable virus [11]. Our assessment of pre-event testing assumed that individuals become infectious immediately upon passing a threshold and that this threshold is the same for the proliferation and for the clearance phase. In reality, the threshold for infectiousness is unlikely to be at a fixed viral concentration for all individuals and may be at a higher Ct/lower viral concentration during the proliferation stage than during the clearance stage. Further studies that measure culturable virus during the various stages of infection and that infer infectiousness based on contact tracing combined with prospective longitudinal testing will help to clarify the relationship between viral concentration and infectiousness.\n\nTo manage the spread of SARS-CoV-2, we must develop novel technologies and find new ways to extract more value from the tools that are already available. Our results suggest that integrating the quantitative viral RNA trajectory into algorithms for clinical management could offer benefits. The ability to chart patients’ progress through their infection underpins our ability to provide appropriate clinical care and to institute effective measures to reduce the risk of onward transmission. Marginally more sophisticated diagnostic and screening algorithms may greatly enhance our ability to manage the spread of SARS-CoV-2 using tests that are already available.\n\nSupporting information"
+}

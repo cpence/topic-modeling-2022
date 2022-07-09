@@ -1,0 +1,270 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000867",
+  "doi": "10.1371/journal.pbio.3000867",
+  "externalIds": [
+    "pii:PBIOLOGY-D-20-02003",
+    "pmid:33027248",
+    "pmcid:PMC7571696"
+  ],
+  "license": "This is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Detection of SARS-CoV-2 RNA by multiplex RT-qPCR",
+  "authors": [
+    {
+      "name": "Eriko Kudo",
+      "first": "Eriko",
+      "last": "Kudo",
+      "affiliation": "Department of Immunobiology, Yale School of Medicine, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "Benjamin Israelow",
+      "first": "Benjamin",
+      "last": "Israelow",
+      "affiliation": "Department of Immunobiology, Yale School of Medicine, New Haven, Connecticut, United States of America; Department of Internal Medicine, Section of Infectious Diseases, Yale School of Medicine, New Haven, Connecticut, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-1308-8246"
+      ]
+    },
+    {
+      "name": "Chantal B. F. Vogels",
+      "first": "Chantal B. F.",
+      "last": "Vogels",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-0027-6480"
+      ]
+    },
+    {
+      "name": "Peiwen Lu",
+      "first": "Peiwen",
+      "last": "Lu",
+      "affiliation": "Department of Immunobiology, Yale School of Medicine, New Haven, Connecticut, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6118-872X"
+      ]
+    },
+    {
+      "name": "Anne L. Wyllie",
+      "first": "Anne L.",
+      "last": "Wyllie",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6015-0279"
+      ]
+    },
+    {
+      "name": "Maria Tokuyama",
+      "first": "Maria",
+      "last": "Tokuyama",
+      "affiliation": "Department of Immunobiology, Yale School of Medicine, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "Arvind Venkataraman",
+      "first": "Arvind",
+      "last": "Venkataraman",
+      "affiliation": "Department of Immunobiology, Yale School of Medicine, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "Doug E. Brackney",
+      "first": "Doug E.",
+      "last": "Brackney",
+      "affiliation": "The Connecticut Agricultural Experiment Station, Department of Environmental Sciences, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "Isabel M. Ott",
+      "first": "Isabel M.",
+      "last": "Ott",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "Mary E. Petrone",
+      "first": "Mary E.",
+      "last": "Petrone",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "Rebecca Earnest",
+      "first": "Rebecca",
+      "last": "Earnest",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "Sarah Lapidus",
+      "first": "Sarah",
+      "last": "Lapidus",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "M. Catherine Muenker",
+      "first": "M. Catherine",
+      "last": "Muenker",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-0450-0868"
+      ]
+    },
+    {
+      "name": "Adam J. Moore",
+      "first": "Adam J.",
+      "last": "Moore",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "Arnau Casanovas-Massana",
+      "first": "Arnau",
+      "last": "Casanovas-Massana",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-3301-6143"
+      ]
+    },
+    {
+      "name": "Yale IMPACT Research Team"
+    },
+    {
+      "name": "Saad B. Omer",
+      "first": "Saad B.",
+      "last": "Omer",
+      "affiliation": "Department of Internal Medicine, Section of Infectious Diseases, Yale School of Medicine, New Haven, Connecticut, United States of America; Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America; Yale Institute of Global Health, New Haven, Connecticut, United States of America; Yale School of Nursing, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "Charles S. Dela Cruz",
+      "first": "Charles S.",
+      "last": "Dela Cruz",
+      "affiliation": "Section of Pulmonary, Critical Care, and Sleep Medicine, Department of Internal Medicine, Yale School of Medicine, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "Shelli F. Farhadian",
+      "first": "Shelli F.",
+      "last": "Farhadian",
+      "affiliation": "Department of Internal Medicine, Section of Infectious Diseases, Yale School of Medicine, New Haven, Connecticut, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7230-1409"
+      ]
+    },
+    {
+      "name": "Albert I. Ko",
+      "first": "Albert I.",
+      "last": "Ko",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-9023-2339"
+      ]
+    },
+    {
+      "name": "Nathan D. Grubaugh",
+      "first": "Nathan D.",
+      "last": "Grubaugh",
+      "affiliation": "Department of Epidemiology of Microbial Diseases, Yale School of Public Health, New Haven, Connecticut, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-2031-1933"
+      ]
+    },
+    {
+      "name": "Akiko Iwasaki",
+      "first": "Akiko",
+      "last": "Iwasaki",
+      "affiliation": "Department of Immunobiology, Yale School of Medicine, New Haven, Connecticut, United States of America; Howard Hughes Medical Institute, Chevy Chase, Maryland, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-7824-9856"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2020-10-07",
+  "dateAccepted": "2020-09-24",
+  "dateReceived": "2020-07-03",
+  "volume": "18",
+  "number": "10",
+  "pages": "e3000867",
+  "tags": [
+    "Anatomy",
+    "Artificial gene amplification and extension",
+    "Biochemistry",
+    "Body fluids",
+    "COVID 19",
+    "Coronaviruses",
+    "DNA-binding proteins",
+    "Diagnostic medicine",
+    "Discipline-v3/Anatomy",
+    "Discipline-v3/Artificial gene amplification and extension",
+    "Discipline-v3/Biochemistry",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Body fluids",
+    "Discipline-v3/COVID 19",
+    "Discipline-v3/Coronaviruses",
+    "Discipline-v3/DNA-binding proteins",
+    "Discipline-v3/Diagnostic medicine",
+    "Discipline-v3/Enzymes",
+    "Discipline-v3/Enzymology",
+    "Discipline-v3/Gene expression",
+    "Discipline-v3/Genetics",
+    "Discipline-v3/Hydrolases",
+    "Discipline-v3/Infectious diseases",
+    "Discipline-v3/Medical conditions",
+    "Discipline-v3/Medical microbiology",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Microbial pathogens",
+    "Discipline-v3/Microbiology",
+    "Discipline-v3/Molecular biology",
+    "Discipline-v3/Molecular biology techniques",
+    "Discipline-v3/Nucleases",
+    "Discipline-v3/Organisms",
+    "Discipline-v3/Pathogens",
+    "Discipline-v3/Pathology and laboratory medicine",
+    "Discipline-v3/Physiology",
+    "Discipline-v3/Polymerase chain reaction",
+    "Discipline-v3/Proteins",
+    "Discipline-v3/RNA viruses",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Reverse transcription",
+    "Discipline-v3/Ribonucleases",
+    "Discipline-v3/SARS",
+    "Discipline-v3/SARS CoV 2",
+    "Discipline-v3/SARS coronavirus",
+    "Discipline-v3/Saliva",
+    "Discipline-v3/Viral diseases",
+    "Discipline-v3/Viral pathogens",
+    "Discipline-v3/Virus testing",
+    "Discipline-v3/Viruses",
+    "Enzymes",
+    "Enzymology",
+    "Gene expression",
+    "Genetics",
+    "Hydrolases",
+    "Infectious diseases",
+    "Medical conditions",
+    "Medical microbiology",
+    "Microbial pathogens",
+    "Microbiology",
+    "Molecular biology",
+    "Molecular biology techniques",
+    "Nucleases",
+    "Organisms",
+    "Pathogens",
+    "Pathology and laboratory medicine",
+    "Physiology",
+    "Polymerase chain reaction",
+    "Proteins",
+    "RNA viruses",
+    "Reverse transcription",
+    "Ribonucleases",
+    "SARS",
+    "SARS CoV 2",
+    "SARS coronavirus",
+    "Saliva",
+    "Type/Methods and Resources",
+    "Viral diseases",
+    "Viral pathogens",
+    "Virus testing",
+    "Viruses"
+  ],
+  "abstract": "The current quantitative reverse transcription PCR (RT-qPCR) assay recommended for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) testing in the United States requires analysis of 3 genomic targets per sample: 2 viral and 1 host. To simplify testing and reduce the volume of required reagents, we devised a multiplex RT-qPCR assay to detect SARS-CoV-2 in a single reaction. We used existing N1, N2, and RP primer and probe sets by the Centers for Disease Control and Prevention, but substituted fluorophores to allow multiplexing of the assay. The cycle threshold (Ct) values of our multiplex RT-qPCR were comparable to those obtained by the single assay adapted for research purposes. Low copy numbers (≥500 copies/reaction) of SARS-CoV-2 RNA were consistently detected by the multiplex RT-qPCR. Our novel multiplex RT-qPCR improves upon current single diagnostics by saving reagents, costs, time, and labor.",
+  "fullText": "Introduction\n\nThe ongoing global pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and associated coronavirus disease 2019 (COVID-19) has caused more than 25 million infections and killed more than 850,000 people as of September 2, 2020, and the virus continues to spread throughout the globe [1]. In the absence of a specific vaccine or effective therapy for the treatment of COVID-19, public health infection prevention measures, including contact tracing and isolation measures, are currently our only tool to stem transmission. However, testing, contact tracing, and isolation measures require rapid and widespread testing. Here, we improved a quantitative reverse transcription PCR (RT-qPCR) assay for the detection of SARS-CoV-2 to allow for more rapid and widespread testing.\n\nWhile a number of primer and probe sets for the detection of SARS-CoV-2 RNA by RT-qPCR have become available since the identification of this novel virus, their broad deployment has been hampered partially by the availability of testing reagents. The current RT-qPCR assay developed by the Centers for Disease Control and Prevention (CDC) targets 2 different conserved segments of the viral nucleocapsid gene (N1 and N2) as well as the human RNase P gene as a sampling control [2]. This protocol therefore requires 3 reactions to be performed per patient sample, which, in addition to requiring a large amount of resources, also increases the chance for error. In an effort to reduce reagents, time, potential error, and labor per sample, we devised a multiplex RT-qPCR for the detection of SARS-CoV-2. To do this, we utilized the existing N1 and N2 primer and probe sets published by the CDC; however, we substituted different fluorophores to enable multiplexing. We found the accuracy and specificity of this method to be similar to those of single RT-qPCR. Therefore, this novel multiplex RT-qPCR assay provides equivalent diagnostic accuracy to current single methods in fewer reactions and utilizes less reagents and time.\n\nResults\n\nDetermination of lower limit of virus concentration detected by multiplex RT-qPCR\n\nThe limit of detection (LOD) was analyzed using 10-fold serial dilutions of full-length SARS-CoV-2 RNA into RNA extracted from pooled nasopharyngeal swabs from SARS-CoV-2-negative human samples. The cycle threshold (Ct) values and detection rates are shown in Table 1. The slope of the standard curves for N1 and N2 were −3.36 and −3.52, respectively. The amplification efficiency was above 90% for both primer–probe sets (Fig 1A). All primer–probe sets and conditions were able to detect SARS-CoV-2 at 500 virus copies per reaction (Table 1). These data are consistent with previous studies [3,4].\n\nComparison of performance of multiplex and single RT-qPCR\n\nTo confirm the sensitivity of the primer–probe sets (FAM, HEX, and Cy5 fluorophores) tested as single or multiplex reactions, as well as in comparison to the original single assay (FAM), we used nasopharyngeal swab and saliva samples from COVID-19 patients to detect SARS-CoV-2 RNA. The Ct values generated by the multiplex RT-qPCR were similar to those generated with FAM only or multicolor single RT-qPCR (Fig 1B; Table 2). These data indicated that our RT-qPCR with multicolor fluorophores under singleplex and multiplex conditions has similar performance for the detection of SARS-CoV-2 RNA as the currently utilized single RT-qPCR.\n\nComparison of single and multiplex assay sensitivity in clinical samples\n\nTo evaluate the accuracy of our RT-qPCR multiplex assay, we tested RNA extracted from nasopharyngeal swabs and saliva samples obtained from a total of 59 samples, including 38 SARS-CoV-2-positive inpatients and 21 SARS-CoV-2-negative healthcare workers. The results of our multiplex RT-qPCR were 100% sensitive as compared with single RT-qPCR (Fig 1C; Table 3). These data show that our multiplex RT-qPCR method could provide an alternative to the detection of SARS-CoV-2 by currently published single methods.\n\nDiscussion\n\nWe improved an existing research single RT-qPCR method using the CDC primer–probe sets for multiplex RT-qPCR for molecular diagnostic testing of SARS-CoV-2. This multiplex RT-qPCR approach simultaneously detected the CDC-recommended 2 gene segments of SARS-CoV-2 RNA (N1 and N2) and the internal control human RNase P gene in a single reaction for research purposes. This method performed as well as the single RT-qPCR on clinical samples and was highly sensitive for detecting all target genes. Generally, an important consideration for this multiplex RT-qPCR approach is that cycling conditions may vary depending on qPCR machines, sample type, and target gene. We therefore recommend that when implementing new assays, primer and probe concentrations should be optimized to individual lab conditions.\n\nThe CDC primer and probe sets for SARS-CoV-2 testing are recommended for clinical testing in the US [2]. We reported sensitivity of CDC primer and probe sets compared with others from the Chinese Center for Disease Control and Prevention [5], Charité Institute of Virology, Universitätsmedizin Berlin [6], and Hong Kong University [7]. In single RT-qPCR, the CDC N2 primer set has a lower detection capability than the CDC N1 primers [3]. Our multiplex RT-qPCR assay also showed that N1 and N2 primer–probe sets had detection rates of 60% and 25%, respectively, at 50 virus copies per reaction (Table 1). While the analytical sensitivity is important to define for a given diagnostic test, very low viral copy numbers are unlikely to reflect infectious viral load [8].\n\nThe SARS-CoV-2 pandemic has already claimed the lives of over 400,000 people, and halted the global economy and changed our daily lives worldwide. Given the lack of available therapeutics or vaccines, we rely on public health measures such as testing, contact tracing, and quarantine. A rapid and accurate diagnostic test that is not cost prohibitive to identify infected individuals is urgently needed. Our multiplex RT-qPCR protocol described in this study provides rapid and highly sensitive detection of SARS-CoV-2 RNA for research purposes. In the future, Food and Drug Administration approval of such multiplex PCR techniques for clinical testing could provide a cost-effective solution to mass testing.\n\nMaterials and methods\n\nEthics statement\n\nThis study was approved by Yale Human Research Protection Program Institutional Review Boards (FWA00002571, Protocol ID. 2000027690). Informed consent was obtained from all enrolled patients and healthcare workers.\n\nClinical samples\n\nClinical samples from SARS-CoV-2-positive inpatients (who were previously tested positive by a CLIA-certified laboratory prior to enrollment) and healthcare workers at Yale New Haven Hospital were collected as part of Yale’s IMPACT biorepository. RNA was extracted from nasopharyngeal and saliva samples using the MagMax Viral/Pathogen Nucleic Acid Isolation Kit (Thermo Fisher Scientific, Waltham, MA, US), according to a modified protocol [4].\n\nControl samples\n\nFull-length SARS-CoV-2 RNA (WA1_USA strain from University of Texas Medical Branch; GenBank: MN985325) [9] was used as positive control for validation. Total RNA extracted from human embryonic kidney cell line 293T was used for detection of internal host gene control.\n\nSingle and multiplex RT-qPCR\n\nAll reactions were performed on a CFX96 Touch instrument (Bio-Rad, Hercules, CA, US) using Luna Universal Probe One-Step RT-qPCR Kit (New England BioLabs, Ipswich, MA, US) according to the manufacturer’s protocol. A final reaction volume of 20 μl containing 5 μl of template was used. The following cycling conditions were applied: a cDNA synthesis step (10 min/55°C), a hold step (1 min/95°C), and subsequently 45 cycles of denaturation (10 s/95°C) and annealing/elongation (30 s/55°C). Nuclease-free water was used as the non-template control. The primer pairs and probes for single and multiplex RT-qPCR are shown in Table 4. We calculated the analytic efficiency of RT-qPCR assays tested with full-length SARS-CoV-2 RNA using the following formula:\n\nAnalytical sensitivity\n\nLOD was determined using full-length SARS-CoV-2 RNA. Viral RNA was 10-fold serially diluted in pooled nasopharyngeal swabs from SARS-CoV-2-undetected human samples at the following concentrations: 1, 10, 100, 1,000, and 10,000 copies/μl. The LOD was defined as the lowest RNA concentration detected in all of 20 replicates. Ct values over 40 were removed from analysis as non-detected.\n\nData availability\n\nAll data associated with this manuscript are either included in the tables or made available upon request."
+}

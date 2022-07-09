@@ -1,0 +1,134 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000589",
+  "doi": "10.1371/journal.pbio.3000589",
+  "externalIds": [
+    "pii:PBIOLOGY-D-19-02059",
+    "pmid:31922526",
+    "pmcid:PMC6953602"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "ElectroPen: An ultra-low–cost, electricity-free, portable electroporator",
+  "authors": [
+    {
+      "name": "Gaurav Byagathvalli",
+      "first": "Gaurav",
+      "last": "Byagathvalli",
+      "affiliation": "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, Georgia, United States of America; Lambert High School, Suwanee, Georgia, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-2242-6809"
+      ]
+    },
+    {
+      "name": "Soham Sinha",
+      "first": "Soham",
+      "last": "Sinha",
+      "affiliation": "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, Georgia, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-8598-0543"
+      ]
+    },
+    {
+      "name": "Yan Zhang",
+      "first": "Yan",
+      "last": "Zhang",
+      "affiliation": "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, Georgia, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-0719-5456"
+      ]
+    },
+    {
+      "name": "Mark P. Styczynski",
+      "first": "Mark P.",
+      "last": "Styczynski",
+      "affiliation": "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, Georgia, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-1479-6658"
+      ]
+    },
+    {
+      "name": "Janet Standeven",
+      "first": "Janet",
+      "last": "Standeven",
+      "affiliation": "Lambert High School, Suwanee, Georgia, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1256-5298"
+      ]
+    },
+    {
+      "name": "M. Saad Bhamla",
+      "first": "M. Saad",
+      "last": "Bhamla",
+      "affiliation": "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, Georgia, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9788-9920"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2020-01-10",
+  "volume": "18",
+  "number": "1",
+  "pages": "e3000589",
+  "tags": [
+    "3D printing",
+    "Biochemistry",
+    "Bioengineering",
+    "Biotechnology",
+    "Crystals",
+    "Discipline-v3/3D printing",
+    "Discipline-v3/Biochemistry",
+    "Discipline-v3/Bioengineering",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Biotechnology",
+    "Discipline-v3/Crystals",
+    "Discipline-v3/Earth sciences",
+    "Discipline-v3/Education",
+    "Discipline-v3/Electronics engineering",
+    "Discipline-v3/Electroporation",
+    "Discipline-v3/Engineering and technology",
+    "Discipline-v3/Genetic engineering",
+    "Discipline-v3/Green fluorescent protein",
+    "Discipline-v3/Luminescent proteins",
+    "Discipline-v3/Materials",
+    "Discipline-v3/Materials science",
+    "Discipline-v3/Mechanical treatment of specimens",
+    "Discipline-v3/Physical sciences",
+    "Discipline-v3/Proteins",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Schools",
+    "Discipline-v3/Seasons",
+    "Discipline-v3/Social sciences",
+    "Discipline-v3/Sociology",
+    "Discipline-v3/Specimen disruption",
+    "Discipline-v3/Specimen preparation and treatment",
+    "Discipline-v3/Spring",
+    "Discipline-v3/Synthetic biology",
+    "Education",
+    "Electronics engineering",
+    "Electroporation",
+    "Genetic engineering",
+    "Green fluorescent protein",
+    "Luminescent proteins",
+    "Materials",
+    "Materials science",
+    "Mechanical treatment of specimens",
+    "Proteins",
+    "Schools",
+    "Seasons",
+    "Sociology",
+    "Specimen disruption",
+    "Specimen preparation and treatment",
+    "Spring",
+    "Synthetic biology",
+    "Type/Community Page"
+  ],
+  "abstract": "Electroporation is a basic yet powerful method for delivering small molecules (RNA, DNA, drugs) across cell membranes by application of an electrical field. It is used for many diverse applications, from genetically engineering cells to drug- and DNA-based vaccine delivery. Despite this broad utility, the high cost of electroporators can keep this approach out of reach for many budget-conscious laboratories. To address this need, we develop a simple, inexpensive, and handheld electroporator inspired by and derived from a common household piezoelectric stove lighter. The proposed &quot;ElectroPen&quot; device can cost as little as 23 cents (US dollars) to manufacture, is portable (weighs 13 g and requires no electricity), can be easily fabricated using 3D printing, and delivers repeatable exponentially decaying pulses of about 2,000 V in 5 ms. We provide a proof-of-concept demonstration by genetically transforming plasmids into Escherichia coli cells, showing transformation efficiency comparable to commercial devices, but at a fraction of the cost. We also demonstrate the potential for rapid dissemination of this approach, with multiple research groups across the globe validating the ease of construction and functionality of our device, supporting the potential for democratization of science through frugal tools. Thus, the simplicity, accessibility, and affordability of our device holds potential for making modern synthetic biology accessible in high school, community, and resource-poor laboratories.",
+  "fullText": "Need for accessible electroporators in biology and bioengineering\n\nElectroporators are used for a wide spectrum of purposes in molecular biology, biotechnology, and biomedical engineering [1,2]. Examples of these applications range from simple bacterial transformation [3] and eukaryotic transfection to more complex tasks, including genetic engineering with CRISPR [4], gene transfer into mammalian embryos [5], cancer treatments using electrochemotherapy [6], transdermal drug delivery [7], and gene-based vaccine delivery [8]. Despite these broad biological applications, commercial electroporators are complex and expensive pieces of bulky hardware that can cost thousands of dollars [9]. Their high cost places them out of reach for budget-restrained laboratories such as public high schools and research laboratories in resource-poor regions.\n\nThe need for accessible and affordable electroporators has previously prompted researchers to develop simple electronic circuits using relays and capacitors to amplify the voltage output required for electroporation [10–14]. However, many of these devices are still expensive and require extensive electronic components and hardware skills to construct, making them impractical for wide adoption. Beyond conventional power sources (batteries, etc.), piezoelectricity has been recognized as an alternative option to generate the large voltage pulses required and has been successfully applied to immunize mice [15,16]. Inspired by and building on the early success of piezoelectric-based electroporation, we set out to develop a simple, easy-to-fabricate, and low-cost electroporator (S1 Fig). Cognizant that commercial conducting cuvettes to hold liquid samples can often be a cost barrier, we also provide a simple method to build inexpensive millifluidic channels, using glass slides (or acrylic) with aluminum (or copper) tape, that can be used in place of cuvettes.\n\nDesign and fabrication of ElectroPen\n\nThe design of the ElectroPen includes a 3D-printed cylindrical chamber that houses a piezoelectric crystal harvested from a commercial lighter (Fig 1A and 1C). The chamber has wire passthroughs at the bottom and a hand toggle inserted at the top that, when pressed downwards, provides the equivalent force utilized in a conventional lighter (Fig 1D and 1E and S1 Video). The output voltage remains consistent independent of the user's force. The simplicity of the design provides for easy construction because an ElectroPen can be fabricated in 15 minutes (S2 Video and S2 Fig). With materials purchased in bulk, the ElectroPen can cost as little as 23 cents (US dollars) to make (Table 1).\n\nBecause of the high cost of standard electroporation cuvettes (for example, the list price of a sterile 0.1-cm electroporation cuvette is approximately $3–5 per cuvette [US dollars], with minimum package sizes often being 50 units), we develop a custom millifluidic channel that can be easily fabricated out of plastic (for example, acrylic) and for which custom gap-widths can be generated to accommodate different fluid volumes (Figs 1B and S3 and S4 and S5 and S3 Video). The general design of the millifluidic channel includes a base and two blocks with aluminum (or other conductive material such as copper) tape covering the sides of each block to function as electrodes and the space in between to hold the competent cell mixture to be transformed (Figs 1B and 1E and S3 and S1 Text). Although for our implementation, we use a glass slide or laser-cut acrylic design, we show that this technique can be easily extended to other materials such as wood (if appropriate sterility can be ensured), and reliable arc spacing of 0.1 cm can be achieved by using sheets of paper or a credit card to set the gap distance (S5 Fig and S3 Video).\n\nHigh voltage generation using piezoelectricity\n\nWe next measure the electrical response of the ElectroPen using a high-voltage probe connected to an oscilloscope. The average curves (of n = 38 firings from 3 users) follow an exponential function described by V(t) = Vmaxe(−αt), where function V is the voltage in kV, t is the time in seconds, Vmax is the initial maximum voltage in kV, and α = 1/τ is the exponential decay time constant to reach one-third of the initial value measured in s−1, as shown in Fig 2A. The exponential decay is a function of the piezoelectric effect occurring through the polarization of the lead zirconate titanate (PZT) crystal. We note that the electrical output is remarkably reproducible over many trials conducted by multiple users; this is due to the spring-based design of the ElectroPen, which is discussed in greater detail in the next section. Although successful electroporation can be achieved with a wide range of voltages, optimal transformation efficiency occurs over a narrow range [17]. Thus, a spring-based mechanism enables consistent voltage output that is tunable by the crystal properties but independent of the force applied by a user on the ElectroPen.\n\nWe evaluated a number of different lighter crystals (Fig 2B, 2C and 2D) and selected one that would produce a maximum voltage of Vmax = 2 ± 0.3 kV with an average time constant τ = 5.1 ± 0.9 ms (Fig 2A and 2B). These values correspond to a field strength of 20 kV/cm, which is optimal for E. coli transformation [17,18]. Although the current voltages and time constants are within the range of values for successful electroporation of E. coli as shown in Fig 2B, we demonstrate that the underlying principle of this device can be used to generate Vmax = 30,000 V (S6 Fig) and tuned (by choosing between crystals with different outputs) for a range of time constants and voltage outputs for different biological and biomedical applications (S2 Table).\n\nReproducible voltages generated through a simple spring-latch mechanism\n\nOne of the key reasons why the ElectroPen can be so useful for bacterial transformation applications is because it can generate repeatable, consistently high voltages independent of user force. The ElectroPen exploits a simple and inexpensive mechanical spring-latch mechanism to release a small hammer-pin structure onto the piezoelectric crystal to generate high voltages, rather than the complex electrical circuits with costly microprocessor-controlled relays that commercial electroporators use to generate similar voltages. This spring-latch mechanism was consistent across almost 20 lighters from different commercially available brands that we disassembled and inspected. To illustrate the underlying mechanics, we recorded the rapid motion of the piezoelectric crystal using a high-speed camera at 1,057 frames per second (S4 Video). The mechanism consists of two springs, a hammer (metal piece striking the crystal), and the PZT crystal itself connected to a metal conductor (Fig 3A and 3B). The hammer action functions in 3 phases: a loading phase, latch-release phase, and a relaxation phase (Fig 3C–3E).\n\nDuring the loading phase, the hammer is held in a locked position by a mechanical latch as the lower spring and upper spring are being compressed. This phase generates spring potential energy by compressing both springs through the user-exerted force on the 3D-printed hand toggle. As the compression continues, the wedge-shaped piece of the casing forces the pin of the hammer to rotate outwards of the latch. Once the pin of the hammer has reached a critical point in its rotation, i.e., it is no longer held in place by the latch, the lower spring instantaneously decompresses. This act converts the stored spring energy into the kinetic energy of the hammer, resulting in a high impact force on the cylindrical face of the PZT crystal to generate voltage. Since the degree of lower spring compression is dependent only on the spring–latch design, the quantity of force striking the crystal by the hammer is independent of the user-applied force on the toggle. As a result, the output voltages are remarkably consistent. In the relaxation phase, the user releases the user-applied force to reset the hammer to its initial position.\n\nAnalysis of high-speed videos of the hammer releasing indicates that the hammer is able to reach a maximum velocity of 8 m/s at a peak acceleration of almost 30,000 ms−2, a force equivalent to 3,000 g-force (Fig 3E–3G). Through the explosive nature of the hammer action's acceleration, a powerful resultant impulsive force of 10 N strikes the PZT crystal, resulting in a high-voltage pulse. Using this value of force and parameters of the PZT crystal, we can theoretically predict the voltage output as Vth = 2.7 kV (S2 Text), which is on the same order of magnitude as the experimentally measured voltages shown in Fig 2.\n\nTransformation of E. coli using ElectroPen\n\nTo demonstrate the utility of the ElectroPen in enabling bacterial electrotransformations, we prepare E. coli (BL21 strain) electrocompetent cells and transform them with a recombinant plasmid with superfolder green fluorescent protein (sfGFP) expression under the control of a constitutive promoter (J23119 from the Parts Registry; see S1 Text and S7 Fig). Electroporation is performed using both the ElectroPen with a custom 0.1-cm millifluidic channel and a commercial electroporator with a 0.1 cm electroporation cuvette (Bio-Rad MicroPulser; Hercules, CA, USA). Measured green fluorescence protein (GFP) fluorescence levels confirm that the plasmid encoding GFP is successfully electroporated using the ElectroPen (Fig 4A) in comparison to the negative control (electroporation with no plasmid DNA). We note that this fluorescence experiment is to confirm that the electroporation process did not damage the DNA being transformed or cause undue plasmid instability in the electroporated cells. To confirm that the transformation was indeed due to electroporation and not by natural competence of the cells, a second negative control of the same plasmid DNA and electrocompetent cells without electroporation was conducted, which yielded zero colonies on selective media for all attempts. The fluorescence intensity values for the ElectroPen trials are within the range of outputs produced by the standard electroporator. Moreover, the transformation efficiencies between the ElectroPen and the standard electroporator are within an order of magnitude (Fig 4B).\n\nFinally, we highlight the potential impact of the ElectroPen by demonstrating how it can be rapidly disseminated and used for synthetic biology experiments via collaboration with two teams from the International Genetically Engineered Machine (iGEM) competition. We shared the device design files, sample protocols, and digital instructions with the University of Georgia (UGA) and Taipei American School (TAS) (Taiwan) iGEM teams (S10 Fig). These teams of high school students and undergraduates tested the ElectroPen by transforming plasmids encoding GFP expression into two different E. coli strains, DH5α (UGA and TAS Taipei) and Nissle 1917 (TAS Taipei). The teams obtained successful fluorescence expression and comparable transformation efficiency data, validating the reproducibility and rapid dissemination of the ElectroPen (S8 and S9 and S10 Figs).\n\nAdvantages and limitations of the ElectroPen\n\nElectroporators are versatile tools for genetic engineering and basic biology. A new push towards frugal science has inspired the development of many low-cost and open source scientific devices [19–26] that allow expansion of these disciplines into high schools, underfunded laboratories, and even field research. These low-cost devices serve as alternatives for expensive lab equipment while simultaneously removing numerous barriers even beyond cost, including access to electricity and portability. Here, we have theoretically modeled and experimentally validated the functionality and effectiveness of the ElectroPen, the cheapest electroporator in the world (Fig 4C and 4D and S1 Table). A key component of the electroporator is a piezoelectric crystal that can be obtained from common stove lighters that can be easily purchased in most parts of the world (S13 Fig). While the ElectroPen serves as a suitable alternative for commercial electroporators, a device at this cost comes with a few disadvantages that we outline below.\n\nThe first involves variability in the piezoelectric crystals found in lighters, both from batch to batch and different brands. Peak voltages (V0) and time constants (τ) are dependent on the type of crystal material, the dopants utilized, and the company from which it was purchased, which we demonstrate in Fig 2C and 2D, and therefore, not every lighter crystal is suitable for electroporation of E. coli. In fact, we are currently unable to obtain more crystals with the same parameters as the crystals used for all the transformation experiments described here (from Handi lighters, manufactured by Fayco Industries) because of this variability in characteristic parameters. Other lighters from many different brands that we bought from other stores (Walmart, Amazon, Target) did not provide the required combination of voltages and time constants. For example, the Ozark Trail A shown in Fig 2B produces a time constant of 5 ms but a peak voltage of 5 kV, making it unsuitable for E. coli transformation. For other users, we recommend that they first test the crystal they obtain from a lighter using the protocol described in S1 Text to quantify the pulse produced by the crystal to ascertain whether it is suitable for their specific biological system. The second is that the piezoelectric crystals have a limited life span. The life span of the crystal is based on the number of times the crystal is hit; however, this can vary between sellers because of the dopants used in the piezoelectric crystal. Typically, the crystal life is mentioned on the front or back cover of purchased lighters. Third, no optical indicator exists on our setup to indicate that a pulse was generated and applied to the sample during the trial. Successful electroporation was determined by evaluating growth of bacteria on an antibiotic resistance plate, which takes time. Thus, it can become challenging to quickly debug unsuccessful pulse transmission caused by either user error or instrument malfunction until after cells are cultured. One possible solution is to connect a light-emitting diode (LED) light in parallel to the conductive path for electroporation, serving as a visual indicator (S14 Fig) for passage of the pulse through the cell suspension. Fourth, an improper contact between the ElectroPen wires and the millifluidic electrodes can prevent establishment of the electric potential necessary for successful transformation. To minimize these contact mismatch errors between the conductive surface and improve user friendliness, hardwired connections can be employed, as shown in Fig 4D.\n\nDespite these minor shortcomings, which we hope to address in future iterations, our work directly opens up avenues for hands-on biology experiments in high schools and budget-conscious laboratories. Ultimately, the ElectroPen is another example in frugal science that serves to bypass economic and infrastructure limitations in the advancement of scientific research by the next generation of young scientists across the globe.\n\nSupporting information"
+}

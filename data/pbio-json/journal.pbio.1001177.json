@@ -1,0 +1,247 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001177",
+  "doi": "10.1371/journal.pbio.1001177",
+  "externalIds": [
+    "pii:PBIOLOGY-D-11-02662",
+    "pmid:22028628",
+    "pmcid:PMC3196472"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A Holistic Approach to Marine Eco-Systems Biology",
+  "authors": [
+    {
+      "name": "Eric Karsenti",
+      "first": "Eric",
+      "last": "Karsenti",
+      "affiliation": "European Molecular Biology Laboratory (EMBL), Heidelberg, Germany"
+    },
+    {
+      "name": "Silvia G. Acinas",
+      "first": "Silvia G.",
+      "last": "Acinas",
+      "affiliation": "Institut de Ciències del Mar (ICM), Consejo Superior de Investigaciones Científicas (CSIC), Barcelona, Spain"
+    },
+    {
+      "name": "Peer Bork",
+      "first": "Peer",
+      "last": "Bork",
+      "affiliation": "European Molecular Biology Laboratory (EMBL), Heidelberg, Germany"
+    },
+    {
+      "name": "Chris Bowler",
+      "first": "Chris",
+      "last": "Bowler",
+      "affiliation": "CNRS, Paris, France; Institut de Biologie de l'Ecole Normale Supérieure (IBENS), Paris, France"
+    },
+    {
+      "name": "Colomban De Vargas",
+      "first": "Colomban",
+      "last": "De Vargas",
+      "affiliation": "CNRS, Paris, France; Station Biologique de Roscoff (SBR), Evolution du Plancton et Paleo Oceans (EPPO), Roscoff, France; Université Pierre et Marie Curie (UPMC), Paris, France"
+    },
+    {
+      "name": "Jeroen Raes",
+      "first": "Jeroen",
+      "last": "Raes",
+      "affiliation": "VIB, Brussels, Belgium; Vrije Universiteit Brussel, Brussels, Belgium"
+    },
+    {
+      "name": "Matthew Sullivan",
+      "first": "Matthew",
+      "last": "Sullivan",
+      "affiliation": "University of Arizona, Tucson, Arizona, United States of America"
+    },
+    {
+      "name": "Detlev Arendt",
+      "first": "Detlev",
+      "last": "Arendt",
+      "affiliation": "European Molecular Biology Laboratory (EMBL), Heidelberg, Germany"
+    },
+    {
+      "name": "Francesca Benzoni",
+      "first": "Francesca",
+      "last": "Benzoni",
+      "affiliation": "University of Milano-Bicocca, Milan, Italy"
+    },
+    {
+      "name": "Jean-Michel Claverie",
+      "first": "Jean-Michel",
+      "last": "Claverie",
+      "affiliation": "CNRS, Paris, France; Aix-Marseille Université, Marseilles, France"
+    },
+    {
+      "name": "Mick Follows",
+      "first": "Mick",
+      "last": "Follows",
+      "affiliation": "MIT, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Gaby Gorsky",
+      "first": "Gaby",
+      "last": "Gorsky",
+      "affiliation": "CNRS, Paris, France; Université Pierre et Marie Curie (UPMC), Paris, France; Laboratoire d'Oceanographie de Villefranche (LOV), Villefranche-sur-Mer, France"
+    },
+    {
+      "name": "Pascal Hingamp",
+      "first": "Pascal",
+      "last": "Hingamp",
+      "affiliation": "CNRS, Paris, France; Aix-Marseille Université, Marseilles, France"
+    },
+    {
+      "name": "Daniele Iudicone",
+      "first": "Daniele",
+      "last": "Iudicone",
+      "affiliation": "Stazione Zoologica Anton Dohrn, Naples, Italy"
+    },
+    {
+      "name": "Olivier Jaillon",
+      "first": "Olivier",
+      "last": "Jaillon",
+      "affiliation": "Commissariat à l'énergie atomique et aux énergies alternatives (CEA), Genoscope, Evry, France"
+    },
+    {
+      "name": "Stefanie Kandels-Lewis",
+      "first": "Stefanie",
+      "last": "Kandels-Lewis",
+      "affiliation": "European Molecular Biology Laboratory (EMBL), Heidelberg, Germany"
+    },
+    {
+      "name": "Uros Krzic",
+      "first": "Uros",
+      "last": "Krzic",
+      "affiliation": "European Molecular Biology Laboratory (EMBL), Heidelberg, Germany"
+    },
+    {
+      "name": "Fabrice Not",
+      "first": "Fabrice",
+      "last": "Not",
+      "affiliation": "CNRS, Paris, France; Station Biologique de Roscoff (SBR), Evolution du Plancton et Paleo Oceans (EPPO), Roscoff, France; Université Pierre et Marie Curie (UPMC), Paris, France"
+    },
+    {
+      "name": "Hiroyuki Ogata",
+      "first": "Hiroyuki",
+      "last": "Ogata",
+      "affiliation": "CNRS, Paris, France; Aix-Marseille Université, Marseilles, France"
+    },
+    {
+      "name": "Stéphane Pesant",
+      "first": "Stéphane",
+      "last": "Pesant",
+      "affiliation": "Universitaet Bremen, Bremen, Germany; MARUM Center for Marine Environmental Sciences, Bremen, Germany"
+    },
+    {
+      "name": "Emmanuel Georges Reynaud",
+      "first": "Emmanuel Georges",
+      "last": "Reynaud",
+      "affiliation": "University College Dublin, Dublin, Ireland"
+    },
+    {
+      "name": "Christian Sardet",
+      "first": "Christian",
+      "last": "Sardet",
+      "affiliation": "CNRS, Paris, France; Université Pierre et Marie Curie (UPMC), Paris, France; BioDev, Villefranche-sur-Mer, France"
+    },
+    {
+      "name": "Michael E. Sieracki",
+      "first": "Michael E.",
+      "last": "Sieracki",
+      "affiliation": "Bigelow Laboratory for Ocean Sciences, West Boothbay Harbor, Maine, United States of America"
+    },
+    {
+      "name": "Sabrina Speich",
+      "first": "Sabrina",
+      "last": "Speich",
+      "affiliation": "Laboratoire de Physique des Océans (LPO), CNRS/Institut français de recherche pour l'exploitation de la mer (IFREMER)/Institut de Recherche pour le Développement (IRD)/Université de Bretagne Occidentale (UBO), Brest, France"
+    },
+    {
+      "name": "Didier Velayoudon",
+      "first": "Didier",
+      "last": "Velayoudon",
+      "affiliation": "DVIPC, Paris, France"
+    },
+    {
+      "name": "Jean Weissenbach",
+      "first": "Jean",
+      "last": "Weissenbach",
+      "affiliation": "Commissariat à l'énergie atomique et aux énergies alternatives (CEA), Genoscope, Evry, France"
+    },
+    {
+      "name": "Patrick Wincker",
+      "first": "Patrick",
+      "last": "Wincker",
+      "affiliation": "Commissariat à l'énergie atomique et aux énergies alternatives (CEA), Genoscope, Evry, France"
+    },
+    {
+      "name": "the Tara Oceans Consortium"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2011-10",
+  "volume": "9",
+  "number": "10",
+  "pages": "e1001177",
+  "tags": [
+    "Biodiversity",
+    "Biogeochemistry",
+    "Biological data management",
+    "Carbon cycle",
+    "Community ecology",
+    "Computational biology",
+    "Discipline-v2/Biodiversity",
+    "Discipline-v2/Biogeochemistry",
+    "Discipline-v2/Biological data management",
+    "Discipline-v2/Biology",
+    "Discipline-v2/Carbon cycle",
+    "Discipline-v2/Community ecology",
+    "Discipline-v2/Computational biology",
+    "Discipline-v2/Earth sciences",
+    "Discipline-v2/Ecology",
+    "Discipline-v2/Ecosystem modeling",
+    "Discipline-v2/Environmental sciences",
+    "Discipline-v2/Genome expression analysis",
+    "Discipline-v2/Genome sequencing",
+    "Discipline-v2/Genomics",
+    "Discipline-v2/Geochemistry",
+    "Discipline-v2/Global change ecology",
+    "Discipline-v2/Marine and aquatic sciences",
+    "Discipline-v2/Marine biology",
+    "Discipline-v2/Marine ecology",
+    "Discipline-v2/Microbial ecology",
+    "Discipline-v2/Microbial evolution",
+    "Discipline-v2/Microbiology",
+    "Discipline-v2/Systems biology",
+    "Discipline-v2/Systems ecology",
+    "Discipline/Chemistry",
+    "Discipline/Computational Biology",
+    "Discipline/Ecology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Marine and Aquatic Sciences",
+    "Discipline/Microbiology",
+    "Ecology",
+    "Ecosystem modeling",
+    "Environmental sciences",
+    "Genome expression analysis",
+    "Genome sequencing",
+    "Genomics",
+    "Geochemistry",
+    "Global change ecology",
+    "Marine and aquatic sciences",
+    "Marine biology",
+    "Marine ecology",
+    "Microbial ecology",
+    "Microbial evolution",
+    "Microbiology",
+    "Systems biology",
+    "Systems ecology",
+    "Type/Community Page"
+  ],
+  "abstract": "The structure, robustness, and dynamics of ocean plankton ecosystems remain poorly understood due to sampling, analysis, and computational limitations. The Tara Oceans consortium organizes expeditions to help fill this gap at the global level.",
+  "fullText": "Introduction\n      \nWith biology becoming quantitative, systems-level studies can now be performed at spatial scales ranging from molecules to ecosystems. Biological data generated consistently across scales can be integrated with physico-chemical contextual data for a truly holistic approach, with a profound impact on our understanding of life [1]–[5]. Marine ecosystems are crucial in the regulation of Earth's biogeochemical cycles and climate [6],[7]. Yet their organization, evolution, and dynamics remain poorly understood [8],[9]. The Tara Oceans project was launched in September 2009 for a 3-year study of the global ocean ecosystem aboard the ship Tara. A unique sampling programme encompassing optical and genomic methods to describe viruses, bacteria, archaea, protists, and metazoans in their physico-chemical environment has been implemented. Starting as a grassroots initiative of a few scientists, the project has grown into a global consortium of over 100 specialists from diverse disciplines, including oceanography, microbial ecology, genomics, molecular, cellular, and systems biology, taxonomy, bioinformatics, data management, and ecosystem modeling. This multidisciplinary community aims to generate systematic, open access datasets usable for probing the morphological and molecular makeup, diversity, evolution, ecology, and global impacts of plankton on the Earth system.\n\nViruses, bacteria, archaea, protists, and planktonic metazoans form the bulk of biomass throughout the oceans and drive the global biogeochemical cycles that regulate the Earth system [6],[9],[10]. For instance, marine microbes produce nearly as much oxygen through primary production as land plants [11]. This system is driven by a complex ecological network of autotrophic, heterotrophic, and mixotrophic organisms, where trophodynamics and biogeochemical interdependencies are determining factors for primary production rates in marine systems. In addition, ocean viruses modulate primary production by inducing organism mortality and by encoding core photosynthesis genes that are expressed during infection [12]–[14]. Therefore, only an ecosystem-wide approach, from viruses to metazoans, will enable us to start disentangling the functioning of the Earth system. This approach ranges from mapping organismal diversity across scales spanning five orders of magnitude to developing empirical datasets that inform conceptual models about the complex interplay between organisms driving fluxes of energy, biogeochemical, and molecular “currencies” in ocean ecosystems [15].\n\nA global-scale study of morphological, genetic, and functional biodiversity of plankton organisms in relation to the changing physico-chemical parameters of the oceans [8],[16]–[18] is now critical to understanding and managing our fragile oceans. Specifically, such a dataset will improve our understanding of the principles governing marine ecosystems and the evolution of life in the ocean, thus enhancing our capacity of assessing ecosystem services and enabling a better prediction of fish stock distribution and impacts of global climate variations [19]. Planktonic organisms are also an enormous but largely untapped source [8],[20] of bio-active compounds for the pharmaceutical, food, and cosmetics industries, as well as metabolic pathways that may provision our future energy needs [21]. In this context, the Tara Oceans consortium was founded, which embarked on a 3-year research cruise across the worlds' oceans.\n\nTara Oceans is not the first group to explore global ocean biodiversity. For example, previous global initiatives include satellite-based chlorophyll measurements, the Census of Marine Life, long-term observation sites, and arrays of remote sensors on floats that provide physical, chemical, and biological data [15]. Other global genomics studies have been launched, e.g., Global Ocean Sampling (GOS) expedition [22] and the Earth Microbiome [23] project, as well as integrative projects focusing on specific biomes (e.g., Malaspina, http://www.expedicionmalaspina.es/). However, Tara Oceans takes such investigations one step further by integrating the genetic, morphological, and functional diversity in its environmental context at global ocean scale and at multiple depths (Figure 1), from viruses to fish larvae. While such a “study it all” approach is not novel (e.g., NSF Long Term Ecological Research sites), it has remained science fiction until technology and informatics became enabling. Now, high throughput sequencing, quantitative imaging methods, dedicated bio-informatics and modeling tools are poised to assess the complexity of the global ocean systems. To achieve such integration, Tara Oceans is driven by researchers with expertise in biological and physical oceanography, ecology, microbiology, systematics, molecular, cellular and systems biology, bioinformatics, data management, and modeling.\n\nPragmatically, to accomplish such an ambitious goal, Tara Oceans consortium scientists have necessarily been intimately involved in every aspect of the expedition. This includes planning, preparation, and running of the on-board sampling protocols, as well as the development of sample analysis and bioinformatics pipelines, data management, and modeling projects. This involvement ensures a coherent worldwide data collection and analysis strategy, which is reinforced through regular workshops. The consortium has an open access policy concerning the data that will be made available to the scientific community as soon as possible after validation. Finally, a significant outreach effort is made to show life on board of Tara as well as translate results to the broader public (see http://oceans.taraexpeditions.org/ and http://www.planktonchronicles.org).\n\n      The Expedition and Sampling Strategy\n      \nTo collect and fractionate plankton communities on the basis of organism size, spanning five orders of magnitude (Figure 2A), the sampling combines traditional (Niskin bottles and plankton net tows) and novel methods (e.g., a gravity-driven plankton sieve and chemistry-based concentration of viruses [24]) that feed into analytical pipelines appropriate for each size class. These analyses range from immediate visualization and quantification on-board Tara with a diversity of imaging tools, to collection and preservation of samples for genomic and morphological analysis back on land.\n\nGiven the global nature of the expedition and spatial heterogeneity in the oceans, a concern is the “snapshot” sampling strategy employed here at a single time point and at relatively sparse stations relative to the global ocean, which represents the inherent challenge of global ocean studies. In Tara Oceans we leverage near real-time remote sensing and other data to locate oceanographically interesting features (e.g., eddies, fronts, upwellings) and strengthen ecosystem comparisons (Figures 1B and 2A). The vast ocean basins are relatively homogeneous on seasonal to decadal time scales, whereas smaller-scale systems are more dynamic. For example, the Agulhas leakage system (Figure 1B) transports water from the Indian to the Atlantic Ocean and across to South America leaving heterogeneous ocean features behind that persist for weeks to months [25]. The Agulhas system represents an ideal case for applying the Tara Oceans near real-time sampling strategy and downstream analysis pipeline to deeply characterize the biology of these ecosystems. Through systematic study of such heterogenous systems coupled to broader “normal” ocean sampling, we hope to unveil the rules that govern the structure and dynamics of ocean ecosystems and to extrapolate such local observations to develop basin-scale process models as predictive tools [26]. Undoubtedly, such measurements and predictions will provide a starting point for hypothesis testing by more focused, follow-up campaigns.\n\n      The Tara Oceans Integrated Pipeline: Towards Eco-Systems Biology\n      \nThe scientific programme of Tara Oceans requires an integrated pipeline that combines semi- or fully automated data acquisition methods, new bioinformatics tools, and standardized data organisation (Figure 2C). The high throughput imaging platform includes instruments tuned to organisms of particular size classes. They include (i) on-board and on-land flow cytometers to monitor virus particles, bacteria, and small protists, (ii) on-land digital and confocal microscopy for detailed 2D/3D imaging of cells within the 5–20-µm range, (iii) on-board and on-land FlowCams and ZooScans for quantitative recognition of organisms ranging from 20 µm to a few cm, light sheet and confocal microscopes for 3D imaging, and (iv) on-land electron microscopes for detailed ultrastructural analyses of small protists and viruses. In parallel, we use high throughput sequencing methods to obtain both deep phylogenetic rDNA/rRNA tag data and metagenomic and metatranscriptomic functional profiles from size fractions covering the entire plankton community from viruses to fish larvae (Figure 2B and 2C). To bring all these data together for analyses, we leverage recently developed, dedicated computational approaches [27]. In addition, Tara Oceans is archiving meteorological, oceanographic, biogeochemical, and plankton morphology data in the PANGAEA database (http://www.pangaea.de/), linking to larger European and international data infrastructures. Thus, Tara Oceans can visualize, quantify, and genetically characterize ocean biodiversity within entire plankton ecosystems, as well as find patterns across unprecedentedly comprehensive data types.\n\nWith such a powerful dataset and toolkit, we anticipate testing the predictions of biodiversity hotspots from stochastic modelling [28]–[31], as well as mapping functional gene ecology and activities throughout the world's oceans. This process has been initiated, predominantly for 0.1–0.8-µm-sized surface ocean microbes, using data provided by the GOS expedition [22],[27],[32],[33], but will be dramatically extended here by sampling throughout the water column, across organismal size scales and beyond metagenomic sequencing, tightly coupled to global ocean-modelling efforts.\n\nThese data will transform our ability to link species diversity and metabolic potential/activity to environmental conditions and ecosystem outputs and promises to lead to the discovery of emergent ecological principles (Figure 2C). They will allow a deeper understanding of biodiversity gradients within and among systems and contrasting environments. We also anticipate establishing rules governing the self-organization of organism networks (e.g., to address which types of viruses, bacteria, protists, and zooplankton live together in a given environment) [16],[27], and develop predictions about how these rules and communities will be affected by a changing environment.\n\nIn summary, the Tara Oceans project leverages powerful new technologies and analytical tools to develop the first planetary-scale data collection effort that links biogeography with ecology, genetics, and morphology. Guided by the cross-disciplinary philosophy the pay-offs can be immense, considering the massive number of samples and data that have been collected, archived, and interconnected for scientific study, only half-way through the expedition. A lesson from this project is that, when it comes to addressing broad and complex issues of general interest to mankind, competition between scientists may not be the best model. The Tara Oceans project is a pioneering enterprise towards a truly worldwide, systems-level characterization of the largest and most fundamental ecosystem on our planet."
+}

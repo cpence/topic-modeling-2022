@@ -1,0 +1,44 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0050140",
+  "doi": "10.1371/journal.pbio.0050140",
+  "externalIds": [
+    "pii:07-PLBI-S-0681",
+    "pmid:20076673",
+    "pmcid:PMC1854915"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Can a Taste for Poison Drive Speciation?",
+  "authors": [
+    {
+      "name": "Liza Gross",
+      "first": "Liza",
+      "last": "Gross"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2007-05",
+  "dateElectronic": "2007-04-24",
+  "volume": "5",
+  "number": "5",
+  "pages": "e140",
+  "tags": [
+    "Discipline/Ecology",
+    "Discipline/Evolutionary Biology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Neuroscience",
+    "System Taxonomy/Animals",
+    "System Taxonomy/Arthropods",
+    "System Taxonomy/Drosophila",
+    "System Taxonomy/Eukaryotes",
+    "System Taxonomy/Insects",
+    "Type/Synopsis"
+  ],
+  "fullText": "The endless struggle for survival in nature inevitably boils down to finding food and eluding predators. To avoid the latter, many plants produce chemical weapons to discourage predators. A sound strategy overall, but the rules of co-evolutionary war suggest that an herbivore will evolve resistance to the toxic defenses of plants.\n\nThe fruit flyDrosophila sechellia, for example, has a penchant for the fruit of a Polynesian shrub called Tahitian Noni(Morinda citrifolia)that smells so foul it’s nicknamed “vomit fruit.” OtherDrosophilaspecies treat the rank odor, which arises from the toxins hexanoic acid and octanoic acid, as a warning sign to stay away. And with good reason—if they alight on Tahitian Noni’s fruit, they die. ButD. sechelliablithely homes in on the malodorous fruit to lay its eggs, ensuring a bounteous meal for its larval offspring.\n\nD. sechellia’s resistance to a plant that kills likely competitors gives the fly nearly exclusive access to its host—a distinct ecological advantage. But it also raises an important question for evolutionary biologists: are the factors that promote specialized ecological interactions between herbivore and plant host sufficient to drive herbivore speciation? A group of researchers at Tokyo Metropolitan University were especially interested in learning how an ancestral population of flies acquired the ability to use a toxic plant as its breeding grounds.\n\nIn a new study, Takashi Matsuo, Yoshiaki Fuyama, and colleagues explored the genetic factors underlying the behavioral differences betweenD. sechelliaand otherDrosophilaspecies. Taking advantage of the robust genetic tools offered byD. melanogaster, the researchers traced the flies’ divergent host-plant preferences to two olfactory genes,odorant-binding protein 57e (Obp57e)andObp57d. Their findings suggest that as the expression patterns of these genes changed inD. sechellia, the fly lost the impulse to avoid Tahitian Noni, allowing an adaptive shift to this previously proscribed plant.\n\nIn a previous study, the researchers (Higa and Fuyama) had identified the genomic locus (on the second chromosome) responsible forD. sechellia’s attraction to hexanoic acid andD. simulans’ avoidance. In this study, they generated a higher-resolution map of that area by using a series ofD. melanogastermutant fly stocks, each missing a different part of the chromosomal region. After crossing these “deficiency strains” withD. sechellia, they determined which strains sired offspring with a preference for hexanoic acid and found a missing stretch of base pairs in an olfactory gene,Obp57e, that could be responsible for the altered behavior. Since theD. sechellia Obp57egene didn’t have any mutations that would block its function, they concluded that the gene must be expressed differently in the fly.\n\nWhen they measuredObp57etranscript levels in the three species, they found the highest levels inD. sechellia. InD. melanogaster,Obp57ehas a characteristic, limited expression pattern driven by a short stretch of DNA called a promoter. The researchers cloned the corresponding sequence fromD. sechelliaandD. simulansand introduced it into differentD. melanogasterstocks. Thesimulanssequence reproduced the initialmelanogasterexpression pattern, but thesechelliasequence, which contained four additional base pairs, did not. Removing the base pairs restoredObp57eexpression inmelanogaster, showing that they alter the gene’s expression inmelanogaster—but what controlsObp57eexpression inD. sechellia?\n\nTo find out, the researchers generated lines of “knock-out” flies that lacked eitherObp57egenes, adjacentObp57dgenes, or both (called double knock-outs). Flies lacking just one of the genes avoided hexanoic acid–laden traps, whereas females missing both genes flocked to them. But the most interesting results came when the researchers compared the knock-out strains’ choice of hexanoic acid or octanoic acid as an egg-laying medium. When theD. melanogasterdouble knock-out received either theD. sechelliaorD. simulans’ versions ofObp57eandObp57d, it adopted the behavior of the donor fly. Thus, replacingObp57dandObp57egenes changed the fly’s response to the host toxins. The researchers conclude that an alteration in the expression pattern of the two genes produces this behavioral shift.\n\nIn future experiments, the researchers plan to minimize the interaction of these two genes to understand their separate functions. Until then, it appears thatD. sechellia’s choice of forbidden fruit as a reproductive site involved genetic changes that promoted resistance to octanoic acid and transformed an urge to avoid the toxin into a fondness for its fetor. The researchers suspect that the fly lost its urge to avoid the fruit first; a plausible scenario if an ancestral population of flies landed on fruit in advanced stages of decay, when octanoic acid toxins have mostly degraded. Behavioral adaptations between herbivores and their hosts tend to involve changes in genes linked to taste and odor perception. With over 50Obpgenes in theD. melanogastergenome, researchers have a rich resource for studying the ecological contributions to speciation."
+}

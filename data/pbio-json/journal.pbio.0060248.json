@@ -1,0 +1,39 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0060248",
+  "doi": "10.1371/journal.pbio.0060248",
+  "externalIds": [
+    "pii:08-PLBI-S-3826",
+    "pmid:20076724",
+    "pmcid:PMC2553851"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A Molecular Link between Albinism and Visual Deficits",
+  "authors": [
+    {
+      "name": "Liza Gross",
+      "first": "Liza",
+      "last": "Gross"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2008-09",
+  "dateElectronic": "2008-09-30",
+  "volume": "6",
+  "number": "9",
+  "pages": "e248",
+  "tags": [
+    "Discipline/Biochemistry",
+    "Discipline/Cell Biology",
+    "Discipline/Developmental Biology",
+    "Discipline/Ophthalmology",
+    "Type/Synopsis"
+  ],
+  "fullText": "Following a long tradition of demonizing those who look different, a surprising number of Hollywood movies cast serial killers, mass murderers, and assassins as albinos who invariably wind up meeting a gruesome end for their menacing ways. The cold-blooded sharpshooter portrayal is especially ludicrous, points out dermatologist Vail Reese (on http://www.skinema.com), given that vision problems routinely arise with this rare genetic condition.\n\nAlbinism, once classified based on appearance, is defined by the genetic mutations that determine the degree to which all pigmented tissues (skin, hair, and eyes) (ocular-cutaneous albinism, or OCA) or just the optic tissues (ocular albinism, or OA) are affected. One gene, Oa1, has been linked to OA, and several mutations have been associated with OCA. The OCA mutations inhibit different components involved in the synthesis of melanin, the photoprotective pigment in the skin that absorbs harmful ultraviolet rays, and invariably impair vision. Paradoxically, the mutated pigmentation genes are not expressed in the retina but in adjacent retinal pigment epithelial (RPE) cells, suggesting that pigment loss in RPE cells disturbs retinal development.\n\nIn a new study from the McKay laboratory, Vanessa Lopez et al. studied the relationship between cells in the retina and those in RPE cells by investigating the function of Oa1, thought to belong to one of the largest and important protein superfamilies, called G-protein coupled receptors (GPCRs). These receptors mediate cellular responses to environmental signals and play a critical role in a wide range of processes, from embryonic development to metabolism, by binding to molecules (called ligands) that trigger signaling cascades within the cell. Lopez et al. sought to identify the ligand for this putative GCPR to understand how defects in melanin synthesis and retinal development might occur in tandem.\n\nIn experiments designed to determine OA1 localization in human eye tissue, the researchers found a significant fraction of the protein on the RPE apical surface, which interacts with photoreceptors in the retina. Previous efforts to locate OA1 yielded conflicting results, with some groups finding modified versions of the receptor primarily in endosomes (in cultured cells) and others detecting it at the cell surface after overexpressing OA1 or inhibiting endocytosis. Since receptors are typically internalized (through endocytosis) within endosomes after they've been stimulated by a ligand, the researchers tried to find a potential ligand in cultured cells. And since the amino acid used to synthesize melanin (tyrosine) is a standard component of cell culture medium, tyrosine seemed a likely trigger for OA1 internalization.\n\nIn a medium with little or no tyrosine, OA1 appeared on the surface of RPE cells, much as it had in the eye tissue. In contrast, when using standard medium, the researchers could not consistently detect OA1 on the surface of the cells, suggesting that tyrosine had indeed induced OA1 internalization, consistent with ligand binding. But was the ligand tyrosine or something else?\n\nDuring melanin synthesis, enzymes act on tyrosine to yield L-DOPA, which begets another intermediate that ultimately produces the pigment. (L-DOPA is also a precursor of dopamine, an important signaling molecule in the brain.) If tyrosine or its metabolites could trigger OA1 signaling, the researchers reasoned, they should see a release of calcium inside the cell, as normally occurs when a ligand stimulates a GPCR. Although neither tyrosine nor dopamine increased calcium levels inside the cell, L-DOPA triggered a significant release of intracellular calcium. The same thing happened when the researchers exposed RPE cells to L-DOPA. As expected if L-DOPA was an OA1 ligand, most of the receptors were shown to be bound by this tyrosine metabolite.\n\nSince OA1 mutations cause both retinal defects and pigment loss in RPE, and pigmented RPE produces far more of a molecule that is important for normal retinal development (called pigment epithelium-derived factor, or PEDF) than nonpigmented RPE does, the researchers wondered whether L-DOPA could increase PEDF levels.-Sure enough, exposing RPE cells to L-DOPA led to a significant increase in-PEDF expression. This increase, they show, requires the action of the enzyme that converts tyrosine to L-DOPA, which-in turn triggers OA1 signaling.\n\nBased on these results, the researchers conclude that tyrosine, L-DOPA, and OA1 interact to regulate PEDF and that changes in OA1 signaling may underlie the disruptions in retinal development that cause albinism-related vision problems. Future studies can gain a more detailed understanding of the l-DOPA–OA1 signaling pathway by identifying molecules that may inhibit the ligand through competitive binding with the OA1 receptor. Researchers can also investigate pharmacological strategies that could compensate for disrupted OA1 signaling in individuals with albinism by repairing defects in the melanin pathway. But such strategies may prove difficult, the researchers caution. Their results suggest that the OA1 receptor appears necessary to support such drugs—and mutations in the Oa1 gene are the most common cause of albinism."
+}

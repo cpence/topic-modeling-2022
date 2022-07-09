@@ -1,0 +1,139 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000385",
+  "doi": "10.1371/journal.pbio.3000385",
+  "externalIds": [
+    "pii:PBIOLOGY-D-19-01609",
+    "pmid:31600197",
+    "pmcid:PMC6786512"
+  ],
+  "license": "This is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "The NIH Open Citation Collection: A public access, broad coverage resource",
+  "authors": [
+    {
+      "name": "B. Ian Hutchins",
+      "first": "B. Ian",
+      "last": "Hutchins",
+      "affiliation": "Office of Portfolio Analysis, Division of Program Coordination, Planning, and Strategic Initiatives, Office of the Director, National Institutes of Health, Bethesda, Maryland, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7657-552X"
+      ]
+    },
+    {
+      "name": "Kirk L. Baker",
+      "first": "Kirk L.",
+      "last": "Baker",
+      "affiliation": "Office of Portfolio Analysis, Division of Program Coordination, Planning, and Strategic Initiatives, Office of the Director, National Institutes of Health, Bethesda, Maryland, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9004-3041"
+      ]
+    },
+    {
+      "name": "Matthew T. Davis",
+      "first": "Matthew T.",
+      "last": "Davis",
+      "affiliation": "Office of Portfolio Analysis, Division of Program Coordination, Planning, and Strategic Initiatives, Office of the Director, National Institutes of Health, Bethesda, Maryland, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-2485-6458"
+      ]
+    },
+    {
+      "name": "Mario A. Diwersy",
+      "first": "Mario A.",
+      "last": "Diwersy",
+      "affiliation": "UberResearch GmbH, Cologne, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-0294-2424"
+      ]
+    },
+    {
+      "name": "Ehsanul Haque",
+      "first": "Ehsanul",
+      "last": "Haque",
+      "affiliation": "Office of Portfolio Analysis, Division of Program Coordination, Planning, and Strategic Initiatives, Office of the Director, National Institutes of Health, Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "Robert M. Harriman",
+      "first": "Robert M.",
+      "last": "Harriman",
+      "affiliation": "Office of Portfolio Analysis, Division of Program Coordination, Planning, and Strategic Initiatives, Office of the Director, National Institutes of Health, Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "Travis A. Hoppe",
+      "first": "Travis A.",
+      "last": "Hoppe",
+      "affiliation": "Office of Portfolio Analysis, Division of Program Coordination, Planning, and Strategic Initiatives, Office of the Director, National Institutes of Health, Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "Stephen A. Leicht",
+      "first": "Stephen A.",
+      "last": "Leicht",
+      "affiliation": "UberResearch GmbH, Cologne, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-6577-3106"
+      ]
+    },
+    {
+      "name": "Payam Meyer",
+      "first": "Payam",
+      "last": "Meyer",
+      "affiliation": "Office of Portfolio Analysis, Division of Program Coordination, Planning, and Strategic Initiatives, Office of the Director, National Institutes of Health, Bethesda, Maryland, United States of America"
+    },
+    {
+      "name": "George M. Santangelo",
+      "first": "George M.",
+      "last": "Santangelo",
+      "affiliation": "Office of Portfolio Analysis, Division of Program Coordination, Planning, and Strategic Initiatives, Office of the Director, National Institutes of Health, Bethesda, Maryland, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-7201-3164"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2019-10-10",
+  "volume": "17",
+  "number": "10",
+  "pages": "e3000385",
+  "tags": [
+    "Artificial intelligence",
+    "Citation analysis",
+    "Computer applications",
+    "Computer networks",
+    "Data processing",
+    "Data visualization",
+    "Discipline-v3/Artificial intelligence",
+    "Discipline-v3/Citation analysis",
+    "Discipline-v3/Computer and information sciences",
+    "Discipline-v3/Computer applications",
+    "Discipline-v3/Computer networks",
+    "Discipline-v3/Data processing",
+    "Discipline-v3/Data visualization",
+    "Discipline-v3/Engineering and technology",
+    "Discipline-v3/Information technology",
+    "Discipline-v3/Internet",
+    "Discipline-v3/Machine learning",
+    "Discipline-v3/Prototypes",
+    "Discipline-v3/Reproducibility",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Research assessment",
+    "Discipline-v3/Technology development",
+    "Discipline-v3/Web-based applications",
+    "Information technology",
+    "Internet",
+    "Machine learning",
+    "Prototypes",
+    "Reproducibility",
+    "Research assessment",
+    "Technology development",
+    "Type/Community Page",
+    "Web-based applications"
+  ],
+  "abstract": "Citation data have remained hidden behind proprietary, restrictive licensing agreements, which raises barriers to entry for analysts wishing to use the data, increases the expense of performing large-scale analyses, and reduces the robustness and reproducibility of the conclusions. For the past several years, the National Institutes of Health (NIH) Office of Portfolio Analysis (OPA) has been aggregating and enhancing citation data that can be shared publicly. Here, we describe the NIH Open Citation Collection (NIH-OCC), a public access database for biomedical research that is made freely available to the community. This dataset, which has been carefully generated from unrestricted data sources such as MedLine, PubMed Central (PMC), and CrossRef, now underlies the citation statistics delivered in the NIH iCite analytic platform. We have also included data from a machine learning pipeline that identifies, extracts, resolves, and disambiguates references from full-text articles available on the internet. Open citation links are available to the public in a major update of iCite (https://icite.od.nih.gov).",
+  "fullText": "Background\n\n“If I have seen farther, it is by standing on the shoulders of giants,” wrote Issac Newton [1]. Science advances the frontier of knowledge by building on the discoveries described in the literature, and the provenance and spread of scientific discoveries is documented in the directed graph of the embedded citations [2,3]. Meta-research, frequently drawing on the historical citation record, seeks to apply scientific methods to further accelerate research by identifying potential improvements to research practices and organization [4,5]. Paywalled citation data remain locked behind restrictive licensing agreements, raising an unnecessary barrier to entry for investigators and blocking the increasingly common practice of data sharing in scientific articles that use this information. This state of affairs prevents many scientists from using comprehensive citation graphs in their research, reduces the robustness and reproducibility of the analyses that do use it, and hinders research in bibliometrics [6]. The Initiative for Open Citations [7,8] was a crucial step toward opening public access to this structured information, which has so far made public an estimated 55% of the reference links between documents indexed in CrossRef. Here, we describe a comprehensive, public domain citation graph for biomedical research made freely available to the community. This citation database is not a static snapshot but—as a part of our bibliometrics web service, iCite [9]—will be updated monthly.\n\nWhile developing new science-of-science methodologies [10,11], the NIH Office of Portfolio Analysis (OPA) has carefully pursued unencumbered citation data resources that can be shared publicly. The NIH Open Citation Collection (NIH-OCC) described here underpins the iCite database that distributes citation metrics worldwide. Data sources include federally funded resources such as PubMed Central (PMC) [12], MedLine [13], and Entrez [14] from the National Library of Medicine (NLM); the community resource CrossRef [15]; and reference data harvested from full-text scientific papers that have been made freely available on the internet. These open access articles were identified either through explicit journal policies or through third-party aggregators such as Unpaywall [16]. Citation data can be visualized and downloaded through the iCite website [9]; the data can also be accessed via machine-readable Application Programming Interface (API) or bulk downloads.\n\nIn a call for open citation data from the scientometrics community [17,18], signatories noted the capacity of open data to improve transparency and reproducibility of analyses. Transparency is also an important goal for the NIH; link-level citation data have been disseminated through PMC, making transparent the flow of knowledge from earlier work to NIH-supported publications. With the release of this NIH-OCC for biomedicine at large, the subsequent work that draws upon NIH-supported discoveries is now visible as well, and barriers to entry for scientometric studies will be reduced. The science-of-science community has illustrated the high value of link-level citation data (as opposed to aggregated citation measures), e.g., using such information to discover principles of citation dynamics [19–21], quantify the influence of model organism research on human studies [22], and predict the transmission of knowledge from basic research into clinical studies [23]. Thus, comprehensive open citation data can both enable the attribution of scientific progress and convey foreknowledge that research discoveries will culminate in downstream applications.\n\nDescription\n\niCite currently draws on PubMed for crucial article metadata, and this information is augmented with citation data from multiple sources. The NLM resolves citations from PMC to PubMed articles, disseminating these through a few resources (Entrez eLink, PMC full-text XML, and MedLine XML). We augment these citations with CrossRef citation data, which are processed by a citation resolver to identify additional PubMed-to-PubMed citations. For publications since 2010, the NIH-OCC has more citation links and is therefore more comprehensive than leading proprietary sources. Prior to 2010, a subset of historical articles (typically published during or before the early 2000s) have not been assigned DOIs and are therefore not captured in the CrossRef dataset. For this reason, we have further augmented these data sources with information from full-text articles that have been made freely available on the internet. We developed a prototype machine learning pipeline, described below, to identify, parse, and resolve references from such full-text articles for inclusion in the NIH-OCC. Finally, once citations are resolved, these are entered into our data processing pipelines for calculating downstream metrics like the Relative Citation Ratio [10] and the Approximate Potential to Translate [23].\n\nAt the time of writing (July 2019), the NIH-OCC comprises over 420,000,000 citation links between articles published in PubMed (Fig 1A). The major limitation of the NIH-OCC is that, as part of iCite, it has been developed with a biomedical focus; at present, its citation universe is restricted to PubMed-to-PubMed citation links. The largest contribution comes from CrossRef, followed by the NLM, and finally our prototype machine learning pipeline that extracts references from full-text articles (Fig 1B). Although references from the machine learning pipeline represent a small fraction of the total at present, we expect this to increase over time as new papers are identified and processed. Data can be accessed through the iCite web interface (https://icite.od.nih.gov/; Fig 2), the iCite API (https://icite.od.nih.gov/api), or through bulk downloads (DOI: 10.35092/yhjc.c.4586573).\n\nMachine learning pipeline for full-text articles\n\nOur data pipeline starts with the identification of full-text articles that have been made freely available on the internet and do not require an institutional library subscription to access. This was first accomplished by identifying journals with open access policies after an embargo period. We also leveraged the recent efforts of Unpaywall [16], which has identified freely available full text at scale, and included these publications in our dataset. Central to our pipeline is our Citation Resolution Service, which accepts unstructured citation text through an API and returns a matched article along with information about which fields from that paper were present (e.g., journal name, author name, title words). The service takes each citation and tokenizes the input to query the search index and find the publications with the highest percentage of matched terms. The scoring algorithm is then run on the candidates to find the best matches by checking fields such as title, authors, and journal name against the input text. Although a general-purpose pipeline is in development, we initially developed a workflow that trained machine learning models on individual journals in order to take advantage of regularities in Portable Document Format (PDF) formatting. For each journal, our workflow was as follows:\n\nHarvest PDFs from open sources and convert to structured XML with the open source Cermine tool [24].\n\nFor papers in the journal that were NIH funded, generate positive training data from text that resolves to previously matched citations in PMC. Combine this with negative training data sampled from other parts of the PDF to train a Long Short-Term Memory (LSTM) recurrent neural network model that discriminates between reference text and other text in the scientific article.\n\nPass LSTM-identified references to the Citation Resolution Service. To filter out any remaining false positives, use PMC data as gold standards to train a Random Forest on the feedback received from the Citation Resolution Service.\n\nThis prototype approach yielded excellent precision and recall (both 0.98) in extracting and resolving references when the models were trained on papers from the same journal. Because we used references previously indexed in PMC as gold standards, any false negatives in that dataset would be flagged as false positives in ours; manual inspection of our false positives indicated that over 90% of these were actually false negatives in the gold standards or resolution to a transient duplicate entry of an article (duplicates are typically later identified and removed by PubMed). For papers identified through Unpaywall, which come from a variety of journals, recall across different batches dropped to between 0.78 and 0.89 while precision remained constant. This occurred because more text was filtered by the LSTM, perhaps indicating additional uncertainty about what references look like in a corpus of papers from a variety of journal formats. Whether identified through aggregation services or via permissive journal policies, however, the rapidly increasing number of freely available full-text articles [16] promises to be a rich source of open citation data going forward.\n\nFuture directions\n\nOur prototype machine learning pipeline currently re-trains for each data source. We are building a general-purpose, deep learning reference parser that can both take advantage of recognizable formatting regularities and gracefully handle unknown full-text formats. The comprehensiveness of citation coverage in iCite will also benefit from planned future updates that will incorporate reference data from expanded open data sources such as preprint servers and fields of research not indexed in PubMed. We are also engaged in research to predict, in the absence of full text information, which articles are likely to be referenced, based on information present in the local network structure. Finally, we are using the NIH-OCC to develop new artificial intelligence (AI) approaches to generate a high-resolution map of the biomedical research landscape, identify emerging areas, and improve the effectiveness of data-driven decision-making at the NIH. Outside the NIH, open citations may help to power tools and services that do not yet exist, such as next-generation literature recommendation engines. Using the NIH-OCC as the source of citation data means that this work will be transparent and reproducible."
+}

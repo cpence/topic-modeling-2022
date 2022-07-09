@@ -1,0 +1,49 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3001047",
+  "doi": "10.1371/journal.pbio.3001047",
+  "externalIds": [
+    "pii:PBIOLOGY-D-20-03448",
+    "pmid:33296364",
+    "pmcid:PMC7725284"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Correction: Planthopper bugs use a fast, cyclic elastic recoil mechanism for effective vibrational communication at small body size",
+  "authors": [
+    {
+      "name": "Leonidas-Romanos Davranoglou",
+      "first": "Leonidas-Romanos",
+      "last": "Davranoglou"
+    },
+    {
+      "name": "Alice Cicirello",
+      "first": "Alice",
+      "last": "Cicirello"
+    },
+    {
+      "name": "Graham K. Taylor",
+      "first": "Graham K.",
+      "last": "Taylor"
+    },
+    {
+      "name": "Beth Mortimer",
+      "first": "Beth",
+      "last": "Mortimer"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2020-12-09",
+  "volume": "18",
+  "number": "12",
+  "pages": "e3001047",
+  "tags": [
+    "Type/Correction"
+  ],
+  "fullText": "The authors identified a scaling issue with some of the measurements in the manuscript.\n\nThe length of the scale bar overlain on the microcomputed tomography (μCT) data in Fig 1B was stated incorrectly, and should have read 200μm rather than 100μm. Please see corrected Fig 1.\n\nDuring investigation of this error, the authors realized that the μCT measurements of muscle length and width that they had used to estimate muscle volume had also been scaled incorrectly in S1 Data. In correcting these measurements, the authors have replaced the cylinder approximations of muscle volume with exact volumetric measurements of the muscles made directly from the μCT data. The effect of this correction is to increase the estimate of the combined mass of the dorsal longitudinal muscles (DLMs) Idlm1 and Idlm2, and dorso-ventral muscles (DVMs) IIedvm1 and IIedvm2 by 3.4%. The authors have added the corresponding muscle segmentations to the tomographic data that is freely available at CXIDB (http://cxidb.org/id-93.html). Please see corrected S1 Data.\n\nThis change in the estimate of muscle mass has a corresponding effect on the specific power and energy calculations.\n\nThe 5th sentence in paragraph 2 of the subsection of the Results titled, “Snapping organ biomechanics,” corrected text should read: “Specifically, the rate of change in the kinetic energy of the abdomen during loading implies energy release at a much higher power output than the DLMs and DVMs combined (Idlm1, Idlm2, IIedvm1, IIedvm2) could possibly supply through contraction (implied specific power: 7 kW kg−1, which is an order of magnitude higher than the maximum 500 W kg−1 specific power output reported for muscle [31]; see S1 Methods and S1 Data).”\n\nThe fifth sentence in the first paragraph of the subsection of the Results titled “Snapping organ elastic recoil and transformation” should read: “Muscles have previously been suggested to act as springs [10], and here the elastic energy storage is in the range achievable by the muscle cross-bridges [32] if all of the elastic energy were stored in the DLMs (implied specific energy for Idlm1 and Idlm2: 2.63 J kg−1).”\n\nThe last sentence in the second paragraph of the same subsection should read: “Additional muscles may modulate the vibration during unloading (i.e., IIIvlm2), but even the largest of these is an order of magnitude too small to account for the rate of energy release during unloading (implied specific power: 5 kW kg−1 if normalising mechanical power by IIIvlm2 mass; Fig. 2A and S1 Data).”\n\nIn rechecking all of the numbers that they had reported, the authors saw that the values of the muscle spring stiffnesses k3 and k4 assumed in the mathematical model were written incorrectly in S1 Methods. These should have been written as 0.31 N μm rad-1 and 0.62 N μm rad-1 respectively. The mathematical model and its results are unchanged. Please see corrected S1 Methods.\n\nSupporting information"
+}

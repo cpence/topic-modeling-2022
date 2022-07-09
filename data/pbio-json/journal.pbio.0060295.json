@@ -1,0 +1,38 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0060295",
+  "doi": "10.1371/journal.pbio.0060295",
+  "externalIds": [
+    "pii:08-PLBI-S-4485",
+    "pmid:20076699",
+    "pmcid:PMC2586365"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Gut Reaction: Pyrosequencing Provides the Poop on Distal Gut Bacteria",
+  "authors": [
+    {
+      "name": "Kira O'Day",
+      "first": "Kira",
+      "last": "O'Day"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2008-11",
+  "dateElectronic": "2008-11-18",
+  "volume": "6",
+  "number": "11",
+  "pages": "e295",
+  "tags": [
+    "Discipline/Ecology",
+    "Discipline/Infectious Diseases",
+    "Discipline/Microbiology",
+    "Type/Synopsis"
+  ],
+  "fullText": "The human distal gut hosts a bustling community comprising thousands of different kinds of bacteria. Fortunately, most of these intestinal residents don't cause disease but instead play key roles in nutrition, metabolism, pathogen resistance, and immune response regulation. Unfortunately, these beneficial bacteria are just as susceptible to the antibiotics we take to treat pathogenic bacteria. Antibiotics drastically alter the balance among members of different taxa of beneficial distal gut bacteria that have coevolved with one another and with their human host.\n\nTo date, researchers have had a limited understanding of what occurs in the gut during antibiotic treatment. Antibiotic-related changes in the distal gut bacterial community can cause acute or chronic disease in humans, ranging in severity from temporary diarrhea to the potentially fatal disorder pseudomembranous colitis. Antibiotic use during childhood and the resulting alterations in the gut microbial community have also been linked to asthma. Although the bacterial community generally returns to its pretreatment composition days or weeks after antibiotic treatment has ended, antibiotic effects on specific bacterial taxa can last for years. How antibiotics affect bacteria at the species and strain level, where the community is most diverse, remains obscure.\n\nTo find out more about the changes taking place in the gut during antibiotic treatment, Les Dethlefsen et al. extracted DNA from stool samples collected from three healthy adults before, during, and after treatment for five days with ciprofloxacin (a broad-spectrum antibiotic that is used to treat a variety of bacterial conditions such as infections of the lower respiratory or urinary tracts and sexually transmitted infections). Although the unnecessary use of antibiotics is a general problem in most populations globally, ciprofloxacin was selected because of its safety profile and the previous belief that it does not harm the most abundant commensal bacteria of the distal gut. Then, to differentiate among bacterial taxa, the researchers analyzed the 16S rRNA gene, a universally conserved gene containing hypervariable regions, by using traditional full-length gene sequencing and a newly developed sequencing technique called pyrosequencing.\n\nPyrosequencing has been used to investigate the taxonomic richness of microbes living in marine deep water, hydrothermal vents, and other environments. It works by detecting light that's emitted as the result of an enzymatic reaction during DNA synthesis, using the sample DNA (in this case, the hypervariable regions V6 and V3 in the 16S rRNA gene) as a template. Pyrosequencing improves on older DNA sequencing techniques in its ability to deliver large amounts of genetic sequence data at a significantly lower cost. A companion paper published this month in PLoS Genetics, “Exploring Microbial Diversity and Taxonomy Using SSU rRNA Hypervariable Tag Sequencing,” by Susan Huse and colleagues (doi: 10.1371/journal.pgen.1000255), demonstrated the reliability of this technique by comparing the taxonomic information yielded by traditional full-length sequencing of bacterial 16S rRNA genes with that yielded by pyrosequencing of only the hypervariable regions. They found that both methods yielded similar results about the composition of bacterial communities.\n\nUsing more than 7,000 full-length 16S rRNA gene sequences and over 900,000 pyrosequencing reads from the hypervariable regions of the same gene, Dethlefsen et al. confirmed the presence of over 5,600 bacterial taxa in the human gut—far more taxonomic richness than had been seen in previous investigations of host-associated bacterial communities. They also found that ciprofloxacin had a dramatic effect on microbial communities and that the specific bacterial taxa most strongly affected varied among the human hosts. Ciprofloxacin treatment caused a sizeable decrease in taxonomic richness in two of the participants, while bacterial diversity was somewhat less strongly affected in the third participant. The relative abundance levels of about 30% of bacterial taxa in the human hosts were affected by treatment. Most members of the bacterial community returned to pretreatment numbers within four weeks following treatment.\n\nAlthough the effects on their gut inhabitants were profound, none of the participants reported any changes in their gut function either during or after treatment, indicating that the tremendous diversity of the distal gut bacterial community makes it both resilient and functionally redundant. Although participants reported no signs of gut-related problems and the overall post-treatment composition of the community was similar to that before ciprofloxacin treatment, some taxa had not recovered completely even six months later. Because specific bacterial taxa are responsible for different aspects of nutrition, metabolism, and immune response, even seemingly minor changes in the composition of the gut microbial community as the result of antibiotic treatment might have long-term effects on health that could go undetected in the relatively short length of the study.\n\nNow that pyrosequencing has been shown to be a fast, precise, and cost-effective way to investigate host-associated microbial communities, it can be applied to many as-yet unanswered questions, including pinpointing the factors responsible for bacterial community resilience. The researchers suggest that resilience may arise from a mix of selective forces, both intrinsic to the bacterial community (such as different growth rates and substrate affinities) and imposed by the environment (such as differences in the host diets and host-derived substrates). Understanding how resilience arises and how the bacteria of the distal gut are affected by antibiotic treatment may also be clinically useful. For example, characterizing the relative abundance of both rare and more populous taxa over time may help clinicians predict the likelihood of patients developing antibiotic-associated diarrhea due to the overgrowth of harmful bacteria."
+}

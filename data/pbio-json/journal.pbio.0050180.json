@@ -1,0 +1,42 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0050180",
+  "doi": "10.1371/journal.pbio.0050180",
+  "externalIds": [
+    "pii:07-PLBI-CC-0166",
+    "pmid:17638415",
+    "pmcid:PMC1914395"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the origina author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Comment on “Morphological Evolution Is Accelerated among Island Mammals”",
+  "authors": [
+    {
+      "name": "Juan Antonio Pérez-Claros",
+      "first": "Juan Antonio",
+      "last": "Pérez-Claros"
+    },
+    {
+      "name": "Juan Carlos Aledo",
+      "first": "Juan Carlos",
+      "last": "Aledo"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2007-07",
+  "dateElectronic": "2007-07-17",
+  "volume": "5",
+  "number": "7",
+  "pages": "e180",
+  "tags": [
+    "Discipline/Evolutionary Biology",
+    "System Taxonomy/Mammals",
+    "Type/Correspondence"
+  ],
+  "fullText": "A recent paper published in PLoS Biology [1] deals with the contention of whether the rates of morphological evolution are accelerated on islands relative to the mainland. Because of the scarcity of empirical data, the long-held supposition that insular mammals can evolve faster than their continental counterparts remains debatable. In this context, the work in [1] represents a valuable contribution. Indeed, the author has collected and provided a wealth of data of considerable interest. Nevertheless, the main conclusion of [1] may not be fully supported by the data when they are critically analysed.\n\nIn the cited work, island and mainland rate comparisons were carried out by regression analyses obtained when log rates in darwins were plotted against log times in million years. The author claimed that the regression line of the island species was above the line of the mainland species over a large range of data, indicating that the evolutionary rates for island species were greater than those for mainland species. However, this claim deserves some reflection. Rates in darwins (d) were calculated as (ln x2– ln x1)/Δt, where x1 and x2 correspond to linear measurements of the same structure for a descendant and its ancestor, which are separated by Δt million years. Whenever using the darwin to describe the evolutionary rate of change, a caveat must be born in mind: darwins accurately describe rates of change, only provided that evolutionary changes (ln x2– ln x1) resulted from steady accumulation in a monotonic fashion over the entire period of time (Δt). If this is not the case, then the resulting rates of evolution may be mathematical artefacts of the length of the interval over which they are measured. In other words, the values obtained will not describe solely the sequence of changes and their tempo, but rather will include dependences on the arbitrary choices of starting and ending points from which the rates are calculated [2].\n\nThe difficulties related to the implicit assumption of a monotonic relationship between change and elapsed time, with no provision for reversal changes or punctuation, becomes especially relevant when comparing data differing widely in their time intervals. This seems to be the case in [1], where there are fewer island data points for the largest time intervals (six higher than 21,000 y) and fewer mainland data points for the smallest time intervals (two below 2,400 y). Not surprisingly, under these circumstances, data from islands showed higher values of d than their continental counterpart, despite the lack of a significant difference in their evolutionary changes. In contrast, when only those samples from island and mainland that were sampled over the same period of time (2,400–21,000 y) were included in the analysis, we failed to detect any significant difference in the rate of morphological evolution among insular and continental mammals.\n\nAn accelerated evolution among island mammals may be a real feature that we do not refuse. However, the validity of this claim remains an open question that deserves further research. In any event, we should be aware of the necessity to provide reliable analyses, free of those mathematical artefacts associated with the interpretation of data."
+}

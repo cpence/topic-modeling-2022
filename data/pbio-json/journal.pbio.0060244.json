@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0060244",
+  "doi": "10.1371/journal.pbio.0060244",
+  "externalIds": [
+    "pii:08-PLBI-S-3569",
+    "pmid:20076723",
+    "pmcid:PMC2553850"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Slowing Down a Hammerhead Ribozyme Allows Glimpses of It in Action",
+  "authors": [
+    {
+      "name": "Robin Meadows",
+      "first": "Robin",
+      "last": "Meadows"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2008-09",
+  "dateElectronic": "2008-09-30",
+  "volume": "6",
+  "number": "9",
+  "pages": "e244",
+  "tags": [
+    "Discipline/Biochemistry",
+    "Type/Synopsis"
+  ],
+  "fullText": "Ever since the discovery of RNA enzymes—or ribozymes—rocked the world of molecular biology two decades ago, researchers have been asking how they work. The answer could hold clues to the origin of life. Beforehand, all the enzymes known to catalyze biochemical reactions, including DNA replication, were proteins. But ribozymes opened up the possibility that the life on Earth may originally have been RNA-based rather than DNA-based, with RNAs serving as both the genetic material and the enzymes to replicate it. According to this hypothesis, an ancient “RNA world” ultimately evolved into today's DNA world.\n\nOne of the best-known RNA enzymes is the hammerhead ribozyme, named for the molecule's shape when drawn flat on a piece of paper. The first hammerhead ribozyme was discovered in 1986 in tobacco ringspot virus (sTRSV) satellite RNA, which are short, single-stranded molecules that depend on the virus for replication. The sTRSV hammerhead is a small piece of RNA, just 69 nucleotides long, that can cleave itself in two, making it ideal for studying the mechanism of ribozyme catalysis. X-ray crystallography has revealed the three-dimensional structure of this ribozyme, including the core active site where cleavage occurs. Whereas the active core of 15 nucleotides is largely conserved among different types of hammerhead ribozymes, the outlying stems are variable. Initially thought to be irrelevant, these stems are now known to be critical for catalysis. By radically changing the shape of the core active site, stem-to-stem interactions both activate the enzyme and speed the rate of catalysis about a thousand times. Based on the type of stem interactions, hammerhead ribozymes are divided into two main classes, and sTRSV is the best-known member of the first class.\n\nA 2006 study of the best-known member of the second class of hammerheads yielded clues about the catalytic mechanism of these RNA enzymes. The hammerhead in this study is found in the alpha repetitive sequence (SMa) of the genome of Schistosoma mansoni, a human flatworm parasite. In the study, two guanine-containing nucleotides in the core active site were positioned to act as a base and an acid (G12 and G8, respectively), suggesting that hammerhead ribozymes catalyze chemical reactions through an acid-base mechanism. In this mechanism, nucleotide bases are involved in proton donation and acceptance events that help stabilize charges that develop during the fleeting transition state associated with cleavage. But researchers couldn't be certain about the catalytic mechanism, because the active site environment may have altered in the 2006 study. This is because a cleavage site nucleotide (C17) was modified: a hydroxyl, which is attracted to positive charges, was replaced with an ether linkage, which is inert.\n\nNew research by Young-In Chi and colleagues brings us closer to understanding how hammerhead ribozymes work, by determining the structure of the sTRSV ribozyme just before and just after cleavage. The first step was making a mutant sTRSV ribozyme with a much slower than normal rate of catalysis. This entailed replacing the active site G12 with an adenine-containing nucleotide (A). These two nucleotides are so similar that the mutant ribozyme's atomic structure hardly changes—but the rate of cleavage decreases about a million times. In contrast to the 2006 SMa hammerhead ribozyme study, the cleavage site of the sTRSV hammerhead ribozyme remained unmodified.\n\nThe next step involved x-ray crystallography of the mutant sTRSV hammerhead ribozyme. The researchers compared two sets of crystals: one that was freshly grown and so had not yet cleaved, and one that was aged several weeks to give the mutant ribozyme time to cleave.\n\nIn the fresh crystals grown just before cleavage, the shape of the mutant sTRSV hammerhead ribozyme's active site was extremely close to that of normal hammerhead ribozymes. As in the 2006 SMa hammerhead ribozyme study, Chi and colleagues found that just before cleavage, the sTRSV core active site nucleotides G12 and G8 are well-positioned for acid-base catalysis. Thus, the researchers attribute the mutant ribozyme's slow rate of catalysis to differences in the acid chemistry of the A and the G12 it replaced rather than to structural differences between these two nucleotides.\n\nThe aged crystals captured the mutant ribozyme just after cleavage. The RNA was split in two, but the pieces had not yet separated from each other because they were trapped in the crystal lattice. This post-cleavage ribozyme had two magnesium ions near its active site, flanking the phosphate where the molecule is cleaved. The researchers suggest that, along with two core nucleotides (G8 and A9), the positively charged magnesium ions help stabilize this phosphate during cleavage, when the phosphate is negatively charged. This result fits with earlier findings that hammerhead ribozyme cleavage requires either divalent metal ions such as magnesium, which have two positive charges, or a high concentration of monovalent cations, which have one positive charge.\n\nBy crystallizing the entire hammerhead ribozyme while it is catalytically active, the researchers have brought us the next best thing to catching this RNA enzyme in action. And by giving us more insight into how ribozymes work, this study also brings us closer to understanding these potential remnants of an RNA world that preceded life based on DNA."
+}

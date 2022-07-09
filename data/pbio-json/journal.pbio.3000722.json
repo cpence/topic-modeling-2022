@@ -1,0 +1,314 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000722",
+  "doi": "10.1371/journal.pbio.3000722",
+  "externalIds": [
+    "pii:PBIOLOGY-D-19-03199",
+    "pmid:32569301",
+    "pmcid:PMC7307728"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "NCX1 represents an ionic Na+ sensing mechanism in macrophages",
+  "authors": [
+    {
+      "name": "Patrick Neubert",
+      "first": "Patrick",
+      "last": "Neubert",
+      "affiliation": "Institute of Clinical Microbiology and Hygiene, University Hospital of Regensburg and University of Regensburg, Regensburg, Germany"
+    },
+    {
+      "name": "Arne Homann",
+      "first": "Arne",
+      "last": "Homann",
+      "affiliation": "Institute of Clinical Microbiology and Hygiene, University Hospital of Regensburg and University of Regensburg, Regensburg, Germany"
+    },
+    {
+      "name": "David Wendelborn",
+      "first": "David",
+      "last": "Wendelborn",
+      "affiliation": "Institute of Clinical Microbiology and Hygiene, University Hospital of Regensburg and University of Regensburg, Regensburg, Germany"
+    },
+    {
+      "name": "Anna-Lorena Bär",
+      "first": "Anna-Lorena",
+      "last": "Bär",
+      "affiliation": "Institute of Clinical Microbiology and Hygiene, University Hospital of Regensburg and University of Regensburg, Regensburg, Germany"
+    },
+    {
+      "name": "Luka Krampert",
+      "first": "Luka",
+      "last": "Krampert",
+      "affiliation": "Institute of Clinical Microbiology and Hygiene, University Hospital of Regensburg and University of Regensburg, Regensburg, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8835-6145"
+      ]
+    },
+    {
+      "name": "Maximilian Trum",
+      "first": "Maximilian",
+      "last": "Trum",
+      "affiliation": "Department of Internal Medicine II, University Hospital of Regensburg and University of Regensburg, Regensburg, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8267-2681"
+      ]
+    },
+    {
+      "name": "Agnes Schröder",
+      "first": "Agnes",
+      "last": "Schröder",
+      "affiliation": "Institute of Orthodontics, University Hospital of Regensburg, Regensburg, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6010-9831"
+      ]
+    },
+    {
+      "name": "Stefan Ebner",
+      "first": "Stefan",
+      "last": "Ebner",
+      "affiliation": "Institute of Clinical Microbiology and Hygiene, University Hospital of Regensburg and University of Regensburg, Regensburg, Germany; Max Planck Institute of Biochemistry, Martinsried, Germany"
+    },
+    {
+      "name": "Andrea Weichselbaum",
+      "first": "Andrea",
+      "last": "Weichselbaum",
+      "affiliation": "Institute of Clinical Microbiology and Hygiene, University Hospital of Regensburg and University of Regensburg, Regensburg, Germany"
+    },
+    {
+      "name": "Valentin Schatz",
+      "first": "Valentin",
+      "last": "Schatz",
+      "affiliation": "Institute of Clinical Microbiology and Hygiene, University Hospital of Regensburg and University of Regensburg, Regensburg, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7784-8753"
+      ]
+    },
+    {
+      "name": "Peter Linz",
+      "first": "Peter",
+      "last": "Linz",
+      "affiliation": "Institute of Radiology, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8232-1443"
+      ]
+    },
+    {
+      "name": "Roland Veelken",
+      "first": "Roland",
+      "last": "Veelken",
+      "affiliation": "Department of Internal Medicine 4, University Hospital Erlangen, Erlangen, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4254-6322"
+      ]
+    },
+    {
+      "name": "Jonas Schulte-Schrepping",
+      "first": "Jonas",
+      "last": "Schulte-Schrepping",
+      "affiliation": "Department for Genomics and Immunoregulation, Life and Medical Sciences (LIMES) Institute, University of Bonn, Bonn, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7333-8924"
+      ]
+    },
+    {
+      "name": "Anna C. Aschenbrenner",
+      "first": "Anna C.",
+      "last": "Aschenbrenner",
+      "affiliation": "Department for Genomics and Immunoregulation, Life and Medical Sciences (LIMES) Institute, University of Bonn, Bonn, Germany; Department of Internal Medicine and Radboud Center for Infectious Diseases (RCI), Radboud University Medical Center, Nijmegen, the Netherlands",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9429-5457"
+      ]
+    },
+    {
+      "name": "Thomas Quast",
+      "first": "Thomas",
+      "last": "Quast",
+      "affiliation": "Molecular Immunology and Cell Biology LIMES Institute, University of Bonn, Bonn, Germany"
+    },
+    {
+      "name": "Christian Kurts",
+      "first": "Christian",
+      "last": "Kurts",
+      "affiliation": "Institute of Experimental Immunology, University of Bonn, Bonn, Germany"
+    },
+    {
+      "name": "Sabrina Geisberger",
+      "first": "Sabrina",
+      "last": "Geisberger",
+      "affiliation": "Experimental and Clinical Research Center (ECRC), a cooperation of Charité-Universitätsmedizin Berlin and Max Delbruck Center for Molecular Medicine, Berlin, Germany; Max Delbruck Center for Molecular Medicine in the Helmholtz Association (MDC), Berlin, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6477-1312"
+      ]
+    },
+    {
+      "name": "Karl Kunzelmann",
+      "first": "Karl",
+      "last": "Kunzelmann",
+      "affiliation": "Institute of Physiology, University of Regensburg, Regensburg, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6222-4593"
+      ]
+    },
+    {
+      "name": "Karin Hammer",
+      "first": "Karin",
+      "last": "Hammer",
+      "affiliation": "Department of Internal Medicine II, University Hospital of Regensburg and University of Regensburg, Regensburg, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-2015-0682"
+      ]
+    },
+    {
+      "name": "Katrina J. Binger",
+      "first": "Katrina J.",
+      "last": "Binger",
+      "affiliation": "Department of Biochemistry and Genetics, La Trobe Institute for Molecular Science, La Trobe University, Bundoora, Australia",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1139-3308"
+      ]
+    },
+    {
+      "name": "Jens Titze",
+      "first": "Jens",
+      "last": "Titze",
+      "affiliation": "Cardiovascular and Metabolic Disorders, Duke-NUS Medical School, Singapore",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-8463-8404"
+      ]
+    },
+    {
+      "name": "Dominik N. Müller",
+      "first": "Dominik N.",
+      "last": "Müller",
+      "affiliation": "Experimental and Clinical Research Center (ECRC), a cooperation of Charité-Universitätsmedizin Berlin and Max Delbruck Center for Molecular Medicine, Berlin, Germany; Max Delbruck Center for Molecular Medicine in the Helmholtz Association (MDC), Berlin, Germany"
+    },
+    {
+      "name": "Waldemar Kolanus",
+      "first": "Waldemar",
+      "last": "Kolanus",
+      "affiliation": "Molecular Immunology and Cell Biology LIMES Institute, University of Bonn, Bonn, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1325-9444"
+      ]
+    },
+    {
+      "name": "Joachim L. Schultze",
+      "first": "Joachim L.",
+      "last": "Schultze",
+      "affiliation": "Department for Genomics and Immunoregulation, Life and Medical Sciences (LIMES) Institute, University of Bonn, Bonn, Germany; Platform for Single Cell Genomics & Epigenomics at the German Center for Neurodegenerative Diseases (DZNE) and the University of Bonn, Bonn, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-2812-9853"
+      ]
+    },
+    {
+      "name": "Stefan Wagner",
+      "first": "Stefan",
+      "last": "Wagner",
+      "affiliation": "Department of Internal Medicine II, University Hospital of Regensburg and University of Regensburg, Regensburg, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9471-1166"
+      ]
+    },
+    {
+      "name": "Jonathan Jantsch",
+      "first": "Jonathan",
+      "last": "Jantsch",
+      "affiliation": "Institute of Clinical Microbiology and Hygiene, University Hospital of Regensburg and University of Regensburg, Regensburg, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6944-2913"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2020-06-22",
+  "dateAccepted": "2020-05-22",
+  "dateReceived": "2019-10-31",
+  "volume": "18",
+  "number": "6",
+  "pages": "e3000722",
+  "tags": [
+    "Bacterial diseases",
+    "Bacterial toxins",
+    "Biochemistry",
+    "Diagnostic medicine",
+    "Discipline-v3/Bacterial diseases",
+    "Discipline-v3/Bacterial toxins",
+    "Discipline-v3/Biochemistry",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Diagnostic medicine",
+    "Discipline-v3/Electrophysiology",
+    "Discipline-v3/Endotoxins",
+    "Discipline-v3/Escherichia coli infections",
+    "Discipline-v3/Gene expression",
+    "Discipline-v3/Gene regulation",
+    "Discipline-v3/Genetics",
+    "Discipline-v3/Green fluorescent protein",
+    "Discipline-v3/Immune response",
+    "Discipline-v3/Immunoblotting",
+    "Discipline-v3/Immunology",
+    "Discipline-v3/Infectious diseases",
+    "Discipline-v3/Inflammation",
+    "Discipline-v3/Luminescent proteins",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Membrane potential",
+    "Discipline-v3/Molecular biology",
+    "Discipline-v3/Molecular biology techniques",
+    "Discipline-v3/Molecular probe techniques",
+    "Discipline-v3/Neurochemicals",
+    "Discipline-v3/Neurochemistry",
+    "Discipline-v3/Neuroscience",
+    "Discipline-v3/Nitric oxide",
+    "Discipline-v3/Non-coding RNA",
+    "Discipline-v3/Nucleic acids",
+    "Discipline-v3/Pathology and laboratory medicine",
+    "Discipline-v3/Physiology",
+    "Discipline-v3/Proteins",
+    "Discipline-v3/RNA",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Signs and symptoms",
+    "Discipline-v3/Small interfering RNAs",
+    "Discipline-v3/Toxic agents",
+    "Discipline-v3/Toxicology",
+    "Discipline-v3/Toxins",
+    "Electrophysiology",
+    "Endotoxins",
+    "Escherichia coli infections",
+    "Gene expression",
+    "Gene regulation",
+    "Genetics",
+    "Green fluorescent protein",
+    "Immune response",
+    "Immunoblotting",
+    "Immunology",
+    "Infectious diseases",
+    "Inflammation",
+    "Luminescent proteins",
+    "Membrane potential",
+    "Molecular biology",
+    "Molecular biology techniques",
+    "Molecular probe techniques",
+    "Neurochemicals",
+    "Neurochemistry",
+    "Neuroscience",
+    "Nitric oxide",
+    "Non-coding RNA",
+    "Nucleic acids",
+    "Pathology and laboratory medicine",
+    "Physiology",
+    "Proteins",
+    "RNA",
+    "Signs and symptoms",
+    "Small interfering RNAs",
+    "Toxic agents",
+    "Toxicology",
+    "Toxins",
+    "Type/Research Article"
+  ],
+  "abstract": "Inflammation and infection can trigger local tissue Na+ accumulation. This Na+-rich environment boosts proinflammatory activation of monocyte/macrophage-like cells (MΦs) and their antimicrobial activity. Enhanced Na+-driven MΦ function requires the osmoprotective transcription factor nuclear factor of activated T cells 5 (NFAT5), which augments nitric oxide (NO) production and contributes to increased autophagy. However, the mechanism of Na+ sensing in MΦs remained unclear. High extracellular Na+ levels (high salt [HS]) trigger a substantial Na+ influx and Ca2+ loss. Here, we show that the Na+/Ca2+ exchanger 1 (NCX1, also known as solute carrier family 8 member A1 [SLC8A1]) plays a critical role in HS-triggered Na+ influx, concomitant Ca2+ efflux, and subsequent augmented NFAT5 accumulation. Moreover, interfering with NCX1 activity impairs HS-boosted inflammatory signaling, infection-triggered autolysosome formation, and subsequent antibacterial activity. Taken together, this demonstrates that NCX1 is able to sense Na+ and is required for amplifying inflammatory and antimicrobial MΦ responses upon HS exposure. Manipulating NCX1 offers a new strategy to regulate MΦ function.",
+  "fullText": "Introduction\n\nInfection and inflammation can trigger localized accumulation of sodium (Na+) in skin [1–3]. This accumulation is similar to that induced by high-Na+–containing diets and increases the effective osmolyte concentration within the skin to more than 40 mM above that of normal, isotonic blood [1,4].\n\nAlthough blood Na+ is tightly regulated by the kidney, it has been established that monocyte/macrophage-like cells (MΦs) are necessary for the clearance of skin electrolytes upon dietary high-salt (HS) challenges [4,5]. However, the precise molecular mechanisms that orchestrate Na+ accumulation in the skin remain elusive, clearance by MΦs requires the osmoprotective transcription factor nuclear factor of activated T cells 5 (NFAT5) [4,6], which is the calcineurin-independent member of the NFAT family (reviewed in [7,8]).\n\nIn addition to regulating skin Na+ levels, the response of MΦs to infection and/or inflammation is modulated by increased local Na+ levels. Increases in Na+ limit anti-inflammatory regulatory MΦ activation while amplifying proinflammatory and antimicrobial activity [1,9–15]. We have shown that high Na+ increases NFAT5-dependent nitric oxide synthase 2 (Nos2) expression in lipopolysaccharide (LPS)-activated MΦs, resulting in increased antimicrobial nitric oxide (NO) production. High-Na+ conditions also enhanced autolysosome formation of infected MΦs, which together with increased NO, ultimately facilitates increased antimicrobial responses [1,10]. Although these findings established that alterations in local Na+ influence MΦ biology, the initial molecular responses of MΦs to high-Na+ environments remain unclear.\n\nHere, we demonstrate that exposure to high extracellular Na+ stimulates the MΦ Na+/Ca2+ exchanger 1 (NCX1, also known as solute carrier family 8 member A1 [SLC8A1]), resulting in Na+ influx and Ca2+ efflux. We show that these NCX1-dependent currents are required for Na+-increased proinflammatory MΦ activity. Altogether, this study identifies a new molecule important for MΦs to sense increases in local Na+ levels and regulate their biology.\n\nResults\n\nElevated extracellular Na+ triggers Na+ influx into MΦs\n\nThe elevated levels of extracellular skin Na+ can be mimicked in vitro by the addition of 40 mM NaCl to standard cell culture media [1,4,10,11]. We exposed MΦs to increased extracellular Na+ (+40 mM NaCl; +80 mOsm/kg; HS). Chemical analysis of Na+ content revealed that HS substantially increased cellular Na+ levels compared with normal salt (NS) in an LPS-independent manner (Fig 1A). To monitor intracellular Na+ in situ ([Na+]i), we used MΦs loaded with the Na+-sensitive dye sodium-binding benzofuran isophthalate (SBFI). LPS stimulation alone did not alter [Na+]i. HS exposure, however, resulted in an immediate increase in [Na+]i in the absence or presence of LPS (Fig 1B). Of note, the osmolality control urea did not trigger substantial Na+ entry into MΦs (Fig 1C).\n\nWe hypothesized that one (or more) proteins at the plasma membrane might mediate HS-triggered Na+ influx. A query in the ImmGen database [16] revealed that mouse MΦs express transcripts for several ion channels, exchangers, and transporters, which are able to facilitate Na+ entry. This list includes the epithelial Na+ channel 1 alpha subunit, Na+/H+ antiporter, the voltage-gated Na+ channel, acid-sensing ion channels, Na+-K+-Cl− symporter, and NCX1 (Slc8a1). In addition, HS-triggered signaling might also depend on transient receptor potential cation channel subfamily V member 4 (TRPV4). To measure whether Na+ influx by one of these molecules is involved in HS-boosted inflammatory (i.e., LPS-induced) MΦ activation, we used selective inhibitors targeting these molecules (S1 Table) and quantified NO production. Because HS alone (in the absence of LPS) does not induce NO production (Fig 2), as described earlier [1,10], we used MΦs stimulated with LPS in the presence of HS for this screening purpose (Fig 2). Conforming to our earlier findings [1,10], HS increased LPS-triggered NO release, whereas the osmolality control urea did not (Fig 2). The various inhibitors (S1 Table) revealed that only exposure to the NCX inhibitors KB-R7943 mesylate (KB-R) [17], SEA 0400 (SEA) [18], and NiCl2 [19] impaired HS-increased NO production in LPS-stimulated MΦs (Fig 2). Of note, these NCX inhibitors did not trigger NO production in the absence of LPS (S1 Fig).\n\nMΦs are known to express NCX [20], of which NCX1 and NCX3 are expressed in human MΦs [21]. A query of the ImmGen database [16] revealed that NCX1 (Scl8a1) is robustly expressed in mouse MΦs, whereas there was minimal expression of Scl8a2 (the gene coding for NCX2) and Scl8a3 (NCX3). These findings were confirmed by quantitative real-time PCR (qRT-PCR) analysis of mouse MΦs (Fig 3A). There are several Slc8a1 splice variants known (reviewed in [22]). To determine the dominantly expressed variant (Fig 3B), we analyzed RNA sequencing (RNA-seq) data of bone marrow–derived MΦs (BMDMs). Transcriptome assembly identified two additional transcript variants (Fig 3B, red). Transcript abundance estimation revealed dominant expression of one novel variant (StringTie Assembly version 1), which skipped an internal exon and featured an additional 5′ exon upstream of the open reading frame (ORF), representing an alternative untranslated region (UTR). This novel Slc8a1 variant has not been annotated in the standard GENCODE version M10 or RefSeq catalog, but it has been independently predicted by the National Center for Biotechnology Information (NCBI) eukaryotic gene prediction tool Gnomon under XM_006523944 (Fig 3B, blue).\n\nIncreases in extracellular Na+ stimulate MΦ NCX currents\n\nTo explore the functional role of NCX in HS-increased inflammatory MΦ activation, we assessed whole-cell currents (whole-cell voltage clamp) of MΦ as a function of the membrane potential (Vm). The HS-sensitive current, determined as the difference between the current in the presence and absence of HS, showed increased inward currents (Fig 4A, left panel), suggesting influx of positively charged ions upon HS exposure. As published earlier [23,24], we found that the LPS-sensitive current, determined as the difference between the current in the presence and absence of LPS, showed outward rectification at positive Vm (Fig 4A, middle panel). By contrast, exposure of MΦ to LPS in the presence of HS reduced outward currents and increased inward currents (Fig 4A, right panel). Overall, this is consistent with HS triggering the influx of positively charged ions at negative Vm and reduced net efflux at positive Vm. In a separate set of experiments, we used NiCl2 to block NCX currents rapidly. NiCl2 pretreatment abolished HS-triggered inward currents (Fig 4B, left panel). However, NiCl2 treatment prior to LPS stimulation did not affect the outward rectification of the LPS-sensitive currents at positive Vm (Fig 4B, middle panel). Again, NiCl2 treatment prior to stimulation with LPS and HS abrogated HS-triggered increased inward currents but did not affect the LPS-sensitive currents at positive Vm (Fig 4B, right panel).\n\nIn order to analyze NCX currents directly, we measured the total current of LPS- and LPS + HS–treated MΦs before and after addition of NiCl2. The Ni-sensitive current, determined as the difference between the current in the absence and presence of NiCl2, was used as a direct measure of NCX current. Compared with LPS alone, at Vm values negative from the NCX reversal potential (Erev), additional HS exposure enhanced NCX inward current (Fig 4C). Altogether, this suggests that NCX mediates Na+ entry. Moreover, HS exposure shifted the ErevNCX from −20.9 mV to −7.6 mV, consistent with the increased electrochemical gradient for Na+ ions upon HS (Fig 4D).\n\nSince the forward mode of the NCX exchange activity can only occur at Vm negative of Erev [25], we measured the resting Vm in untreated and LPS-stimulated MΦs by whole-cell patch clamp technique (current clamp). In line with earlier publications [26–30], we detected a Vm of −18.7 mV in resting MΦs (Fig 4E), which did not significantly change upon LPS stimulation (S2 Fig). Under NS and LPS conditions, this resting Vm is very close to the ErevNCX. This incapacitates NCX-mediated currents to occur in LPS-treated MΦs under NS conditions; however, with HS exposure, it shifts the Erev into positive directions (Fig 4D), generating the driving force for forward-mode NCX inward currents to occur.\n\nIncreases in extracellular Na+ result in Ca2+ loss\n\nIn its forward mode, NCX not only allows for Na+ entry but extrudes Ca2+ in exchange (reviewed in [22,31]). Accordingly, we hypothesized that a rapid efflux of Ca2+ from MΦs may accompany the HS-triggered increase in [Na+]i. Therefore, we analyzed the emitted fluorescence of Fura-2–loaded MΦs as a measure of intracellular Ca2+ in situ ([Ca2+]i) (Fig 5A and 5B). In accordance with previous publications [32–34], there was no long-lasting increase in [Ca2+]i upon LPS stimulation under NS in MΦs (Fig 5B). Exposure to HS in the absence or presence of LPS stimulation, however, resulted in a rapid decrease of [Ca2+]i (Fig 5A and 5B). We confirmed these results using flow cytometry–based analysis after staining with the Ca2+-sensitive dyes Fluo-3 and Fura-Red. Again, upon HS exposure in the absence of presence of LPS, we noted a rapid decrease of [Ca2+]i, which inversely mirrored the increase of [Na+]i (Fig 5C and 5D). This further supports the notion that a single exchange mechanism may contribute to HS-triggered Na+ influx and Ca2+ loss in MΦs.\n\nTo assess whether HS-dependent decreases in [Ca2+]i were mediated by increased uptake into intracellular stores, we exposed MΦs to thapsigargin (Tg, an inhibitor of the endoplasmic reticulum Ca2+-ATPase; reviewed in [35]) at the end of the experiments. Tg treatment resulted in a transient release of Ca2+ from intracellular stores, leading to an increase in [Ca2+]i (Fig 5A, 5B, 5C and 5D). Importantly, HS exposure did not abolish the Tg-dependent Ca2+ release, suggesting that changes in Ca2+ uptake into intracellular stores upon HS exposure are not involved.\n\nPharmacological inhibition of NCX interferes with HS-boosted MΦ function\n\nTo further corroborate these findings, we used KB-R at a concentration known to inhibit the NCX forward mode (reviewed in [36]) and measured the HS-dependent changes in [Na+]i and [Ca2+]i in the absence or presence of LPS. KB-R treatment did not impair MΦ viability (S3 Fig) but blunted HS-triggered Na+ entry in the absence or presence of LPS (Fig 6A and 6B). This was paralleled by abrogated HS-mediated changes in [Ca2+]i (Fig 6C and 6D).\n\nImportantly, KB-R treatment interfered with HS-induced NFAT5 expression in the absence (S4A Fig) or presence of LPS stimulation (Fig 7A). In LPS-treated MΦs, this was paralleled by suppression of HS-boosted expression of the Nfat5 target gene Nos2 (Fig 7B), which is in line with the reduced effect of HS on LPS-induced NO production. (Fig 2). We additionally used NiCl2 and SEA to interfere with NCX activity. Again, these inhibitors did not affect MΦ viability (S3 Fig). NiCl2 treatment diminished HS-induced NFAT5 in the absence (S4B Fig) or presence of LPS (Fig 7C). NiCl2 abolished HS-augmented expression of Nos2 in LPS-stimulated MΦs (Fig 7D). Likewise, SEA interfered with HS-induced NFAT5 levels in the absence (S4C Fig) or presence of LPS (Fig 7E) and subsequently boosted Nos2 expression (Fig 7F).\n\nIn addition to increasing Nos2 expression, HS-induced Nfat5 expression facilitates autolysosome formation upon infection, which is critically required for HS-boosted antibacterial activity directed against E. coli [10]. To test the impact of NCX inhibition on autolysosome formation, we used SEA in MΦs that express the tandem monomeric red fluorescent protein (RFP)-green fluorescent protein (GFP)–tagged microtubule-associated protein 1 light chain 3 (mLC3). Because GFP fluorescence is pH sensitive, GFP+RFP+ vesicles indicate autophagosomes, whereas GFP−RFP+ vacuoles mark degradative, acidified autolysosomes [37]. In accordance with our previous findings [10], HS exposure boosted the formation of autolysosomes in controls; however, in NCX-inhibited cells, HS failed to increase autolysosome formation, indicating disturbed autophagy (Fig 7G). Building on our earlier findings that HS-boosted antibacterial activity hinges on increased autophagy [10], NCX inhibition incapacitated the effect of HS on antibacterial activity (Fig 7H).\n\nSilencing of Slc8a1 abrogates HS-amplified MΦ function\n\nNext, we used RNA interference (RNAi) to target NCX1 expression in MΦs. Transfer of Slc8a1-specific small interfering RNA (siRNA) reduced Slc8a1 mRNA levels in the absence (S5 Fig) and presence of LPS (Fig 8A). This was paralleled by diminished membranous expression of NCX1 (Fig 8B). Analysis of Ni-sensitive currents in Slc8a1-silenced MΦs upon HS exposure revealed that targeting Slc8a1 diminished Ni-sensitive inward currents (S6 Fig). Because Ni-sensitive currents represent NCX currents, this suggests that silencing of Slc8a1 is functional. Conforming to our pharmacological inhibitor data (Fig 6), silencing of Slc8a1 strongly reduced HS-triggered increase in [Na+]i (Fig 8C). Consistently, in this situation, HS failed to lower [Ca2+]i (Fig 8D).\n\nIn line with this, Slc8a1-specific siRNA largely diminished the effect of Na+-induced NFAT5 protein levels in the absence (S7A Fig) and presence of LPS (Fig 9A). Silencing of Slc8a1 under NS conditions did not induce NO production (S7B Fig). In LPS-activated MΦs, Slc8a1 silencing abolished HS-triggered increases in Nos2 mRNA expression (Fig 9B) and reduced HS-augmented NO production (Fig 9C). Finally, Slc8a1 silencing abrogated HS-boosted autolysosome formation (Fig 9D) and subsequent antimicrobial activity (Fig 9E).\n\nOverall, the RNAi experiments corroborate our pharmacological inhibition experiments and demonstrate that NCX1-dependent signaling is critical for HS-boosted inflammatory and antimicrobial response (Fig 10).\n\nDiscussion\n\nIn addition to organic chemical signals, the local ionic inorganic tissue microenvironment is now recognized as a novel regulator of immune cell function (reviewed in [38–40]). We and others have demonstrated earlier that local Na+ imbalances are able to influence immune cell activation and to boost MΦ activation. HS amplification of MΦ activation hinges on signal molecules such as p38/mitogen-activated protein kinase, NFAT5, and mitochondrial reactive oxygen species (ROS) production, which play an important role in both adaption to osmotic stress and innate cell activation [12,41–45]. However, upstream LPS-independent mechanisms linking increased external Na+ to altered MΦ activation remained unknown.\n\nIn the present study, we show that exposure of MΦs to HS resulted in an immediate rapid increase in intracellular Na+. We investigated several Na+ entry pathways on their impact on HS-dependent MΦ stimulation. In line with earlier findings [15], we did not detect a contribution of voltage-gated Na+ channels. Moreover, our data demonstrate that amiloride-sensitive Na+ channels are not involved in HS-boosted MΦs. The latter have been implicated in microglia/MΦ function (reviewed in [46]) and Na+ sensing of dendritic cells [47]. In contrast, we show here that in MΦs, NCX1 contributes to Na+ entry and subsequent signaling that ultimately results in increased MΦ antimicrobial function upon HS exposure.\n\nThe increase of external Na+ from 140 mM to approximately 180 mM appears to result in a relatively small increase in the electrochemical gradient for Na+ across the membrane. Our data suggest that the plasma membrane of MΦs displays a high permeability for Na+ ions. Because the ErevNCX of LPS-treated MΦs matched the Vm of resting and LPS-stimulated MΦs, NCX currents are incapacitated under NS conditions. By contrast, the small increase in the electrochemical Na+ gradient upon HS treatment shifts the ErevNCX approximately 10 mV in the positive direction. Altogether, this facilitates the forward-mode activity of NCX, ultimately allowing Na+ cellular entry in exchange for Ca2+ efflux. Concordantly, we found a decrease in intracellular Ca2+. Considering the reported stoichiometric ratio of 3:1 for Na+/Ca2+ exchange (reviewed in [22]), a net movement of positive charges into the cell should rapidly depolarize the Vm of MΦs. Increases in intracellular Na+ and decreases in intracellular Ca2+ would rapidly reduce the driving force for NCX and incapacitate NCX currents again.\n\nIn accordance with others [32–34], we did not detect any long-lasting increases of [Ca2+]i in MΦs exposed to LPS under NS, indicating that MΦs do not require such increases for their proinflammatory activity. This is in stark contrast to other cells, such as T cells (reviewed in [48]). Westphalen and colleagues reported that Ca2+ entry in alveolar MΦs through connexin 43–dependent interconnections from alveolar epithelial cells suppresses the inflammatory capacity of these MΦs [49]. Moreover, increases in intracellular Ca2+ can trigger adenosine monophosphate–activated protein kinase activity, which is able to curtail inflammatory properties of mononuclear myeloid cells [50]. This indicates that high Ca2+ levels can exert anti-inflammatory MΦ activity, implying that, conversely, lowering Ca2+ might lead to increased proinflammatory activity. Following this reasoning, we show that lowering [Ca2+]i via NCX1 is linked to HS-boosted proinflammatory activation and antimicrobial MΦ function.\n\nMoreover, low intracellular Ca2+ levels can induce autophagy (reviewed in [51]) where autophagy is regulated by numerous ion channels, exchangers, and transporters (reviewed in [52]). Previously, we found that the activation of autophagy represents an important auxiliary mechanism to boost antibacterial defense under HS conditions [10]. Here, we demonstrate that NCX1 plays an important role in this HS-boosted autophagy. Building on our earlier publication [10], our finding that interfering with NCX1 abolishes HS-increased autolysosomal formation provides a link between antibacterial responses and NCX1-dependent ion sensing. Our data show that extracellular Na+ is able to impact on intracellular organelle formation via NCX1. Very recently, it turned out that subcellular distribution of Na+ via two-pore channels plays an important role in controlling the volume of macropinosomes and, thereby, the cell size of MΦs [53]. Determining how increases in extracellular Na+ influence these subcellular processes requires further studies.\n\nIt is tempting to speculate that sensing of the ionic microenvironment represents a very ancient mechanism that allows animals to sense barrier dysfunction and consequently amplify antimicrobial and inflammatory MΦ responses. Here, we show that Na+ sensing by NCX1 represents an ionic mechanism important for MΦs to sense danger (Fig 10). The identification of this molecule opens new avenues to fine-tune MΦ immunobiology.\n\nMaterial and methods\n\nEthics statement\n\nAnimal care and use followed the regulations of the German Animal Welfare Act. Mice were housed at Zentrale Tierlaboratorien (ZTL) der Universität Regensburg and kept under conditions approved by Umweltamt der Stadt Regensburg.\n\nReagents and antibodies\n\nThe stimulations were performed with LPS from Sigma-Aldrich (E. coli O111:B4; #2630) and NaCl from Merck (#1.06400.1000). The channel inhibitors were purchased from Tocris (KB-R7943 mesylate [#12144] [17], SEA0400 [#6164] [18], amiloride [#0890] [54], EIPA [#3378] [55], and GSK 2193874 [#5106] [56]), Biotrend (tetrodotoxin [#BN0518] [57] and furosemide [(#BG0201] [58]), Sigma-Aldrich (DAPI [#D8417-5MG] [59]), and AppliChem (NiCl2 [#A2199,1000] [19]). For western blotting, we used rabbit anti-NCX1 antibodies from Abcam (#ab151608), rabbit anti-NFAT5 antibodies from Thermo Fisher Scientific (#PA1-023), and rabbit anti-ACTIN antibodies from Sigma-Aldrich (#A2066). Swine anti-rabbit HRP (Dako; #p0399) was used as secondary antibody.\n\nMΦ generation\n\nWe euthanized the mice before getting the marrow. BMDMs were generated in Teflon bags or Petri dishes supplemented with supernatant of L929 cells, as described earlier [60].\n\nRNAi in MΦ\n\nPrior to the experiments, we confirmed that commercially available siRNA binds to the predicted Slc8a1 transcript XM_006523944 using BLAST. We performed RNAi using Slc8a1 siRNA (Dharmacon; # L-044925-00-0005) as described earlier [61]. After electroporation, cells were incubated for 1 d before further treatment and analysis.\n\nMΦ stimulation and infection experiments\n\nMΦs were stimulated with LPS, resulting in a final concentration of 10 ng/ml LPS. NaCl (40 mM) or urea (80 mM) was added to MΦs where indicated. Both an increase of 40 mM in NaCl or adding of 80 mM urea increase osmolality by 80 mOsm/kg [1]. MΦ infection experiments were performed as described previously [1,10]. In brief, BMDMs or RAW264.7 MΦs were infected with E. coli HB101 (multiplicity of infection [MOI] of 100) for 1 h ± HS or SEA0400 (25 μM). MΦs were washed two times with PBS in order to remove remaining extracellular bacteria. Gentamicin (100 μg/ml) was added to the NS and HS conditions for an additional 1 h. Subsequently, cells were lysed with 0.1% Triton/0.05% Tween-20 in PBS. Bacterial solutions were serially diluted and plated on Müller–Hinton agar plates. The next day, colony forming units (CFUs) were manually counted and normalized to the mean of the untreated NS group.\n\nMeasurement of intracellular Na+ by atomic absorption spectrometry\n\nIn all, 2 × 106 RAW264.7 MΦs were stimulated with LPS ± HS for 10 min. Subsequently, cells were harvested and washed with iso-osmolal urea buffer. The MΦ pellet was lysed in 100 μl H2Odd containing 0.1% Triton X, and the Na+ content was determined by atomic absorption spectrometry (Perkin Elmer, model 3100).\n\nIntracellular ion determination via epifluorescence microscopy\n\nMΦs were seeded on FluoroDish plates. For Na+ and Ca2+ measurements, cells were stained as indicated with SBFI (Thermo Fisher Scientific; #S1264) or Fura-2 (Thermo Fisher Scientific; #F1221) in Tyrode solution (140 mM NaCl, 4 mM KCl, 1 mM MgCl2, 5 mM HEPES, 1 mM CaCl2, 10 mM glucose) containing 0.04% Pluronic (Sigma; #P2443). Cells were subjected to ratiometric quantification of the respective fluophor via live cell imaging for 5–10 min (epifluorescence microscope Motic model 410E). After 10 sec, 40 mM NaCl ± LPS was added to the dish, or cells were left untreated. Fluorescence emissions were recorded, analyzed using IonWizard (IonOptix Cooperation) as described earlier [62], and normalized to the start value.\n\nIntracellular Ca2+ measurements using flow cytometry\n\nRAW264.7 MΦs were stained with the Ca2+-sensitive dyes Fluo-3 (Thermo Fisher Scientific; #F-1241) and Fura-Red (Thermo Fisher Scientific; #F-3021) [63] for 20 min at room temperature in Tyrode solution containing Pluronic. Subsequently, cells were washed and transferred into FACS tubes. Mean fluorescence intensities of Fluo-3 and Fura-Red were recorded over time using flow cytometry (FACSCanto II). After a lead-in phase of 2 min, HS ± LPS was added, or cells were left untreated. Samples were measured for an additional 5 min. Finally, Tg (Tocris; #1138) was added, and measurements were continued for 3 min. Recordings were analyzed via the “kinetics” tool of FlowJo (version 10). Fluo-3/Fura-Red ratios were calculated and normalized to the mean of the last three recordings before stimulation.\n\nWhole-cell patch clamp experiments\n\nFor electrophysiological measurements, BMDMs were used, and medium was replaced by an extracellular bathing solution (EC) containing 140 mM NaCl, 5 mM KCl, 2 mM CaCl2, 1 mM MgCl2, 10 mM HEPES, and 10 mM glucose (pH 7.35) and kept at room temperature. The dishes were placed on the stage of an inverted microscope. Patch pipettes were pulled from filamented borosilicate glass capillaries showing resistances of 2–4.5 MΩ when filled with intracellular pipette solution (IC) containing 140 mM K-gluconate, 5 mM NaCl, 2 mM MgCl2, 1 mM CaCl2, 11 mM EGTA, 10 mM HEPES, 2 mM Mg-ATP, and 0.3 mM Na-GTP (pH 7.35). The whole-cell configuration of the patch clamp technique [64] was used to record membrane currents and potential in voltage-clamp or current-clamp mode. Signals were recorded and digitized with an Axopatch 200B amplifier (Axon Instruments, Union City, CA) with a Digidata 1200 converter (Axon Instruments) or an EPC10 amplifier (HEKA Elektronik, Lambrecht/Pfalz, Germany). Analysis was performed using the software pCLAMP 10.2 (Axon Instruments) or PATCHMASTER 2x90 (HEKA).\n\nVoltage steps were applied from a holding potential (−80 mV or −20 mV) from −100 mV to +80 mV in 10-mV increments and held for 200 ms. The voltage step protocol was performed 2 min after attaining the whole-cell configuration; afterward, cells were stimulated with 40 mM NaCl, 10 ng/ml LPS, or 5 mM NiCl2. At 3 min after stimulation, another voltage-clamp protocol was performed.\n\nIn a subset of experiments, a voltage ramp protocol from approximately −80 mV to approximately +80 mV (holding potential −20 mV, duration 4 sec, 40 mV/sec) was applied. Measured currents were normalized to the membrane capacitance. For Vm recordings, the cells were measured over 4 min in current-clamp-zero mode. After 50 sec, cells were stimulated. The first and last 50 sec of this recording were averaged to yield the Vm before and after stimulation.\n\nFor voltages between −40 mV and 30 mV, we fitted a straight line through the Ni-sensitive current data of LPS- and LPS + HS–treated MΦs using the nonlinear regression tool provided by GraphPad PRISM (version 6.0). We used the YIntercept and slope to determine ErevNCX.\n\nAutophagy characterization\n\nWe seeded RFP-GFP-mLC3 RAW264.7 MΦs (obtained from Invivogen; rawdf-mlc3) on coverslips and infected them with MOI 100 of E. coli HB101 ± HS ± 30 min preincubation with SEA0400. At 1 h after infection, cells were washed twice with PBS and incubated in NS or HS media containing 100 μg/ml gentamicin. At 2 h after infection, cells were washed, fixed in 4% paraformaldehyde for 20 min at room temperature, and mounted with ProLong Gold (containing DAPI). A Leica TCS SP5 confocal laser microscope was used for imaging. Images were processed using the Leica Application Suite (version 2.7.3.9723) and Microsoft PowerPoint.\n\nBioinformatic analysis of Slc8a1 isoform expression\n\nRNA of three murine BMDM samples differentiated in vitro for 8 d using M-CSF were isolated with Trizol and the miRNeasy micro kit (Qiagen) according to the manufacturer’s protocol. The quality of the RNA was assessed by visualization of 28S and 18S band integrity on a Tapestation 2200 (Agilent). In all, 100 ng of RNA was converted into cDNA libraries using the TruSeq RNA library preparation kit version 2. Size distribution of cDNA libraries was measured using the Agilent High Sensitivity DNA assay on a Tapestation 2200 (Agilent). cDNA libraries were quantified using KAPA Library Quantification Kits (Kapa Biosystems). After cluster generation on a cBot, 75-bp single-read sequencing was performed on a HiSeq1500.\n\nFor alignment and genome-guided transcriptome assembly, we followed the “new tuxedo” protocol [65]. After base calling and demultiplexing using CASAVA version 1.8.2, the 75-bp single-end reads were aligned to the mouse reference genome mm10 using HISAT2 version 2.0.6 with option–dta and sorted and indexed using Samtools version 0.1.19. Subsequently, transcriptome assembly was performed using StringTie version 1.3.2d, with default parameters for each of the three samples guided by GENCODE vM10 transcriptome annotation. Merging the individual assemblies using the StringTie–merge option produced two novel multiexon transcript variants for Slc8a1, labeled StringTie Assembly version 1 and version 2 (Fig 3B). Transcript abundances were estimated by rerunning StringTie with options -B -e and analyzed using the R package Ballgown [66]. The RNA-seq data were uploaded in the Gene Expression Omnibus (GEO) database (https://www.ncbi.nlm.nih.gov) under accession number GSE136662.\n\nQuantification of nitrite and lactate dehydrogenase activity\n\nGriess assays were used to quantify nitrite levels in the supernatants as described earlier [1,10]. The cell cytotoxicity kit (Roche; #11644793001) was used to measure lactate dehydrogenase (LDH) activities in supernatants and cell pellets. To assess the relative LDH release, the supernatant-to-pellet ratio of LDH activity was calculated.\n\nImmunoblotting\n\nFor analysis of NFAT5 and ACTIN, MΦs were lysed in 8 M urea containing a protease inhibitor cocktail (Roche; #11836170001), and immunoblotting was performed as described earlier [1,10]. For analysis of NCX1, membranes of MΦs were isolated using the Mem-PER Plus Kit (Thermo Fisher Scientific; #89842Y) according to the manufacturer’s instructions, and immunoblotting for NCX1 was performed. Images were acquired on an Intas Chemostar chemoluminescence imager and processed using Adobe Photoshop CS6 and Microsoft PowerPoint. We used ImageJ (version 1.50b; Rasband, W. S., ImageJ, United States National Institutes of Health, https://imagej.nih.gov/ij/) for densitometry of western blots.\n\nRNA isolation, reverse transcriptions, real-time PCR, and relative quantification\n\nRNA isolation and qRT-PCR of cDNA was performed as described previously [10]. We obtained the following probes from Thermo Fisher Scientific for the analyses: Slc8a1 (Mm01232254_m1), Slc8a2 (Mm00455836_m1), Slc8a3 (Mm01309304_m1), Nos2 (Mm00440485_m1), and Hprt (Mm00446968_m1). Relative expression levels were determined using the ΔΔCT method. Hprt served as endogenous control.\n\nStatistical analysis\n\nAll graphs were generated using GraphPad PRISM (version 6.0). Data sets were assessed for normality distribution via Kolomogorov–Smirnov tests. Normally distributed data were compared by unpaired, two-tailed Student t test (for two groups). We compared non-normally distributed data sets using Mann–Whitney tests (for two groups). In case of paired experiments (densitometry), we analyzed the data using paired Student t tests. Unless indicated otherwise, all data are depicted as means ± SD or 95% CI. We considered p-values &lt; 0.05 as statistically significant.\n\nSupporting information"
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0060020",
+  "doi": "10.1371/journal.pbio.0060020",
+  "externalIds": [
+    "pii:07-PLBI-S-4234",
+    "pmid:20076690",
+    "pmcid:PMC2211547"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Novel DNA–Dye Hybrids Sniff out Odors",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2008-01",
+  "dateElectronic": "2008-01-22",
+  "volume": "6",
+  "number": "1",
+  "pages": "e20",
+  "tags": [
+    "Discipline/Biotechnology",
+    "Discipline/Chemistry",
+    "Discipline/Molecular Biology",
+    "Discipline/Neuroscience",
+    "Type/Synopsis"
+  ],
+  "fullText": "Combinatorial diversity is the central feature of DNA. Because each nucleotide position within the molecule can be occupied by any one of four bases, there are 42 possible dinucleotides (“2mers”), 43 possible trinucleotides (“3mers”), and so on; by the time we reach 21 nucleotides, there are over a trillion possible “21mers,” each with a unique sequence. But the order of bases is not the only thing that distinguishes two DNA molecules. Because bases differ chemically, each unique sequence also differs in its exact shape and in the distribution of charges on its surface. Those trillion 21mers represent a trillion different chemical environments.\n\nWhile sequence diversity accounts for the diversity of living things, the chemical diversity of DNA has other potential applications. In a new study, Joel White, John Kauer, and colleagues show that a fluorescent dye, linked to a variety of short DNA molecules and dried onto a solid surface, will respond differently to different odor molecules, depending on the exact DNA sequence to which it is attached. Their results show that such DNA–dye hybrids have the potential to act as sensors in an “artificial nose,” detecting and distinguishing among a range of odors.\n\nThe authors initially used double-stranded DNA, which was linked to a dye that inserts itself between successive rungs on the DNA ladder and dried onto a solid plastic surface. While the dye preferentially responded to one test odor over others, no sequence specificity was observed. Therefore, they tested single-stranded DNA oligomers, 20 to 24 bases long, which was linked to a different dye and again dried onto plastic. They found that one of 30 test sequences increased its fluorescent glow when exposed to either methanol or propionic acid, but not to other odors, including water and triethylamine.\n\nThe first two dyes they tested attached randomly to DNA, making it potentially difficult to study the sensing mechanism. To avoid this, they switched to a dye that was covalently attached to one end of the DNA. They also developed a new sensor screening method that allowed an odor to waft over a large array of different oligomers all on the same substrate; which allowed changes in fluorescence to be detected by standard microarray scanners.\n\nAfter confirming a high degree of replicability among tests of a single sequence with an odor test set, the authors tested 29 different sequences against the same set of odors. Among these sequences, they found ten groups that responded differently to the odor set. That a relatively large proportion of the initial set of sequences showed different responses suggests that the number of different sensors among larger libraries of small DNA molecules is likely to be enormous. 2,4-dinitrotoluene, found in the vapor signature of TNT from landmines, could be detected down to six parts per billion, indicating the potential for practical and life-saving applications of this technology.\n\nOne salient feature of this work is that DNA's utility for this application is entirely independent of the encoding role it plays in a cell—these sequences are never translated into RNA or used to make protein. In theory, some other heteropolymer could create a similar variety of chemical environments to alter the dye's response to odor. But the tools for synthesizing and manipulating DNA are more advanced than those for any other polymer (except perhaps RNA). This study not only highlights DNA's potential as the scaffolding for a novel and powerful odor detection system, but it also highlights its potential to play other novel roles, well outside of its familiar one as the basis of life."
+}

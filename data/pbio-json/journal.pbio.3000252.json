@@ -1,0 +1,244 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000252",
+  "doi": "10.1371/journal.pbio.3000252",
+  "externalIds": [
+    "pii:PBIOLOGY-D-18-01206",
+    "pmid:31112550",
+    "pmcid:PMC6528971"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Rapamycin directly activates lysosomal mucolipin TRP channels independent of mTOR",
+  "authors": [
+    {
+      "name": "Xiaoli Zhang",
+      "first": "Xiaoli",
+      "last": "Zhang",
+      "affiliation": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, Michigan, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-0507-6317"
+      ]
+    },
+    {
+      "name": "Wei Chen",
+      "first": "Wei",
+      "last": "Chen",
+      "affiliation": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, Michigan, United States of America"
+    },
+    {
+      "name": "Qiong Gao",
+      "first": "Qiong",
+      "last": "Gao",
+      "affiliation": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, Michigan, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-5281-7392"
+      ]
+    },
+    {
+      "name": "Junsheng Yang",
+      "first": "Junsheng",
+      "last": "Yang",
+      "affiliation": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, Michigan, United States of America; Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, China",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-6425-8495"
+      ]
+    },
+    {
+      "name": "Xueni Yan",
+      "first": "Xueni",
+      "last": "Yan",
+      "affiliation": "Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, China"
+    },
+    {
+      "name": "Han Zhao",
+      "first": "Han",
+      "last": "Zhao",
+      "affiliation": "Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, China"
+    },
+    {
+      "name": "Lin Su",
+      "first": "Lin",
+      "last": "Su",
+      "affiliation": "Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, China"
+    },
+    {
+      "name": "Meimei Yang",
+      "first": "Meimei",
+      "last": "Yang",
+      "affiliation": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, Michigan, United States of America; Department of Neurology, The Fourth Hospital of Harbin Medical University, Harbin, China"
+    },
+    {
+      "name": "Chenlang Gao",
+      "first": "Chenlang",
+      "last": "Gao",
+      "affiliation": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, Michigan, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1569-9101"
+      ]
+    },
+    {
+      "name": "Yao Yao",
+      "first": "Yao",
+      "last": "Yao",
+      "affiliation": "Department of Integrative and Molecular Physiology and Internal Medicine, Life Sciences Institute, University of Michigan, Ann Arbor, Michigan, United States of America"
+    },
+    {
+      "name": "Ken Inoki",
+      "first": "Ken",
+      "last": "Inoki",
+      "affiliation": "Department of Integrative and Molecular Physiology and Internal Medicine, Life Sciences Institute, University of Michigan, Ann Arbor, Michigan, United States of America"
+    },
+    {
+      "name": "Dan Li",
+      "first": "Dan",
+      "last": "Li",
+      "affiliation": "Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, China"
+    },
+    {
+      "name": "Rong Shao",
+      "first": "Rong",
+      "last": "Shao",
+      "affiliation": "Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, China"
+    },
+    {
+      "name": "Shiyi Wang",
+      "first": "Shiyi",
+      "last": "Wang",
+      "affiliation": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, Michigan, United States of America"
+    },
+    {
+      "name": "Nirakar Sahoo",
+      "first": "Nirakar",
+      "last": "Sahoo",
+      "affiliation": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, Michigan, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-0669-3840"
+      ]
+    },
+    {
+      "name": "Fumitaka Kudo",
+      "first": "Fumitaka",
+      "last": "Kudo",
+      "affiliation": "Department of Chemistry, Tokyo Institute of Technology, Ookayama, Meguro-ku, Tokyo, Japan",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4788-0063"
+      ]
+    },
+    {
+      "name": "Tadashi Eguchi",
+      "first": "Tadashi",
+      "last": "Eguchi",
+      "affiliation": "Department of Chemistry, Tokyo Institute of Technology, Ookayama, Meguro-ku, Tokyo, Japan",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-7830-7104"
+      ]
+    },
+    {
+      "name": "Benfang Ruan",
+      "first": "Benfang",
+      "last": "Ruan",
+      "affiliation": "Collaborative Innovation Center of Yangtze River Delta Region Green Pharmaceuticals, College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou, China",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-9981-8328"
+      ]
+    },
+    {
+      "name": "Haoxing Xu",
+      "first": "Haoxing",
+      "last": "Xu",
+      "affiliation": "Department of Molecular, Cellular, and Developmental Biology, University of Michigan, Ann Arbor, Michigan, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-3561-4654"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2019-05-21",
+  "dateAccepted": "2019-04-18",
+  "dateReceived": "2018-11-12",
+  "volume": "17",
+  "number": "5",
+  "pages": "e3000252",
+  "tags": [
+    "Anatomy",
+    "Animal cells",
+    "Autophagic cell death",
+    "Biochemistry",
+    "Biological tissue",
+    "Biophysics",
+    "Biosynthesis",
+    "Cell biology",
+    "Cell death",
+    "Cell processes",
+    "Cellular structures and organelles",
+    "Cellular types",
+    "Connective tissue",
+    "Connective tissue cells",
+    "DNA-binding proteins",
+    "Discipline-v3/Anatomy",
+    "Discipline-v3/Animal cells",
+    "Discipline-v3/Autophagic cell death",
+    "Discipline-v3/Biochemistry",
+    "Discipline-v3/Biological tissue",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Biophysics",
+    "Discipline-v3/Biosynthesis",
+    "Discipline-v3/Cell biology",
+    "Discipline-v3/Cell death",
+    "Discipline-v3/Cell processes",
+    "Discipline-v3/Cellular structures and organelles",
+    "Discipline-v3/Cellular types",
+    "Discipline-v3/Connective tissue",
+    "Discipline-v3/Connective tissue cells",
+    "Discipline-v3/DNA-binding proteins",
+    "Discipline-v3/Electrophysiology",
+    "Discipline-v3/Fibroblasts",
+    "Discipline-v3/Gene expression",
+    "Discipline-v3/Gene regulation",
+    "Discipline-v3/Genetics",
+    "Discipline-v3/Green fluorescent protein",
+    "Discipline-v3/Ion channels",
+    "Discipline-v3/Luminescent proteins",
+    "Discipline-v3/Lysosomes",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Neurophysiology",
+    "Discipline-v3/Neuroscience",
+    "Discipline-v3/Phosphorylation",
+    "Discipline-v3/Physical sciences",
+    "Discipline-v3/Physics",
+    "Discipline-v3/Physiology",
+    "Discipline-v3/Post-translational modification",
+    "Discipline-v3/Proteins",
+    "Discipline-v3/Regulatory proteins",
+    "Discipline-v3/Transcription factors",
+    "Discipline-v3/Transient receptor potential channels",
+    "Electrophysiology",
+    "Fibroblasts",
+    "Gene expression",
+    "Gene regulation",
+    "Genetics",
+    "Green fluorescent protein",
+    "Ion channels",
+    "Luminescent proteins",
+    "Lysosomes",
+    "Neurophysiology",
+    "Neuroscience",
+    "Phosphorylation",
+    "Physics",
+    "Physiology",
+    "Post-translational modification",
+    "Proteins",
+    "Regulatory proteins",
+    "Transcription factors",
+    "Transient receptor potential channels",
+    "Type/Research Article"
+  ],
+  "abstract": "Rapamycin (Rap) and its derivatives, called rapalogs, are being explored in clinical trials targeting cancer and neurodegeneration. The underlying mechanisms of Rap actions, however, are not well understood. Mechanistic target of rapamycin (mTOR), a lysosome-localized protein kinase that acts as a critical regulator of cellular growth, is believed to mediate most Rap actions. Here, we identified mucolipin 1 (transient receptor potential channel mucolipin 1 [TRPML1], also known as MCOLN1), the principle Ca2+ release channel in the lysosome, as another direct target of Rap. Patch-clamping of isolated lysosomal membranes showed that micromolar concentrations of Rap and some rapalogs activated lysosomal TRPML1 directly and specifically. Pharmacological inhibition or genetic inactivation of mTOR failed to mimic the Rap effect. In vitro binding assays revealed that Rap bound directly to purified TRPML1 proteins with a micromolar affinity. In both healthy and disease human fibroblasts, Rap and rapalogs induced autophagic flux via nuclear translocation of transcription factor EB (TFEB). However, such effects were abolished in TRPML1-deficient cells or by TRPML1 inhibitors. Hence, Rap and rapalogs promote autophagy via a TRPML1-dependent mechanism. Given the demonstrated roles of TRPML1 and TFEB in cellular clearance, we propose that lysosomal TRPML1 may contribute a significant portion to the in vivo neuroprotective and anti-aging effects of Rap via an augmentation of autophagy and lysosomal biogenesis.",
+  "fullText": "Introduction\n\nRapamycin (Rap) is a natural macrocyclic compound that was initially isolated from Streptomyces hygroscopicus as an antifungal agent [1]. Because Rap was shown to have robust immunosuppressive and antiproliferative efficacy [2], Rap derivatives (rapalogs; see S1 Fig) with improved pharmacokinetic properties have been developed in the industry, including temsirolimus (Tem), everolimus (Eve), deforolimus (Defo), zotarolimus (Zota), WYE-592, and ILS-920 [3, 4]. Since 1999, Rap (brand name Sirolimus) and several rapalogs have been approved by the United States Food and Drug Administration for clinical trials testing their ability to target cancer cells and to alleviate metabolic and neurodegenerative diseases [3, 4]. More recently, Rap was also shown to extend life span across diverse organisms ranging from flies to mammals [4, 5]. Hence, elucidating the molecular mechanisms of Rap bioactivities is of great value for both basic and clinical research.\n\nThe first identified target protein of Rap was discovered in yeast and named target of rapamycin (TOR) [6, 7]. TOR, now renamed mechanistic target of rapamycin (mTOR), is a serine and/or threonine kinase that is highly conserved in eukaryotes [6, 7]. Although multiple cellular locations have been reported, there is now a consensus that mTOR is localized predominantly on the membranes of lysosomes under nutrient-rich conditions [8]. In response to environmental changes, such as nutrient availability, mTOR kinase activity is switched on and off through the formation of alternate protein complexes—mTOR complex 1 (mTORC1) and mTORC2—and through association with and dissociation from lysosomal membranes. Known mTOR substrates include, but are not limited to, UNC-5–like autophagy activating kinase (ULK1; also known as autophagy-related protein 1 homolog), p70 ribosomal protein S6 kinase (S6K), 4E binding protein 1 (4E-BP1), and transcription factor EB (TFEB) [9]. Rap acts as a high-affinity (nM range) allosteric inhibitor of mTORC1 (hereafter referred to as mTOR) that blocks mTOR substrate recruitment by binding to the FK506 binding protein (FKBP) and the rapamycin binding (FRB) domain of mTOR, forming a ternary FKBP12-Rap-mTOR complex [3, 4].\n\nBoth the anticancer and immunosuppressive effects of Rap are likely due to its inhibition of cell proliferation via mTOR, which integrates a number of signaling pathways in the cell and has thus emerged as a major regulator of cellular proliferation and growth [7]. However, mTOR inhibition also induces autophagy, a lysosome-dependent cellular survival mechanism that supplies recycled nutrients by degrading obsolete cellular components [10]. Defective autophagy may hasten aging and enable the pathogenesis of numerous diseases, including cancer and neurodegenerative diseases [4]. Hence, autophagy induction caused by mTOR inhibition may also explain many of the reported effects of Rap, especially neuroprotection and anti-aging effects [2, 11].\n\nThe basic autophagic process consists of autophagosome formation, autophagosome–lysosome fusion, and lysosomal degradation [12]. Nutrient insufficiency is a potent inducer of autophagy, in which the loss of nutrients (e.g., amino acids) causes mTOR inhibition. Subsequently, dephosphorylation of ULK1, a major mTOR target, primes phagophore initiation [12]. Rap can mimic the effect of starvation on ULK1-mediated autophagy induction [12]. Although all rapalogs inhibit mTOR potently, their clinical efficacies vary [13]. Rapalogs with relatively low mTOR binding affinities (e.g., WYE-592 and ILS-920) exhibit neuroprotective effects at least as potent as that of their counterparts with higher mTOR binding affinities [3]. Furthermore, although mTOR is inhibited much more potently by its catalytic inhibitors (e.g. Torin-1), in vivo beneficial effects have not been observed for these potent inhibitors [14]. Hence, Rap may have other targets besides mTOR in the autophagy pathway.\n\nSustained autophagy requires lysosome activation, reformation, and biogenesis [12, 15, 16]. Under conditions when lysosome function is compromised, such as in neurodegenerative diseases and lysosome storage diseases (LSDs), it is unlikely that an increase in autophagosome formation alone could produce beneficial effects related to cellular clearance. Nutrient starvation, a physiological inducer of autophagy, promotes both autophagosome formation and lysosome biogenesis. Upon starvation-induced mTOR inhibition, TFEB, a key regulator of autophagy and lysosome biogenesis [17], undergoes rapid activation via dephosphorylation and cytosol-to-nucleus translocation [17–20]. Starvation may also activate mucolipin 1 (MCOLN1; also known as transient receptor potential channel mucolipin 1 [TRPML1]), a lysosomal Ca2+ channel required for TFEB activation via the Ca2+-dependent phosphatase calcineurin [21, 22]. Activation of TFEB, in turn, up-regulates TRPML1 expression [23]. Therefore, TRPML1 and TFEB may constitute a positive-feedback loop that boosts lysosomal biogenesis and autophagy under lysosomal stress conditions. Indeed, up-regulation of either TFEB or TRPML1 has been reported to benefit several LSDs, including Pompe disease and Niemann-Pick type C (NPC) disease, as well as common neurodegenerative diseases, including Alzheimer disease [15, 17, 24, 25].\n\nIn the present study, we found that the TRPML1-TFEB-autophagy pathway is directly activated by Rap and some rapalogs. Employing biomolecular interaction assays and whole-endolysosome electrophysiology, we demonstrated that Rap bound directly to TRPML1 and specifically activated TRPML1 independent of mTOR.\n\nResults\n\nDirect activation of lysosomal TRPML1 channels by Rap\n\nGiven TRPML1’s proposed roles in lysosomal membrane trafficking and cellular clearance [24], we used Ca2+ imaging and electrophysiological assays to screen for potential TRPML1 modulators from a list of natural products that are known to affect lysosome function or autophagy. Whole-endolysosome recordings were performed in vacuoles that had been enlarged with vacuolin-1 and isolated manually from enhanced green fluorescent protein (EGFP)-TRPML1–transfected CV-1 in Origin Simian-1 (COS1) cells [26] (Fig 1A). We found that Rap induced robust activation of whole-endolysosomal TRPML1 current (ITRPML1; Fig 1B and 1C). The activation had a half-maximal effective concentration of 12.8 ± 1.0 μM (n = 4 patches; Fig 1C and 1D), demonstrating potency less than that of the endogenous agonist phosphatidylinositol 3,5-bisphosphate (PI(3,5)P2) but comparable to that of the TRPML1 synthetic agonist 1 (ML-SA1) [25]. Like the currents evoked by the known agonists, Rap-evoked ITRPML1 was inhibited by TRPML1 synthetic inhibitors (ML-SIs), e.g., ML-SI3 [22] (also see Fig 1E). On the other hand, Rap failed to affect the constitutively active mutant TRPML1 channels (TRPML1Va; Fig 1F). Furthermore, endogenous ITRPML1 was activated by Rap in wild-type (WT) but not in TRPML1 knockout (KO) parietal cells (Fig 1G and 1H). In contrast, whole-endolysosome ITRPML3 and ITPC2 (two-pore channel 2) were not affected by Rap (Fig 1J–1L); mild but significant activation was observed in TRPML2-expressing cells (Fig 1I and 1L). Rap also had synergistic effects on ITRPML1 with PI(3,5)P2, the endogenous agonist of TRPML1 [27] (S1E Fig). These results suggest that Rap is a specific and robust activator of TRPML1.\n\nTRPML1 activation by Rap and rapalogs is independent of mTOR\n\nLysosome-localized mTOR is a well-established target of Rap [13], and mTOR inhibition reportedly modulates the lysosomal TPC Na+ channel [28] and TRPML1 [29] activities. However, we found that Rap (or ML-SA1) activation of ITRPML1 occurred in the presence or absence of ATP magnesium salt (Mg-ATP) in the cytoplasmic (bath) solution (Figs 1C, S2A–S2C), arguing against the involvement of mTOR. As a positive control, whole-endolysosome ITPC2 was confirmed to be sensitive to Mg-ATP (S2F Fig). We further examined whether other mTOR inhibitors, including Torin-1, a potent catalytic mTOR inhibitor that is structurally different from Rap (S1 Fig) [30], could activate ITRPML1. No noticeable activation was seen with various concentrations of Torin-1 (10 μM; see Fig 2A and 2D), which abolished mTOR activity completely in biochemical assays with an S6K phosphorylation readout (Fig 2E). These differential effects of Rap and Torin-1 suggest that Rap-induced TRPML1 activation is distinct from its inhibitory effect on mTOR.\n\nThe TRPML1 activation effects of several commercially available mTOR-inhibiting rapalogs (S1 Fig) were found to differ drastically (Fig 2E). Whereas Tem and Eve activated ITRPML1 readily, albeit with slightly lower potencies than Rap (Figs 2B, 2D and S1A), activation was not seen with Defo or Zota (Figs 2C, 2D and S1B). Furthermore, Seco-Rap, an open-ring metabolite of Rap, failed to activate ITRPML1 (Figs 2C, 2D and S1C). This dissociation of TRPML1 activation from mTOR suggests that Rap and rapalogs activate TRPML1 independent of mTOR inhibition.\n\nmTOR kinase activity is not required for Rap activation of TRPML1\n\nTo further rule out mTOR involvement in Rap activation, we adopted a genetic approach to abolish mTOR catalytic activity through the overexpression of a kinase-dead dominant-negative mutation (D2357E) of mTOR [31]. Consistent with previous reports [28, 32], Mg-ATP–induced ITPC2 suppression was largely abrogated in COS1 cells overexpressing mTORD2357E compared with cells transfected with WT mTOR (S2G Fig). In contrast, mTORD2357E overexpression did not alter Rap-induced ITRPML1 (Fig 2F and 2G). The robust stimulatory effect of Rap on ITRPML1 was retained in cells overexpressing either a Rap-insensitive (S2035T) or a hyperactive (L1460P) mTOR mutant [33] (S2D and S2E Fig). Furthermore, Rap also robustly activated ITRPML1 in mTOR constitutively active (tuberous sclerosis complex 2 gene knockout [TSC2 KO]) mouse embryonic fibroblasts (MEFs; Fig 2H and S2H Fig), as well as in mTOR-deficient Ras-related GTP-binding protein A and B gene double KO (Rag A/B KO) MEFs (Fig 2I and S2I Fig) and p18/LAMTOR1 (late endosomal/lysosomal adaptor, MAPK and mTOR activator 1) gene KO human embryonic kidney 293 (HEK293) cells (Fig 2J and S2J Fig). Hence, Rap activates TRPML1 independent of mTOR activity.\n\nWe also generated mutations at mouse TRPML1 serine (Ser) 571 and Ser 576, residues corresponding to the mTOR-mediated phosphorylation sites (Ser 572 and Ser 576) in the human homolog [34]. Both nonphosphorylatable mutants (S571A/S576A) and phosphorylation-mimicking mutants (S571D/S576D) of TRPML1 were activated readily by Rap or ML-SA1 (S2L Fig), further supporting the notion that Rap activation of TRPML1 is independent of mTOR kinase activity.\n\nRap binds directly to TRPML1\n\nWe next performed biomolecular interaction analyses [3] to investigate the direct interaction between Rap and TRPML1. Unlike Rap, FK506 (Tacrolimus, a Rap analog) failed to activate TRPML1 channels (Fig 3A) and was thus used as a negative control. Immobilized FKBP12 on biosensor chips was used as a positive control [3]. Consistent with previous studies [3], sensorgrams displayed high-affinity binding (nM range KD) of Rap and FK506 with FKBP12 (S3C and S3D Fig). EGFP-TRPML1 proteins were immuno-purified with anti–green fluorescent protein (GFP) antibody (S3A Fig, inset) and immobilized on the protein A (Pro-A) sensor. Compared with the FK506 controls, TRPML1 proteins showed significant Rap binding with an estimated KD = 20.9 ± 1.8 μM (n = 6 independent experiments; Fig 3B and 3E and 3F). Consistent with the electrophysiological analyses (Fig 2A–2C), Tem, but not Zota, also exhibited specific binding responses to TRPML1 (Fig 3C and 3D and 3F). Together, these in vitro interaction assay results suggest direct, specific bindings of Rap and rapalogs to TRPML1. The estimated in vitro binding affinity was roughly consistent with our electrophysiological results (see Fig 1C and 1D).\n\nRap and/or Tem induces Ca2+-dependent TFEB nuclear translocation in TRPML1-overexpressing HeLa cells\n\nRecently, we showed that TRPML1 activation by ML-SAs and reactive oxygen species is sufficient to activate TFEB (via nuclear translocation) and enhance autophagy in a Ca2+-dependent but mTOR-independent manner [22]. On Henrietta Lacks (HeLa) cells stably expressing TFEB-GFP (TFEB stable cells), we found that low micromolar concentrations of Rap failed to induce TFEB nuclear translocation (Fig 4A and 4B). In TFEB stable cells overexpressing monomeric red fluorescent protein (mCherry)-TRPML1, however, Rap (5 μM) induced rapid, dramatic TFEB nuclear translocation (Fig 4A and 4B). Consistent with our electrophysiology data, TRPML1-activating rapalogs, such as Tem (5 μM) and Eve (5 μM), caused TFEB nuclear translocation, whereas nonactivating rapalogs did not (Fig 4A and 4B and S4A Fig). Endogenous TFEB was also activated by Rap or Tem, but not Zota, in TRPML1-overexpressing HeLa cells (S4C Fig). Note that Tem, a synthetic Rap ester [35], was more effective than Rap in TFEB nuclear translocation (S5B–S5E Fig), suggesting that certain chemical properties of Tem might have made it more suitable for cell-based assays. Tem-induced TFEB activation was abolished by coapplication of ML-SI3 (Fig 4C and 4D). Consistently, Tem failed to induce TFEB nuclear translocation in cells transfected with TRPML1DD/KK (a channel-dead pore mutant; S4D and S4E Fig), whereas overexpression of a constitutively active mutant of TRPML1 (TRPML1Va) led to nuclear accumulation of TFEB (S4D and S4E Fig) in the absence of Tem. Hence, Rap and Tem activated TFEB in cells with relatively high expression levels of TRPML1. Finally, in agreement with our electrophysiology analyses (Fig 1I and 1J), Tem evoked TFEB nuclear translocation in TRPML2-transfected cells but not in TRPML3-transfected cells (Fig 4F and 4G).\n\nBecause TRPML1 is the major lysosomal Ca2+-release channel, we investigated whether Rap- and/or Tem-induced TFEB activation was Ca2+ dependent. Application of 1,2-Bis(2-aminophenoxy)ethane-N,N,N’,N’-tetraacetic acid tetrakis (acetoxymethyl ester) (BAPTA-AM), a membrane-permeable form of Ca2+ chelator, blocked Tem-induced TFEB activation (Fig 4E and S4B Fig). Consistently, Tem readily increased cytosolic Ca2+ levels in HEK293 cells that were stably expressing genetically encoded GFP- and calmodulin-based Ca2+ probe 7 (GCaMP7)-TRPML1 (S4G Fig), and the increases were blocked by ML-SI3 (S4G Fig). Tem also significantly increased cytosolic Ca2+ levels in TRPML2-transfected HEK293 cells (S4H Fig). Hence, consistent with the electrophysiological analyses (Fig 1I and 1J) and TFEB nuclear translocation assays (Fig 4F and 4G), Rap and/or Tem activates TRPML1 and TRPML2 but not TRPML3. Collectively, these results suggest that Rap and/or Tem activates TFEB via a TRPML1/2- and Ca2+-dependent mechanism.\n\nRap and Tem activate TFEB through TRPML1 in human fibroblasts\n\nAlthough several cell lines, such as HEK293 and HeLa cells, appeared to be “Rap-insensitive,” i.e., they lack Rap- and/or Tem-induced TFEB activation (S4I Fig), in multiple lines of WT human fibroblasts, 1 to 10 μM of Tem or 10 to 20 μM Rap robustly and quickly (within 1 h) activated TFEB (Fig 5A–5C and S5A–S5E Fig). The effects of Rap and Tem on TFEB nuclear translocation were abolished in Mucolipidosis IV (ML1−/−) human fibroblasts or by ML-SI3 (Fig 5A–5D and S5E Fig). In contrast, Torin-1–induced TFEB activation was unaffected (Fig 5A). Hence, Rap and Tem activated TFEB via TRPML1 in human fibroblasts. It is possible that the Rap-TRPML1-TFEB pathway was “sensitized” in human fibroblasts compared with other cell lines such as HEK cells. Notably, Tem (10 μM, 6 h) also induced dramatic TFEB nuclear translocation in multiple disease fibroblasts, including NPC fibroblasts, Huntington disease (HD) fibroblasts, and immortalized Duchenne Muscular Dystrophy (DMD) myoblasts (Fig 5D and 5E).\n\nCalcineurin inhibitors, FK506 (5 μM) and cyclosporine (CsA, 10 μM) [21], reduced Tem-induced TFEB nuclear translocation (S5D and S5E Fig), suggesting that calcineurin may be the lysosomal Ca2+ sensor that mediates Rap activation of TFEB. TFEB nuclear translocation is determined by its phosphorylation status [18, 19]. TFEB phosphorylation at Ser 142 and Ser 211 was reduced by Rap and/or Tem in WT human fibroblasts, and the reduction was prevented by ML-SI3, ML1−/− (S7A, S7B, S7D and S7E Fig), or by coapplication of FK506 and CsA (S7F and S7G Fig). Hence, the TRPML1-Ca2+-calcineurin pathway plays an essential role in Rap- and/or Tem-induced TFEB activation.\n\nRap and Tem activate TFEB through TRPML1 to boost lysosomal functions\n\nWe next investigated the transcriptional activity of TFEB in TRPML1 stable HEK293 cells using a 4X-CLEAR luciferase reporter [36]. Tem (10 μM, 16 h) treatment increased 4X-CLEAR luciferase activity by approximately 50%, and the increase was suppressed by ML-SI3 (Fig 5G). Consistently, quantitative real-time polymerase chain reaction (RT-qPCR) analyses revealed that Tem (10 μM, 16 h) readily increased mRNA expression levels of TFEB target genes, including those related to lysosome biogenesis, e.g., TRPML1, cathepsin D (CTSD), and LAMP1, in a TRPML1-dependent manner (Fig 5F). Furthermore, both Rap (20 μM, 6 h) and Tem (10 μM, 6 h) treatment significantly increased the fluorescent intensities of both LysoTracker (an assay of lysosome acidification) and Magic Red (an assay of cathepsin B activity) in WT but not in ML1-/- cells (S5F and S5G Fig). Taken together, these results suggest that Rap and Tem activation of TRPML1 may enhance lysosomal functions, e.g., by activating TFEB.\n\nRap and Tem increase autophagic flux in a TRPML1-dependent manner\n\nIn HEK293 cells, Tem (10 μM) induced clear TFEB nuclear translocation, but only when TRPML1 was overexpressed (Fig 6A). Hence, HEK293 cells are “Rap-insensitive” cells, in which the Rap-TRPML1-TFEB pathway can be sensitized with TRPML1 overexpression. Consistently, a dramatic increase in microtubule-associated proteins 1A/1B light chain 3B (LC3)-II protein levels was induced by Tem (10 μM, 9 h) in TRPML1 stable HEK293 cells upon doxycycline (Dox) induction; only mild effects were seen in noninduced cells (Fig 6B–6E).\n\nIn WT human fibroblasts in which the Rap-TRPML1-TFEB pathway is sensitized, Tem robustly increased LC3-II protein levels (Fig 6F and 6G, S6C and S6H and S6J Fig). Blocking lysosome function using the vacuolar H+-ATPase (V-ATPase) inhibitor, Bafilomycin A1 (Baf-A1), further increased LC3-II levels (Fig 6F and S6D Fig). In contrast, the Tem effects on LC3-II were abolished in ML1-/- cells or by ML-SI3 or calcineurin inhibitors (Fig 6B–6G and S6C, S6H, S6J and S7F Figs). Tem also markedly increased LC3-II levels in cancer cell lines (S6E Fig). Likewise, potent ML-SA compounds had a similar effect (S6A Fig).\n\nLikewise, Tem (10 μM, 2 h) significantly increased GFP-positive and red fluorescent protein (RFP)-positive (GFP+RFP+) puncta (autophagosome) in GFP-RFP-LC3 stable HeLa cells overexpressed with Cyan Fluorescent Protein (CFP)-TRPML1 (S6F and S6G Fig), which was largely diminished in the presence of ML-SI3 (S6F and S6G Fig). Sequestosome-1 (SQSTM1/p62) is another indicator of autophagic flux [38]. Whereas short-term (3–6 h) treatment of Tem slightly reduced p62 levels, longer (e.g., 9–16 h) treatment indeed increased p62 protein levels in WT but not in ML1-/- or ML-SI3–pretreated WT cells (S6H–S6J Fig). The mRNA expression levels of p62 were significantly increased by Tem, and the increases were blocked by ML-SI3 (S6K Fig). Therefore, Tem may regulate both fast protein degradation and slow gene expression of p62. Collectively, these results suggest that Tem activation of TRPML1 facilitates both autophagic flux and autophagosome biogenesis.\n\nBoth targets of Rap, mTOR and TRPML1, are known to converge on TFEB phosphorylation and dephosphorylation [21, 22]. To segregate these two effects, we investigated the effect of Rap activation of TRPML1 on mTOR using other mTOR substrates, such as S6K and ULK1 [9], as the readout. For instance, mTOR-mediated phosphorylation at Ser 758 inactivates the ULK1 complex to impede autophagy initiation [39]. TRPML1 inhibitors did not affect the inhibitory effects of Tem on p-S6K and p-ULK1 levels (S6C and S7A–S7C Figs). In addition, Tem effects on LC3-II levels were also preserved in 5' adenosine monophosphate-activated protein kinase (AMPK) α1/α2 double KO MEFs (S6B Fig). Taken together, these results suggest that Rap and Tem increase autophagic flux mainly through TRPML1 activation instead of mTOR inhibition or AMPK activation, two well-known signaling pathways that mediate autophagy [12].\n\nDiscussion\n\nRap and rapalog actions have been presumed to be mediated by inhibition of mTOR [4]. For instance, the neuroprotection and anti-aging effects of Rap have been attributed to its effects on autophagy induction [5]. Rap induction of autophagy has thus far been attributed to mTOR-mediated inhibition of ULK1 [4]. When mTOR is active, autophagy is inhibited by phosphorylation of the autophagy regulatory complex containing ULK1 [7]. However, autophagy induction alone is unlikely to increase autophagic flux given the severely compromised state of lysosome functions in many neurodegenerative diseases and aging [17]. Indeed, when lysosomes are dysfunctional, such as in various LSDs and neurodegenerative diseases, increased autophagic induction may further burden diseased cells, worsening pathological symptoms [17].\n\nThe current study challenges the popular presumption that mTOR is the sole Rap target in the lysosome by demonstrating that the lysosomal Ca2+-permeable channel TRPML1 is also a target of Rap and/or rapalogs. Rap was shown to activate TRPML1 via direct binding, independent of its actions on mTOR. Unlike Rap-FKBP12 binding that displays a nanomolar affinity, the Rap-TRPML1 interaction has a much lower binding affinity. However, although nM concentrations of Rap and rapalogs robustly block the S6K phosphorylation, complete inhibition of 4E-BP requires much higher concentrations in normal cells (&gt;500 nM) and certain cancer cells (&gt;20 μM) [40]. Furthermore, the anti-neurodegeneration and anti-aging effects of Rap and/or rapalogs generally require higher doses of Rap, e.g., 5 to 20 μM via intraperitoneal injection [11]. Hence, in such in vivo studies, it is possible that the Rap-TRPML1 interaction in the micromolar range may induce lysosomal Ca2+ release and TFEB activation, especially in the cells with higher levels of TRPML1 expression and endogenous agonists (e.g., PI(3,5)P2 and reactive oxygen species [ROS]) [22]. TFEB nuclear translocation then induces the expression of a unique set of genes involved in autophagosome and lysosome biogenesis [15], enhancing autophagic cellular clearance [15, 17, 24, 25] (Fig 7). Our study reveals a TRPML1-dependent mechanism that links Rap to autophagy via a transcriptional mechanism (Fig 7). The TFEB-dependent mechanism may boost lysosome function in addition to autophagy induction. Hence, unlike the Rap-mTOR-ULK1 pathway, the Rap-TRPML1-TFEB pathway may boost both autophagosome and lysosome biogenesis, increasing autophagic flux and cellular clearance. The effect of Rap on TFEB and autophagy is most obvious in the “sensitized” cells, e.g., WT and disease human fibroblasts. In the “nonsensitized” cells, such as HEK293 and HeLa cells, TRPML1 overexpression readily imparts the “sensitivity” (Fig 7). Although the mechanisms underlying differential Rap sensitivity in various cells remain to be elucidated, the TRPML1-TFEB pathway may play a more dominant role in the neuroprotective and anti-aging effects of Rap than the mTOR-ULK1 pathway under stressed conditions, such as nutrient deprivation or LSD, in which TRPML1 expression is elevated [23, 25], and the levels of endogenous agonists, e.g., ROS, are increased [22].\n\nRecent studies have suggested the existence of crosstalk mechanisms among autophagy processes, mTOR, TFEB, and lysosomal Ca2+ [21, 41]. As both mTOR and our newly identified Rap-TRPML1-Ca2+-calcineurin pathways converge on TFEB phosphorylation or dephosphorylation, it may prove difficult to separate these 2 effects, e.g., whether the Rap-mTOR pathway could be “sensitized” by the TRPML1-Ca2+-calcineurin pathway. However, it has been demonstrated that TRPML1 activation and lysosomal Ca2+ release indeed increased rather than decreased mTOR activity [21, 41–43]. In addition, Rap-mediated inhibition of mTOR, assayed by other substrates—e.g., S6K and ULK1—is not affected by ML1 KO or inhibition. Furthermore, previous studies have revealed that both overexpression of constitutively active TRPML1 and pharmacological activation of TRPML1 are sufficient to induce TFEB activation without causing any inhibition of mTOR [21, 22, 41]. Therefore, the simplest interpretation to the collective results is that Rap activates the TRPML1-TFEB pathway independent of mTOR.\n\nBecause mTOR KO may be lethal, to dissect out the contribution of TRPML1 to the in vivo actions of Rap, it might be necessary to perform neuroprotection or anti-aging studies in TRPML1 KO and overexpressing transgenic mice [22]. Meanwhile, it might prove helpful to compare the in vivo efficacies of TRPML1-activating versus -nonactivating rapalogs. The hydroxyl group(s) at C40, found in Rap, Tem, and Eve, are missing in TRPML1-nonactivating rapalogs (S1 Fig). Studying the rapalog-TRPML1 interaction may provide clues into how to develop new rapalogs to activate endolysosomal Ca2+-permeable TRPML channels specifically. Although Rap’s TRPML1 activation mechanism is unclear, the availability of TRPML1 and TRPML3 cryo-electron microscopy (cryo-EM) structures [44, 45] may help to identify Rap-TRPML1 interaction motif and/or site(s). The ML-SA1 binding pocket of TRPML1 is formed by the protein’s pore helix 1, transmembrane S5, and transmembrane S6 [44, 45]. It remains to be determined whether Rap also binds to this same region. Nevertheless, biochemically, the present identification of TRPML1 as an additional Rap target, independent of mTOR, may lead to a better mechanistic understanding of Rap effects on cellular clearance.\n\nMaterials and methods\n\nMolecular biology\n\nWT mTOR construct (plasmid #26603) was purchased from Addgene (Massachusetts, USA). Additional mTOR and TRPML1 mutants were generated with a quick-change lightning site-directed mutagenesis kit (Qiagen, Maryland, USA) according to the manufacturer’s instructions. All constructs were confirmed by DNA sequencing and western blotting.\n\nMammalian cell culture\n\nTFEB-GFP stable cell line was kindly provided by Shawn M. Ferguson [19]. RagA/B KO, TSC2 KO, and their WT control MEF cells were generous gifts from Drs. Kunliang Guan [46] and David Kwiatkowski [47], respectively. p18/LAMTOR1 CRISPR KO cells were generated in HEK293 cells using the CRISPR/Cas9 system. The 20-nucleotide guide sequence (5ʹ- CTGCTACAGCAGCGAGAACG) targeting human p18 gene was designed using the CRISPR design tool (http://crispr.mit.edu/). The single guide RNAs (sgRNA) encoding target nucleotides were cloned into a bicistronic expression vector, LentiCRISPR version 2 (a gift from Dr. Feng Zhang; Addgene plasmid #52961, Massachusetts, USA) [48]. HEK293 cells were then transfected with sgRNA-LentiCRISPR version 2 using lipofectamine 2000 (Thermo Fisher Scientific, New York, USA) and selected with 3 μg/ml puromycin for 24 h. After single-cell clones were established, their genomic DNAs were sequenced to confirm the intended genetic disruptions. The following human fibroblasts were obtained from Coriell Institute (New Jersey, USA): WT (GM08399 and GM00969), ML1-/- (GM02048), NPC (GM18453), and HD (GM04281).\n\nUnless otherwise indicated, all cell cultures were maintained in Dulbecco's modified Eagle medium supplemented with 10% fetal bovine serum (sometimes tetracycline-free) at 37°C in a humidified 5% CO2 incubator. Cells usually were split 1 d before the experiments and reached 50% to 70% confluency at the experiment day. Cells were transfected with 1 to 4 μg plasmids using lipofectamine 2000 (Thermo Fisher Scientific, New York, USA). Culture media were refreshed 4 to 6 h post transfection, and cells were subject to imaging or electrophysiology 36 to 48 h after transfection. To induce TRPML1 or GCaMP7-TRPML1 expression in TRPML1 stable cell lines (TRPML1 HEK Tet-On), 1 μg/ml of Dox was added to the culture medium for overnight.\n\nConfocal imaging\n\nFor TFEB immunofluorescence detection, cells grown on glass coverslips were fixed with 4% paraformaldehyde and permeabilized with 0.3% Triton X-100. They were blocked with 1% bovine serum albumin in phosphate buffered saline (PBS). Endogenous TFEB was detected with anti-TFEB primary antibody (1:200; Cell Signaling Technology, Massachusetts, USA) and antirabbit secondary antibodies conjugated to Alexa Fluor 488 (Thermo Fisher Scientific, New York, USA). Coverslips were mounted on slides with Fluoromount-G (Southern Biotech, Alabama, USA), and images were acquired with an Olympus Spinning-Disk confocal microscope.\n\nRNA extraction and RT-qPCR\n\nTotal RNA was extracted and purified from the cultured human fibroblasts using E.Z.N.A. HP total RNA kit (Omega Bio-tek, Georgia, USA). The cDNA was then synthesized using a Superscript III RT kit (Thermo Fisher Scientific, New York, USA). PCR mixture was prepared with PowerUp SYBR green 2X master mix (Thermo Fisher Scientific, New York, USA) using the following primers [21]: GAPDH, forward (fw): 5ʹ-tgcaccaccaactgcttagc-3ʹ, reverse (rev): 5ʹ-ggcatggactgtggtcatgag-3ʹ; TRPML1, fw: 5ʹ-gagtgggtgcgacaagtttc-3ʹ, rev: 5ʹ-tgttctcttcccggaatgtc-3ʹ; CTSD, fw: 5ʹ-cttcgacaacctgatgcagc-3ʹ, rev: 5ʹ-tacttggagtctgtgccacc-3ʹ; LAMP1, fw: 5ʹ-acgttacagcgtccagctcat-3ʹ, rev: 5ʹ-tctttggagctcgcattgg-3ʹ; and p62/SQSTM1, fw: 5ʹ-gcactaccgcgatgaggac-3ʹ, rev: 5ʹ-gcacttgtagcgggttccta-3ʹ. Real time qPCR was performed with ABI StepOnePlus Real-Time PCR System.\n\nWestern blotting\n\nCells were lysed with ice-cold RIPA buffer (Boston BioProducts, Massachusetts, USA) in the presence of 1× protease inhibitor cocktail (Sigma, Missouri, USA) and phosphatase inhibitor cocktail 2 (Sigma, Missouri, USA), NaF (1 mM), and Na3VO4 (1 mM). Protein samples (10–100 μg) were then loaded and separated on 4% to 12% gradient sodium dodecyl sulfate (SDS)-polyacrylamide electrophoresis gels (Thermo Fisher Scientific, New York, USA) and transferred to polyvinylidene difluoride membranes. The membranes were blocked with 1% bovine serum albumin or 5% milk in PBS supplemented with 0.1% Tween20 for 1 h and then incubated with primary antibodies against S6K (1:1,000; Cell Signaling Technology, Massachusetts, USA), p-S6K (1:1,000; Cell Signaling Technology, Massachusetts, USA), GAPDH (1:5,000; Millipore, Massachusetts, USA), LC3 (1:1,000; Sigma, Missouri, USA), TFEB (1:1,000, Millipore, Massachusetts, USA), pS211-TFEB (1:500; Cell Signaling Technology, Massachusetts, USA), pS142-TFEB (1:1,000; Cell Signaling Technology, Massachusetts, USA), ULK1 (1:1,000; Cell Signaling Technology, Massachusetts, USA), and pS757-ULK1 (equivalent to human S758, 1:1,000; Cell Signaling Technology, Massachusetts, USA). Bound antibodies were detected with horseradish peroxidase-conjugated antirabbit or antimouse secondary antibodies (1:5,000) and enhanced chemiluminescence reagents (Thermo Fisher Scientific, New York, USA). The total S6K, ULK1, and TFEB were reblotted in the same membranes after stripping using a stripping buffer (Thermo Fisher Scientific, New York, USA) for 10 to 30 min. Protein levels were quantified with ImageJ (NIH) software. The LC3-II/GAPDH, p-ULK1/ULK1, and p-TFEB/TFEB ratios were further normalized to DMSO control of WT cells.\n\nCa2+ imaging\n\nGCaMP imaging was performed in HEK293 cells stably expressing GCaMP7-TRPML1, a lysosome-targeted genetically encoded Ca2+ sensor [25] or HEK293 cells overexpressing GCaMP3-TRPML1DD/KK and mCherry-TRPML2. Fluorescence intensity at 488 nm was recorded with an EasyRatioPro system (Photon Technology International, Inc. New Jersey, USA).\n\nImmunopurification of EGFP-TRPML1\n\nNontransfected and EGFP-TRPML1–expressing HEK293 cells were lysed in an immunoprecipitation buffer that contained 50 mM Tris-HCl, 150 mM NaCl, 1% NP-40, 2 mM CaCl2 (pH 7.5), and 1× protease inhibitor mix. Lysates were centrifuged at 14,000g for 10 min, and supernatants were incubated with an anti-GFP antibody (GenScript, Jiangsu, China; 1 μg per 1 × 107 cells) at 4°C for 1 h. Pro-A/protein G plus-agarose (Santa Cruz, Shanghai, China) was then added (10 μl per μg of antibody), and the mix was incubated at 4°C overnight with gentle shaking. Agarose beads were washed with the immunoprecipitation buffer 4 times, then used in Rap binding assays.\n\nBiomolecular interaction assay\n\nFKBP12, a high-affinity Rap-binding protein, was used as an internal control [3]. Hexahistidine (his6)-tagged FKBP12 was purified and biotinylated and then immobilized on the streptavidin (SA) biosensors for 10 min [3]. Similarly, recombination TRPML1 (approximately 100 μg/ml) and HEK293 cell lysates (approximately 100 μg/ml) were immunopurified and were immobilized onto Pro-A biosensors. The compound-protein binding was determined by sequentially immersing individual biosensors into Rap- and/or rapalog-PBST buffer (containing PBS, 0.05% Tween 20, and 0.02% BSA) for 100 s at each concentration (1.6, 3.1, 6.3, 12.5, 25, 50, 100, and 200 μM). The compound-protein interaction was recorded and analyzed by Octet Bio-Layer Interferometry Systems (ForteBio, Shanghai, China).\n\nWhole-endolysosome electrophysiology\n\nExperiments were performed in mechanically isolated endolysosomes as described previously [22, 26, 27]. In brief, cells were treated with 1 μM vacuolin-1 overnight to increase the size of late endosomes and lysosomes selectively [49], and TRPML2 and TRPML3 were recorded from vacuoles enlarged with 300 nM vicenistatin overnight [50]. Unless otherwise indicated, vacuoles were bathed continuously in an internal (cytoplasmic) solution containing 140 mM K+-gluconate, 4 mM NaCl, 1 mM EGTA, 2 mM MgCl2, 0.39 mM CaCl2, and 20 mM HEPES (pH adjusted with KOH to 7.2; free [Ca 2+]i approximately equal to 100 nM). The pipette (luminal) solution contained 145 mM NaCl, 5 mM KCl, 2 mM CaCl2, 1 mM MgCl2, 10 mM glucose, 10 mM HEPES, and 10 mM MES (pH adjusted to 4.6 or 7.4 with NaOH). The whole-endolysosome configuration was achieved as described previously [26]. After formation of a giga-seal between the patch pipette and an enlarged endolysosome, voltage steps of several hundred millivolts with a millisecond duration were applied to break into the vacuolar membrane [26]. All bath solutions were applied via a fast perfusion system that produced a complete solution exchange within a few seconds. Data were collected via an Axopatch 2A patch clamp amplifier, Digidata 1440, and processed with pClamp 10.0 software (Axon Instruments, Molecular Device, California, USA). Whole-endolysosome currents were digitized at 10 kHz and filtered at 2 kHz. All experiments were conducted at room temperature (21°C–23°C), and all recordings were analyzed in pCLAMP10 (Axon Instruments, Molecular Device, California, USA) and Origin 8.0 software.\n\nLysoTracker staining\n\nLysosomal acidity was detected using LysoTracker Red DND-99 (L7528; Thermo Fisher Scientific, New York, USA). Briefly, human fibroblasts were split and cultured in a 24-well dish 1 d before the experiment. To visualize the acidic organelles, LysoTracker Red (50 nM) was added into the cell culture medium and incubated at 37°C for 30 min. Cells were then washed twice with PBS and kept in PBS for imaging. Images were taken using an Olympus IX81 inverted fluorescence microscope, and the intensity of LysoTracker was analyzed using ImageJ software.\n\n4X-CLEAR luciferase assay\n\nTFEB activity was measured in TRPML1 stable HEK293 cells using a dual-luciferase reporter system (Promega E1910, Wisconsin, USA). Briefly, cells were cotransfected with a 4X-CLEAR luciferase reporter (a gift from Dr. Albert La Spada; Addgene plasmid # 66800) [36] and Renilla luciferase plasmid in a 1:20 ratio for 6 h. Cells were lysed 24 h post transfection, and cell lysates were then transferred to a 96-well opaque plate. Luciferase activities were detected using GloMax Microplate Luminometer (Progema, Wisconsin, USA). The activity of 4X-CLEAR luciferase was divided by that of Renilla luciferase and then normalized to the DMSO controls.\n\nCathepsin B activity assay\n\nCathepsin B activity was measured using Magic Red Cathepsin B assay kit (ImmunoChemistry Technologies, Minnesota, USA). Magic Red stock solution was prepared according to the manufacturer’s instruction. Cells were incubated with Magic Red reagent (1:1,000 dilution from stock solution) at 37°C for 1 h and fixed by 4% PFA before imaging. Images were taken using an Olympus IX81 inverted fluorescence microscope. Magic Red intensity was analyzed with ImageJ software.\n\nReagents\n\nRap, Tem, and Eve were purchased from LC Laboratories (Massachusetts, USA) or MedChemExpress (New Jersey, USA). Defo (MK-86669) and Zota (ABT-578) were purchased from Selleckchem (Texas, USA). ML-SA1 was obtained from Princeton BioMolecular Research (New Jersey, USA). ML-SI3 was custom synthesized (available upon MTA request). Seco-Rap (148554-65-8) was from Cayman Chemical (Michigan, USA), Torin-1 was from Tocris (Minnesota, USA), BAPTA-AM was from Thermo Fisher (New York, USA), and vacuolin-1 was from Calbiochem (Millipore, Massachusetts, USA).\n\nData analysis\n\nData are presented as means ± SEMs. Statistical comparisons of imaging results were performed with ANOVAs. P &lt; 0.05 was considered statistically significant.\n\nSupporting information"
+}

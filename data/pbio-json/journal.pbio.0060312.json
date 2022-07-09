@@ -1,0 +1,39 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0060312",
+  "doi": "10.1371/journal.pbio.0060312",
+  "externalIds": [
+    "pii:08-PLBI-S-4685",
+    "pmid:20076701",
+    "pmcid:PMC2602724"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Lessons on Life from SENP2",
+  "authors": [
+    {
+      "name": "Caitlin Sedwick",
+      "first": "Caitlin",
+      "last": "Sedwick"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2008-12",
+  "dateElectronic": "2008-12-16",
+  "volume": "6",
+  "number": "12",
+  "pages": "e312",
+  "tags": [
+    "Discipline/Cell Biology",
+    "Discipline/Developmental Biology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Obstetrics",
+    "Type/Synopsis"
+  ],
+  "fullText": "Embryonic development is a wonderful thing to behold. Consider the creation of a human embryo: a single fertilized egg cell gives rise to an adult organism consisting of approximately 6 × 1013 cells, organized into myriad tissues. This amazing feat is achieved through a carefully choreographed developmental program, where the cells of the growing embryo make a series of cell fate decisions that guide their differentiation into specialized tissues.\n\nThe first embryonic cell fate decision comes early after fertilization, when an embryo's cells differentiate into two distinct populations: the inner cell mass and the outer trophectoderm. The inner cell mass will go on to become the embryo proper, while trophectoderm cells are stem cells that will become the placenta, which nourishes and protects the developing organism. While the genes and pathways contributing to embryonic development have enjoyed close scientific scrutiny, very little is known about how the trophectoderm generates placental tissues. In this issue of PLoS Biology, Shang-Yi Chiu, Wei Hsu, and colleagues uncover a pathway that is important for the generation of trophectoderm-derived tissues.\n\nThe murine placenta comprises three layers: the inner labyrinth layer, which filters the maternal blood supply for nutrients that can be absorbed for the embryo; the spongiotrophoblast layer, which physically supports the labyrinth layer; and an outer layer of trophoblast giant cells (TGC), which completely surrounds the embryo. The TGC cells are unique, because they have multiple copies of the genome (known as polyploid cells). However, when abnormal polyploidy (known as aneuploidy) occurs, it is associated with cancer. Several control mechanisms exist to prevent polyploidy; a prominent one is the tumor suppressor p53, which acts to halt cell growth in the presence of DNA damage or other forms of cellular stress. However, since the generation of polyploid cells in the placenta is part of the normal developmental program, some mechanism must allow TGC cells to evade the controls that prevent polyploidy in other tissues.\n\nChiu and colleagues were led to examining placental development by their studies on a protein called SENP2, which is a member of a family of proteases that removes a small protein-tag called SUMO (short for “small ubiquitin-related modifier”) from other proteins. SUMO modifies the function and subcellular location of proteins to which it is attached, and SENP2 helps reverse these changes. While studying the role of SENP2 in mouse embryonic development, the researchers observed that SENP2 is specifically expressed in trophectoderm-derived tissues, and that embryos lacking SENP2 failed to properly develop any of the three placental tissue layers. This failure occurred because the cells that give rise to the placental tissues had undergone cell cycle arrest and were trapped in a state of suspended growth. The authors therefore set out to find SENP2 target proteins that could be involved in arresting cell growth. In the journey of their searches, they discovered that p53—or proteins that modify p53 activity—were affected by the SENP2 deficiency.\n\nAlthough p53 can be modified by SUMO, the group found that SENP2 indirectly regulates p53 activity in trophectoderm-derived tissues by modifying the subcellular location of another protein called Mdm2. Mdm2 is known to interact with p53 and induce p53 degradation. Mdm2 can undergo SUMO modification, and Chiu and colleagues found that SUMO-modified Mdm2 is found only in the cell nucleus, not the cytoplasm. Cells lacking SENP2 are deficient for removing SUMO from Mdm2, so Mdm2 becomes trapped in the nucleus, where it is unable to promote p53 degradation. This allows p53 to accumulate within the cells, and causes cell growth arrest. These effects were reversible by knocking down p53 expression by RNA interference. Furthermore, stimulation of p53 by blocking Mdm2 with a drug results in defects resembling the loss of SENP2.\n\nThese findings have implications for both embryonic development and cancer. The work highlights a role for p53 in preventing polyploidy, because p53 repression is required for the polyploid trophoblast cells to properly develop; the study of trophectoderm-derived tissues could therefore provide further insights into the pathways that cells normally use to control polyploidy. The authors accordingly plan further studies to elucidate how SENP2-mediated regulation of p53 contributes to both normal and pathological cell growth processes."
+}

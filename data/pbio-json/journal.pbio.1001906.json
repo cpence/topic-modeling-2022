@@ -1,0 +1,472 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001906",
+  "doi": "10.1371/journal.pbio.1001906",
+  "externalIds": [
+    "pii:PBIOLOGY-D-14-00234",
+    "pmid:25003521",
+    "pmcid:PMC4086714"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Tracking Genomic Cancer Evolution for Precision Medicine: The Lung TRACERx Study",
+  "authors": [
+    {
+      "name": "Mariam Jamal-Hanjani",
+      "first": "Mariam",
+      "last": "Jamal-Hanjani",
+      "affiliation": "Translational Cancer Therapeutics Laboratory, University College London Cancer Institute, London, United Kingdom; Department of Medical Oncology, University College London Hospitals, London, United Kingdom"
+    },
+    {
+      "name": "Alan Hackshaw",
+      "first": "Alan",
+      "last": "Hackshaw",
+      "affiliation": "Cancer Research UK & UCL Cancer Trials Centre, London, United Kingdom"
+    },
+    {
+      "name": "Yenting Ngai",
+      "first": "Yenting",
+      "last": "Ngai",
+      "affiliation": "Cancer Research UK & UCL Cancer Trials Centre, London, United Kingdom"
+    },
+    {
+      "name": "Jacqueline Shaw",
+      "first": "Jacqueline",
+      "last": "Shaw",
+      "affiliation": "Cancer Studies and Molecular Medicine, University of Leicester, Leicester, United Kingdom"
+    },
+    {
+      "name": "Caroline Dive",
+      "first": "Caroline",
+      "last": "Dive",
+      "affiliation": "Cancer Research UK Manchester Institute, Manchester, United Kingdom"
+    },
+    {
+      "name": "Sergio Quezada",
+      "first": "Sergio",
+      "last": "Quezada",
+      "affiliation": "Immune Regulation and Tumour Immunotherapy Laboratory, University College London Cancer Institute, London, United Kingdom"
+    },
+    {
+      "name": "Gary Middleton",
+      "first": "Gary",
+      "last": "Middleton",
+      "affiliation": "Department of Medical Oncology, Birmingham Heartlands Hospital, Birmingham, United Kingdom"
+    },
+    {
+      "name": "Elza de Bruin",
+      "first": "Elza",
+      "last": "de Bruin",
+      "affiliation": "Translational Cancer Therapeutics Laboratory, University College London Cancer Institute, London, United Kingdom"
+    },
+    {
+      "name": "John Le Quesne",
+      "first": "John",
+      "last": "Le Quesne",
+      "affiliation": "Cancer Studies and Molecular Medicine, University of Leicester, Leicester, United Kingdom"
+    },
+    {
+      "name": "Seema Shafi",
+      "first": "Seema",
+      "last": "Shafi",
+      "affiliation": "Translational Cancer Therapeutics Laboratory, University College London Cancer Institute, London, United Kingdom"
+    },
+    {
+      "name": "Mary Falzon",
+      "first": "Mary",
+      "last": "Falzon",
+      "affiliation": "Department of Pathology, University College London Hospitals, London, United Kingdom"
+    },
+    {
+      "name": "Stuart Horswell",
+      "first": "Stuart",
+      "last": "Horswell",
+      "affiliation": "Department of Bioinformatics and BioStatistics, Cancer Research UK, London Research Institute, London, United Kingdom"
+    },
+    {
+      "name": "Fiona Blackhall",
+      "first": "Fiona",
+      "last": "Blackhall",
+      "affiliation": "Institute of Cancer Studies, University of Manchester and The Christie Hospital, Manchester, United Kingdom"
+    },
+    {
+      "name": "Iftekhar Khan",
+      "first": "Iftekhar",
+      "last": "Khan",
+      "affiliation": "Cancer Research UK & UCL Cancer Trials Centre, London, United Kingdom"
+    },
+    {
+      "name": "Sam Janes",
+      "first": "Sam",
+      "last": "Janes",
+      "affiliation": "Department of Respiratory Medicine, University College London Hospitals, London, United Kingdom"
+    },
+    {
+      "name": "Marianne Nicolson",
+      "first": "Marianne",
+      "last": "Nicolson",
+      "affiliation": "Department of Medical Oncology, Aberdeen University Medical School & Aberdeen Royal Infirmary, Aberdeen, Scotland, United Kingdom"
+    },
+    {
+      "name": "David Lawrence",
+      "first": "David",
+      "last": "Lawrence",
+      "affiliation": "Department of Cardiothoracic Surgery, Heart Hospital, London, United Kingdom"
+    },
+    {
+      "name": "Martin Forster",
+      "first": "Martin",
+      "last": "Forster",
+      "affiliation": "Department of Medical Oncology, University College London Hospitals, London, United Kingdom"
+    },
+    {
+      "name": "Dean Fennell",
+      "first": "Dean",
+      "last": "Fennell",
+      "affiliation": "Cancer Studies and Molecular Medicine, University of Leicester, Leicester, United Kingdom; Department of Medical Oncology, University of Leicester & Leicester University Hospitals, Leicester, United Kingdom"
+    },
+    {
+      "name": "Siow-Ming Lee",
+      "first": "Siow-Ming",
+      "last": "Lee",
+      "affiliation": "Department of Medical Oncology, University College London Hospitals, London, United Kingdom"
+    },
+    {
+      "name": "Jason Lester",
+      "first": "Jason",
+      "last": "Lester",
+      "affiliation": "Department of Clinical Oncology, Velindre Hospital, Cardiff, Wales, United Kingdom"
+    },
+    {
+      "name": "Keith Kerr",
+      "first": "Keith",
+      "last": "Kerr",
+      "affiliation": "Department of Pathology, Aberdeen University Medical School & Aberdeen Royal Infirmary, Aberdeen, Scotland, United Kingdom"
+    },
+    {
+      "name": "Salli Muller",
+      "first": "Salli",
+      "last": "Muller",
+      "affiliation": "Department of Pathology, University of Leicester & Leicester University Hospitals, Leicester, United Kingdom"
+    },
+    {
+      "name": "Natasha Iles",
+      "first": "Natasha",
+      "last": "Iles",
+      "affiliation": "Cancer Research UK & UCL Cancer Trials Centre, London, United Kingdom"
+    },
+    {
+      "name": "Sean Smith",
+      "first": "Sean",
+      "last": "Smith",
+      "affiliation": "Cancer Research UK & UCL Cancer Trials Centre, London, United Kingdom"
+    },
+    {
+      "name": "Nirupa Murugaesu",
+      "first": "Nirupa",
+      "last": "Murugaesu",
+      "affiliation": "Translational Cancer Therapeutics Laboratory, University College London Cancer Institute, London, United Kingdom; Department of Medical Oncology, University College London Hospitals, London, United Kingdom"
+    },
+    {
+      "name": "Richard Mitter",
+      "first": "Richard",
+      "last": "Mitter",
+      "affiliation": "Department of Bioinformatics and BioStatistics, Cancer Research UK, London Research Institute, London, United Kingdom"
+    },
+    {
+      "name": "Max Salm",
+      "first": "Max",
+      "last": "Salm",
+      "affiliation": "Department of Bioinformatics and BioStatistics, Cancer Research UK, London Research Institute, London, United Kingdom"
+    },
+    {
+      "name": "Aengus Stuart",
+      "first": "Aengus",
+      "last": "Stuart",
+      "affiliation": "Department of Bioinformatics and BioStatistics, Cancer Research UK, London Research Institute, London, United Kingdom"
+    },
+    {
+      "name": "Nik Matthews",
+      "first": "Nik",
+      "last": "Matthews",
+      "affiliation": "The Advanced Sequencing Facility, London Research Institute, London, United Kingdom"
+    },
+    {
+      "name": "Haydn Adams",
+      "first": "Haydn",
+      "last": "Adams",
+      "affiliation": "Department of Radiology, University Hospital Llandough, Cardiff, Wales, United Kingdom"
+    },
+    {
+      "name": "Tanya Ahmad",
+      "first": "Tanya",
+      "last": "Ahmad",
+      "affiliation": "Department of Medical Oncology, University College London Hospitals, London, United Kingdom"
+    },
+    {
+      "name": "Richard Attanoos",
+      "first": "Richard",
+      "last": "Attanoos",
+      "affiliation": "Department of Pathology, University Hospital Llandough, Cardiff, Wales, United Kingdom"
+    },
+    {
+      "name": "Jonathan Bennett",
+      "first": "Jonathan",
+      "last": "Bennett",
+      "affiliation": "Department of Respiratory Medicine, University of Leicester & Leicester University Hospitals, Leicester, United Kingdom"
+    },
+    {
+      "name": "Nicolai Juul Birkbak",
+      "first": "Nicolai Juul",
+      "last": "Birkbak",
+      "affiliation": "Department of Systems Biology, Technical University of Denmark, Kongens Lyngby, Denmark"
+    },
+    {
+      "name": "Richard Booton",
+      "first": "Richard",
+      "last": "Booton",
+      "affiliation": "Department of Respiratory Medicine, University Hospital of South Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Ged Brady",
+      "first": "Ged",
+      "last": "Brady",
+      "affiliation": "Cancer Research UK Manchester Institute, Manchester, United Kingdom"
+    },
+    {
+      "name": "Keith Buchan",
+      "first": "Keith",
+      "last": "Buchan",
+      "affiliation": "Department of Cardiothoracic Surgery, Aberdeen University Medical School & Aberdeen Royal Infirmary, Aberdeen, United Kingdom"
+    },
+    {
+      "name": "Arrigo Capitano",
+      "first": "Arrigo",
+      "last": "Capitano",
+      "affiliation": "Department of Pathology, University College London Hospitals, London, United Kingdom"
+    },
+    {
+      "name": "Mahendran Chetty",
+      "first": "Mahendran",
+      "last": "Chetty",
+      "affiliation": "Department of Respiratory Medicine, Aberdeen University Medical School & Aberdeen Royal Infirmary, Aberdeen, United Kingdom"
+    },
+    {
+      "name": "Mark Cobbold",
+      "first": "Mark",
+      "last": "Cobbold",
+      "affiliation": "Department of Clinical Immunology, University of Birmingham, Birmingham, B15 2TT"
+    },
+    {
+      "name": "Philip Crosbie",
+      "first": "Philip",
+      "last": "Crosbie",
+      "affiliation": "North West Lung Centre, University Hospital of South Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Helen Davies",
+      "first": "Helen",
+      "last": "Davies",
+      "affiliation": "Department of Respiratory Medicine, University Hospital Llandough, Cardiff, Wales, United Kingdom"
+    },
+    {
+      "name": "Alan Denison",
+      "first": "Alan",
+      "last": "Denison",
+      "affiliation": "Aberdeen Biomedical Imaging Centre, University of Aberdeen, Aberdeen, United kingdom"
+    },
+    {
+      "name": "Madhav Djearman",
+      "first": "Madhav",
+      "last": "Djearman",
+      "affiliation": "Department of Radiology, Birmingham Heartlands Hospital, Birmingham, United Kingdom"
+    },
+    {
+      "name": "Jacki Goldman",
+      "first": "Jacki",
+      "last": "Goldman",
+      "affiliation": "Department of IT, London Research Institute, London, United Kingdom"
+    },
+    {
+      "name": "Tom Haswell",
+      "first": "Tom",
+      "last": "Haswell",
+      "affiliation": "Independent Cancer Patient's Voice, London, united Kingdom"
+    },
+    {
+      "name": "Leena Joseph",
+      "first": "Leena",
+      "last": "Joseph",
+      "affiliation": "Department of Pathology, University Hospitals of South Manchester, Manchester"
+    },
+    {
+      "name": "Malgorzata Kornaszewska",
+      "first": "Malgorzata",
+      "last": "Kornaszewska",
+      "affiliation": "Department of Cardiothoracic Surgery, University Hospital Llandough, Cardiff, Wales, United Kingdom"
+    },
+    {
+      "name": "Matthew Krebs",
+      "first": "Matthew",
+      "last": "Krebs",
+      "affiliation": "Cancer Research UK Manchester Institute, Manchester, United Kingdom"
+    },
+    {
+      "name": "Gerald Langman",
+      "first": "Gerald",
+      "last": "Langman",
+      "affiliation": "Department of Cellular Pathology, Birmingham Heartlands Hospital, Birmingham, United Kingdom"
+    },
+    {
+      "name": "Mairead MacKenzie",
+      "first": "Mairead",
+      "last": "MacKenzie",
+      "affiliation": "Independent Cancer Patient's Voice, London, united Kingdom"
+    },
+    {
+      "name": "Joy Millar",
+      "first": "Joy",
+      "last": "Millar",
+      "affiliation": "Department of Respiratory Medicine, Aberdeen University Medical School & Aberdeen Royal Infirmary, Aberdeen, United Kingdom"
+    },
+    {
+      "name": "Bruno Morgan",
+      "first": "Bruno",
+      "last": "Morgan",
+      "affiliation": "Cancer Studies and Molecular Medicine, University of Leicester, Leicester, United Kingdom"
+    },
+    {
+      "name": "Babu Naidu",
+      "first": "Babu",
+      "last": "Naidu",
+      "affiliation": "Department of Thoracic Surgery, Birmingham Heartlands Hospital, Birmingham, United Kingdom"
+    },
+    {
+      "name": "Daisuke Nonaka",
+      "first": "Daisuke",
+      "last": "Nonaka",
+      "affiliation": "The Christie Hospital, Manchester, United Kingdom; Department of Pathology, University Hospitals of South Manchester, Manchester"
+    },
+    {
+      "name": "Karl Peggs",
+      "first": "Karl",
+      "last": "Peggs",
+      "affiliation": "Immune Regulation and Tumour Immunotherapy Laboratory, University College London Cancer Institute, London, United Kingdom"
+    },
+    {
+      "name": "Catrin Pritchard",
+      "first": "Catrin",
+      "last": "Pritchard",
+      "affiliation": "Department of Biochemistry, University of Leicester, Leicester, United Kingdom"
+    },
+    {
+      "name": "Hardy Remmen",
+      "first": "Hardy",
+      "last": "Remmen",
+      "affiliation": "Department of Cardiothoracic Surgery, Aberdeen University Medical School & Aberdeen Royal Infirmary, Aberdeen, United Kingdom"
+    },
+    {
+      "name": "Andrew Rowan",
+      "first": "Andrew",
+      "last": "Rowan",
+      "affiliation": "Translational Cancer Therapeutics Laboratory, London Research Institute, London, United Kingdom"
+    },
+    {
+      "name": "Rajesh Shah",
+      "first": "Rajesh",
+      "last": "Shah",
+      "affiliation": "Department of Cardiothoracic Surgery, University Hospitals of South Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Elaine Smith",
+      "first": "Elaine",
+      "last": "Smith",
+      "affiliation": "Department of Radiology, University Hospitals of South Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Yvonne Summers",
+      "first": "Yvonne",
+      "last": "Summers",
+      "affiliation": "The Christie Hospital, Manchester, United Kingdom; Department of Medical Oncology, University Hospital of South Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Magali Taylor",
+      "first": "Magali",
+      "last": "Taylor",
+      "affiliation": "Department of Radiology, University College London Hospitals, London, United Kingdom"
+    },
+    {
+      "name": "Selvaraju Veeriah",
+      "first": "Selvaraju",
+      "last": "Veeriah",
+      "affiliation": "Translational Cancer Therapeutics Laboratory, University College London Cancer Institute, London, United Kingdom"
+    },
+    {
+      "name": "David Waller",
+      "first": "David",
+      "last": "Waller",
+      "affiliation": "Department of Cardiothoracic Surgery, University of Leicester & Leicester University Hospitals, Leicester, United Kingdom"
+    },
+    {
+      "name": "Ben Wilcox",
+      "first": "Ben",
+      "last": "Wilcox",
+      "affiliation": "School of Cancer Sciences, University of Birmingham, Birmingham, United Kingdom"
+    },
+    {
+      "name": "Maggie Wilcox",
+      "first": "Maggie",
+      "last": "Wilcox",
+      "affiliation": "Independent Cancer Patient's Voice, London, united Kingdom"
+    },
+    {
+      "name": "Ian Woolhouse",
+      "first": "Ian",
+      "last": "Woolhouse",
+      "affiliation": "Department of Respiratory Medicine, Birmingham University Hospital, Birmingham, United Kingdom"
+    },
+    {
+      "name": "Nicholas McGranahan",
+      "first": "Nicholas",
+      "last": "McGranahan",
+      "affiliation": "Translational Cancer Therapeutics Laboratory, London Research Institute, London, United Kingdom"
+    },
+    {
+      "name": "Charles Swanton",
+      "first": "Charles",
+      "last": "Swanton",
+      "affiliation": "Translational Cancer Therapeutics Laboratory, University College London Cancer Institute, London, United Kingdom; Department of Medical Oncology, University College London Hospitals, London, United Kingdom; Translational Cancer Therapeutics Laboratory, London Research Institute, London, United Kingdom"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2014-07",
+  "volume": "12",
+  "number": "7",
+  "pages": "e1001906",
+  "tags": [
+    "Clinical genetics",
+    "Clinical immunology",
+    "Discipline-v2/Biology and life sciences",
+    "Discipline-v2/Clinical genetics",
+    "Discipline-v2/Clinical immunology",
+    "Discipline-v2/Evolutionary biology",
+    "Discipline-v2/Genetics",
+    "Discipline-v2/Genomics",
+    "Discipline-v2/Immunology",
+    "Discipline-v2/Medicine and health sciences",
+    "Discipline-v2/Oncology",
+    "Evolutionary biology",
+    "Genetics",
+    "Genomics",
+    "Immunology",
+    "Oncology",
+    "Type/Community Page"
+  ],
+  "abstract": "TRACERx, a prospective study of patients with primary non-small cell lung cancer, aims to map the genomic landscape of lung cancer by tracking clonal heterogeneity and tumour evolution from diagnosis to relapse.",
+  "fullText": "Introduction\n\nEach patient's cancer has a unique genomic landscape, often comprised of populations of genetically distinct, separated subclones with the potential to undergo dynamic evolutionary processes throughout the disease course [1],[2]. One of the major challenges in achieving the goal of precision medicine lies in obtaining an accurate view of this genomic landscape, in order to choose the appropriate therapeutic regimen [3]. Intratumour heterogeneity poses a challenge in that a single tumour biopsy may not fully capture the current or future tumour landscape and merely represents a “snapshot” of the disease in space and time. Several studies have demonstrated branched evolution in different tumour types, including breast [4],[5], pancreatic [6], kidney [7], colorectal [8], and prostate [9] cancers, as well as haematological malignancies such as chronic lymphoblastic leukaemia [1] and acute lymphoblastic leukaemia [10]. Understanding how tumour clonal heterogeneity impacts upon clinical outcome, and how cancer subclones compete, adapt, and evolve through the disease course in relation to therapy, is an area of unmet clinical and scientific need. Lung TRACERx (TRAcking non-small cell lung Cancer Evolution through therapy [Rx], ClinicalTrials.gov number, NCT01888601), is a prospective study in primary non-small cell lung cancer (NSCLC), which through multiregion and longitudinal tumour sampling and sequencing, aims to define the genomic landscape of NSCLC and to understand the impact of tumour clonal heterogeneity upon therapeutic and survival outcome.\n\nOverview of Lung TRACERx\n\nLung TRACERx incorporates longitudinal sample collection from diagnosis to relapse in order to investigate how each cancer responds to treatment, the potential mutational processes and mechanisms involved in drug resistance, and development of metastatic disease. Although here we discuss TRACERx in NSCLC, the proposed longitudinal sample collection and study template is also relevant to other tumour types. TRACERx, conducted across six sites in the United Kingdom (London, Leicester, Manchester, Aberdeen, Birmingham, and Cardiff), will enrol 842 patients with primary NSCLC stages I-IIIA over an accrual period of four years with a total five-year follow-up per patient. Primary surgically resected NSCLC tumours and associated lymph nodes, surplus to diagnostic requirements, will be subject to multiregion sampling and subsequent whole-exome and/or whole-genome sequencing. In patients suffering disease recurrence, consent will be obtained for a further biopsy to assess how the tumour clonal structure has changed through therapy and disease progression. The primary objectives of TRACERx are to determine the relationship between intratumour heterogeneity and clinical outcome (disease-free survival [DFS] and overall survival [OS]), and to establish the impact of adjuvant platinum-containing regimens on intratumour heterogeneity in relapsed disease. The secondary objectives include developing and validating an intratumour heterogeneity index as a prognostic or predictive biomarker and identifying drivers of genomic instability, metastatic progression, and drug resistance by identifying and tracking the dynamics of somatic mutational heterogeneity. TRACERx also aims to define clonally dominant drivers of disease to address the role of clonal driver dominance in targeted therapeutic response, and to guide lung cancer treatment stratification. The sample collection per patient and overall study schema are summarised in Figure 1 and Figure 2, respectively.\n\nSpatial Heterogeneity and Branched Evolution in NSCLC\n\nPrevious efforts to characterise the cancer genome of NSCLC have involved the analysis of copy number alterations [11],[12], targeted sequencing of candidate cancer genes [13],[14] and next-generation sequencing of genomes and/or exomes [15]–[18]. By interrogating the mutational spectrum of tumours, these studies have demonstrated its complex and heterogeneous genomic landscape from point mutations to large structural variants, and the high mutational burden of smoking-related NSCLC. However, few studies in NSCLC have investigated the clonal and subclonal architecture of lung cancer tumours and their evolution through disease progression. The TRACERx consortium has developed methods to analyse the dynamics of genetic intratumour heterogeneity within individual tumours over time [7]. Distance-based phylogenetic trees will be inferred from the variants, insertions and deletions (INDELS), and structural variations observed in multiregion exome sequence datasets from a single tumour, allowing the discrimination of conserved early genetic mutations present at all sites of the primary tumour from later somatic events present in parts of the tumour and/or metastatic sites. This estimated temporal ordering will give insight into the potential relationships of such changes with ploidy shifts, chromosomal instability, and mutational processes that may change during the course of tumour progression.\n\nHistological Heterogeneity in NSCLC\n\nLung cancer is a histologically highly heterogeneous disease. Mixed lung tumours containing more than one histological type, such as adenosquamous tumours, combined small-cell tumours (small-cell combined with NSCLC), or tumours with areas of histological dedifferentiation are not uncommon. Within adenocarcinomas, histological variety is the rule, with most tumours showing a mixture of patterns, the commonest being lepidic/in situ, acinar, solid, papillary, and micropapillary. Solid and micropapillary patterns are associated with worse outcome [19]–[21]. Some patterns show associations with known driving mutations [22],[23], although these relationships are incompletely described at present. Furthermore, nuclear grade, which is not currently routinely assessed, often shows heterogeneity and is itself related to outcome [24],[25]. It is not known to what extent this spatial histological heterogeneity reflects genomic heterogeneity as opposed to epigenetic or microenvironmental influences. TRACERx aims to correlate histological heterogeneity with genomic heterogeneity and potentially improve the predictive and prognostic value of histological appearances in NSCLC.\n\nTumour Heterogeneity, Outcome, and Impact of Platinum Chemotherapy in NSCLC\n\nIt is unclear why adjuvant chemotherapy following surgery for primary NSCLC is effective in some patients but not in others. An increasing body of evidence supports the association of patterns of intratumour heterogeneity, in multivariate analyses, with poor survival outcome in NSCLC and other solid tumours [26]. Indeed, work from us and others has shown that chromosomal instability, a driver of intratumour heterogeneity, is associated with cancer drug resistance, and numerous studies have documented the association of chromosomal instability with poor outcome in NSCLC [26]–[31]. The impact of intratumour heterogeneity on evolutionary fitness, together with the documented relationship of heterogeneity with drug resistance, supports the potential predictive nature of this candidate biomarker. Cytotoxic therapies have also been shown to influence the genomic landscape of drug-resistant diseases [32],[33], which raises the concern that increased genomic complexity in cytotoxic refractory tumours may potentiate tumour adaptation. However, studies to date are based on the analysis of small retrospective cohorts such that the true relationship between intratumour heterogeneity and clinical outcome, as well as the impact of platinum-based chemotherapy on the tumour genomic landscape, is currently unknown. TRACERx will prospectively assess whether an intratumour heterogeneity index can predict response to adjuvant therapy, and attempt to validate intratumour heterogeneity as an effective prognostic and predictive biomarker independent of known factors, such as tumour stage.\n\nDefining Drivers of Intratumour Heterogeneity and Drug Resistance\n\nDeep sequencing analyses are revealing vast clonal heterogeneity present in solid tumours, including NSCLC, and the spatial and temporal dynamics of cancer subclones that emerge during the disease course and following acquired drug resistance [34],[35]. We have shown that drivers of intratumour heterogeneity can be defined in vivo and that one mechanism driving tumour heterogeneity in colorectal cancer, DNA replication stress, may be targetable [36]. Defining such processes in longitudinal solid tumour cohorts may have therapeutic relevance in attempting to limit tumour heterogeneity, adaptation, and cancer evolution [37]. TRACERx aims to develop an improved understanding of the relationship between phenotypic and genetic intratumour heterogeneity with cancer evolution, and identify further drivers of genomic instability. Ultimately it is hoped that this will support the development of novel therapeutic approaches to limit relapse and improve outcomes in NSCLC.\n\nImpact of Intratumour Heterogeneity on Host Immunity and Tumour Neo-Antigenic Repertoire\n\nWhilst evidence suggests that intratumour heterogeneity may significantly limit the antitumour activity of targeted therapeutics [38], its overall effect on the anticancer immune response may be beneficial, since high levels of intratumoural mutational diversity may generate neo-antigens perceived by the immune system as non-self, thus providing relevant targets for immune-based therapies [38]–[40]. TRACERx aims to provide a resource to define the impact of intratumour heterogeneity on cancer immunity throughout tumour evolution and therapy. Through the integration of clinical and tumour multiregion sequencing data with immunological analysis, the consortium will assess various aspects of tumour immunobiology, including the overall impact of distinct drivers of intratumour heterogeneity on immune infiltration and function, the proportion of tumour infiltrating lymphocytes with the ability to recognise neo-antigens, and whether novel T cell receptors that recognise phosphopeptides preferentially expressed by tumour cells can be identified in patients, with NSCLC serving as a platform for the development of future immunotherapeutic strategies.\n\nDevelopment of Minimally Invasive Methods to Study Tumour Evolution\n\nPrimary and metastatic tumours will be genetically profiled to identify clonal and subclonal driver mutations. However, our analysis of the primary tumour is limited to tissue surplus to diagnostic requirement, albeit multiregional, and our analysis of metastatic sites is likely to be restricted to one location, emphasising the need to develop less invasive approaches to follow tumour evolution. Circulating biomarkers have the potential to monitor minimal residual disease, forecast early progression, and document subclonal evolution through therapy and acquired drug resistance [41]. Here we propose to extend the TRACERx consortium's expertise in minimally invasive biomarker approaches to monitor tumour subclonal evolution through serial analysis of circulating-free tumour DNA (cfDNA) and circulating tumour cells (CTCs) before surgery and throughout the disease course. We have shown that cfDNA analysis is technically straightforward with limited cost and has demonstrable utility in disease monitoring [35],[42], and that CTC number in NSCLC is an independent prognostic biomarker [43]. TRACERx aims to address how intratumour heterogeneity is manifested in circulating biomarkers and the extent to which the genetic landscape of the primary and metastatic tumour is reflected in CTCs and cfDNA. This comparison will take into account the limitations in tumour sampling and therefore the potential to identify genetic aberrations in CTCs and cfDNA not detected in the tumour tissue. By comparing serial samples, TRACERx will determine whether cfDNA can detect residual disease following surgery and predict tumour recurrence, whether CTCs and cfDNA in advanced metastatic disease can represent further selection of subclones over time, and whether CTCs and cfDNA can provide insight into drug resistance mechanisms.\n\nClonal Dominance and Clinical Outcome\n\nThere is a pressing need to define early driver events suitable for clinical drug trial stratification and to assess prospectively the role of drug target intratumour heterogeneity in the early emergence of resistance and poor DFS outcomes. Until recently, the term “actionable mutation” was used to define the presence of a somatic mutation or copy number event in a single tumour biopsy that might suggest a targeted therapeutic approach. However, emerging evidence for intratumour heterogeneity in breast cancer [44], renal cell carcinoma [7], glioblastoma [45], pancreatic cancer [6],[46], and medulloblastoma [47] demands the consideration of the role of clonal dominance when defining actionable events. In patients with an identified epidermal growth factor receptor (EGFR)-activating mutation treated with EGFR-targeted therapy, the clonality of the mutation is generally unknown, and yet it has been suggested that subclonal EGFR somatic mutational heterogeneity may be an understudied mechanism of drug resistance [48]. Similarly, identifying high-risk subclonal drivers that might contribute to metastatic progression and be suitable for therapeutic intervention is also an area of unmet need. Through the deep-sequencing of paired primary and relapsed-disease samples, TRACERx will distinguish clonal from subclonal drivers and will relate the clonal dominance of targetable events to progression-free survival (PFS) intervals for targeted therapies in the advanced disease setting within the DARWIN (Deciphering Anti-tumour Response With INtratumour Heterogeneity) Clinical Trial Programme that is currently in development. The consortium will attempt to define a new process for drug development, stratifying PFS outcomes based on clonal dominance of the targetable event, and map the tumour's subclonal dynamics during the acquisition of drug resistance.\n\nMetastatic Disease and Defining the Origins of the Lethal Subclone\n\nClonal diversity between primary and metastatic tumours in the same patient has been demonstrated in different tumour types, including but not limited to, breast [49], pancreatic [6],[46], prostate [9], and medulloblastoma [47]. Longitudinal sample collection and genomic analysis from the primary tumour through disease progression and at the time of death has the potential to identify the molecular features and subclonal origin of the metastatic process. In an interesting case of prostate cancer, Haffner and colleagues correlated whole-genome sequencing data from a primary tumour with three sites of metastases collected at autopsy 17 years after presentation [9]. Despite genetic heterogeneity among metastases, there were many shared events suggesting a monoclonal origin. Through histological assessment, alongside sequencing, they identified the lethal metastatic clone originating from the primary tumour. Patients who develop terminal metastatic NSCLC in TRACERx will be asked to consider enrolling in an autopsy programme that will be open nationally. For each patient, TRACERx will have accumulated an unprecedented amount of genetic data, and accessing tissue from multiple sites of disease after death would give some insight into the evolving constellation of genetic aberrations and a potential model for the metastatic process. Circulating biomarkers collected at this point may add to this model, although as previously mentioned, the extent to which these biomarkers reflect tumour genomics in NSCLC is yet to be fully determined.\n\nConclusions\n\nThe importance of intratumour heterogeneity is increasingly recognised as a driver of tumour progression, drug resistance and treatment failure in solid tumours [5],[6],[27],[44],[47],[50]–[52]. The presence of subclonal driver events may prove a significant challenge to biomarker development and drug target discovery efforts, and contribute to drug resistance and poor survival outcome [10],[44],[53],[54]. Despite the impressive developments of international large-scale sequencing consortia, the spatial separation of tumour subclones, the changing nature of the disease over time, and the impact of such diversity upon outcome are yet to be addressed [3]. Lung TRACERx is a large-scale study integrating complex genomic data with phenotypic clinical annotation and outcome in order to decipher the heterogeneity of the cancer genome and mutational pathways involved in NSCLC pathogenesis. It aims to develop clinically meaningful measures of intratumour heterogeneity to guide patient management and treatment stratification [55] and to prospectively define thresholds of tumour heterogeneity for clinical risk stratification. With increasing awareness of the need to obtain tissue and genetically profile cancers in order to stratify treatment, the concept of longitudinal tissue collection and analysis has become more acceptable in oncological practice. In following cancers from diagnosis to relapse, tracking the evolutionary trajectories of tumours in relation to therapeutic interventions, and determining the impact of clonal heterogeneity on clinical outcomes, TRACERx may also serve as a model applicable to other cancer types.\n\nTRACERx is not without its limitations. In determining the full extent of intratumour heterogeneity, we are reliant on tissue collected surplus to diagnostic requirements, and therefore entire tumours are not sequenced. However, with deep sequencing and multiregion sampling, together with retrospective genomics analysis of residual surplus tumour tissue guided by the metastatic sample datasets, we hope to achieve significant coverage of the relevant tumour genomic landscape within each patient. Analysing circulating biomarkers, such as cfDNA and CTCs, may further complement the tumour sequencing data and identify additional genetic aberrations not detected by primary or metastatic tumour sequencing. We anticipate that a biopsy of a metastatic site may not be appropriate in all patients, but having taken into account expected rates of attrition, we will have a sufficient number of cases to meet the study outcome objectives. Finally, our ability to detect subclonal somatic events occurring at low variant allele frequencies is limited by the power of our existing methods, but as sequencing and bioinformatics methods advance, TRACERx will adapt to incorporate such improvements in technologies, including the use of deep whole-genome sequencing datasets in some cases with no clear genetic driver events. Overall, TRACERx aims to develop an understanding of the genomic landscape of NSCLC through the disease course and the biological role of underlying genetic events that might contribute to disease progression. Optimising understanding of NSCLC evolutionary processes may help to identify novel therapeutic targets to improve clinical outcomes. As the cost of sequencing decreases and informatics techniques advance, such large-scale longitudinal genomic studies may become a central component to the delivery of precision cancer medicine."
+}

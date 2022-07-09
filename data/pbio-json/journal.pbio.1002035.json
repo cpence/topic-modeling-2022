@@ -1,0 +1,41 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1002035",
+  "doi": "10.1371/journal.pbio.1002035",
+  "externalIds": [
+    "pii:PBIOLOGY-D-14-03943",
+    "pmid:25562602",
+    "pmcid:PMC4285397"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Computational Framework Explains How Animals Select Actions with Rewarding Outcomes",
+  "authors": [
+    {
+      "name": "Janelle Weaver",
+      "first": "Janelle",
+      "last": "Weaver",
+      "affiliation": "Freelance Science Writer, Carbondale, Colorado, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2015-01",
+  "volume": "13",
+  "number": "1",
+  "pages": "e1002035",
+  "tags": [
+    "Computational biology",
+    "Discipline-v2/Biology and life sciences",
+    "Discipline-v2/Computational biology",
+    "Discipline-v2/Neuroscience",
+    "Neuroscience",
+    "Type/Synopsis"
+  ],
+  "abstract": "A new model of how the brain learns beneficial behavior from rewarding outcomes emphasizes the importance of the striatum, replicates experimental data, and raises new questions about neurological disorders. Read the Research Article.",
+  "fullText": "A key component of survival is learning to associate rewarding outcomes with specific actions, such as searching for food or avoiding predators. Actions are represented in the cortex—the brain's outer layer of neural tissue—and rewarding outcomes activate neurons that release a brain chemical called dopamine. These neuronal signals are sent to the striatum—the input station for a collection of brain structures called the basal ganglia, which play an important role in action selection. Collectively, this evidence suggests that dopamine signals change the strength of connections between cortical and striatal neurons, thereby determining which action is appropriate for a specific set of environmental circumstances. But until now, no model had integrated these strands of evidence to test this widely held hypothesis.\n\nIn a study published this week in PLOS Biology, University of Sheffield researchers Kevin Gurney and Peter Redgrave teamed up with Mark Humphries of the University of Manchester to build a computational model that shows how the brain's internal signal for outcome changes the strength of neuronal connections, leading to the selection of rewarded actions and the suppression of unrewarded actions. By bridging the gap between the intricate subtleties of individual neuronal connections and the behavior of the whole animal, the model reveals how several brain signals work together to shape the input from the cortex to the basal ganglia at the interface between actions and their outcomes.\n\nThe researchers developed a network model of the whole basal ganglia based on previous electrophysiological studies that investigated the activity of two types of dopamine-responsive cells called D1 and D2 striatal medium spiny neurons. In addition to this action selection model, they developed an independent plasticity model by incorporating experimental data from a previous study to show how the strength of neuronal connections, called synapses, is affected by three factors: the timing of neuronal activity, the type of medium spiny neuron, and dopamine level. Then they linked the two models, testing whether plasticity rules at single synapses between cortical and striatal neurons could give rise to the predicted changes in the activity of the two types of medium spiny neurons, resulting in successful learning of the association between actions and outcomes.\n\nAchieving a remarkable convergence between vastly different scales of space and time, the computational framework not only replicates experimental data on cortico-striatal plasticity but also accounts for behavioral data on learning the association between actions and outcomes (Fig. 1). The model revealed that the relative strength of cortical inputs that represent different possible actions to the two populations of medium spiny neurons determines whether an action is selected or suppressed. Moreover, the timing of neuronal activity, the type of medium spiny neuron, and dopamine level are necessary for generating neuronal activity patterns that result in successful learning.\n\nAccording to the dominant conceptual model of the basal ganglia, D1 and D2 medium spiny neuron populations project through two competing pathways that either promote or suppress an action. This model has been used to explain the motor symptoms of Parkinson's disease, Huntington's disease, and other neurological disorders associated with basal ganglia dysfunction. However, the new network model revealed that D1 and D2 medium spiny neurons coding the same action cooperate to produce optimal action selection, suggesting that the dominant model is not true and needs to be reevaluated.\n\nTaken together, the results of the study provide strong support for the hypothesis that cortical inputs to dopamine-releasing neurons in the striatum are crucial for learning the association between action and outcome. Moving forward, the model provides a common framework in which to place new findings on all aspects of learning from outcomes. In the clinical realm, it could also reveal novel insights into the mechanisms behind motor disorders and shed light on abnormal learning related to diseases such as addiction. Moreover, the work highlights the importance of the striatum, not just the cortex, in high-level learning that is crucial for survival, possibly explaining why the basal ganglia are highly evolutionarily conserved across vertebrate species.\n\nGurney KN, Humphries MD, Redgrave P (2015) A New Framework for Cortico-Striatal Plasticity: Behavioural Theory Meets In Vitro Data at the Reinforcement–Action Interface. doi:10.1371/journal.pbio.1002034"
+}

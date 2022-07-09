@@ -1,0 +1,275 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000417",
+  "doi": "10.1371/journal.pbio.3000417",
+  "externalIds": [
+    "pii:PBIOLOGY-D-19-00680",
+    "pmid:31469831",
+    "pmcid:PMC6742420"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Direct auditory cortical input to the lateral periaqueductal gray controls sound-driven defensive behavior",
+  "authors": [
+    {
+      "name": "Haitao Wang",
+      "first": "Haitao",
+      "last": "Wang",
+      "affiliation": "Hefei National Laboratory for Physical Sciences at the Microscale, Chinese Academy of Sciences Key Laboratory of Brain Function and Disease, University of Science and Technology of China, Hefei, China"
+    },
+    {
+      "name": "Jiahui Chen",
+      "first": "Jiahui",
+      "last": "Chen",
+      "affiliation": "Hefei National Laboratory for Physical Sciences at the Microscale, Chinese Academy of Sciences Key Laboratory of Brain Function and Disease, University of Science and Technology of China, Hefei, China"
+    },
+    {
+      "name": "Xiaotong Xu",
+      "first": "Xiaotong",
+      "last": "Xu",
+      "affiliation": "Hefei National Laboratory for Physical Sciences at the Microscale, Chinese Academy of Sciences Key Laboratory of Brain Function and Disease, University of Science and Technology of China, Hefei, China"
+    },
+    {
+      "name": "Wen-Jian Sun",
+      "first": "Wen-Jian",
+      "last": "Sun",
+      "affiliation": "Department of Biology and Chemistry, City University of Hong Kong, Kowloon, Hong Kong, China"
+    },
+    {
+      "name": "Xi Chen",
+      "first": "Xi",
+      "last": "Chen",
+      "affiliation": "Department of Biology and Chemistry, City University of Hong Kong, Kowloon, Hong Kong, China"
+    },
+    {
+      "name": "Fei Zhao",
+      "first": "Fei",
+      "last": "Zhao",
+      "affiliation": "Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China"
+    },
+    {
+      "name": "Min-Hua Luo",
+      "first": "Min-Hua",
+      "last": "Luo",
+      "affiliation": "Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China"
+    },
+    {
+      "name": "Chunhua Liu",
+      "first": "Chunhua",
+      "last": "Liu",
+      "affiliation": "Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, China"
+    },
+    {
+      "name": "Yiping Guo",
+      "first": "Yiping",
+      "last": "Guo",
+      "affiliation": "Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, China"
+    },
+    {
+      "name": "Wen Xie",
+      "first": "Wen",
+      "last": "Xie",
+      "affiliation": "Department of Psychology, Anhui Mental Health Center, Hefei, China"
+    },
+    {
+      "name": "Hui Zhong",
+      "first": "Hui",
+      "last": "Zhong",
+      "affiliation": "Department of Psychology, Anhui Mental Health Center, Hefei, China"
+    },
+    {
+      "name": "Tongjian Bai",
+      "first": "Tongjian",
+      "last": "Bai",
+      "affiliation": "Department of Neurology, the First Affiliated Hospital of Anhui Medical University, Hefei, China"
+    },
+    {
+      "name": "Yanghua Tian",
+      "first": "Yanghua",
+      "last": "Tian",
+      "affiliation": "Department of Neurology, the First Affiliated Hospital of Anhui Medical University, Hefei, China"
+    },
+    {
+      "name": "Yu Mao",
+      "first": "Yu",
+      "last": "Mao",
+      "affiliation": "Hefei National Laboratory for Physical Sciences at the Microscale, Chinese Academy of Sciences Key Laboratory of Brain Function and Disease, University of Science and Technology of China, Hefei, China; Department of Anesthesiology, the First Affiliated Hospital of Anhui Medical University, Hefei, China"
+    },
+    {
+      "name": "Chonghuan Ye",
+      "first": "Chonghuan",
+      "last": "Ye",
+      "affiliation": "Hefei National Laboratory for Physical Sciences at the Microscale, Chinese Academy of Sciences Key Laboratory of Brain Function and Disease, University of Science and Technology of China, Hefei, China"
+    },
+    {
+      "name": "Wenjuan Tao",
+      "first": "Wenjuan",
+      "last": "Tao",
+      "affiliation": "Hefei National Laboratory for Physical Sciences at the Microscale, Chinese Academy of Sciences Key Laboratory of Brain Function and Disease, University of Science and Technology of China, Hefei, China"
+    },
+    {
+      "name": "Jie Li",
+      "first": "Jie",
+      "last": "Li",
+      "affiliation": "Hefei National Laboratory for Physical Sciences at the Microscale, Chinese Academy of Sciences Key Laboratory of Brain Function and Disease, University of Science and Technology of China, Hefei, China"
+    },
+    {
+      "name": "Zahra Farzinpour",
+      "first": "Zahra",
+      "last": "Farzinpour",
+      "affiliation": "Hefei National Laboratory for Physical Sciences at the Microscale, Chinese Academy of Sciences Key Laboratory of Brain Function and Disease, University of Science and Technology of China, Hefei, China",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1835-3528"
+      ]
+    },
+    {
+      "name": "Juan Li",
+      "first": "Juan",
+      "last": "Li",
+      "affiliation": "Hefei National Laboratory for Physical Sciences at the Microscale, Chinese Academy of Sciences Key Laboratory of Brain Function and Disease, University of Science and Technology of China, Hefei, China"
+    },
+    {
+      "name": "Jiang-Ning Zhou",
+      "first": "Jiang-Ning",
+      "last": "Zhou",
+      "affiliation": "Hefei National Laboratory for Physical Sciences at the Microscale, Chinese Academy of Sciences Key Laboratory of Brain Function and Disease, University of Science and Technology of China, Hefei, China"
+    },
+    {
+      "name": "Kai Wang",
+      "first": "Kai",
+      "last": "Wang",
+      "affiliation": "Department of Neurology, the First Affiliated Hospital of Anhui Medical University, Hefei, China"
+    },
+    {
+      "name": "Jufang He",
+      "first": "Jufang",
+      "last": "He",
+      "affiliation": "Department of Biology and Chemistry, City University of Hong Kong, Kowloon, Hong Kong, China"
+    },
+    {
+      "name": "Lin Chen",
+      "first": "Lin",
+      "last": "Chen",
+      "affiliation": "Hefei National Laboratory for Physical Sciences at the Microscale, Chinese Academy of Sciences Key Laboratory of Brain Function and Disease, University of Science and Technology of China, Hefei, China",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-5847-2989"
+      ]
+    },
+    {
+      "name": "Zhi Zhang",
+      "first": "Zhi",
+      "last": "Zhang",
+      "affiliation": "Hefei National Laboratory for Physical Sciences at the Microscale, Chinese Academy of Sciences Key Laboratory of Brain Function and Disease, University of Science and Technology of China, Hefei, China",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4205-3181"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2019-08-30",
+  "dateAccepted": "2019-08-14",
+  "dateReceived": "2019-03-11",
+  "volume": "17",
+  "number": "8",
+  "pages": "e3000417",
+  "tags": [
+    "Adeno-associated viruses",
+    "Amniotes",
+    "Anatomy",
+    "Animal behavior",
+    "Animal cells",
+    "Animals",
+    "Auditory cortex",
+    "Auditory system",
+    "Behavior",
+    "Bioassays and physiological analysis",
+    "Biochemistry",
+    "Brain",
+    "Brain mapping",
+    "Cell biology",
+    "Cellular neuroscience",
+    "Cellular types",
+    "DNA viruses",
+    "Discipline-v3/Adeno-associated viruses",
+    "Discipline-v3/Amniotes",
+    "Discipline-v3/Anatomy",
+    "Discipline-v3/Animal behavior",
+    "Discipline-v3/Animal cells",
+    "Discipline-v3/Animals",
+    "Discipline-v3/Auditory cortex",
+    "Discipline-v3/Auditory system",
+    "Discipline-v3/Behavior",
+    "Discipline-v3/Bioassays and physiological analysis",
+    "Discipline-v3/Biochemistry",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Brain",
+    "Discipline-v3/Brain mapping",
+    "Discipline-v3/Cell biology",
+    "Discipline-v3/Cellular neuroscience",
+    "Discipline-v3/Cellular types",
+    "Discipline-v3/DNA viruses",
+    "Discipline-v3/Eukaryota",
+    "Discipline-v3/Inferior colliculus",
+    "Discipline-v3/Mammals",
+    "Discipline-v3/Medical microbiology",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Mice",
+    "Discipline-v3/Microbial pathogens",
+    "Discipline-v3/Microbiology",
+    "Discipline-v3/Neurons",
+    "Discipline-v3/Neurophysiological analysis",
+    "Discipline-v3/Neuroscience",
+    "Discipline-v3/Optogenetics",
+    "Discipline-v3/Organisms",
+    "Discipline-v3/Parvoviruses",
+    "Discipline-v3/Pathogens",
+    "Discipline-v3/Pathology and laboratory medicine",
+    "Discipline-v3/Physiology",
+    "Discipline-v3/Proteins",
+    "Discipline-v3/Psychology",
+    "Discipline-v3/Recombinant proteins",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Rodents",
+    "Discipline-v3/Sensory physiology",
+    "Discipline-v3/Sensory systems",
+    "Discipline-v3/Social sciences",
+    "Discipline-v3/Vertebrates",
+    "Discipline-v3/Viral pathogens",
+    "Discipline-v3/Viruses",
+    "Discipline-v3/Zoology",
+    "Eukaryota",
+    "Inferior colliculus",
+    "Mammals",
+    "Medical microbiology",
+    "Mice",
+    "Microbial pathogens",
+    "Microbiology",
+    "Neurons",
+    "Neurophysiological analysis",
+    "Neuroscience",
+    "Optogenetics",
+    "Organisms",
+    "Parvoviruses",
+    "Pathogens",
+    "Pathology and laboratory medicine",
+    "Physiology",
+    "Proteins",
+    "Psychology",
+    "Recombinant proteins",
+    "Rodents",
+    "Sensory physiology",
+    "Sensory systems",
+    "Type/Research Article",
+    "Vertebrates",
+    "Viral pathogens",
+    "Viruses",
+    "Zoology"
+  ],
+  "abstract": "Threatening sounds can elicit a series of defensive behavioral reactions in animals for survival, but the underlying neural substrates are not fully understood. Here, we demonstrate a previously unexplored neural pathway in mice that projects directly from the auditory cortex (ACx) to the lateral periaqueductal gray (lPAG) and controls noise-evoked defensive behaviors. Electrophysiological recordings showed that the lPAG could be excited by a loud noise that induced an escape-like behavior. Trans-synaptic viral tracing showed that a great number of glutamatergic neurons, rather than GABAergic neurons, in the lPAG were directly innervated by those in layer V of the ACx. Activation of this pathway by optogenetic manipulations produced a behavior in mice that mimicked the noise-evoked escape, whereas inhibition of the pathway reduced this behavior. Therefore, our newly identified descending pathway is a novel neural substrate for noise-evoked escape and is involved in controlling the threat-related behavior.",
+  "fullText": "Introduction\n\nMammals have evolved several strategies to deal with a dangerous situation that rely on behavioral responses such as freezing, escaping, and fighting [1,2], depending on the distance from where threat stimuli occur [3]. Sound is one of the natural threatening stimuli that elicit defensive behaviors. Different auditory stimuli elicit different behaviors, which may be harbored in distinct neural substrates [4]. For example, the superior colliculus (SC)-dorsolateral periaqueductal gray (dlPAG) circuit is recruited in frequency upsweeps–elicited escape [5], whereas the pontine reticular formation-ventrolateral tegmental nucleus circuit is recruited in loud white noise-induced startle responses [6]. Thus, different threat-related behaviors are controlled by a multiplicity of control systems [7,8]. Although many studies have explored the neural substrate of variously elicited defensive behaviors [9–15], the brain circuits underlying specific sound-driven behaviors are not fully understood.\n\nConsiderable evidence from chemical, electrical, and optogenetic studies has revealed an important role of the PAG in conditioned and innate behavioral reactions [5,16–20]. Some fear conditioning studies [9,21] have shown that disinhibition of the ventrolateral periaqueductal gray (vlPAG) results in a freezing reaction to a sound during threat conditioning. A previous study [22] has shown that activation of the dlPAG through stimulation of neural projections from the auditory cortex (ACx) in the cortex of the inferior colliculus (ICx) mediates a sound-evoked flight behavior. A recent study has shown that activation of excitatory inputs from the lateral hypothalamus to the PAG drives evasion [23]. Those studies indicate complex neural substrates and multiple controls of threat-related defensive behaviors centered around the PAG. These studies also implicate that there may exist some unknown neural circuits underlying these behaviors.\n\nIn the present study, using viral tracing strategies, we found that the ACx directly sends excitatory projections to glutamatergic neurons of the lateral periaqueductal gray (lPAG). Optical manipulations of the ACx→lPAG pathway recapitulated the behavioral phenotypes of mice exposed to threatening noise. Our study identifies a novel and cell type–specific glutamatergic (Glu)ACx→GlulPAG projection that controls noise-evoked escape.\n\nResults\n\nInvolvement of GlulPAG neurons in noise-evoked escape behavior\n\nPrevious work has shown that mice exhibit defensive behaviors in response to a loud sound [22,24]. We employed a similar paradigm to detect sound-evoked defensive responses. As shown in Fig 1A, the mice were allowed to habituate to an environment consisting of two chambers. Then, a sound was suddenly delivered in the chamber where the mouse was located. Following a loud white noise stimulus (80-dB sound pressure level [SPL], 5-s duration), the mouse immediately escaped toward the opposite chamber (Fig 1A–1C and S1 Video). To confirm this result, we trained head-fixed mice to freely run above a rotatable plate. Running speeds were measured with a rotatory encoder and recorded by a computer (Fig 1D). In response to the noise, the mice displayed immediate running (Fig 1E and 1F, S2 Video). In contrast, a low-level noise (30–40-dB SPL) with the same duration failed to induce escape behavior during the first trial (Fig 1E, and S1A Fig). The 80-dB SPL noise-evoked escape displayed clear adaptation from the fifth trial of sound stimulation (S1B–S1D Fig). Because the 80-dB SPL noise could reliably induce escape behavior without impairing hearing sensitivity [25], this stimulus was used for the rest of the study.\n\nTo reveal specific brain regions involved in the noise-elicited escape behavior, we assessed expression of the c-Fos protein in the brain following the noise stimulation [26,27]. Compared with control mice that were not exposed to the noise, mice subjected to the noise showed massive c-Fos expression in the limbic and auditory-related areas, including the ACx and lPAG (Fig 1G and 1H, S2 Fig). Furthermore, we performed extracellular recording in freely moving mice [28] and found that the noise at 80-dB SPL, rather than at 40-dB SPL, strongly increased neuronal firing rates in the lPAG (Fig 1I and 1J). In addition, we observed an adaption of noise-evoked neuronal firings in lPAG neurons but not in ACx neurons (S3 Fig). These results suggest that the excitability of lPAG neurons is required for the noise-evoked escape behavior.\n\nGlulPAG neurons have been implicated in promoting flight behavior [9] and were activated by the escape-evoking noise. To test the role of GlulPAG neurons in noise-driven escape behavior, cyclization recombination (Cre)-dependent channelrhodopsin-2 (ChR2) virus (adeno-associated virus [AAV]- double-floxed inverted orientation [DIO]-ChR2-mCherry) was infused into the lPAG of Ca2+/calmodulin-dependent protein kinase II (CaMKII, an enzyme in glutamatergic neurons)-Cre mice to selectively activate GlulPAG neurons (Fig 1K). Whole-cell recordings from ChR2-expressing neurons showed that optical stimulation (473 nm, 10 milliseconds) of the lPAG reliably elicited action potential firing in acute brain slices (Fig 1L). After optical activation of GlulPAG neurons, mice showed multiple defensive behaviors in several paradigms that included escaping toward the opposite chamber, running on the rotatable plate, and wall rearing (Fig 1M and 1N, S4 Fig, S3 Video). Taken together, these results indicate that GlulPAG neurons are sufficient for noise-evoked defensive behavior.\n\nDissection of the pathway from GluACx to GlulPAG\n\nNext, we dissected the ACx→GlulPAG pathway. A retrograde Trans-monosynaptic tracing system was employed to characterize ACx→lPAG contacts. Cre-dependent adeno-associated helper viruses (AAV- elongation factor 1α [Ef1α]-DIO-the subgroup A avian leukosis virus receptor [TVA]-green fluorescent protein [GFP] and AAV-Ef1α-DIO-rabies virus glycoprotein [RVG]) were injected into the lPAG of CaMKII-Cre mice. After three weeks, rabies virus (RV) (avian sarcoma leucosis virus envelope protein [EnvA]-pseudotyped RV-ΔG-DsRed) was injected into the same site (Fig 2A and 2B). The presence of these helper viruses enabled the RV to spread retrogradely across monosynapses. Substantial populations of DsRed-labeled neurons were identified in multiple brain regions, including the ACx (Fig 2C and 2D, S5A and S5B Fig). In the ACx, DsRed-positive cells with apical dendrites protruding towards layer I were distributed within layer V. The DsRed signal co-localized with the glutamate antibody (Fig 2E and 2F, S6F Fig). These results were confirmed with another retrograde tracer, cholera toxin subunit B (CTB)-555 (S6A–S6D Fig). In contrast, no DsRed signal was observed in the ACx from glutamic acid decarboxylase 2 (Gad2, a GABA synthetic enzyme)-Cre mice using the same tracing system (Fig 2C and 2D, S5C and S5D Fig). These results indicate that GlulPAG neurons are selectively innervated by GluACx neurons. To confirm this observation, a Trans-synaptic anterograde virus, AAV-Cre-GFP [24], was injected into the ACx of wild-type mice, and Cre-dependent AAV-DIO-mCherry was injected into the lPAG to visualize Cre recombinase-containing neurons (Fig 2G and 2H). We found that mCherry-positive cells concentrated mainly in the lPAG (Fig 2H) and appeared to be glutamatergic neurons (Fig 2I and 2J). In addition, AAV-DIO-eYFP was injected into the ACx of a reporter mouse strain (CaMKII-Cre × Ai14-tdTomato [Ai14-tdTOM]), which produced transgenic mice with red tdTomato-expressing glutamatergic neurons. We observed that two fluorophores, tdTOM, which indicates glutamatergic neurons, and enhanced yellow fluorescent protein (eYFP), which indicates ACx descending axon terminals, overlapped in the lPAG (S7D and S7E Fig).\n\nTo characterize functional connections of the GluACx→GlulPAG pathway, AAV-DIO-ChR2-mCherry was injected into the ACx of CaMKII-Cre mice (Fig 2K and 2L), and whole-cell patch-clamp recording was performed in acute brain slices (Fig 2M–2P). We observed mCherry-positive (glutamate) cell bodies in the ACx, and numerous mCherry-positive fibers projected to many brain regions, including the lPAG of CaMKII-Cre mice but not Gad2-Cre mice (Fig 2L and S7A–S7C Fig). At a holding potential of −70 mV, optical stimulation of ChR2-containing GluACx terminals in the lPAG reliably elicited excitatory postsynaptic currents (EPSCs) in lPAG neurons, which could be blocked by the α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptor antagonist, 6,7-dinitroquinoxaline-2,3(1H,4H)-dione (DNQX) (Fig 2O and 2P). Taken together, these data demonstrate that GluACx neurons send monosynaptic projections to GlulPAG neurons.\n\nActivation of the GluACx→GlulPAG pathway evoked an escape behavior\n\nGiven increased excitability of lPAG neurons in the presence of noise, we investigated whether activation of the GluACx→GlulPAG pathway produces escape behaviors. As expected, after optical activation of ChR2-containing GluACx terminals (5–8 mW) in the lPAG (Fig 3A and 3B), mice displayed a series of defensive behaviors, including escaping toward and spending more time in the opposite chamber, running on the rotatable plate, and wall rearing (Fig 3C–3H, S4 and S5 Videos). None of these behaviors was observed in the control group. In addition, escape behavior evoked by optical activation of the GluACx→GlulPAG pathway showed an adaptation similar to that evoked by noise (S8A and S8B Fig). Interestingly, co-application of subthreshold noise (40–50-dB SPL) and subthreshold light (4–5 mW) caused the mice to escape but failed to significantly change behavior when presented alone (S8C Fig). These results indicate that activation of the GluACx→GlulPAG pathway is sufficient to drive noise-evoked defensive behavior.\n\nInhibition of the GluACx→GlulPAG pathway attenuated noise-evoked escape behavior\n\nNext, we aimed to investigate whether inhibition of the GluACx→GlulPAG pathway prevents noise-evoked escape behavior. We infused a Cre-dependent AAV carrying enhanced natronomonas pharaonis halorhodopsin (eNpHR) (AAV-DIO-eNpHR3.0-eYFP) into the ACx to suppress activity of GluACx axon projections in CaMKII-Cre mice (Fig 4A–4D). To avoid confounding effects from the contralateral cortex, we inactivated the other side of the ACx pharmacologically with muscimol [10] (Fig 4A and 4D). We found that, after noise stimulation, the number of c-Fos–positive cells was significantly lower in eNpHR-injected mice than in control mice after yellow light stimulation (Fig 4E and 4F). Optical inhibition of eNpHR-containing GluACx terminals in the lPAG significantly reduced the probability of noise-evoked escape, time spent in the opposite chamber following the noise (Fig 4G and 4H), and speed of noise-evoked running for head-fixed mice (Fig 4I and 4J). The light stimuli did not change these behavioral responses at a statistical level in the control group (Fig 4G, 4H, and 4J). In addition, we found that the locomotion during light stimulation was not changed in the open-field test (S9 Fig).\n\nWe also used the chemogenetic method to silence ACx axon terminals in the lPAG by ACx infusion of AAV-DIO-human Gi-coupled M4 muscarinic receptor (hM4Di)-mCherry and lPAG infusion of clozapine-N-oxide (CNO). We found that light-evoked EPSCs in lPAG neurons through optically stimulating ChR2- and hM4Di-expressing ACx fibers were abolished by bath-applied CNO (Fig 4K–4M). Similar noise-evoked defensive behaviors were observed after chemogenetic inhibition of the ACx→lPAG pathway in CaMKII-Cre mice (Fig 4N–4Q). These results indicate that the GluACx→GlulPAG pathway is at least one of the underlying circuits that govern noise-evoked defensive behavior.\n\nAction of GluACx→GlulPAG pathway as a defense circuitry\n\nPrevious work has shown that the ICx receives a descending projection from the ACx [22,29]. Thus, it is possible that action potentials can back-propagate to cell bodies of lPAG-projecting ACx neurons to activate ICx neurons when ACx→lPAG projection fibers are excited [30]. If this is the case, then behavioral effects following activation of the GluACx→GlulPAG pathway may result from sequential activation of the ICx→dlPAG pathway. To address this issue, we first co-injected respectively CTB-488 and CTB-555 into the lPAG and ICx to outline the ACx→lPAG and ACx→ICx pathways (Fig 5A and 5B). Seven days after the injection, we observed a minority of ACx neurons (37.16% ± 3.50%) that send collateral axons to both the lPAG and ICx (Fig 5C and 5D). These results are consistent with previous studies [22,24,31,32].\n\nTo determine whether behavioral responses evoked by activation of the ACx→lPAG pathway depend on the ICx, we used Cre-dependent expression of AAV-DIO-hM4Di-mCherry in the ICx and intraperitoneal injection of CNO to selectively inhibit ICx glutamatergic neurons in CaMKII-Cre mice (Fig 5E–5H). This is based on our finding that most retrogradely traced neurons from the lPAG were positive for glutamate in the ICx (S10A–S10C Fig). Three weeks after injection of AAV-DIO-hM4Di-mCherry into the ICx and that of AAV-DIO-ChR2-eYFP into the ACx, behavioral testing was conducted. We found that 50 minutes after CNO injection (3 mg/kg), optical activation of ChR2-containing GluACx terminals in the lPAG still evoked escaping, running, and wall rearing (Fig 5I–5N). The role of ACx→lPAG projection in eliciting defensive reactions was corroborated in mice with ICx inactivation by AAV-human synapsin (hSyn)-hM4Di-mCherry (S11 Fig). In addition, after injection of AAV-eNpHR-eYFP into the ICx, we found most eNpHR-containing fibers in the dlPAG, rather than in the lPAG (S10D–S10F Fig). Optical inhibition of ICx terminals in the lPAG did not affect noise-evoked escape (S10G–S10I Fig).\n\nTo characterize the collateral pathway from lPAG-projecting ACx neurons, we employed a combinational viral strategy by lPAG infusion of AAV-Retro-Cre and ACx infusion of Cre-dependent AAV-DIO-ChR2, respectively (Fig 6A and 6B). The Cre recombinase-containing neurons were visible in the ACx and mCherry-containing projection fibers were observable in the lPAG, the inferior colliculus (IC), the medial SC (mSC), and the amygdala (Fig 6C). To rule out the involvement of these collateral pathways during optical stimulations, the ACx was silenced with muscimol before behavioral testing (Fig 6D). We found that the escape and running behaviors were reliably evoked by optical activation of ACx terminals in the lPAG after ACx inactivation (Fig 6E–6H). These results indicate that the GluACx→GlulPAG pathway functions as a defense circuit independent of the collateral pathway.\n\nEscape mediated by the mSC→dlPAG pathway\n\nIt has been reported that the mSC conveying cortical inputs to the dlPAG also mediates frequency upsweeps–evoked escape [5,24]. Our anterograde tracing experiment has shown that there were ACx fibers in the mSC (Fig 6C). In order to understand the role of this alternative pathway, we compared the escape behavior evoked by the optically activated ACx→lPAG pathway with that evoked by the optically activated mSC→dlPAG pathway. After infusion of AAV-DIO-ChR2-mCherry into the mSC, the fibers containing mCherry were visible in the dlPAG (Fig 7A–7C). The AAV-ChR2 protocol was verified by successful recordings of light-evoked action potentials in mSC neurons and EPSCs in dlPAG neurons (Fig 7D–7G). Upon optical activation of these terminals, the mice exhibited defensive behaviors, including escape toward the opposite chamber and running on the turntable (Fig 7H–7K). The running evoked by optical activation of the mSC→dlPAG pathway was faster in speed (Fig 7I and 7J) and shorter in the peak latency (Fig 7I and 7K) than that evoked by optical activation of the ACx→lPAG pathway. In addition, light-evoked EPSCs on dlPAG neurons by optical activation of mSC terminals were more pronounced than those associated with lPAG neurons subjected to optical activation of ACx terminals (Fig 7G and Fig 2P). We then examined whether the responses of these two circuits are dependent on the nature of auditory stimuli. Our results showed that escape behaviors evoked by noise were reduced when mSC→dlPAG projections were optically inhibited (S12C Fig). Similarly, escape behaviors evoked by frequency upsweeps were reduced when ACx→lPAG projections were optically inhibited (S12D Fig). These results indicate that the two circuits differentially contribute to the auditory-related defensive behaviors.\n\nDiscussion\n\nIn this study, we have discovered a previously unexplored pathway for controlling noise-evoked escape behaviors that is cell specific and directly descending from the ACx to the lPAG (the GluACx→GlulPAG pathway). The robust supporting evidence for the existence of this pathway came from our viral tracing experiment and optogenetic experiment. Specifically, Trans-synaptic viral tracing revealed that a great number of glutamatergic neurons, rather than GABAergic neurons, in the lPAG are directly innervated by those in layer V of the ACx (Fig 2). Activation of this pathway by optogenetic manipulation mimicked the noise-evoked escape, whereas inhibition of the pathway reduced the escape (Fig 3 and Fig 4). Therefore, we have successfully identified a new pathway that is an important neural substrate for noise-evoked escape and is among the multiple neural circuits controlling threat-related behavior. Fig 8 shows proposed neural networks, including our newly identified one, that are involved in noise-evoked defensive behavior.\n\nThe PAG receives inputs from multiple regions, such as the amygdala, the hypothalamus, and the prefrontal cortex, which are involved in regulation of defensive behaviors [9,23,33,34]. However, our knowledge of the precise cell type–specific projections is limited. In this study, we found that glutamatergic neurons in the layer V of the ACx preferentially innervate lPAG glutamatergic neurons. This finding is interesting because glutamatergic neurons of both ACx and lPAG are flight promoting in auditory defensive behaviors [9,22].\n\nAs the output nucleus of defensive behavior for the PAG, each subdivision mediates a distinct behavior [17,18,23,27,35–37]. Specifically, sound-cued freezing behavior depends on the vlPAG [9], whereas sound-evoked escape largely relies on the dl/lPAG [22]. Our cell-specific viral tracing showed that layer V GluACx neurons preferentially project to the lPAG but not the vlPAG. We also observed an adaptation of noise-evoked firings in the lPAG neurons but not in the ACx neurons, which might account for the adaption of noise-evoked escape behavior. These findings suggest a subregion-specific functional role of the lPAG in sound-driven defensive behaviors. Moreover, our extracellular recordings showed that noise stimulation strongly increased the neuronal firing rate in the lPAG. Given the spatial proximity of the lPAG to the dlPAG, it is necessary to discriminate lPAG and dlPAG neurons by the optotagging approach based on the input specificity in the future study.\n\nBecause corticofugal projections have been found to drive defensive behaviors [22,24], this raises the question of the nature of direct auditory cortical inputs to the lPAG, as well as their role in producing defensive behavior. Approximately 40% of ACx neurons send axon collateral inputs to both lPAG and ICx, resembling the projection pattern of the ventromedial hypothalamus to both the anterior hypothalamic nucleus and PAG [33]. In this study, we found that afferent inputs on PAG neurons differ greatly between these two pathways. ACx descending inputs preferentially target glutamatergic neurons, whereas ICx projecting fibers contact both glutamatergic and GABAergic neurons. Notably, optical activation of the GluACx→GlulPAG pathway elicited defensive behavior when the ICx was deactivated. These findings suggest that the newly identified GluACx→GlulPAG pathway controls noise-evoked escape by bypassing the ICx.\n\nThe mSC receives descending cortical inputs, and the mSC→dlPAG pathway contributes to sound-driven escape [5,24]. Whether the ACx→lPAG pathway functions differentially from the mSC→dlPAG pathway to trigger sound-elicited defensive behaviors requires further investigation. Nevertheless, we found that the running evoked by optical activation of the mSC→dlPAG pathway was faster in speed and shorter in the peak latency than that evoked by optical activation of the ACx→lPAG pathway. In addition, light-evoked EPSCs on dlPAG neurons by optical activation of mSC terminals were more pronounced than those associated with lPAG neurons subjected to optical activation of ACx terminals. These suggest the two circuits differentially contribute to the auditory-related defensive behaviors.\n\nWhen acoustic information reaches the ACx, corticofugal projections send divergent inputs to lPAG neurons, to dlPAG-projecting ICx neurons, and to dlPAG-projecting mSC neurons (Fig 8). The activation of the PAG by monosynaptic ACx→lPAG projections may precede that by ACx→ICx (mSC)→dlPAG projections, suggesting that ACx→lPAG projections might rapidly mobilize the PAG, whereas the mSC and the ICx could amplify descending cortical controls [5,24].\n\nSome fear conditioning studies showed that the ACx is indispensable for complex sound-cued fear but not for tone-cued fear [38–40]. Our present study also indicates an indispensable role of the ACx in the escape response to a white noise, but we are not sure whether the ACx is required for an escape response when a pure tone is used. It should be noted that there exist at least three major discrepancies between our behavioral paradigms and those in fear conditioning. (1) The innately elicited behaviors in the present study do not require, but learned fear behaviors do require, a training stage of associating a conditioned stimulus and unconditioned stimulus [41]. (2) The neural circuits recruited by these behaviors might also be quite different [2,4]. (3) We used a white noise for innately elicited escape, whereas others used complex sound, such as frequency-modulated sweep sound, for threat conditioning. Given those discrepancies, it is hard to predict how important the role of the ACx is in the escape behavior elicited by a complex sound. Further study is required to elucidate this issue.\n\nThe ACx evaluates the nature of threatening acoustic signals [22]. The cognitive control served by cortical processing could generate flexible defense behavior that is unlike the stereotyped behavior served by the subcortical circuit [42–45]. It has been reported that the ACx [46,47] and prefrontal cortex–zona incerta–lPAG circuit [20] may account for the extinction of learned fear. In this way, the neural network of the ACx might contribute to multiple auditory threat–related behaviors, such as noise-evoked escape behavior and its adaptation in the current study.\n\nMaterials and methods\n\nEthics statement\n\nAll animal protocols were approved by the Animal Care and Use Committee of the University of Science and Technology of China (USTCACUC1402021) and in accordance with the National Institutes of Health Guide for the Care and Use of Laboratory Animals.\n\nAnimals\n\nIn all experiments, C57BL/6J, CaMKII-Cre, Gad2-Cre, and Ai14 (RCL tdT) male mice (purchased from Charles River or Jackson Laboratories) at 8–10 weeks of age were used. Until the cannula surgery, the mice were housed five per cage in a colony with ad libitum access to water and food (standard mouse chow). They were maintained under a 12-hour light/dark cycle (lights on from 7:00 AM to 7:00 PM) at a stable temperature (23–25°C).\n\nVirus injection\n\nPrior to surgery, the mice were fixed in a stereotactic frame (RWD, Shenzhen, China) under a combination of xylazine (10 mg/kg) anesthesia and ketamine (100 mg/kg) analgesia. A heating pad was used to maintain the core body temperature of the animals at 36°C. A volume of 100–300 nL virus (depending on the expression strength and viral titer) was injected using calibrated glass microelectrodes connected to an infusion pump (micro 4, WPI, Sarasota, FL) at a rate of 30 nL/minute. The coordinates were defined as dorsoventral (DV) from the brain surface, anterior-posterior (AP) from bregma, and mediolateral (ML) from the midline (in mm) [48,49].\n\nFor retrograde monosynaptic tracing, helper viruses that contained rAAV-Ef1α-DIO-RVG-WPRE-pA (AAV-DIO-RVG, AAV2/9, 2 × 1012 vg/mL) and rAAV-Ef1α-DIO-EGFP-2a-TVA-WPRE-pA (AAV-DIO-TVA-GFP, AAV2/9, 2 × 1012 vg/mL; 1:2, 200 nL) were co-injected into the lPAG of Cre transgenic mice (AP, 4.65 mm; ML, 0.6 mm; DV, 1.5 mm). After three weeks, RV-ENVA-ΔG-DsRed (2 × 108 IFU/mL, 300 nL) was injected into the same site in the lPAG [50]. The retrograde tracers CTB-488 and CTB-555 (0.1 mg/mL, 100 nL, ThermoFisher) was also used to trace the ACx neurons projecting to the lPAG and ICx. Mice that had been anesthetized with pentobarbital (20 mg/kg, i.p.) were transcardially perfused 7 days after the last injection, and brain slices were prepared (40 μm) for DsRed tracing or co-staining with glutamate or GABA antibody.\n\nFor anterograde tracing, the Cre-dependent virus rAAV-Ef1α-DIO-hChR2(H134R)-mCherry-WPRE-pA (AAV-DIO-ChR2-mCherry, AAV2/9, 1.63 × 1013 vg/mL, 200 nL) was delivered into the ACx of Cre transgenic mice (AP, 2.45 mm; ML, 4.6 mm; DV, 0.9 mm). After four weeks, the expression of mCherry was detected in the whole brain. In some experiments, rAAV-Ef1α-DIO-eNpHR3.0-eYFP-WPRE-pA (AAV-DIO-eNpHR3.0-eYFP, AAV2/9, 1.18 × 1013 vg/mL) or AAV-hSyn-hChR2(H134R)-ER2-P2A-mCherry (AAV2/9, 5.7 × 1012 vg/mL, Taitool, Shanghai, China) was used in the ACx or mSC (AP, 4.6 mm; ML, 0.5 mm; DV, 0.9 mm) for optogenetic manipulation. For Trans-synaptic anterograde tracing, the AAV-CMV bGlobin-Cre-eGFP (AAV-Cre-GFP, AAV1, 2.79 × 1013 vg/mL, 250 nL, Taitool) was injected into the ACx, and the pAAV-Ef1α-DIO-mCherry-WPRE-pA into the lPAG at the same time in wild-type mice. The rAAV-Ef1α-DIO-hM4D(Gi)-mCherry-WPRE-pA (AAV-DIO-hM4Di-mCherry, AAV2/9, 3.69 × 1013 vg/mL) or AAV-hSyn-hM4D(Gi)-ER2-P2A-mCherry (AAV-hSyn-hM4Di-mCherry, AAV2/9, 5.66 × 1012 vg/mL, Taitool) viruses were delivered into the IC (AP, 5.01 mm; ML, 1.35 mm; DV, 0.9 mm) or ACx for chemogenetic manipulations three weeks after injection. In order to validate chemogenetic terminal inactivation, AAV-DIO-hM4Di-mCherry and AAV-DIO-ChR2-mCherry were co-injected into the ACx. In a viral strategy to visualize collateral pathways, AAV-Retro Plus-CMV-bGI-Cre-eGFP (AAV-Retro-Cre-GFP, AAV2/2Retro Plus, 2.03 × 1013 vg/mL, 70 nL, Taitool) was injected into the lPAG, and AAV-DIO-ChR2-mCherry into the ACx at the same time in wild-type mice. The rAAV-Ef1α-DIO-mCherry-WPRE-pA (AAV-DIO-mCherry, AAV2/8, 8.93 × 1012 vg/mL) and rAAV-DIO-eYFP-WPRE-pA (AAV-DIO-eYFP, AAV2/9, 1.95 × 1012 vg/mL) viruses were used as controls. Unless otherwise stated, all viruses were packaged by BrainVTA (Wuhan, China). All mice were Trans-cardially perfused with 0.9% saline, followed by ice-cold phosphate buffer (0.1 M) that contained 4% paraformaldehyde (PFA). Images of the signal expression were acquired with a confocal microscope (LSM 710, Carl Zeiss, Germany). Animals with missed injections were excluded.\n\nOptogenetic manipulations in vivo\n\nAn optical fiber was initially implanted into the lPAG, in the brain of an anesthetized mouse that had been immobilized in a stereotaxic apparatus. The implant was secured to the animal’s skull with dental cement. Chronically implantable fibers (diameter, 200 μm, Newdoon, Hangzhou) were connected to a laser generator using optic fiber sleeves. The delivery of blue light (473 nm, 5–8 mW, 20 Hz, 10-millisecond pulses) or yellow light (594 nm, 5–8 mW, constant) was controlled by a Master-8 pulse stimulator (A.M.P.I., Jerusalem, Israel). The same stimulus protocol was applied to the mice in the control group. The mice were allowed at least 10 days for recovery before injections to minimize stress during the behavioral assays. The location of the fibers was examined in all mice at the conclusion of the experiments, and data obtained from mice in which the fibers were located outside of the desired brain region were discarded. Behavioral assays were performed immediately after light stimulation.\n\nLocal drug infusion\n\nAn internal stainless steel injector attached to a 10-μL syringe (Hamilton, Reno, NV) and an infusion pump was inserted into the guide cannula (I.D. 0.34 mm, RWD, Shenzhen, China) and used to infuse muscimol (0.2 μL, 0.5 mg/mL) into the left ACx or mSC [10] absent of virus injection or CNO (0.1 μL, 1 mg/mL) into the right lPAG at a flow rate of 100 nL per minute. The injector was slowly withdrawn 2 minutes after the infusion, and the behavioral assays were performed approximately 30 minutes after the infusion.\n\nIn vivo electrophysiological recording\n\nAnimals were prepared for surgery as described above [28,51]. For chronic extracellular recordings (Fig 1I and 1J, S3 Fig), a custom-made four movable tetrode array was implanted into the lPAG (AP, 4.65 mm; ML, 0.6 mm; DV, 1.3 mm) and the ACx (AP, 2.45 mm; ML, 3.8 mm; DV, 0.9 mm). Each tetrode was made of four twisted fine platinum/iridium wires (12.5-μm diameter, California Fine Wire, Grover Beach, CA). The screw-based microdrive scaffolds for lowering the electrodes were cemented onto the skull. The mice were allowed to recover for at least 3 days before recordings were made. The recording sites were verified by passing an electrical current (20 μA, 15–20 seconds) to lesion the brain tissue at the end of all experiments. For head-fixed recordings (S11E and S11F Fig), a screw for head fixation was cemented on top of the skull. An array of two electrodes, one as recording electrode (approximately 1.0 MΩ, FHC, Bowdoin, ME) and the other tip-stripped electrode as reference, were positioned with a stepping-motor microdriver. Auditory stimuli were generated digitally using a computer-controlled Auditory Workstation from Tucker-Davis Technologies (TDT, Alachua, FL) and delivered through an open-field magnetic speaker (MF1, TDT) with an interval of 30 seconds. SPL was calibrated with a condenser microphone (Center Technology, Taiwan). Recording electrodes were attached to a 16-channel headstage, and neuronal signals were amplified, filtered at a bandwidth of 300–5,000 Hz, and stored using TDT software (OpenEX, TDT). Spike sorting was performed with a sorting method involving a T-Dis E-M algorithm built in Offline Sorter 4 (Plexon, USA). The firing rates of sorted units were calculated using Neuroexplorer 5 (Nex Technologies, USA). Peristimulus histograms (PSTHs) of firing rates were computed over a bin width of 10 milliseconds for each unit between −1 and 6 seconds, and in this time window the mean and SD of firing rates across all bins were calculated. The units with firing rates during noise stimulation between 99% confidence interval (mean ± 2.576 SD) are classified as not responsive ones, and those higher or lower than the confidence interval are sound-promoting or sound-inhibiting ones, respectively.\n\nBrain slice electrophysiology\n\nBrain slice preparation\n\nAcute brain slices were prepared as previously described [52]. Mice were deeply anesthetized with pentobarbital sodium (2% w/v, i.p.) and intracardially perfused with approximately 20 mL ice-cold oxygenated modified N-methyl-D-glucamine artificial cerebrospinal fluid (NMDG ACSF) that contained (in mM) 93 NMDG, 2.5 KCl, 1.2 NaH2PO4, 30 NaHCO3, 20 HEPES, 25 glucose, 2 thiourea, 5 Na-ascorbate, 3 Na-pyruvate, 0.5 CaCl2, 10 MgSO4, and 3 glutathione (GSH). The pH of the ACSF was 7.3–7.4, and osmolarity was 300–305 mOsm/kg. Coronal slices (300 μm) that contained the ACx, IC, mSC, or PAG were sectioned at 0.18 mm/second on a vibrating microtome (VT1200s, Leica, Germany). The brain slices were initially incubated in NMDG ACSF for 10–12 min at 33°C, followed by HEPES ACSF that contained (in mM) 92 NaCl, 2.5 KCl, 1.2 NaH2PO4, 30 NaHCO3, 20 HEPES, 25 glucose, 2 thiourea, 5 Na-ascorbate, 3 Na-pyruvate, 2 CaCl2, 2 MgSO4, and 3 GSH (pH, 7.3–7.4; osmolarity, 300–305 mOsm/kg) for at least 1 hour at 25°C. The brain slices were transferred to a slice chamber (Warner Instruments, Hamden, CT) for electrophysiological recording and were continuously perfused with standard ACSF that contained (in mM) 124 NaCl, 2.4 CaCl2, 5 KCl, 1.3 MgSO4, 26.2 NaHCO3, 1.2 KH2PO4, and 10 glucose (pH, 7.3–7.4; osmolarity, 300–305 mOsm/kg) at 2.5–3 mL/minute at 32°C. The temperature of the ACSF was maintained by an in-line solution heater (TC-344B, Warner Instruments).\n\nWhole-cell patch-clamp recordings\n\nNeurons in the slice were visualized using a 40× water-immersion objective on an upright microscope (BX51WI, Olympus, Japan) equipped with interference contrast (IR/DIC) and an infrared camera connected to the video monitor. Whole-cell patch-clamp recordings were obtained from visually identified ACx layer V, ICx, mSC, or PAG cells. Patch pipettes (3–5 MΩ) were pulled from borosilicate glass capillaries (VitalSense Scientific Instruments Co., Wuhan, China) with an outer diameter of 1.5 mm on a four-stage horizontal puller (P1000, Sutter Instruments, Novato, CA) and filled with intracellular solution that contained (in mM) 130 K-gluconate, 2 MgCl2, 5 KCl, 0.6 EGTA, 10 HEPES, 2 Mg-ATP, 0.3 Na-GTP (pH, 7.3–7.2; osmolarity, 285–290 mOsm/kg). The neurons were held at −70 mV in voltage-clamp mode to record the membrane currents and at 0 pA in current-clamp mode to record the membrane voltages. The signals were acquired via a Multiclamp 700B amplifier (Molecular Devices, Sunnyvale, CA), low-pass filtered at 2.8 kHz, digitized at 10 kHz, and analyzed with Clampfit 10.7 software (Molecular Devices). If the series resistance changed more than 20% during the recording, the experimental recording was immediately terminated.\n\nLight-evoked responses\n\nOptical stimulation was delivered using a laser (Shanghai Fiblaser Technology Co., China) through an optical fiber 200 μm in diameter positioned 0.2 mm from the surface of the brain slice. To test the functional characteristics of AAV-DIO-ChR2, fluorescently labeled neurons expressing ChR2 in CaMKII-Cre mice 3–4 weeks after virus injection were visualized and stimulated with a blue light (473 nm, 5–10 mW) using 5-Hz, 10-Hz, or 20-Hz stimulation protocols with a pulse width of 10 milliseconds. Similarly, the function of AAV-DIO-eNpHR3.0 was assessed in fluorescently labeled neurons expressing eNpHR by applying sustained yellow light stimulation (594 nm, 5–10 mW, 200 milliseconds). For electrophysiological recording of monosynaptic postsynaptic currents, 1 μM tetrodotoxin (TTX) and 1 mM 4-aminopyridine (4-AP) were added to the bath solution to eliminate the polysynaptic components, and blue light (473 nm, 10-millisecond pulse) was delivered to the lPAG or dlPAG of CaMKII-Cre mice in which the ACx or mSC had been injected with AAV-DIO-ChR2-mCherry. DNQX (10 μM) was used to block glutamate receptors. Unless otherwise stated, all drugs were purchased from Sigma-Aldrich (St. Louis, MO). TTX was obtained from Hebei Aquatic Science and Technology Development Company, China.\n\nImmunohistochemistry\n\nThe mice were deeply anesthetized with pentobarbital sodium (50 mg/kg, i.p.) and sequentially perfused with saline and 4% (w/v) PFA. The brains were subsequently removed and postfixed in 4% PFA at 4°C overnight. After cryoprotection of the brains with 30% (w/v) sucrose, coronal sections (40 μm) were cut on a cryostat (Leica CM1860, Germany) and used for immunofluorescence. The sections were incubated in 0.3% (v/v) Triton X-100 for 0.5 hour, blocked with 10% donkey serum for 1 hour at room temperature, and incubated with primary antibodies, including anti-c-Fos (1:500, rabbit, Santa Cruz Biotechnology, Dallas, TX), anti-glutamate (1:500, rabbit, Sigma-Aldrich), and anti-GABA (1:500, rabbit, Sigma Aldrich) at 4°C for 24 hours, followed by the corresponding fluorophore conjugated secondary antibodies for 2 hours at room temperature. Fluorescence signals were visualized using Leica DM2500 and Zeiss LSM710 microscopes and analyzed using ImageJ 1.4 (NIH). For counting immunoreactive cells, the 8-bit grayscale image was background subtracted before applying a threshold to all images. The threshold was adjusted within 10% of the average intensity, and cells at or above the threshold are considered immunopositive.\n\nBehaviors\n\nAll behavioral tests were conducted within a soundproof chamber, and mice were habituated for 3 days prior to testing. Auditory stimuli of white noise or frequency upsweeps (frequency-modulated upsweep from 17 to 20 kHz over 3 seconds) were generated through a RZ6 Multi I/O Processor (TDT, Alachua, FL) and delivered by MF1 open-field magnetic speakers. SPL was calibrated carefully. During each testing session, behavior was recorded using an infrared camera. Blue light was generally delivered at 20 Hz for 10–20 seconds with the exception of 5 minutes for testing wall rearing. The duration of the yellow light was identical to that of sound. The experimental area was cleaned with 75% ethanol after each test to remove olfactory cues from the apparatus. To avoid behavioral adaptation, the mouse for the optogenetic experiment (Fig 3, Fig 5, Fig 6, and Fig 7) was not exposed to sound unless the synergetic effect of light and noise on escape behavior was evaluated (S8 Fig).\n\nEscape behavior test\n\nMice were placed in a behavioral box (40 × 25 × 25 cm) consisting of two chambers and a middle plate. Two speakers were placed on the walls of each chamber. Each mouse was allowed to freely explore the surroundings and cross the opening in the plate toward the opposite side. Sound was delivered from the chamber where the mouse was located. Time spent in the opposite chamber was determined within 30 seconds from the end of sound or light delivery. The probability and time spent in the opposite chamber for each mouse were averaged across five trials.\n\nRunning behavior test for head-fixed mice\n\nMice with implanted optical fibers were used in this set of experiments. Each mouse was clamped to a fixing bar on the optic fiber sleeve and allowed to adapt to head fixation. Then, the mouse could run freely on a Plexiglass circular plate (diameter, 30 cm) that was connected to a rotatory encoder used to record running speed. The data were digitized and stored on the computer for offline analysis. Sounds were delivered from a speaker placed 10 cm from the ear of each head-fixed mouse.\n\nWall rearing behavior test\n\nEach mouse was placed in a single box (50 × 50 × 60 cm) to observe blue light–evoked wall rearing behavior. Offline inspection of the video was performed to determine the number and total duration of wall rearing within a time window of 5 minutes before and during light stimulation.\n\nOpen-field test\n\nMice were placed in one corner of an open-field apparatus that consisted of a square area (25 × 25 cm) and a marginal area (50 × 50 × 60 cm); the mice were allowed to freely explore their surroundings. The animals’ movement trajectories were recorded for 5 minutes using EthoVision XT software 8.5 (Noldus Information Technology).\n\nStatistical analysis\n\nOriginPro 2017 (OriginLab Corporation) or GraphPad Prism 7 (GraphPad Software) were used for statistical analysis and graphing. All values are expressed as the means ± SEM. Student t test and two-way repeated measures ANOVA were used to evaluate statistical significance level unless otherwise stated. Mann-Whitney U test was used if data are not normally distributed. Significance levels are indicated as *P &lt; 0.05, **P &lt; 0.01, and ***P &lt; 0.001.\n\nSupporting information"
+}

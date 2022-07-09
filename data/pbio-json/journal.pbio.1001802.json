@@ -1,0 +1,38 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001802",
+  "doi": "10.1371/journal.pbio.1001802",
+  "externalIds": [
+    "pii:PBIOLOGY-D-14-00136",
+    "pmid:24586117",
+    "pmcid:PMC3934817"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "How Brain Circuits Adapt to Changes in Sensory Experience",
+  "authors": [
+    {
+      "name": "Janelle Weaver",
+      "first": "Janelle",
+      "last": "Weaver",
+      "affiliation": "Freelance Science Writer, Carbondale, Colorado, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2014-02",
+  "volume": "12",
+  "number": "2",
+  "pages": "e1001802",
+  "tags": [
+    "Discipline-v2/Biology",
+    "Discipline-v2/Neuroscience",
+    "Neuroscience",
+    "Type/Synopsis"
+  ],
+  "fullText": "The cerebral cortex, the outer portion of the brain, consists of a layered structure of neural tissue that contains the cell bodies of neurons and plays a key role in perception and cognition. Although cortical circuits throughout the brain share similarities, the patterns of connections among neurons in different brain regions can vary widely. Yet, relatively little is known about how region-specific wiring patterns relate to information processing in the brain.\n\nIn a study published in PLOS Biology, Dennis Kätzel and Gero Miesenböck of the University of Oxford investigated how wiring patterns in the brains of adult mice adapt to changes in sensory input. They found that distinct connections in neural networks responded in different ways to sensory changes, allowing neurons to continue to function optimally. The findings reveal a remarkable level of adaptability in cortical circuits of the adult brain.\n\nTo examine how brain circuits adapt to changes in sensory experience, the researchers used optogenetic mapping, a technique that combines genetics and optics to precisely control the activity of individual neurons. Kätzel and Miesenböck inserted channelrhodopsin, a light-sensitive receptor protein originally found in algae, into neurons, making them sensitive to activation by light of specific wavelengths. This allowed them to control the activity of these neurons and study their wiring patterns and function.\n\nThe researchers first examined how neural circuits would change in response to sensory deprivation. They trimmed the whiskers of adult mice to deprive the animals of tactile sensation for two to three weeks, and then prepared slices from barrel cortex, a brain region involved in processing tactile information from the whiskers. The researchers stimulated neurons in barrel cortex and then recorded light-evoked neural activity to map out neuronal connections. They found that sensory deprivation caused an overall reduction in inhibitory neural activity in cortical circuits, consistent with previous findings in brain regions that process visual information.\n\nBut this new study paints a more refined picture. Different neuronal connections responded in different ways to sensory deprivation. Neurons in layer 5 of barrel cortex stopped sending inhibitory signals to neurons in layer 2/3, making layer 2/3 neurons more excitable. This change may be an autoregulatory adaptation, because the lack of tactile signals from the whiskers had caused a sharp decrease in excitatory neural activity in barrel cortex. The release from inhibition could prevent a total shutdown of neural function, allowing neurons in layer 2/3 to continue to process even weak tactile signals in the wake of sensory deprivation.\n\nOn the other hand, neurons in layer 1 sent more inhibitory signals to neurons in layer 2/3 in response to sensory deprivation. Because layer 1 neurons carry information from higher brain regions involved in complex perceptual and cognitive processes, this adaptation could reflect top-down suppression of unusual activity in layer 2/3 neurons, which were no longer responding normally after sensory deprivation.\n\nMoreover, these changes in cortical wiring patterns were entirely reversible. In a different experiment, the researchers trimmed the whiskers of adult mice for several weeks and then allowed the whiskers to regrow for four to five weeks before preparing the brain slices. The return to normal sensory stimulation restored the original level of inhibitory signals from neurons in layers 1 and 5 to neurons in layer 2/3. This finding suggests that changes in sensory stimulation do not destroy the underlying physical structure of neuronal connections, but rather modify the patterns of communication between neurons in cortical circuits.\n\nTaken together, the findings suggest that specific neuronal connections can respond in independent and sometimes opposite ways to changes in sensory input. Surprisingly, these reversible changes occur in adulthood, well past the time window during which neuronal connections are thought to adapt to environmental fluctuations. The ability of wiring motifs to change in sophisticated ways could reflect a self-regulating mechanism that ensures optimal neural function in cortical circuits despite changes in sensory experience.\n\nKätzel D, Miesenböck G (2014) Experience-Dependent Rewiring of Specific Inhibitory Connections in Adult Neocortex. doi:10.1371/journal.pbio.1001798"
+}

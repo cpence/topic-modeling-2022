@@ -1,0 +1,60 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0030264",
+  "doi": "10.1371/journal.pbio.0030264",
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Correction: Human MicroRNA Targets",
+  "authors": [
+    {
+      "name": "Bino John",
+      "first": "Bino",
+      "last": "John"
+    },
+    {
+      "name": "Anton J Enright",
+      "first": "Anton J",
+      "last": "Enright"
+    },
+    {
+      "name": "Alexei Aravin",
+      "first": "Alexei",
+      "last": "Aravin"
+    },
+    {
+      "name": "Thomas Tuschl",
+      "first": "Thomas",
+      "last": "Tuschl"
+    },
+    {
+      "name": "Chris Sander",
+      "first": "Chris",
+      "last": "Sander"
+    },
+    {
+      "name": "Debora S Marks",
+      "first": "Debora S",
+      "last": "Marks"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2005-07",
+  "dateElectronic": "2005-07-12",
+  "volume": "3",
+  "number": "7",
+  "pages": "e264",
+  "tags": [
+    "Discipline/Cell Biology",
+    "Discipline/Computational Biology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Molecular Biology",
+    "System Taxonomy/Homo (human)",
+    "Type/Correction"
+  ],
+  "fullText": "In PLoS Biology, volume 2, issue 11: DOI: 10.1371/journal.pbio.0020363\n\nWe incorrectly named the products of two genes, gamma actin and betaAPP, as FMRP ligands because of a misreading of Table 1 from [1]. BetaAPP is incorrectly referred to as an FMRP ligand in Tables 2 and S9, gamma actin in Table S9 only. This does not change the use of FMRP binding as a way to support the target predictions, as the statistics remain virtually the same; the enrichment of FMRP targets within the predicted microRNA target set changes from 5.31 to 5.26 as a result of our misclassification. In addition, it does not change the fact that betaAPP is a predicted microRNA target. Our Web site at http://www.microrna.org/ contains the updated information with changes flagged. We thank Dr. Denman for pointing out this error to us."
+}

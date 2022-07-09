@@ -1,0 +1,201 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.2006613",
+  "doi": "10.1371/journal.pbio.2006613",
+  "externalIds": [
+    "pii:pbio.2006613",
+    "pmid:30566428",
+    "pmcid:PMC6347294"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "MEKK3 coordinates with FBW7 to regulate WDR62 stability and neurogenesis",
+  "authors": [
+    {
+      "name": "Dan Xu",
+      "first": "Dan",
+      "last": "Xu",
+      "affiliation": "State Key Laboratory of Molecular Developmental Biology, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China; College of Biological Science and Engineering, Institute of Life Sciences, Fuzhou University, Fuzhou, China"
+    },
+    {
+      "name": "Minghui Yao",
+      "first": "Minghui",
+      "last": "Yao",
+      "affiliation": "State Key Laboratory of Molecular Developmental Biology, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China"
+    },
+    {
+      "name": "Yaqing Wang",
+      "first": "Yaqing",
+      "last": "Wang",
+      "affiliation": "State Key Laboratory of Molecular Developmental Biology, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China"
+    },
+    {
+      "name": "Ling Yuan",
+      "first": "Ling",
+      "last": "Yuan",
+      "affiliation": "Center for Medical Genetics, School of Life Sciences, Central South University, Changsha, Hunan, China"
+    },
+    {
+      "name": "Joerg D. Hoeck",
+      "first": "Joerg D.",
+      "last": "Hoeck",
+      "affiliation": "CR-UK London Research Institute, London, United Kingdom"
+    },
+    {
+      "name": "Jingwen Yu",
+      "first": "Jingwen",
+      "last": "Yu",
+      "affiliation": "State Key Laboratory of Molecular Developmental Biology, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China"
+    },
+    {
+      "name": "Liang Liu",
+      "first": "Liang",
+      "last": "Liu",
+      "affiliation": "State Key Laboratory of Molecular Developmental Biology, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China"
+    },
+    {
+      "name": "Yvonne Y. C. Yeap",
+      "first": "Yvonne Y. C.",
+      "last": "Yeap",
+      "affiliation": "School of Biomedical Science, Faculty of Medicine, University of Queensland, St Lucia, Australia"
+    },
+    {
+      "name": "Weiya Zhang",
+      "first": "Weiya",
+      "last": "Zhang",
+      "affiliation": "State Key Laboratory of Molecular Developmental Biology, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China"
+    },
+    {
+      "name": "Feng Zhang",
+      "first": "Feng",
+      "last": "Zhang",
+      "affiliation": "State Key Laboratory of Molecular Developmental Biology, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China"
+    },
+    {
+      "name": "Yinghang Feng",
+      "first": "Yinghang",
+      "last": "Feng",
+      "affiliation": "Sino-Danish College, University of Chinese Academy of Science, Beijing, China"
+    },
+    {
+      "name": "Tiantian Ma",
+      "first": "Tiantian",
+      "last": "Ma",
+      "affiliation": "State Key Laboratory of Molecular Developmental Biology, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China"
+    },
+    {
+      "name": "Yujie Wang",
+      "first": "Yujie",
+      "last": "Wang",
+      "affiliation": "College of Biological Science and Engineering, Institute of Life Sciences, Fuzhou University, Fuzhou, China"
+    },
+    {
+      "name": "Dominic C. H. Ng",
+      "first": "Dominic C. H.",
+      "last": "Ng",
+      "affiliation": "School of Biomedical Science, Faculty of Medicine, University of Queensland, St Lucia, Australia"
+    },
+    {
+      "name": "Xiaoyin Niu",
+      "first": "Xiaoyin",
+      "last": "Niu",
+      "affiliation": "Shanghai Institute of Immunology, Shanghai Jiao Tong University School of Medicine, Shanghai, China"
+    },
+    {
+      "name": "Bing Su",
+      "first": "Bing",
+      "last": "Su",
+      "affiliation": "Shanghai Institute of Immunology, Shanghai Jiao Tong University School of Medicine, Shanghai, China; Department of Immunobiology, Yale University School of Medicine, New Haven, Connecticut, United States of America"
+    },
+    {
+      "name": "Axel Behrens",
+      "first": "Axel",
+      "last": "Behrens",
+      "affiliation": "Adult Stem Cell Laboratory, The Francis Crick Institute, London, United Kingdom; King’s College London, Faculty of Life Sciences and Medicine, Guy’s Campus, London, United Kingdom"
+    },
+    {
+      "name": "Zhiheng Xu",
+      "first": "Zhiheng",
+      "last": "Xu",
+      "affiliation": "State Key Laboratory of Molecular Developmental Biology, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China; Sino-Danish College, University of Chinese Academy of Science, Beijing, China; Parkinson’s Disease Center, Beijing Institute for Brain Disorders, Beijing, China",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4809-2851"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2018-12-19",
+  "dateAccepted": "2018-11-27",
+  "dateReceived": "2018-05-11",
+  "volume": "16",
+  "number": "12",
+  "pages": "e2006613",
+  "tags": [
+    "Biochemistry",
+    "Brain development",
+    "Bromodeoxyuridine labeling",
+    "Cell biology",
+    "Cell labeling",
+    "Cell signaling",
+    "Developmental biology",
+    "Discipline-v3/Biochemistry",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Brain development",
+    "Discipline-v3/Bromodeoxyuridine labeling",
+    "Discipline-v3/Cell biology",
+    "Discipline-v3/Cell labeling",
+    "Discipline-v3/Cell signaling",
+    "Discipline-v3/Developmental biology",
+    "Discipline-v3/Enzymes",
+    "Discipline-v3/Enzymology",
+    "Discipline-v3/Green fluorescent protein",
+    "Discipline-v3/Immunoprecipitation",
+    "Discipline-v3/Luminescent proteins",
+    "Discipline-v3/Molecular biology",
+    "Discipline-v3/Molecular biology techniques",
+    "Discipline-v3/Nuclear staining",
+    "Discipline-v3/Organism development",
+    "Discipline-v3/Organogenesis",
+    "Discipline-v3/Phosphorylation",
+    "Discipline-v3/Post-translational modification",
+    "Discipline-v3/Precipitation techniques",
+    "Discipline-v3/Protein kinases",
+    "Discipline-v3/Proteins",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Signal transduction",
+    "Discipline-v3/Signaling cascades",
+    "Discipline-v3/Specimen preparation and treatment",
+    "Discipline-v3/Staining",
+    "Discipline-v3/Ubiquitination",
+    "Discipline-v3/c-Jun N-terminal kinase signaling cascade",
+    "Enzymes",
+    "Enzymology",
+    "Green fluorescent protein",
+    "Immunoprecipitation",
+    "Luminescent proteins",
+    "Molecular biology",
+    "Molecular biology techniques",
+    "Nuclear staining",
+    "Organism development",
+    "Organogenesis",
+    "Phosphorylation",
+    "Post-translational modification",
+    "Precipitation techniques",
+    "Protein kinases",
+    "Proteins",
+    "Signal transduction",
+    "Signaling cascades",
+    "Specimen preparation and treatment",
+    "Staining",
+    "Type/Research Article",
+    "Ubiquitination",
+    "c-Jun N-terminal kinase signaling cascade"
+  ],
+  "abstract": "Mutations of WD repeat domain 62 (WDR62) lead to autosomal recessive primary microcephaly (MCPH), and down-regulation of WDR62 expression causes the loss of neural progenitor cells (NPCs). However, how WDR62 is regulated and hence controls neurogenesis and brain size remains elusive. Here, we demonstrate that mitogen-activated protein kinase kinase kinase 3 (MEKK3) forms a complex with WDR62 to promote c-Jun N-terminal kinase (JNK) signaling synergistically in the control of neurogenesis. The deletion of Mekk3, Wdr62, or Jnk1 resulted in phenocopied defects, including premature NPC differentiation. We further showed that WDR62 protein is positively regulated by MEKK3 and JNK1 in the developing brain and that the defects of wdr62 deficiency can be rescued by the transgenic expression of JNK1. Meanwhile, WDR62 is also negatively regulated by T1053 phosphorylation, leading to the recruitment of F-box and WD repeat domain-containing protein 7 (FBW7) and proteasomal degradation. Our findings demonstrate that the coordinated reciprocal and bidirectional regulation among MEKK3, FBW7, WDR62, and JNK1, is required for fine-tuned JNK signaling for the control of balanced NPC self-renewal and differentiation during cortical development.",
+  "fullText": "Introduction\n\nEstablishment of the mammalian neocortex requires precise control of proliferation and self-renewal of neural progenitor cells (NPCs), as well as the differentiation of NPCs and neuronal migration [1–4]. Defects in these processes lead to brain disorders, including autosomal recessive primary microcephaly (MCPH) [5–8]. During cortical development, the balance between symmetric and asymmetric cell division of NPCs determines the size of the NPC pool for ongoing neurogenesis and ultimately brain size [9–16]. Disturbance in symmetric cell division leads to a reduction in the NPC pool and a falloff of neuron production [10,14,16–19].\n\nMCPH is a neural developmental disorder characterized by significantly reduced brain size and variable intellectual disability [20,21]. Most of the 23 MCPH-associated genes (MCPH1-23) identified so far are predicted to be associated with the mitotic apparatus, such as centrosomes or mitotic spindle poles, at least during part of the cell cycle [6,22–33].\n\nWD repeat domain 62 (WDR62) was identified as a causative gene of MCPH [22–24]. More than 50% of MCPH cases worldwide are caused by mutations in either abnormal spindle-like microcephaly-associated (ASPM) or WDR62 [7,21]. WDR62 has been reported to be a scaffold protein for the c-Jun N-terminal kinase (JNK) signaling pathway by forming a complex with MAP kinase kinases (MKKs) 4 and 7, and JNKs [34,35], similar to what we and other groups have demonstrated for the JNK pathway scaffold proteins such as Plenty of SH3s (POSH) and JNK-interacting proteins (JIPs) [36–39]. We and others have recently shown that WDR62 plays a role in NPC maintenance [40–42]. However, how WDR62 and JNK signaling are regulated for the control of neurogenesis and brain size during brain development is still not clear.\n\nHere, we have identified 2 novel WDR62-interacting proteins: the MAP3K kinase, mitogen-activated protein kinase kinase kinase 3 (MEKK3), and the E3 ubiquitin ligase, F-box and WD repeat domain-containing protein 7 (FBW7). Using in vivo short hairpin RNA (shRNA) knockdown (KD), gene knockout (KO), and transgenic mice, we find that MEKK3, WDR62, and JNK1 play an important role in neurogenesis during cortical development. We demonstrate further that there is synergy between MEKK3 and WDR62 in the activation of JNK signaling while FBW7 negatively regulates the stability of WDR62 through specific phosphorylation of WDR62. Taken together, our findings have revealed the detailed mechanism regulating WDR62 protein levels via interaction with MEKK3 and FBW7, to control proliferation and differentiation of NPCs during brain development. Our study thus unravels a novel molecular mechanism underlying MCPH pathogenesis.\n\nResults\n\nMEKK3 plays an important role in neurogenesis during neocortical development\n\nWDR62 serves as a scaffold for the JNK pathway [34,35] and is critical for the maintenance of NPCs during brain development [40]. MAP3Ks (MKKKs) are important for development and tissue homeostasis and act as central regulators of cell fate during development [43]. To identify potential WDR62 interacting proteins, especially the MKKK that acts upstream of JNK and plays a role in neurogenesis, we screened for neurogenesis-disturbing MAP3Ks with different shRNAs via in utero electroporation at embryonic day 16.5 (E16.5) in rat (Fig 1A and S1 Fig) [40,44]. We found that only MEKK3 (also named MAP3K3) depletion with 3 different shRNAs incurred defects very similar to those resulting from WDR62 KD [40], including a dramatic reduction of NPCs in the proliferative regions of the ventricular and subventricular zones (VZ and SVZ) (Fig 1A). KD of MEKK2 or MEKK4 did not disturb the distribution of cells in a similar way as WDR62 KD (S1 Fig). In addition, we have shown previously that KO or KD of another MKKK, TAK1, only affects the migration of newborn neurons [45].\n\nMEKK3 is a serine/threonine kinase that can be activated by different signaling pathways. Previous studies showed that MEKK3 is essential for T-cell or cancer cell proliferation [46,47]. The similar defects induced by depletion of MEKK3 and WDR62 suggest that MEKK3, like WDR62, may control NPC proliferation and differentiation. To test this, we crossed the Mekk3flox/flox mice that we generated previously [46] with Nestin-Cre mice to obtain Mekk3flox/flox;Nestin-Cre conditional knockout (Mekk3 cKO) mice in which Mekk3 was deleted in the NPCs. We inspected E16.5 cortical slices with different progenitor cell markers including Pax6 and Sox2 (markers for radial glial cells or apical progenitor cells) and Tbr2 (a marker for intermediate or basal progenitor cells). The thickness of Pax6+, Sox2+, and Tbr2+ cortical layers was reduced significantly in Mekk3 cKO mice, indicating a decrease in NPCs (Fig 1B–1D). In addition, the thinner Pax6+ and Sox2+ cell layers were accompanied by broader cortical staining for Tuj1 (a marker for immature neurons) and decreased numbers of cells positive for phosphor-histone H3 (P-H3, a marker for mitotic activity), respectively (Fig 1B and 1C). Furthermore, we examined the effect of Mekk3 KO on cell-cycle exit index. Both Mekk3 cKO and their wild-type (WT) littermates were labeled at E16.5 with 5-bromo-2’-deoxyuridine (BrdU) to track cells undergoing DNA synthesis. Twenty-four hour later, Ki67 (a marker for proliferating cells) and BrdU+ cells were inspected in brain slices. We observed a substantial decrease in Ki67+ and BrdU+ cells and a significant increase in cell-cycle exit index (cells that had incorporated BrdU but were Ki67−) (Fig 1E), indicating an overall decrease in cell proliferation. Finally, we analyzed cell death in the Mekk3 cKO cortices and did not observe an apparent increase in cell death in the VZ/SVZ (S2 Fig). Taken together, these findings indicate that MEKK3 is required for NPC proliferation and differentiation during cortical development.\n\nMEKK3 interacts with and stabilizes WDR62\n\nBecause both MEKK3 and WDR62 are required for neurogenesis, we postulated that MEKK3 might interact with WDR62 to regulate JNK activity and neurogenesis. To test this hypothesis, constructs encoding MEKK3 and WDR62 were transfected into HEK293 cells individually or in combination, and reciprocal coimmunoprecipitation experiments revealed that MEKK3 interacts with WDR62 (Fig 1F). In addition, an anti-MEKK3 antiserum was able to pull down endogenous WDR62 from E14.5 mouse cortex (Fig 1G).\n\nWe went on to generate different truncation mutants of WDR62 and MEKK3 in order to identify the potential binding site in MEKK3 and WDR62 (Fig 2A). Using the glutathione-S-transferase (GST)-fused WDR62 truncation mutant (WDR62 C2, aa1018-1523), which includes the MKK and JNK binding domains [34,35], we performed in vitro GST pull-down assays and noticed that MEKK3 could bind to WDR62 C2, but not the WDR62 C1 (aa1314-1523) mutant or GST (Fig 2B). GST pull-down experiment on E14.5 mouse brain lysate was able to pull down endogenous MEKK3 (Fig 2C). These results indicate that WDR62 and MEKK3 association is direct and mapped to 1018–1314 at the WDR62 C-terminal.\n\nBecause the WDR62 MKK4/7 binding domain was mapped to aa1212-84 [35], the MEKK3 binding domain is likely to be located within aa1018-1212 on WDR62 unless there is an overlap with the MKK4/7 binding domain. Therefore, we characterized in more detail the potential MEKK3 binding motif on WDR62. As shown in Fig 2D, MEKK3 could interact with aa1018-1523, 1018–1314, and 1018–1212 of WDR62. This indicates that the binding motif for MEKK3 in WDR62 is located within aa1018-1212.\n\nThe domain structure of MEKK3 consists of a conserved kinase domain and a PB1 domain in the C- and N-terminals, respectively (Fig 2A). Through reciprocal coimmunoprecipitation analysis, we detected that WDR62 interacted with the C-terminal half of MEKK3, but not the N-terminal half of MEKK3 (Fig 2E and S3A Fig). In order to investigate whether a synergistic effect exists between WDR62 and MEKK3, as what has been shown previously for POSH and the MLK family members [36,37], WDR62 and MEKK3 were expressed either alone or in combination in 293 cells. As shown in Fig 2F, when WDR62 and MEKK3 were coexpressed, the level of JNK activity (phosphorylated form of JNK) was significantly enhanced compared to WDR62 or MEKK3 expressed alone. Interestingly, the levels of WDR62 and MEKK3 protein were also much higher when coexpressed (Fig 2F). This suggests that WDR62 and MEKK3 play a synergistic role in the activation of JNK signaling, likely by mutual stabilization of the two proteins.\n\nTo determine whether JNK1 is also involved in the regulation of WDR62 levels, downstream of MEKK3, WT JNK1 and a constitutively active form of JNK1 (CA JNK1) were expressed in 293 cells. As shown in Fig 2G, the WDR62 protein level was higher in WT JNK1-expressed cells, and even higher in CA JNK1-expressing cells compared with vector controls, in accordance with the level of JNK activity. Importantly, endogenous WDR62 protein levels were much lower in E16.5 Mekk3 cKO cortices (Fig 2H). However, KD or overexpression of MEKK3 had no significant effect on WDR62 mRNA levels (S3B and S3C Fig). Taken together, the above results indicate that MEKK3 and JNK1 regulate WDR62 expression at the post-transcriptional level.\n\nWDR62 controls neurogenesis and brain size through the regulation of JNK activity\n\nJnk1 and Jnk2 double-deficient mouse embryos develop exencephaly and die around E11–12 [48]. Jnk1 KO induced pluripotent stem cells (iPSCs) are impaired in their ability to develop into neural precursors in vitro [49]. We have shown previously that JNK1 KD and WDR62 KD cause similar defects during cortical development [40]. We therefore generated a Wdr62 null mutant [50] and investigated further the relationship between WDR62 and JNK activity during brain development. As shown in Fig 3A, the levels of JNK activity were significantly reduced in the Wdr62 mutant cortex as indicated by immunostaining and western blotting, which is consistent with previous findings in different systems [50,51]. We went on to inspect whether KO of Jnk1 would result in similar defects as KO of Wdr62 during cortical development. As observed in Wdr62 mutant mice (Fig 3B), Jnk1 KO brains at E16 also showed enlarged ventricles and a thinner cortex, especially in the VZ/SVZ (Fig 3C). In addition, we observed a significant decrease in Ki67+ cells and an increase in cell-cycle exit index in Jnk1 KO cortices (Fig 3D).\n\nBecause WDR62 regulates JNK activity, we postulated that WDR62 might regulate NPC proliferation and differentiation through JNK1. To test this hypothesis, we investigated whether the defects in Wdr62 mutants can be rescued by JNK1. We first generated conditional transgenic mice expressing CA JNK1 (S4 Fig). The transgenic mice were crossed with Nestin-Cre mice in order to express CA JNK1 in NPCs (JNK1 cTg, hereafter). As observed in cells, CA JNK1 expression increased JNK activity and WDR62 protein level in the cortex (S5A and S5B Fig). We next examined the effect of JNK1 activation on NPC development through BrdU labeling. As shown in Fig 3E, JNK1 cTg cortices showed a significant increase in BrdU+ and Ki67+ cells, while the cell-cycle exit index was comparable between JNK1 cTg and their WT littermates.\n\nBecause Wdr62 mutants were sterile [50], we used brain-specific Wdr62flox/flox;Nestin-Cre mice (Wdr62 cKO) for further investigations. Similar to our Wdr62 mutants, Wdr62 cKOs showed reduced brain weight, enlarged ventricles, and a thinner cortex (Fig 4A–4C and S5C and S5D Fig). By crossing Wdr62 cKO with JNK1 cTg mice, we were able to generate Wdr62 cKO, JNK1 cTg, and Wdr62 cKO;JNK1 cTg genotypes. Compared with WT littermates, Wdr62 cKO, but not JNK1 cTg, mice had decreased brain weight at P12. The brain weight of Wdr62 cKO;JNK1 cTg mice was increased compared with Wdr62 cKO mice, and comparable to that of controls (Fig 4B). This indicates that Wdr62 cKO-induced microcephaly can be rescued by increased JNK1 activity. Similarly, JNK1 cTg also rescued the reduced cortex thickness and enlarged lateral ventricle phenotypes in Wdr62 cKO mice (Fig 4C and S5D Fig).\n\nBecause Wdr62 deficiency leads to defects in NPC proliferation and differentiation, we investigated whether those defects could be rescued in Wdr62 cKO;JNK1 cTg mice. As shown in Fig 4D, the number of Pax6+ cells was significantly reduced in Wdr62 cKOs and significantly increased in JNK1 cTgs, while Wdr62 cKO;JNK1 cTg double mutants were comparable to controls. Moreover, we observed a significant increase in cell-cycle exit in Wdr62 cKOs but not in Wdr62 cKO;JNK1 cTg cortices (Fig 4E). Taken together, these findings indicate that WDR62 regulates NPC proliferation and differentiation through JNK1.\n\nFBW7 negatively regulates WDR62 protein stability through the proteasomal pathway\n\nWDR62 and MEKK3 play a synergistic role in the activation of JNK. However, under physiological conditions, a negative regulatory mechanism likely exists to prevent cell death incurred by sustained JNK activation. We noticed that a JNK1-target phosphorylation site in WDR62, T1053 [52], is located within LPQTPEQE, a potential binding motif for the E3 ubiquitin ligase substrate recognition component FBW7. FBW7 plays an opposite role to WDR62 during brain development, promoting rather than antagonizing NPC differentiation [53,54]. This led us to postulate that FBW7 may interact with WDR62 to regulate WDR62 protein stability through the proteasomal pathway. WDR62 was transfected into HEK293 cells either alone or together with the 3 different isoforms of FBW7, FBW7α, β, and γ. Interestingly, WDR62 protein levels appeared lower when coexpressed with FBW7 α or γ in particular, and the reduction could be significantly blocked by MG132 (Fig 5A). We therefore performed a coimmunoprecipitation analysis and detected an interaction of WDR62 with FBW7α and γ but not FBW7β (Fig 5B). In addition, FBW7α interacted with the C-terminal half of WDR62 (WD40Δ) but not the N-terminal half of WDR62 that consists primarily of WD40 domains (Fig 5C). To examine whether FBW7 possesses E3 ligase activity towards WDR62, we assessed WDR62 ubiquitination both in vivo and in vitro. Both FBW7α expression in cells (Fig 5D) and purified FBW7α in an in vitro assay (Fig 5E) induced the ubiquitination of WDR62. To rule out the possibility that the smeared ubiquitin signals were from WDR62-associated proteins, we performed the immunoprecipitation of influenza hemagglutinin (HA)-tagged WDR62, blotted for WDR62, and detected significantly increased upper smear signal when coexpressed with FBW7α and γ but not FBW7β (Fig 5F). Reciprocal immunoprecipitation for HA-ub also pulled out more WDR62 in FBW7α overexpressed cells (Fig 5G). Importantly, WDR62 protein levels were significantly higher in E14.5, E15.5, and E17.5 Fbw7 cKO brains (Fig 5H and S6A and S6B Fig). However, deficiency of FBW7 had no significant effect on WDR62 mRNA level (S6B Fig). These results indicate that Fbw7 negatively regulates WDR62 protein stability through the proteasomal pathway.\n\nPrevious study indicates that FBW7 controls neural stem cell differentiation in midbrain [54]. We inspected the distribution of cells in cortex electroporated with Ctrl shRNA, Fbw7 shRNA, Wdr62 shRNA, and Wdr62 shRNA with Fbw7 shRNA. FBW7 KD led to reduced percentage of cells in the SVZ, intermediate zone (IZ), and cortical plate (CP), while WDR62 KD had the opposite phenotype. The phenotype was partially neutralized when Fbw7 shRNA and Wdr62 shRNA were cotransfected together (S6C and S6D Fig). This further supports the notion that WDR62 and FBW7 plays an opposite role in NPC development.\n\nJNK1 induced phosphorylation of WDR62 is important for the ubiquitination of WDR62 by FBW7\n\nWe went on to perform a cycloheximide (CHX) time course analysis and found that WDR62 was degraded more rapidly when coexpressed with FBW7α (Fig 6A). We also utilized a WDR62 mutant (PM6, L1299A/L1301A) that is unable to bind to and activate JNKs [55], and compared with WT WDR62, the PM6 mutant was very stable even when coexpressed with FBW7α (Fig 6A), suggesting that the interaction between JNK and WDR62 is important for the destabilization of WDR62.\n\nBecause JNK1 can induce the phosphorylation of WDR62 T1053 [52], we investigated the role of this modification in WDR62 stability. When WDR62 T1053 was mutated to alanine, its interaction with FBW7 decreased significantly compared with that of WT WDR62 (Fig 6B). We went on to make a phosphomimetic mutant, WDR62 T1053D, and found that it was less stable than WT WDR62, while WDR62 T1053A was more stable when cotransfected with FBW7α (Fig 6C and S7 Fig). We further examined the ubiquitination of WDR62 mutants induced by FBW7. When coexpressed with FBW7, an increased ubiquitination of WT WDR62 but not WDR62 T1053A was detected (Fig 7A and 7B). Consistently, the ubiquitination level of WDR62 T1053D was significantly higher than that of WT WDR62. WDR62 T1053A seemed to be more stable than WT WDR62 and could induce JNK activity more significantly when coexpressed with MEKK3 (Fig 7C).\n\nJNK activity has been shown to increase during G2 and M phases of the cell cycle and decline after exiting M phase [56]. We arrested HeLa cells in anaphase with nocodazole and then released the cell-cycle arrest. As shown in Fig 7D, JNK activity declined after release from nocodazole arrest, as did the phosphorylation of endogenous WDR62 at T1053. Meanwhile, the level of WDR62 protein increased correspondingly. Taken together, our results indicate that the phosphorylation of WDR62 at T1053 by JNK is critical for its interaction with FBW7 and subsequent ubiquitination and degradation.\n\nDiscussion\n\nSeveral MCPH proteins (ASPM, WDR62, CDK5RAP2, CEP63, CEP135, CEP152, CPAP, MCPH1, and STIL) have been shown to play a role in neurogenesis [7,57–60]. Our study reveals the mechanisms that regulate the stability of MCPH-associated protein WDR62 and NPC proliferation and differentiation during brain development. Specifically, we demonstrate that MEKK3 interacts with WDR62 to stabilize WDR62 and regulates JNK activity in a synergic way. On the other hand, JNK activity also regulates the phosphorylation of WDR62 at T1053 in a feedback loop which facilities the recruitment of FBW7 degradation of WDR62 (Fig 8). In addition, KO of MEKK3 or JNK1 phenocopies WDR62 KO in the dysregulation of NPC development. Transgenic expression of JNK1 can rescue the defects of WDR62, indicating a critical role of JNK signaling pathway in cell fate determination and NPC maintanence.\n\nMEKK3 cooperates with WDR62 in the regulation of JNK signaling and neurogenesis\n\nThrough a functional screen, we have found that MEKK3 KD induces very similar phenotypes as WDR62 KD [40], such as NPC depletion in the embryonic neocortex, suggesting defects in the maintenance of NPC proliferation and the occurrence of premature differentiation. This notion is supported by the significant decrease in cycling cells (Ki67+ and P-H3+) and an increase in cell-cycle exit index in the Mekk3 cKO embryonic neocortex. Meanwhile, we observed a considerable reduction in Pax6-, Sox2-, and Tbr2-positive NPCs accompanied by an increase in Tuj1-positive immature neurons in these mice. Thus, our findings indicate a role for MEKK3 in the proliferation and differentiation of NPC during neurogenesis.\n\nThe similar function of MEKK3 and WDR62 led us to explore their relationship and confirm their interaction in the embryonic brain. Interestingly, WDR62 and MEKK3 are likely to play a synergistic role in the activation of JNK signaling as well as in the elevation of each other’s protein levels. In addition, expression of JNK1 elevated WDR62 levels, while endogenous levels of WDR62 were much lower in Mekk3 cKO cortices. Therefore, we can postulate that MEKK3 regulates the protein level of WDR62 through JNK signaling.\n\nJNK signaling is important for cortical neurogenesis\n\nPrevious studies have shown that depletion or mutation of several MCPH proteins leads to the premature cell-cycle exit of NPCs and consequently to premature neuronal differentiation or cell death during neurogenesis [42,57,61,62]. Several MCPH proteins such as MCPH1 and ASPM have been shown to regulate the Chk1-Cdc25b and Wnt signaling pathways respectively to control brain size [62,63]. Our studies indicate that the JNK signaling plays a critical role in the normal function of WDR62. First, Jnk1 KO mice have phenotypes very similar to our Wdr62 KO and cKO mice, including premature differentiation of NPCs, enlarged lateral ventricles, and thinner cortices during cortical development. These defects in Wdr62 cKO mice can be largely rescued by the transgenic expression of CA-JNK1. In addition, mice with deletion of kinases upstream of JNK1 have phenotypes somewhat similar to Wdr62 and Jnk1 mutants. For example, brain-specific Mkk7 or Mkk4 KO mice display either enlarged embryonic brain ventricles or reduced brain size [64]. Taken together, all these studies imply that WDR62 cooperates with MEKK3, MKKs, and JNK1 in the regulation of brain development.\n\nFBW7 negatively regulates WDR62 stability through the proteasomal pathway\n\nThe E3 ligase FBW7 is important for normal brain development, and KO of Fbw7 inhibits NPC differentiation [54], the opposite defect of that caused by Wdr62 KO. We have confirmed the interaction between WDR62 and FBW7. Interestingly, WDR62 T1053, which is phosphorylated by JNK1 and localizes within the FBW7 binding motif of WDR62, is important for the interaction between WDR62 and FBW7. In addition, phosphorylation of T1053 is crucial for the regulation of WDR62 stability by FBW7, through ubiquitination and degradation of WDR62.\n\nPrevious studies have shown that WDR62 protein level is cell-cycle dependent [22,52]. However, the underlying mechanism is unknown. Two mutants—WDR62 L1299A/L1301A, which cannot bind to JNK, and WDR62 T1053A—are more stable than WT WDR62, indicating the involvement of JNK signaling in the regulation WDR62 expression. JNK activity increases during G2 and M phases of cell cycle [56]. Intriguingly, the level of WDR62 phosphorylated at T1053 declines after cells are released from nocodazole arrest (M anaphase). This is accompanied by the decline in JNK activity and the elevation of WDR62 level, indicating that phosphorylation of T1053 is negatively correlated with WDR62 stability. We would like to propose a model (Fig 8) that JNK activation at G2/M phase leads to WDR62 phosphorylation at T1053, which will recruit FBW7 to induce the ubiquitination and degradation of WDR62. As the cell cycle progresses, JNK activity declines, and newly synthesized WDR62 will accumulate. Through the interaction with MEKK3, WDR62 is stabilized and promotes activation of JNK at G2/M phase. Thus, JNK-induced phosphorylation of T1053 is also likely to play a critical role in recruiting FBW7 and the degradation of WDR62 during cell-cycle progression. How MEKK3 and JNK1 stabilize WDR62 and activate JNK needs to be explored in the future.\n\nTaken together, our results support a model in which the scaffold protein WDR62 organizes a protein complex that includes MEKK3, MKKs, and JNK1 to control the proliferation and differentiation of NPCs during corticogenesis (Fig 8). The expression of WDR62 is fine-tuned both positively by MEKK3 and JNK activity and negatively by JNK-induced phosphorylation of WDR62 at T1053. Thus, the coordinated reciprocal and bidirectional regulation among WDR62, MEKK3, JNK1, and FBW7 fine-tunes JNK signaling to control the balance between proliferation and differentiation of NPCs and prevent superfluous cell death incurred by sustained JNK activation during brain development.\n\nMaterials and methods\n\nEthics statement\n\nAll animal procedures used in this study were performed according to protocols approved by the Institutional Animal Care and Use Committee at the Institute of Genetics and Developmental Biology (IGDB), Chinese Academy of Sciences (CAS) (protocol number: AP2016053).\n\nAntibodies\n\nThe antibodies used for western blotting (for human) were as follows: GFP (abcam, ab290, 1:2,000), α-tubulin (CST, 3873s, 1:2,000), GAPDH (CST, 2118s, 1:2,000), Flag (MBL, M185, 1:2,000), Myc (MBL, M047-3, 1:5,000), HA (MBL, M180-3, 1:5,000), Phospho-JNK (CST, 9255, 1:1,000), and WDR62 (bethyl, A310-550A, 1:1,000). For mouse, they were as follows: WDR62 (abcam, 1:1,000), WDR62 antibody generated by MBL company using antigen VGQGGNQPKAGPLRAGTC, Phospho-WDR62 1053T (present from Dominic) [52], and MEKK3 (CST, 5727, 1:1,000). The antibodies used for immunostaining were Sox2 (abcam, ab97959, 1:1,000), Pax6 (Covance, PRB-278P, 1:400), Tbr2 (Millipore, ab2283, 1:1,000), β-III Tubulin/Tuj1 (abcam, ab7751, 1:1,000), γ-Tubulin (abcam, ab11316, 1:1,000), α-Tubulin (CST, 3873, 1:2,000), Phosph-Histone 3 (P-H3) (abcam, ab10543, 1:1,000), Nestin (abcam, ab6142, 1:1,000), GFP (abcam, ab13970, 1:1,000), Ki67 (abcam, ab15580, 1:1,000), BrdU (abcam, ab6326, 1:500), Phospho-JNK (abcam, ab124956, 1:1,000), activated-caspase3 (abcam, ab13847, 1:1,000). Nuclei were stained with DAPI (4’,6-diamidino-2-phenylindole) (Invitrogen).\n\nPlasmids\n\nHuman WDR62 WT, WD40 and WD40Δ truncations, or WDR62 mutants were created by cloning WDR62 cDNA sequence into the pCMS.EGFP (modified) (Flag) or pCDNA3.1-HA vector. Full-length MEKK3, MEKK3 N- and MEKK3 C-terminal truncations were cloned into the pCMV-Tag2B vector. Full-length MEKK3 was also cloned into the pCMS.EGFP (modified) (Flag) or pCDNA3.1-HA vector. For GST pull-down assay, full-length WDR62, WDR62 C2 (1018-1523aa), or WDR62 C1 (1314-1523aa) were cloned into pGEX6p1. Flag-FBW7α, β, and γ in pCDNA3.1 were kindly provided by Dr. Clurman [65]. All constructs were verified by sequencing.\n\nGeneration of KO and transgenic mice\n\nWdr62 cKO mice\n\nWdr62+/flox mouse and Wdr62 mutant (Wdr62−/−) mice were generated as described previously [50]. Wdr62 cKO (Wdr62flox/flox; Nestin-Cre) mice were obtained by crossing Nestin–Cre mice with Wdr62flox/flox mice.\n\nCA-JNK1 conditional transgenic mice\n\nAn HA-tagged human JNKK2-JNK1 fusion construct was inserted into the pENTR1A vector (Life Technologies) as described in S4A Fig. To guarantee controlled and efficient monosite insertion of JNKK2-JNK1 into the ubiquitously expressed ROSA26 locus, we used the Gateway Entry system (Life Technologies) (S4B Fig) [66]. Mice carrying the conditional floxed (loxP-STOP-loxP; LSL) LSL-CA-JNK1 f/f allele were crossed with Nestin-Cre mice to generate mice expressing CA-JNK1 in NPCs (JNK1 cTg).\n\nWdr62 cKO;JNK1 cTg mice\n\nBy crossing Wdr62 cKO with JNK1 cTg mice, we were able to get Wdr62 cKO, JNK1 cTg, and Wdr62 cKO;JNK1 cTg mice.\n\nMekk3 cKO\n\nMice carrying the conditional (floxed, Mekk3f/f) allele [46] were crossed with Nestin-Cre mice to generate mice with a specific deletion in NPC (Mekk3 cKO). Jnk1 heterozygous (Jnk1+/−) KO mice (stock# 003553) were obtained from the Jackson Laboratory.\n\nThe day when a plug was observed in a female mouse was designated E0.5, and the day of birth was termed postnatal day 0 (P0). Mouse genotypes were determined by PCR. For all experiments, only littermate mice from the same breeding were used.\n\nHistology and immunofluorescence staining\n\nFor cryosections, tissues were fixed in 4% PFA, cryoprotected in 30% sucrose, and frozen in tissue freezing medium (TFM). Sections (thickness of 20–50 μm) were used for immunofluorescence staining. Immunofluorescence staining was carried out essentially as described previously [44,67].\n\nBrdU labeling\n\nFor single-pulse BrdU labeling, pregnant mice at defined pregnancy stages were injected intraperitoneally with 50 mg/g body weight of BrdU (Sigma-Aldrich) and were euthanized 12 to 24 hours after injection.\n\nCell culture, transfection, immunoprecipitation, and western blotting\n\nHEK293 cell culture, transfection, immunoprecipitation, and western blotting were performed as previously described [36]. Plasmids were transfected into HEK293 cells with VigoFect (VIGOROUS). For western blot of Figs 5F, 5G and 7B and S7 Fig, cells were treated with 20 μm MG132 for 4 hours before lyses (MG132 added). Densitometric analysis was performed using Image J software. The relative Integrated Density of western blot band was measured.\n\nIn utero electroporation\n\nIn utero electroporation was performed as previously described [67]. Pregnant Sprague Dawley rats were provided by the animal center of IGDB. Rat Mekk3 shRNA vector containing the following target sequences was used: shM1: 5’-GCCTTAGGATACTACTGTTA-3’; shM2: 5’-GCAGCAACATGATTGTGCA-3’; and shM3, 5’-GATCACAAAGACTACAATGA-3’. The human MEKK3 shRNA target sequence was 5’-GCAGAGTGACGTCAGAATC-3’. The rat Mekk2 shRNA target sequence was as follows: shRNA1: 5’-GAGCGAATTGTTCAGTATTA-3’; shRNA2: 5’-GAAGCAATGGCTGCCATCT-3’; and shRNA3: 5’-GCTGGATCCATTGTCTTTA-3’. The rat Mekk4 shRNA target sequence was as follows: shRNA1: 5’-GAGGAAGCTGGATCCAAATG-3’; shRNA2: 5’-GAGTATCATAAAGAAGTTG-3’; and shRNA3: 5’-GCCTTTATTTCAGCTTTAC-3’. The rat Fbw7 shRNA target sequence was 5’-CCTTCTCTGGAGAGAGAAA-3’.\n\nStatistical analysis\n\nSections were imaged on an LSM 700 (Carl Zeiss) confocal microscope as described [40]. Cell counts were analyzed with Imaris X64 or ImageJ. All data were analyzed using Excel and Prism software (Graph Pad Software, La Jolla, CA). Tests used were unpaired t test or one-way ANOVA paired with Tukey post-test.\n\nSupporting information"
+}

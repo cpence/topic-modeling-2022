@@ -1,0 +1,699 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1002005",
+  "doi": "10.1371/journal.pbio.1002005",
+  "externalIds": [
+    "pii:PBIOLOGY-D-14-00671",
+    "pmid:25423365",
+    "pmcid:PMC4244043"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "The First Myriapod Genome Sequence Reveals Conservative Arthropod Gene Content and Genome Organisation in the Centipede Strigamia maritima",
+  "authors": [
+    {
+      "name": "Ariel D. Chipman",
+      "first": "Ariel D.",
+      "last": "Chipman",
+      "affiliation": "The Department of Ecology, Evolution and Behavior, The Alexander Silberman Institute of Life Sciences, The Hebrew University of Jerusalem, Givat Ram, Jerusalem, Israel"
+    },
+    {
+      "name": "David E. K. Ferrier",
+      "first": "David E. K.",
+      "last": "Ferrier",
+      "affiliation": "The Scottish Oceans Institute, Gatty Marine Laboratory, University of St Andrews, St Andrews, Fife, United Kingdom"
+    },
+    {
+      "name": "Carlo Brena",
+      "first": "Carlo",
+      "last": "Brena",
+      "affiliation": "Department of Zoology, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Jiaxin Qu",
+      "first": "Jiaxin",
+      "last": "Qu",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Daniel S. T. Hughes",
+      "first": "Daniel S. T.",
+      "last": "Hughes",
+      "affiliation": "EMBL - European Bioinformatics Institute, Hinxton, Cambridgeshire, United Kingdom"
+    },
+    {
+      "name": "Reinhard Schröder",
+      "first": "Reinhard",
+      "last": "Schröder",
+      "affiliation": "Institut für Biowissenschaften, Universität Rostock, Abt. Genetik, Rostock, Germany"
+    },
+    {
+      "name": "Montserrat Torres-Oliva",
+      "first": "Montserrat",
+      "last": "Torres-Oliva",
+      "affiliation": "Department of Zoology, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Nadia Znassi",
+      "first": "Nadia",
+      "last": "Znassi",
+      "affiliation": "Department of Zoology, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Huaiyang Jiang",
+      "first": "Huaiyang",
+      "last": "Jiang",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Francisca C. Almeida",
+      "first": "Francisca C.",
+      "last": "Almeida",
+      "affiliation": "Departament de Genètica and Institut de Recerca de la Biodiversitat (IRBio), Universitat de Barcelona, Barcelona, Spain; Consejo Nacional de Investigaciones Científicas y Tecnológicas (CONICET), Universidad Nacional de Tucumán, Facultad de Ciencias Naturales e Instituto Miguel Lillo, San Miguel de Tucumán, Argentina"
+    },
+    {
+      "name": "Claudio R. Alonso",
+      "first": "Claudio R.",
+      "last": "Alonso",
+      "affiliation": "School of Life Sciences, University of Sussex, Brighton, United Kingdom"
+    },
+    {
+      "name": "Zivkos Apostolou",
+      "first": "Zivkos",
+      "last": "Apostolou",
+      "affiliation": "Department of Zoology, University of Cambridge, Cambridge, United Kingdom; Institute of Molecular Biology & Biotechnology, Foundation for Research & Technology - Hellas, Heraklion, Crete, Greece"
+    },
+    {
+      "name": "Peshtewani Aqrawi",
+      "first": "Peshtewani",
+      "last": "Aqrawi",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Wallace Arthur",
+      "first": "Wallace",
+      "last": "Arthur",
+      "affiliation": "Department of Zoology, National University of Ireland, Galway, Ireland"
+    },
+    {
+      "name": "Jennifer C. J. Barna",
+      "first": "Jennifer C. J.",
+      "last": "Barna",
+      "affiliation": "Department of Biochemistry, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Kerstin P. Blankenburg",
+      "first": "Kerstin P.",
+      "last": "Blankenburg",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Daniela Brites",
+      "first": "Daniela",
+      "last": "Brites",
+      "affiliation": "Evolutionsbiologie, Zoologisches Institut, Universität Basel, Basel, Switzerland; Swiss Tropical and Public Health Institute, Basel, Switzerland"
+    },
+    {
+      "name": "Salvador Capella-Gutiérrez",
+      "first": "Salvador",
+      "last": "Capella-Gutiérrez",
+      "affiliation": "Centre for Genomic Regulation, Barcelona, Barcelona, Spain"
+    },
+    {
+      "name": "Marcus Coyle",
+      "first": "Marcus",
+      "last": "Coyle",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Peter K. Dearden",
+      "first": "Peter K.",
+      "last": "Dearden",
+      "affiliation": "Gravida and Genetics Otago, Biochemistry Department, University of Otago, Dunedin, New Zealand"
+    },
+    {
+      "name": "Louis Du Pasquier",
+      "first": "Louis",
+      "last": "Du Pasquier",
+      "affiliation": "Evolutionsbiologie, Zoologisches Institut, Universität Basel, Basel, Switzerland"
+    },
+    {
+      "name": "Elizabeth J. Duncan",
+      "first": "Elizabeth J.",
+      "last": "Duncan",
+      "affiliation": "Gravida and Genetics Otago, Biochemistry Department, University of Otago, Dunedin, New Zealand"
+    },
+    {
+      "name": "Dieter Ebert",
+      "first": "Dieter",
+      "last": "Ebert",
+      "affiliation": "Evolutionsbiologie, Zoologisches Institut, Universität Basel, Basel, Switzerland"
+    },
+    {
+      "name": "Cornelius Eibner",
+      "first": "Cornelius",
+      "last": "Eibner",
+      "affiliation": "Department of Zoology, National University of Ireland, Galway, Ireland"
+    },
+    {
+      "name": "Galina Erikson",
+      "first": "Galina",
+      "last": "Erikson",
+      "affiliation": "Razavi Newman Center for Bioinformatics, Salk Institute, La Jolla, California, United States of America; Scripps Translational Science Institute, La Jolla, California, United States of America"
+    },
+    {
+      "name": "Peter D. Evans",
+      "first": "Peter D.",
+      "last": "Evans",
+      "affiliation": "The Babraham Institute, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Cassandra G. Extavour",
+      "first": "Cassandra G.",
+      "last": "Extavour",
+      "affiliation": "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Liezl Francisco",
+      "first": "Liezl",
+      "last": "Francisco",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Toni Gabaldón",
+      "first": "Toni",
+      "last": "Gabaldón",
+      "affiliation": "Centre for Genomic Regulation, Barcelona, Barcelona, Spain; Universitat Pompeu Fabra (UPF), Barcelona, Spain; Institució Catalana de Recerca i Estudis Avançats (ICREA), Barcelona, Spain"
+    },
+    {
+      "name": "William J. Gillis",
+      "first": "William J.",
+      "last": "Gillis",
+      "affiliation": "Department of Biochemistry and Cell Biology, Center for Developmental Genetics, Stony Brook University, Stony Brook, New York, United States of America"
+    },
+    {
+      "name": "Elizabeth A. Goodwin-Horn",
+      "first": "Elizabeth A.",
+      "last": "Goodwin-Horn",
+      "affiliation": "Department of Biology, Hendrix College, Conway, Arkansas, United States of America"
+    },
+    {
+      "name": "Jack E. Green",
+      "first": "Jack E.",
+      "last": "Green",
+      "affiliation": "Department of Zoology, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Sam Griffiths-Jones",
+      "first": "Sam",
+      "last": "Griffiths-Jones",
+      "affiliation": "Faculty of Life Sciences, University of Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Cornelis J. P. Grimmelikhuijzen",
+      "first": "Cornelis J. P.",
+      "last": "Grimmelikhuijzen",
+      "affiliation": "Center for Functional and Comparative Insect Genomics, University of Copenhagen, Copenhagen, Denmark"
+    },
+    {
+      "name": "Sai Gubbala",
+      "first": "Sai",
+      "last": "Gubbala",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Roderic Guigó",
+      "first": "Roderic",
+      "last": "Guigó",
+      "affiliation": "Universitat Pompeu Fabra (UPF), Barcelona, Spain; Center for Genomic Regulation, Barcelona, Spain"
+    },
+    {
+      "name": "Yi Han",
+      "first": "Yi",
+      "last": "Han",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Frank Hauser",
+      "first": "Frank",
+      "last": "Hauser",
+      "affiliation": "Center for Functional and Comparative Insect Genomics, University of Copenhagen, Copenhagen, Denmark"
+    },
+    {
+      "name": "Paul Havlak",
+      "first": "Paul",
+      "last": "Havlak",
+      "affiliation": "Department of Ecology and Evolutionary Biology, Rice University, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Luke Hayden",
+      "first": "Luke",
+      "last": "Hayden",
+      "affiliation": "Department of Zoology, National University of Ireland, Galway, Ireland"
+    },
+    {
+      "name": "Sophie Helbing",
+      "first": "Sophie",
+      "last": "Helbing",
+      "affiliation": "Institut für Biologie, Martin-Luther-Universität Halle-Wittenberg, Halle, Germany"
+    },
+    {
+      "name": "Michael Holder",
+      "first": "Michael",
+      "last": "Holder",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Jerome H. L. Hui",
+      "first": "Jerome H. L.",
+      "last": "Hui",
+      "affiliation": "School of Life Sciences, The Chinese University of Hong Kong, Shatin, NT, Hong Kong SAR, China"
+    },
+    {
+      "name": "Julia P. Hunn",
+      "first": "Julia P.",
+      "last": "Hunn",
+      "affiliation": "Department of Biochemistry and Cell Biology, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands"
+    },
+    {
+      "name": "Vera S. Hunnekuhl",
+      "first": "Vera S.",
+      "last": "Hunnekuhl",
+      "affiliation": "Department of Zoology, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+      "name": "LaRonda Jackson",
+      "first": "LaRonda",
+      "last": "Jackson",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Mehwish Javaid",
+      "first": "Mehwish",
+      "last": "Javaid",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Shalini N. Jhangiani",
+      "first": "Shalini N.",
+      "last": "Jhangiani",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Francis M. Jiggins",
+      "first": "Francis M.",
+      "last": "Jiggins",
+      "affiliation": "Department of Genetics, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Tamsin E. Jones",
+      "first": "Tamsin E.",
+      "last": "Jones",
+      "affiliation": "Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Tobias S. Kaiser",
+      "first": "Tobias S.",
+      "last": "Kaiser",
+      "affiliation": "Max F. Perutz Laboratories, University of Vienna, Vienna, Austria"
+    },
+    {
+      "name": "Divya Kalra",
+      "first": "Divya",
+      "last": "Kalra",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Nathan J. Kenny",
+      "first": "Nathan J.",
+      "last": "Kenny",
+      "affiliation": "School of Life Sciences, The Chinese University of Hong Kong, Shatin, NT, Hong Kong SAR, China"
+    },
+    {
+      "name": "Viktoriya Korchina",
+      "first": "Viktoriya",
+      "last": "Korchina",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Christie L. Kovar",
+      "first": "Christie L.",
+      "last": "Kovar",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "F. Bernhard Kraus",
+      "first": "F. Bernhard",
+      "last": "Kraus",
+      "affiliation": "Institut für Biologie, Martin-Luther-Universität Halle-Wittenberg, Halle, Germany; Department of Laboratory Medicine, University Hospital Halle (Saale), Halle (Saale), Germany"
+    },
+    {
+      "name": "François Lapraz",
+      "first": "François",
+      "last": "Lapraz",
+      "affiliation": "Department of Genetics, Evolution and Environment, University College London, London, United Kingdom"
+    },
+    {
+      "name": "Sandra L. Lee",
+      "first": "Sandra L.",
+      "last": "Lee",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Jie Lv",
+      "first": "Jie",
+      "last": "Lv",
+      "affiliation": "Department of Ecology and Evolutionary Biology, Rice University, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Christigale Mandapat",
+      "first": "Christigale",
+      "last": "Mandapat",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Gerard Manning",
+      "first": "Gerard",
+      "last": "Manning",
+      "affiliation": "Razavi Newman Center for Bioinformatics, Salk Institute, La Jolla, California, United States of America"
+    },
+    {
+      "name": "Marco Mariotti",
+      "first": "Marco",
+      "last": "Mariotti",
+      "affiliation": "Universitat Pompeu Fabra (UPF), Barcelona, Spain; Center for Genomic Regulation, Barcelona, Spain"
+    },
+    {
+      "name": "Robert Mata",
+      "first": "Robert",
+      "last": "Mata",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Tittu Mathew",
+      "first": "Tittu",
+      "last": "Mathew",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Tobias Neumann",
+      "first": "Tobias",
+      "last": "Neumann",
+      "affiliation": "Max F. Perutz Laboratories, University of Vienna, Vienna, Austria; Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, University of Vienna, Medical University of Vienna, Vienna, Austria"
+    },
+    {
+      "name": "Irene Newsham",
+      "first": "Irene",
+      "last": "Newsham",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Dinh N. Ngo",
+      "first": "Dinh N.",
+      "last": "Ngo",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Maria Ninova",
+      "first": "Maria",
+      "last": "Ninova",
+      "affiliation": "Faculty of Life Sciences, University of Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Geoffrey Okwuonu",
+      "first": "Geoffrey",
+      "last": "Okwuonu",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Fiona Ongeri",
+      "first": "Fiona",
+      "last": "Ongeri",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "William J. Palmer",
+      "first": "William J.",
+      "last": "Palmer",
+      "affiliation": "Department of Genetics, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Shobha Patil",
+      "first": "Shobha",
+      "last": "Patil",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Pedro Patraquim",
+      "first": "Pedro",
+      "last": "Patraquim",
+      "affiliation": "School of Life Sciences, University of Sussex, Brighton, United Kingdom"
+    },
+    {
+      "name": "Christopher Pham",
+      "first": "Christopher",
+      "last": "Pham",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Ling-Ling Pu",
+      "first": "Ling-Ling",
+      "last": "Pu",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Nicholas H. Putman",
+      "first": "Nicholas H.",
+      "last": "Putman",
+      "affiliation": "Department of Ecology and Evolutionary Biology, Rice University, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Catherine Rabouille",
+      "first": "Catherine",
+      "last": "Rabouille",
+      "affiliation": "Hubrecht Institute for Developmental Biology and Stem Cell Research, Utrecht, The Netherlands"
+    },
+    {
+      "name": "Olivia Mendivil Ramos",
+      "first": "Olivia Mendivil",
+      "last": "Ramos",
+      "affiliation": "The Scottish Oceans Institute, Gatty Marine Laboratory, University of St Andrews, St Andrews, Fife, United Kingdom"
+    },
+    {
+      "name": "Adelaide C. Rhodes",
+      "first": "Adelaide C.",
+      "last": "Rhodes",
+      "affiliation": "Harte Research Institute, Texas A&M University Corpus Christi, Corpus Christi, Texas, United States of America"
+    },
+    {
+      "name": "Helen E. Robertson",
+      "first": "Helen E.",
+      "last": "Robertson",
+      "affiliation": "Department of Genetics, Evolution and Environment, University College London, London, United Kingdom"
+    },
+    {
+      "name": "Hugh M. Robertson",
+      "first": "Hugh M.",
+      "last": "Robertson",
+      "affiliation": "Department of Entomology, University of Illinois at Urbana-Champaign, Urbana, Illinois, United States of America"
+    },
+    {
+      "name": "Matthew Ronshaugen",
+      "first": "Matthew",
+      "last": "Ronshaugen",
+      "affiliation": "Faculty of Life Sciences, University of Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Julio Rozas",
+      "first": "Julio",
+      "last": "Rozas",
+      "affiliation": "Departament de Genètica and Institut de Recerca de la Biodiversitat (IRBio), Universitat de Barcelona, Barcelona, Spain"
+    },
+    {
+      "name": "Nehad Saada",
+      "first": "Nehad",
+      "last": "Saada",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Alejandro Sánchez-Gracia",
+      "first": "Alejandro",
+      "last": "Sánchez-Gracia",
+      "affiliation": "Departament de Genètica and Institut de Recerca de la Biodiversitat (IRBio), Universitat de Barcelona, Barcelona, Spain"
+    },
+    {
+      "name": "Steven E. Scherer",
+      "first": "Steven E.",
+      "last": "Scherer",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Andrew M. Schurko",
+      "first": "Andrew M.",
+      "last": "Schurko",
+      "affiliation": "Department of Biology, Hendrix College, Conway, Arkansas, United States of America"
+    },
+    {
+      "name": "Kenneth W. Siggens",
+      "first": "Kenneth W.",
+      "last": "Siggens",
+      "affiliation": "Department of Zoology, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+      "name": "DeNard Simmons",
+      "first": "DeNard",
+      "last": "Simmons",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Anna Stief",
+      "first": "Anna",
+      "last": "Stief",
+      "affiliation": "Department of Zoology, University of Cambridge, Cambridge, United Kingdom; Institute for Biochemistry and Biology, University Potsdam, Potsdam-Golm, Germany"
+    },
+    {
+      "name": "Eckart Stolle",
+      "first": "Eckart",
+      "last": "Stolle",
+      "affiliation": "Institut für Biologie, Martin-Luther-Universität Halle-Wittenberg, Halle, Germany"
+    },
+    {
+      "name": "Maximilian J. Telford",
+      "first": "Maximilian J.",
+      "last": "Telford",
+      "affiliation": "Department of Genetics, Evolution and Environment, University College London, London, United Kingdom"
+    },
+    {
+      "name": "Kristin Tessmar-Raible",
+      "first": "Kristin",
+      "last": "Tessmar-Raible",
+      "affiliation": "Max F. Perutz Laboratories, University of Vienna, Vienna, Austria; Research Platform “Marine Rhythms of Life”, Vienna, Austria"
+    },
+    {
+      "name": "Rebecca Thornton",
+      "first": "Rebecca",
+      "last": "Thornton",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Maurijn van der Zee",
+      "first": "Maurijn",
+      "last": "van der Zee",
+      "affiliation": "Institute of Biology, Leiden University, Leiden, The Netherlands"
+    },
+    {
+      "name": "Arndt von Haeseler",
+      "first": "Arndt",
+      "last": "von Haeseler",
+      "affiliation": "Center for Integrative Bioinformatics Vienna, Max F. Perutz Laboratories, University of Vienna, Medical University of Vienna, Vienna, Austria; Bioinformatics and Computational Biology, Faculty of Computer Science, University of Vienna, Vienna, Austria"
+    },
+    {
+      "name": "James M. Williams",
+      "first": "James M.",
+      "last": "Williams",
+      "affiliation": "Department of Biology, Hendrix College, Conway, Arkansas, United States of America"
+    },
+    {
+      "name": "Judith H. Willis",
+      "first": "Judith H.",
+      "last": "Willis",
+      "affiliation": "Department of Cellular Biology, University of Georgia, Athens, Georgia, United States of America"
+    },
+    {
+      "name": "Yuanqing Wu",
+      "first": "Yuanqing",
+      "last": "Wu",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Xiaoyan Zou",
+      "first": "Xiaoyan",
+      "last": "Zou",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Daniel Lawson",
+      "first": "Daniel",
+      "last": "Lawson",
+      "affiliation": "EMBL - European Bioinformatics Institute, Hinxton, Cambridgeshire, United Kingdom"
+    },
+    {
+      "name": "Donna M. Muzny",
+      "first": "Donna M.",
+      "last": "Muzny",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Kim C. Worley",
+      "first": "Kim C.",
+      "last": "Worley",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Richard A. Gibbs",
+      "first": "Richard A.",
+      "last": "Gibbs",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    },
+    {
+      "name": "Michael Akam",
+      "first": "Michael",
+      "last": "Akam",
+      "affiliation": "Department of Zoology, University of Cambridge, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Stephen Richards",
+      "first": "Stephen",
+      "last": "Richards",
+      "affiliation": "Human Genome Sequencing Center, Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2014-11",
+  "dateAccepted": "2014-10-15",
+  "dateReceived": "2014-02-21",
+  "volume": "12",
+  "number": "11",
+  "pages": "e1002005",
+  "tags": [
+    "Animal evolution",
+    "Comparative genomics",
+    "Computational biology",
+    "Discipline-v2/Animal evolution",
+    "Discipline-v2/Biology and life sciences",
+    "Discipline-v2/Comparative genomics",
+    "Discipline-v2/Computational biology",
+    "Discipline-v2/Evolutionary biology",
+    "Discipline-v2/Evolutionary genetics",
+    "Discipline-v2/Evolutionary immunology",
+    "Discipline-v2/Genetics",
+    "Discipline-v2/Genome complexity",
+    "Discipline-v2/Genome evolution",
+    "Discipline-v2/Genome sequencing",
+    "Discipline-v2/Genomics",
+    "Discipline-v2/Molecular biology",
+    "Discipline-v2/Molecular biology techniques",
+    "Discipline-v2/Organismal evolution",
+    "Discipline-v2/Sequencing techniques",
+    "Evolutionary biology",
+    "Evolutionary genetics",
+    "Evolutionary immunology",
+    "Genetics",
+    "Genome complexity",
+    "Genome evolution",
+    "Genome sequencing",
+    "Genomics",
+    "Molecular biology",
+    "Molecular biology techniques",
+    "Organismal evolution",
+    "Sequencing techniques",
+    "Type/Research Article"
+  ],
+  "abstract": "Myriapods (e.g., centipedes and millipedes) display a simple homonomous body plan relative to other arthropods. All members of the class are terrestrial, but they attained terrestriality independently of insects. Myriapoda is the only arthropod class not represented by a sequenced genome. We present an analysis of the genome of the centipede Strigamia maritima. It retains a compact genome that has undergone less gene loss and shuffling than previously sequenced arthropods, and many orthologues of genes conserved from the bilaterian ancestor that have been lost in insects. Our analysis locates many genes in conserved macro-synteny contexts, and many small-scale examples of gene clustering. We describe several examples where S. maritima shows different solutions from insects to similar problems. The insect olfactory receptor gene family is absent from S. maritima, and olfaction in air is likely effected by expansion of other receptor gene families. For some genes S. maritima has evolved paralogues to generate coding sequence diversity, where insects use alternate splicing. This is most striking for the Dscam gene, which in Drosophila generates more than 100,000 alternate splice forms, but in S. maritima is encoded by over 100 paralogues. We see an intriguing linkage between the absence of any known photosensory proteins in a blind organism and the additional absence of canonical circadian clock genes. The phylogenetic position of myriapods allows us to identify where in arthropod phylogeny several particular molecular mechanisms and traits emerged. For example, we conclude that juvenile hormone signalling evolved with the emergence of the exoskeleton in the arthropods and that RR-1 containing cuticle proteins evolved in the lineage leading to Mandibulata. We also identify when various gene expansions and losses occurred. The genome of S. maritima offers us a unique glimpse into the ancestral arthropod genome, while also displaying many adaptations to its specific life history.",
+  "fullText": "Introduction\n\nArthropods are the most species-rich animal phylum on Earth. Of the four extant classes of arthropods (Insecta, Crustacea, Myriapoda, and Chelicerata) (Figure 1), only the Myriapoda (centipedes, millipedes, and their relatives) are currently not represented by any sequenced genome [1],[2]. This absence is particularly unfortunate, as myriapods have recently been recognised as the living sister group to the clade that encompasses all insects and crustaceans [3]–[6]. Hence, the Myriapoda are particularly well placed to provide an outgroup for comparison, to determine ancestral character states and the polarity of evolutionary change within insects and crustaceans, which together represent the most diverse animal clade on Earth.\n\nAlthough Drosophila melanogaster is the best studied arthropod, it lacks many genes present in the ancestral bilaterian gene set, and chromosome rearrangements have disrupted all obvious evidence of synteny with other phyla [7]. Thus it is not fully representative of other arthropods. More comprehensive sampling of arthropod genomes will establish their basic structure, and determine when unique genomic characteristics of different taxa, such as the holometabolous insects, appear.\n\nPhylogenetic Position of the Myriapods\n\nMyriapods are today represented by two major lineages—the herbivorous millipedes (Diplopoda) and the carnivorous centipedes (Chilopoda), together with two minor clades, the Symphyla, which look superficially like small white centipedes, and the minute Pauropoda [8]. All are characterised by a multi-segmented trunk of rather similar (homonomous) segments, with no differentiation into thorax or abdomen. All recent studies, molecular and morphological, support the monophyly of myriapods [3]–[5],[8]–[10] suggesting that they share a single common ancestor.\n\nMyriapods, insects, and crustaceans have traditionally been identified as a clade of mandibulate arthropods, characterised by head appendages that include antennae and biting jaws [11]. Some molecular datasets have challenged this idea, suggesting instead that the myriapods are a sister group to the chelicerates [12],[13]. The most comprehensive phylogenomic datasets thus far reject this, and strongly support the phylogeny that proposes that the chelicerates are the most basal of the four major extant arthropod clades, and the mandibulates represent a true monophyletic group [3],[5],[10],[14]–[17].\n\nWithin the mandibulates, myriapods were believed until recently to share a common origin with insects as terrestrial arthropods. This view, based on a number of shared characters including uniramous limbs, air breathing through tracheae, the lack of a second pair of antennae, and excretion using Malpighian tubules, was widely supported by morphologically based phylogenies [9],[18]. However, molecular phylogenies robustly reject the sister group relationship between insects and myriapods, placing the origin of myriapods basal to the diversification of crustaceans [5], and identifying insects as a derived clade within the Crustacea [19]–[21]. As crustaceans are overwhelmingly a marine group today, and were so ancestrally, this implies that myriapods and insects represent independent invasions of the land (with the chelicerates representing an additional, unrelated invasion). Their shared characteristics are striking convergences, not synapomorphies.\n\nS. maritima as a Model Myriapod\n\nWe chose S. maritima as the species to sequence partly for pragmatic reasons: geophilomorph centipedes, such as S. maritima, have relatively small genome sizes, certainly compared to other centipedes [22]. More importantly, it is a species that has attracted interest for ecological and developmental studies [23]–[25], especially the process of segment patterning [26]–[32]. S. maritima is a common centipede of north western Europe, found along the coastline from France to the middle of Norway. It is a specialist of shingle beaches and rocky shores, occurring around the high tide mark, and feeding on the abundant crustaceans and insect larvae associated with the strand line. It is by far the most abundant centipede in these habitats around the British Isles, sometimes occurring at densities of thousands per square metre in suitable locations [25]. Eggs can be harvested from these abundant populations in large numbers with relatively little effort during the summer breeding season [27]. They can be reared in the lab from egg lay to at least the first free-living stage, adolescens I [24],[33].\n\nSome aspects of S. maritima biology are not common to all centipedes. Notable among these is epimorphic development, wherein the embryos hatch from the egg with the final adult number of leg-bearing segments. Epimorphic development is found in two centipede orders: geophilomorphs (including S. maritima) and scolopendromorphs. In contrast, more basal clades display anamorphic development and add segments post-embryonically [34]. These anamorphic clades have relatively few leg-bearing segments, generally 15, while geophilomorphs have many more, up to nearly 200 in some species [6]. These unique characteristics probably arose at least 300 million years ago, as the earliest fossils of the much larger scolopendromorph centipedes date to the Upper Carboniferous [35]. These share the same mode of development as the geophilomorphs, and are their likely sister group. Geophilomorphs are also adapted to a subsurface life style, the whole order having lost all trace of eyes [36],[37], though apparently not photosensitivity [38].\n\nWe have sequenced the genome of S. maritima as a representative of the phylogenetically important myriapods. In contrast to the intensively sampled holometabolous insects, our analysis of this myriapod genome finds conservative gene sets and conserved synteny, shedding light on general genomic features of the arthropods.\n\nResults and Discussion\n\nGenome Assembly, Gene Densities, and Polymorphism\n\nGenomic DNA from multiple individuals of a wild Scottish population of S. maritima was sequenced and assembled into a draft genome sequence spanning 176.2 Mb. This assembled sequence omits many repeat sequences including heterochromatin, which probably accounts for the difference between the assembly length and the total genome size estimate of 290 Mb. An analysis of repetitive elements within the assembly is presented in Text S1.\n\nThe assembly incorporates 14,992 automatically generated gene models, 1,095 of which have been additionally manually annotated. We re-sequenced four individuals comprising three females and one male. The frequency of identified polymorphism, with SNP density of 4.5 variants/kb, is comparable with the five variants per kb in the Drosophila genetic reference panel [39]. It is hard to say how typical this is for soil dwelling arthropods, as very little population data are available for such species.\n\nPhylome Analysis and Phylogenomics\n\nTo understand general patterns of gene evolution in S. maritima we reconstructed the evolutionary histories of all of its genes, i.e., the phylome. The resulting gene phylogenies, available through phylomeDB [40], were analysed to establish orthology and paralogy relationships with other arthropod genomes [41], transfer functional knowledge from annotated orthologues, and to detect and date gene duplication events [42]. Some 32% of S. maritima genes can be traced back to duplications specific to this myriapod lineage since its divergence from other arthropod groups included in the analysis. Functions enriched among these genes include those related to, among other processes, catabolism of peptidoglycans, sodium transport, glutamate receptor, and sensory perception of taste. Related to this latter function, two of the largest gene expansions specific to the S. maritima lineage detected in our analysis are the gustatory receptor (GR) and ionotropic receptor (IR) families encoding putative membrane-associated gustatory and/or olfactory receptors (see Text S1, and Chemosensory section below).\n\nSex Chromosomes\n\nNo obviously differentiated sex chromosomes are apparent in the diploid S. maritima karyotype, which comprises one long pair of metacentric chromosomes, together with seven pairs of much shorter telocentric chromosomes (P. Woznicki, unpublished data; J. Green et al., unpublished). Read-depth data from the genome assembly show that a proportion of the genome is underrepresented compared to the bulk of the data. One obvious reason for underrepresentation would be sequences derived from sex chromosomes. To confirm this, the coverage of individual scaffolds from the assembly was examined in sequence obtained from single individuals. A distinct fraction of underrepresented scaffolds is present in DNA derived from a male, but absent in female sequence (Figure 2), implying an XY sex determination mechanism. Quantitative PCR from three scaffolds in the underrepresented fraction confirmed that they are present at approximately twice the copy number in females as in males, identifying them as X chromosome derived (J. Green et al., unpublished). Other scaffolds of this fraction contain male specific sequences, and therefore presumably derive from a Y chromosome (J. Green et al., unpublished) [31]. Combined with the karyotype data, this finding suggests that S. maritima possesses a weakly differentiated pair of X and Y chromosomes.\n\nMitochondrial Genome\n\nFrom the whole genome assembly, S. maritima scaffold scf7180001247661 was found to contain a complete copy of the mitochondrial coding regions, flanked by a TY1/Copia-like retrotransposon, which all together spanned approximately 20 kb. This is unusually large for a metazoan mitochondrial genome and, as mis-assembly was suspected, PCR was used to clone the DNA between the genes at either end of the scaffold. This enabled us to close the circle of the mitochondrial genome, correct frameshifts, and confirm an unusual gene arrangement, resulting in a final circular assembly of 14,983 bp (Table S11). The gene arrangement in the S. maritima mitochondrial genome is striking (Figure S6). It diverges dramatically from the basic arthropod genome arrangement and differs from all other known centipede mitochondrial gene arrangements [43]. Although small sections of the S. maritima gene order are conserved with respect to the arthropod ground pattern found in Limulus polyphemus and the lithobiomorph centipede Lithobius forficatus (e.g., trnaF-nad5-H-nad4-nad4L on the minus strand), other sections are completely rearranged to an extent unusual in arthropods, and metazoans (ACR and MJT, unpublished). This confounds attempts to use S. maritima mitochondrial gene order in phylogenetic reconstructions.\n\nConserved Synteny with Other Phyla\n\nWith the exception of some conserved local gene clusters, the location of genes on the chromosomes of Drosophila and other Diptera retains no obvious trace of the ancestral bilaterian gene linkage. Other holometabolous insects such as Bombyx mori and Tribolium castaneum do show significant conservation of large-scale gene linkage with other phyla, for example, in the chordate Branchiostoma floridae (amphioxus) and the cnidarian Nematostella vectensis [44],[45]. The last common ancestor of these two lineages pre-dated the ancestor of all bilaterian animals, and yet the genomes of these species retain detectable conserved synteny: orthologous genes are found together on the same chromosomes, or chromosome fragments, far more often than would be expected by chance.\n\nWe find the S. maritima genome also retains significant traces of the large-scale genome organisation that was present in the bilaterian ancestor. Although the assignment of scaffolds to chromosomes is not determined in S. maritima, there are sufficient gene linkage data within scaffolds to reveal clear retained synteny between amphioxus and S. maritima (Figure 3), at a higher level than any of the Insecta or Pancrustacea we have examined.\n\nOf the 62 scaffolds with at least 20 genes from ancestral bilaterian orthology groups, 37 show enrichment of shared orthologues with one or (in the case of a single scaffold) two chordate ancestral linkage groups (ALGs) at a significance threshold of p&lt;0.0001 (after Bonferroni correction for 1,116 pairwise ALG-scaffold comparisons). Of these scaffolds' genes that have predicted human orthologues, 57% are found in a conserved macro-synteny context. At a more relaxed significance threshold (p&lt;0.01), 71% of these scaffolds have a significant association with at least one chordate ALG, and 17 of the 18 chordate ALGs hit at least one of these scaffolds.\n\nStronger synteny is also detected for the genome of the nematode Caenorhabditis elegans with S. maritima than with insects or other Metazoa. The C. elegans genome is highly rearranged, and shows low synteny with higher insects, or with chordates [7],[46],[47]. As members of the Ecdysozoa, nematodes last shared a common ancestor with the arthropods more recently than with chordates. This shared ancestry allows traces of conserved genome organisation to be detected with slowly rearranging arthropod genomes, even when it is only weakly apparent with chordates.\n\nBy implication, the last common ancestor of the arthropods retained significant synteny with the last common ancestor of bilaterians as well as the last common ancestors of other phyla, such as the Chordata. This conserved synteny is more complete with this S. maritima genome sequence, due to the relative scrambling of the genomes of those other arthropods that have been sequenced previously.\n\nHomeobox Gene Clusters: Hox, ParaHox, SuperHox, and Mega-homeobox\n\nThe clustering of genes in a genome is often of functional significance (e.g., reflecting co-regulation), as well as providing important insights into the origins of particular gene families when clusters are composed of genes from the same class or family. Gene clusters can also be a useful proxy for the degree of genome rearrangement. The homeobox gene super-class is one type of gene for which clustering has been extensively explored. S. maritima has 113 homeobox-containing genes, which is slightly more than seen in other sequenced arthropods such as D. melanogaster, T. castaneum, and Apis mellifera. This is due to some lineage-specific duplications in S. maritima as well as the retention of some homeobox families that have been lost in other arthropods, including Vax, Dmbx, and Hmbox (see Text S1).\n\nThe homeobox-containing genes of the Hox gene cluster are renowned for their role in patterning the anterior-posterior axis of animal embryos. S. maritima has an intact, well-ordered Hox cluster containing one orthologue of each of the ten expected arthropod Hox genes, except for Hox3. There are two potential Hox3 genes elsewhere in the S. maritima genome [48], but the true orthology of these genes remains slightly ambiguous; it remains possible that they are the first example of ecdysozoan Xlox ParaHox genes (see Text S1). The Hox cluster spans 457 kb (labial to eve), a span similar to assembled Hox clusters in a range of other invertebrate groups (crustacean, mollusc, echinoderm, cephalochordate). This suggests that the contrasting very large (and frequently broken) Hox clusters of Drosophilids and some other insects are a derived characteristic. However, the spectrum of alternatively spliced and polyadenylated transcripts encoded by the Hox genes of S. maritima is comparable with what is known from D. melanogaster (details in Text S1). Exceptionally among protostomes, the S. maritima Hox cluster retains tight linkage to one orthologue of evx/evenskipped, as it does in some chordates and cnidarians.\n\nFurther instances of homeobox gene clustering and linkage, and reconstructions of ancestral states, are summarized in Figure 4 and Table 1 (and see Text S1). The Hox gene cluster is hypothesized to have evolved within the context of a Mega-homeobox cluster that existed before the origin of the bilaterians and consisted of an array of many ANTP-class genes [49]–[51]. By the time of the last common ancestor of bilaterians the Hox cluster existed within the context of a SuperHox cluster, containing the Hox genes themselves and at least eight further ANTP-class genes [52]. The conservative nature of the S. maritima genome has left several fragments from the Mega-homeobox and SuperHox clusters still intact (Figure 4; Table 1). Furthermore, homeobox linkages in S. maritima raise the possibility that further genes could have been members of the Mega-homeobox and SuperHox clusters, including the ANTP-class gene Vax, as well as the SINE-class gene sine oculis and the HNF-class gene Hmbox (see Text S1 for further details).\n\nChemosensory Gene Families (Gustatory Receptors, Ionotropic Receptors, Odorant Binding Proteins, Chemosensory Proteins)\n\nThe chemosensory system of arthropods is best known in insects. During the evolutionary transition from water to terrestrial environments, insects evolved a new set of genes to detect airborne molecules (odorants) [53]–[55]. The independent colonization of land by insects and myriapods raises two interesting questions: (1) what are the genes involved in chemosensation in non-insect arthropods, and (2) what genes are responsible for the detection of airborne molecules in other terrestrial arthropods? We searched the S. maritima genome for homologues of the insect chemosensory genes, included in six gene families, three ligand binding protein families: odorant binding proteins (OBPs) [56],[57], chemosensory proteins (CSPs) [58],[59], and CheA/B [60],[61]; and three membrane receptor families: GRs [62],[63], odorant receptors (ORs) [64],[65], and IRs [66],[67].\n\nOf the ligand binding proteins, we found only two genes belonging to the CSP family, but no representatives of the OBP or CheA/B families. Among the membrane receptor families, we identified a number of genes of both the GR and IR families, but no OR genes. The GR family in S. maritima is represented by 77 genes, 17 of which seem to be pseudogenes, with similar numbers of genes and pseudogenes being fairly typical features of this gene family in other arthropods. A phylogenetic tree revealed that none of the S. maritima GR genes have 1∶1 orthology to other arthropod GRs. Instead, all S. maritima GRs cluster in a single clade, with six major subclades, representing separate expansions of the GR repertoire in the centipede lineage (Figure 5A and see Text S1). The IR family is known to be ancient [67], but S. maritima has a relative expansion of this family. The search for IRs led to the annotation of 69 genes, 15 of which belong to the IGluR subfamily, which is not involved in chemosensation, but is highly conserved among arthropods and animals in general. Among the remaining 54 IRs, three are orthologues of conserved IR genes that have been shown to have an olfactory function in D. melanogaster. However, 51 of the S. maritima IRs do not have orthologues either in D. melanogaster or in Ixodes scapularis, clustering together in a single clade (the expansion clade in Figure 5B). This finding suggests that most S. maritima IRs, as observed with GRs, have duplicated from a common ancestral gene exclusive to the centipede lineage.\n\nThe absence of the insect OR family agrees with the prediction of Robertson and colleagues [54] that this lineage of the insect chemoreceptor superfamily evolved with terrestriality in insects, and it is also missing from the water flea Daphnia pulex [53]. The same appears to be true for the OBPs. We therefore infer that, as centipedes adapted to terrestriality independently from the hexapods, they utilized a novel combination of expanded GR and IR protein families for olfaction, in addition to their more ancestral roles in gustation.\n\nLight Receptors and Circadian Clock Genes\n\nS. maritima, like all species of the order Geophilomorpha, is blind [37]. Nevertheless, it avoids open spaces and negative phototaxis has been demonstrated in other species of Geophilomorpha [38],[68]. We searched the S. maritima genome for light receptor genes. Interestingly, we have found no opsin genes, no homologue of gustatory receptor 28b (GR28b), which is involved in larval light avoidance behaviour in Drosophila [69], and no cryptochromes. Thus, none of the known arthropod light receptors are present. Furthermore, there are no photolyases, which would repair UV light induced DNA damage. As a consequence, the critical avoidance of open spaces by S. maritima must either be mediated by other sensory instances than light perception, or S. maritima possesses yet unknown light receptor molecules.\n\nThe absence of light receptors, particularly cryptochromes, also raises the issue of the entrainment and composition of a potential S. maritima circadian clock. Strikingly, we could not identify any components of the major regulatory feedback loop of the canonical arthropod circadian clock (including period, cycle, b-mal/clock, timeless, cryptochromes 1 and 2, jetlag [70]). The only circadian clock genes found (timeout, vrille, pdp1, clockwork orange) are generally known to be involved in other physiological processes as well [71]–[73]. The extensive secondary gene loss of both light receptors and circadian clock genes raises questions about the actual existence of a circadian clock in S. maritima. One could hypothesize that a circadian clock may not be required in S. maritima's subsurface habitat, although other periodicities, such as tide cycles, might be important. If S. maritima does have a circadian clock then it must be operating via a mechanism distinct from the canonical arthropod system.\n\nOther blind or subterranean animals do maintain a circadian rhythm, despite complete loss of vision and connection with the surface (e.g., Spalax) [74]–[76]. In other cases (e.g., blind cave crayfish [77]), despite the loss of vision, opsin proteins remain functional, and are hypothesized to have a role in circadian cycles. However, both these examples represent species that have become blind and subterranean relatively recently. To confirm that the loss of these genes is not general for all centipedes, we performed BLASTP analyses searching for the set of light sensing and circadian clock genes that are missing from S. maritima in RNAseq data from the house centipede Scutigera coleoptrata (NCBI SRA accession SRR1158078), a species with well-developed eyes. We find homologs to period, cycle, b-mal/clock, jetlag, cryptochrome1, cryptochrome 2, (6-4)-photolyase, and nina-e (rhodopsin 1), suggesting that both light sensing and circadian clock systems were present in ancestor of myriapods. Although we have no direct information about photoreceptors or circadian genes in other geophilomorph species, the fact that all geophilomorphs are blind suggests that the loss of the related genes is very ancient, and may date back to the origin of the clade.\n\nPutative Cuticular Proteins\n\nA defining characteristic of arthropods is an exoskeleton with chitin and cuticular proteins as the primary components. Although several families of cuticular proteins have been recognized, the CPR family (Cuticular Proteins with the Rebers and Riddiford consensus) is by far the largest in every arthropod for which a complete genome is available, with 32 to &gt;150 members [78]. Proteins in the CPR family have a consensus region in arthropods of about 28 amino acids, first recognized by Rebers and Riddiford [79], which was subsequently extended to ∼64 amino acid residues and shown to be necessary and sufficient for binding to chitin [80]. No clear instances of the Rebers and Riddiford (RR) consensus have been identified outside the arthropods. We identified 38 members of the CPR family in S. maritima. There are two main forms of the consensus, designated RR-1 and RR-2, with the former primarily associated with flexible cuticle, the latter with rigid cuticle. Interestingly, while chelicerates studied to date have no members of the RR-1 subfamily (as classified at CutProtFam-Pred, http://aias.biol.uoa.gr/CutProtFam-Pred/home.php), seven of the S. maritima CPR proteins clearly belong to this class. This would be consistent with the origin of the RR1-coding genes being in the mandibulate ancestor after this lineage had diverged from the chelicerate lineage. Further data are needed to verify that the identified proteins are indeed important constituents of the cuticle.\n\nNeuro-endocrine Hormone Signalling\n\nCell-to-cell communication in arthropods occurs via a variety of neurotransmitters and neuro-endocrine hormones, including biogenic amines, neuropeptides, protein hormones, juvenile hormone (JH), and ecdysone. These signalling molecules and their receptors steer central processes such as growth, metamorphosis, feeding, reproduction, and behaviour. Most receptors for biogenic amines, neuropeptides, and protein hormones are G protein-coupled receptors (GPCRs) [81]. Intracellularly, the G proteins initiate second messenger cascades [82]. JH and ecdysone, however, are lipophilic and can diffuse through the cell membrane to bind with nuclear receptors [83],[84]. In addition, ecdysone can also activate a specific GPCR, and initiate a second messenger cascade [85]. There is extensive cross-talk between these extracellular signal molecules.\n\nS. maritima possesses 19 biogenic amine receptors, a number similar to the 18–22 biogenic amine receptors that have been identified in other arthropods (Table S19). In S. maritima, there are four octopamine GPCRs, one octopamine/tyramine, one tyramine, four dopamine and three serotonin GPCRs, three GPCRs for acetylcholine, one GPCR for adenosine, and two orphan biogenic amine receptors. Although this distribution resembles very much that of Drosophila and other arthropods, there are some interesting differences with Drosophila, which expresses two additional β-adrenergic-like octopamine receptors compared to S. maritima, while S. maritima expresses two putative β-adrenergic-like octopamine receptors (Sm-OctBetaRHK and Sm-D1/OctBeta), which are expressed in a number of insect and tick species, but not in Drosophila (Table S20) [86]. The true functional identities of all the putative S. maritima biogenic amine GPCRs awaits their cloning, functional expression, and pharmacological characterization in cell lines.\n\nIn addition, 36 neuropeptide and protein hormone precursor genes are present in this centipede. Each neuropeptide precursor contains one or more (up to seven) immature neuropeptide sequences (Figure S20). Interestingly, the centipede contains two CCHamide-1, two eclosion hormone, and two FMRFamide genes, whereas these genes are only present as single copies in the genomes of most other arthropods [87]. In concert with the presence of 36 neuropeptide genes, we found 33 genes for neuropeptide receptors (31 GPCRs and two guanylcyclase receptors) (see Table S21). As observed for the neuropeptide genes, a number of the neuropeptide receptor genes, which are only found as single copies in most other arthropods, have also been duplicated. S. maritima has two inotocin GPCR genes, two SIFamide, two corazonin, two eclosion hormone guanylcyclase receptor genes, two eclosion triggering hormone GPCR genes, three sulfakinin GPCR genes, and three LGR-4 (Leu-rich-repeats-containing-GPCR-4) genes. The latter receptors are orphans (GPCRs without an identified ligand) and only present as single-copy genes in most other arthropods [88]. Several of these duplicated GPCR genes are located in close vicinity to each other in the genome (Figure S21, suggesting recent duplication events. Furthermore, duplications of both the eclosion hormone and its receptor genes and the duplication of the ecdysis triggering hormone receptor genes suggest that the process of ecdysis (moulting) has undergone some sort of modification, perhaps requiring more complex control in the lineage leading to centipedes.\n\nWe summarize in Table S22 the neuropeptide/protein hormone signalling systems that are present or absent in selected arthropod genome sequences. Each arthropod species, including S. maritima, has its own characteristic pattern, or “barcode,” of present/absent neuropeptide signalling systems. However, the relationship between the specific neuropeptide “barcode” and physiology remains to be elucidated.\n\nInsect JH is important for growth, moulting, and reproduction in arthropods [84]. This hormone is a terpenoid (unsaturated hydrocarbon) that is synthesized from acetyl-CoA by several enzymatic steps (Figure S22). In several insects the production of JH is stimulated by the neuropeptide allatotropin, while it is inhibited by either allotostatin-A, -B, or -C [89],[90]. We found that S. maritima has orthologues of many of the biosynthetic enzymes needed for JH biosynthesis in insects (Table S23). Also, the JH binding proteins are encoded in the centipede genome as well as JH degradation enzymes (Table S24). This implies that the complete JH system is present in this centipede. Similarly, neuropeptides that could stimulate or inhibit the synthesis and release of JH, such as allatotropin and the allatostatins -A, -B, and -C, are also present in S. maritima (Figure S22, suggesting that the overall functioning of the JH system in centipedes might be very similar to that of insects) (Table S23). To date, the existence of JH signalling systems has been demonstrated in insects, crustaceans, and recently in spider mites [89],[91],[92]. Its occurrence in S. maritima and spider mites (Chelicerata) indicates that JH signalling has deep evolutionary roots and we suggest that it might have evolved together with the emergence of the exoskeleton in arthropods.\n\nDevelopmental Signalling Systems\n\nCertain signalling systems, including transforming growth factor (TGF)-beta, Wnt, and fibroblast growth factor (FGF), are used throughout development across the animal kingdom. Various lineage-specific modifications of these systems have occurred, particularly within the arthropods. With regards to TGF-beta signalling we found single orthologues of all members of the Activin family, except Alp (Activin-like protein) (see Figure S23; Text S1). In the BMP-family, the S. maritima genome contains two divergent BMP sequences, as well as a clear orthologue of glass-bottom boat (gbb) and two decapentaplegic (dpp) orthologues. In addition, the S. maritima sequences confirm the ancestral presence of an anti-dorsalizing morphogenetic protein (ADMP) and a BMP9/10 orthologue in arthropods, which are both absent from Drosophila [93]. Most interestingly, the S. maritima genome includes the antagonistic BMP ligand BMP3 (previously suggested to be present only in deuterostomes [94]), a potential gremlin/neuroblastoma suppressor of tumorigenicity, and two nearly identical bambi genes (absent from Drosophila), and the BMP inhibitor noggin (present in vertebrates but lost in most holometabolous insects). The multiple BMP-agonists and -antagonists indicate that considerable changes have occurred in the TGF-beta signalling system during arthropod evolution, particularly in the Holometabola.\n\nReconstructions of Wnt gene evolutionary history suggest that the ancestral bilaterian possessed at least 13 distinct Wnt gene subfamilies [95],[96]. This initial number has been secondarily reduced in many taxa. This trend of secondary gene loss is readily apparent within the arthropods, with holometabolous insects such as D. melanogaster retaining only seven Wnt subfamilies [97],[98]. In contrast, the Wnt signalling complement in S. maritima comprises 11 of the 13 Wnt-ligand subfamilies (Figure S24). Phylogenetic investigation has identified these genes as wnt1, wnt2, wnt4, wnt5, wnt6, wnt7, wnt9, wnt10, wnt11, wnt16, and wntA. wnt3 and wnt8 are missing from the S. maritima genome. While the absence of wnt3 is common to protostomes, wnt8 or wnt8-like sequences occur in other protostome genomes, including insects, spiders, and another myriapod, Glomeris marginata [97]. The Wnt genes are known to display a degree of linkage and clustering in many arthropods. Some conservation of this is also found in S. maritima, with wnt1, wnt6, and wnt10 adjacent to each other on the same scaffold, possibly representing part of an ancient clustering (Table S25) [99].\n\nThe primary receptors for Wnt ligands in the canonical Wnt signalling pathway are the trans-membrane receptors of the Frizzled family. Five of these have been identified: Frizzled1, Frizzled4, Frizzled5/8, Frizzled7, and Frizzled10. As is the case for the wnt genes themselves, this is a larger number than is found in most arthropods. Other Fz-related genes are also present: smoothened, involved in Hedgehog signalling, and secreted frizzled related protein, which has inhibitory roles in Wnt signalling in other taxa. Putative non-canonical Wnt receptors are also encoded, including two subfamilies of receptor tyrosine kinase-like orphan receptor (ror). In addition to ror2, there is a lineage-specific duplication of ror1, making a total of three ror genes, as opposed to only one in D. melanogaster. Another Wnt agonist, the R-spondin orthologue was also found. As part of the Wnt-binding complex we found one arrow-LRP5/6-like Wnt-coreceptor gene in the genome: lrp6. Other LRP-molecules with potential Wnt-binding activity also exist: LRP1, LRP2, and LRP4. Because of the absence of an intracellular signalling domain these could potentially function as Wnt-inhibitors. Together, the large number of ligand and receptor genes point towards both the conservation of an ancestral Wnt signalling system and to a certain degree of unusual complexity in of this system in S. maritima.\n\nConcerning the FGF pathway, we identified two closely related FGF receptors. These two S. maritima receptors are likely to stem from a duplication in the myriapod lineage that was independent from that which generated the two Drosophila FGFRs, Heartless and Breathless (Figure S25). The number of FGF ligands found in the genomes of insects such as D. melanogaster (three fgf genes) or T. castaneum (four fgf genes) is small when compared to 22 fgf genes found in the genomes of vertebrates. In the S. maritima genome, we identified three fgf-genes (Figure S26). One of them potentially represents an fgf 18/8/24 orthologue to which the fgf8-like genes of Tribolium and of Drosophila (pyramus and thisbe) are associated. The second S. maritima fgf groups with the fgf1 genes, while the third groups with the fgf 16/9/20 clade (the first known arthropod member of this clade). Low support values for this grouping raise the possibility that it might actually be an orthologue of insect branchless genes. Other FGF-pathway genes present in S. maritima include stumps (Downstream-of-FGF-signalling [DOF]) and sprouty related.\n\nProtein Kinases\n\nKinases make up about 2% of all proteins in most eukaryotes, while they phosphorylate over 30% of all proteins and regulate virtually all biological functions. We identified 393 protein kinases in the S. maritima genome, representing 2.6% of the proteome. We classified these into conserved families and subfamilies, compared the kinome to those of 26 other arthropods and inferred the evolutionary history of all kinases across the arthropods (Figure 6). We predict that an early arthropod had at least 231 distinct kinases and see considerable loss of ancestral kinases in most extant species. S. maritima has the smallest number of losses among the arthropods, with only ten kinases lost relative to the arthropod ancestor. In contrast, the two chelicerates T. urticae and I. scapularis have lost 63 and 45 kinases, respectively, and D. melanogaster lost 30, giving S. maritima the richest repertoire of conserved kinases of any arthropod examined. All but one of the losses in S. maritima have been lost in other arthropods, suggesting that these genes may be partially redundant or particularly prone to loss. The one unique loss is NinaC, which in Drosophila is required for vision, likely associated with other vision related gene loss described above. As in many other species, we also see some novelties and expansions of existing families: the SRPK kinase family, involved in splicing and RNA regulation, has expanded to 36 members, and the nuclear VRK family is expanded to 16. A novel family of receptor guanylate cyclases (nine genes) and three clusters of unique protein-kinase-like (PKL) kinases, containing 28 genes in total, are also seen, though their functions are not known.\n\nDevelopmental Transcription Factors\n\nDNA binding proteins with the capacity to regulate the expression of other genes are central players in the control of development and many other processes. Since one of the original interests in S. maritima was for its developmental characteristics, we carried out a survey of developmentally relevant transcription factors, with an emphasis on transcription factors suspected to be involved in processes of axial specification, segmentation, mesoderm formation, and brain development. We identified orthologues of ∼80 transcription factors of the Zinc finger and helix-loop-helix families in addition to the 113 homeobox-containing transcription factors already discussed (see Text S1). In no case did we fail to find at least one orthologue of the gene families expected from our knowledge of Drosophila, though individual duplications and losses among gene families were not uncommon. Among the set of pair-rule segmentation genes, for example, S. maritima has multiple homologues of paired, even-skipped, odd-skipped, odd-paired, and hairy-like genes, but only a single orthologue of sloppy-paired and runt-like genes, whereas Drosophila has multiple runt and sloppy-paired genes but only single orthologues of even-skipped and odd-paired. Where both lineages have multiple copies, (paired, hairy, odd-skipped), sequence alone rarely defines one-to-one orthologous relationships, and the evolutionary history remains unclear [29]. Other notable duplications include caudal (three genes) and brachyury (two genes). In a number of cases, transcription factors known to play a role in vertebrate development, but apparently missing from Drosophila and other insects, are retained in S. maritima. Examples include the homeobox genes Dmbx and Vax noted above, and the FoxJ1, FoxJ2, and FoxL1 subfamilies of forkhead/Fox factors.\n\nOne of the developmental transcription factors provides an example where insects use isoforms to generate alternative proteins that are encoded by paralogous genes in S. maritima. Two centipede orthologues of the developmental transcription factor cap‘n’collar encode isoforms that differ at their N-terminal end. The longer protein, encoded by the gene cnc1, contains sequence motifs that align to Drosophila cnc isoform C (Figure S27, which is broadly expressed throughout embryonic development) [100]. S. maritima cnc1 is similarly expressed ubiquitously, whereas the other orthologue, cnc2, shows a segment specific pattern of expression similar to that of the shorter Drosophila cnc isoform B (VSH and MA, unpublished) [100].\n\nImmune System\n\nArthropods can mount an innate immune response against pathogenic bacteria, fungi, viruses, and metazoan parasites. The nature of the responses to these invaders, such as phagocytosis, encapsulation, melanisation, or the synthesis of antimicrobial peptides, is often similar across arthropods [101]. Furthermore, key aspects of innate immunity are conserved between insects and mammals, which suggests an ancient origin of these defences. Previous studies have revealed extensive conservation of key pathways and gene families across the insects and crustaceans [102]. Beyond the Pancrustacea the extent of immunity gene conservation is unclear. Therefore, we searched the S. maritima genome for homologues of immunity genes characterised in other arthropods.\n\nWe found conservation of most immunity gene families between insects and S. maritima (Table S30), suggesting that the immune gene complement known from Drosophila was largely present in the most recent common ancestor of the myriapods and pancrustaceans. The humoral immune response of insects recognises infection using proteins that bind to conserved molecular patterns on pathogens [103]. Sequence homologues for the major recognition protein families found in Drosophila, peptidoglycan recognition proteins (PGRPs), and gram-negative bacteria-binding proteins (GNBPs), were found with the expected protein domains. These proteins then activate signalling pathways [103], and all four major insect immune signalling pathways (Toll, IMD, JAK/STAT, and JNK) are present in S. maritima, with 1∶1 sequence homologues of most pathway members. The cellular immune response of insects relies on receptors and opsonins including thioester-containing proteins (TEPs), fibrinogen related proteins (FREPs), and scavenger receptors [103],[104], and these are also present in S. maritima, often with protein domains in the same arrangement as Drosophila. We also find sequence homologues for effector gene classes including nitric oxide synthases (NOS) and prophenoloxidase (PPO). However, we failed to identify any antimicrobial peptide homologues, possibly as these genes are often short and highly divergent between species. In insects, it is common to find that certain immune gene families have undergone expansions in certain lineages [105]. Again, this is mirrored in S. maritima, where we found lineage-specific expansions of the PGRP and Toll-like receptor genes (TLRs) (Figure 7). Overall, the presence of the main families of immunity genes suggests that there is also functional conservation of the immune response.\n\nThe innate immune system is thought to rely on a small number of immune receptors that bind to conserved molecules associated with pathogens. This view was challenged by the discovery in Drosophila that the gene Dscam (Down syndrome cell adhesion molecule), which has the potential to generate over 150,000 different protein isoforms by alternative splicing, functions as an immune receptor in addition to its roles in nervous system development [106]. Dscam family members are membrane receptors composed of several immunoglobulin (Ig) and fibronectin domains (FNIII). In pancrustaceans one member of the Dscam family has a large number of internal exon duplications and a sophisticated mechanism of mutually exclusive alternative splicing, which enables a single Dscam locus to somatically generate thousands of isoforms, which differ in half of two Ig domains (Ig2 and Ig3) and in another complete Ig domain (Ig7). This creates a high diversity of adhesion properties, useful for immune responses.\n\nWe found that S. maritima has evolved a different strategy to generate a diversity of Dscam isoforms [107]. The genome contains 60 to 80 canonical Dscam paralogues and over 20 other Dscam related incomplete or non-canonical genes (Figure 8). In 40 Dscam genes, the exon coding for Ig7 is duplicated two to five times (but not the exons coding for Ig2 and Ig3, which are duplicated in pancrustaceans). Our analysis of transcripts suggests that many of those duplicated exons might be alternatively spliced in a mutually exclusive fashion, supporting the hypothesis that the mechanism of mutually exclusive alternative splicing of Dscam probably evolved in the common ancestor of both pancrustaceans and myriapods. According to our phylogenetic analysis, which included 12 paralogues, the S. maritima Dscams share a common origin and arose by duplication in the centipede lineage [107]. In the chelicerate I. scapularis, Dscam has also been duplicated extensively, both by whole-gene and by domain duplications [107]. These Dscam homologues however do not have a canonical domain composition and whether or not alternative splicing is also present in chelicerates remains unknown. The independent evolution of Dscam diversification in different arthropod groups (one locus with dozens of exon duplications in pancrustaceans versus many gene duplications coupled with a few exon duplications in S. maritima (Figure 8) suggests that the functional diversity in adhesion properties was important in the early evolution of arthropods. Whether all of these genes function in the immune system or nervous system development remains to be determined.\n\nThe short-interfering RNA (siRNA) pathway is the primary defence of insects against RNA viruses, while the piRNA pathway silences transposable elements in the germ line and micro RNAs (miRNAs) function in gene regulation [108]. These RNAi pathways appear to be intact in S. maritima, as we found homologues of key genes, including Ago1 and Dicer-1 in the miRNA pathway, Ago2 and Dcr2 in the siRNA pathway, and Ago3 and piwi in the piRNA pathway (Table S30). We found two paralogues of Ago2 and three paralogues of piwi, suggesting that RNAi may be more complex than in D. melanogaster. In other arthropods, expansion of the piwi family has been linked to neo- or subfunctionalization of germ line and soma roles, and so it remains to be seen whether this is also the case for S. maritima.\n\nSelenoproteins\n\nSelenoproteins are peculiar proteins including a selenocysteine (Sec) residue, a very reactive amino acid typically found in the catalytic site of redox proteins, which is inserted through the recoding of a UGA codon [109]. While vertebrates possess 24–38 selenoproteins [110], insects have very few (D. melanogaster has three) or none at all. Several events of complete selenoproteome loss have been observed in insects [111]. These were ascribed to the fundamental differences in the insect antioxidant systems, which would favour selenoprotein loss or their conversion to standard proteins (cysteine homologues). The analysis of a myriapod selenoproteome is then crucial for a phylogenetic mapping of such differences.\n\nThe S. maritima genome was found to be surprisingly rich in selenoproteins: we have identified 20 predicted proteins (Table S26). Downstream of the coding sequence of each selenoprotein gene, we detected a selenocysteine insertion sequence (SECIS) element, the stem-loop structure necessary to target the Sec recoding machinery during selenoprotein translation. The full set of factors necessary for selenocysteine insertion and production was also found: tRNA-Sec, SecS, SBP2, eEFsec, pstk, secp43, SPS2. The centipede selenoproteome is rather similar to that predicted for the ancestral vertebrate (see [110]). This supports the idea that selenoprotein losses are specific to insects and can be ascribed to changes in that lineage, supporting the idea that a massive selenoproteome reduction occurred specifically in insects. A notable difference with vertebrates was found for the protein methionine sulfoxide reductase A (MsrA). This enzyme catalyzes the reduction of methionine-L-oxide to methionine, repairing proteins that were inactivated by oxidation. A selenoenzyme from this family has been previously characterized in the green alga Chlamydomonas, and selenocysteine containing forms were also observed in some non-insect arthropods [112]. In contrast, only cysteine homologues are present in vertebrate and insect genomes. We found a Sec-containing MsrA in the centipede genome, as well as in arthropods D. pulex, I. scapularis, and also in the chordate B. floridae. This, along with phylogenetic reconstruction analysis, supports the idea that the selenoprotein MsrA was present in their last common ancestor, and was later converted to a cysteine homologue independently in insects and vertebrates.\n\nThe two major antioxidant selenoprotein families in vertebrates, glutathione peroxidases (GPx), and thioredoxin reductases (TrxR), were also found with selenocysteine in the centipede genome. In contrast, all holometabolous insects possess only cysteine forms, and consistently, important differences were noted in these and other enzymes in the glutathione and thioredoxin system (see [113] for an overview). Thus, on the basis of gene content, we expect the antioxidant systems of S. maritima to be more similar to vertebrates and other animals than to holometabolous insects like D. melanogaster.\n\nDNA Methylation\n\nInvertebrate DNA methylation occurs predominantly on gene bodies (exons and introns), via addition of a methyl group to a cytosine residue in a CpG context [114]–[116]. The exact function of gene body methylation is currently unknown, though it is correlated with active transcription in a wide range of species [116], and has been implicated in alternative splicing [117],[118] and regulation of chromatin organization [118]. Methylated cytosines are susceptible to deamination, to form a uracil, which is recognized as a thymine. Thus, over evolutionary time, highly methylated genes (in germ-line cells) will have comparatively low CpG content. The “observed CpG/expected CpG” (CpG(o/e)) ratio is an indicator of C-methylation: plots of CpG(o/e) for a gene set produce a bimodal distribution where a proportion of the genes have an evolutionary history of methylation [119]. In contrast, species without methylation systems, such as D. melanogaster, yield a unimodal distribution [119].\n\nThe S. maritima gene body CpG(o/e) plot has a trimodal distribution, with the majority of genes having a ratio close to 1 (Figure 9; Text S1). Underlying this major peak are two smaller peaks, one “low” and one “high” centred around ratios of 0.62 and 1.48, respectively. This “high” peak, that contains genes with higher than expected CpG content, is unusual and is not seen in this analysis of other arthropods [91],[119]–[121]. Applying the same analysis to 1,000 bp windows across the entire genome (including both coding and non-coding regions) reveals a similar peak of high CpG content (Figure S29). This implies that the peak of “high” CpG content seen in gene bodies is due to unusually high CpG content in some regions of the genome rather than a specific feature of those coding regions. The “low” peak, however, indicates that 9.5% of genes have been methylated in the germ-line over evolutionary time. The number of genes contained within the “low” peak in S. maritima is smaller than observed in insect species with methylation, which can be as high as 40% in exceptional species such as the pea aphid and the honeybee [119],[120], where the mechanism is likely involved in polyphenism and caste differences respectively. However, the number of genes methylated is less in non-social hymenopteran such as Nasonia vitripennis, in beetles, and in mites [91],[121],[122]. Consistent with the low-levels of germ-line methylation detected, the genome contains a single orthologue of the de novo DNA methylation enzyme Dnmt3 and four orthologues of the maintenance DNA methyltransferases Dnmt1(a–d). Two of the Dnmt1 orthologues have lost amino acids that are required for methyltransferase activity, but these genes are represented in the transcriptome data, and are thus unlikely to be pseudogenes. One Dnmt1 gene shows sex-specific splicing, with a shorter transcript producing a truncated protein seen in female-derived transcription libraries. We also find a single orthologue of Tet1, a putative DNA demethylation enzyme [123],[124]. Taken together these data indicate that S. maritima has an active DNA methylation system, and that over evolutionary time a small number of genes have been methylated in the germ-line, resulting in a lower than expected CpG dinucleotide content.\n\nNon-Protein-Coding RNAs in the S. maritima Genome\n\nWe annotated over 900 homologues of known non-coding RNAs in the S. maritima genome, including over 600 predicted tRNAs (plus an additional 300 tRNA pseudogenes), 71 copies of 5S rRNA and 12 5.8S rRNAs, 88 copies of RNA components of the major spliceosome, and three out of the four RNA components of the minor U12 spliceosome, and 54 microRNA genes. As is common for whole genome assemblies, we did not identify intact copies of the 18S or 28S rRNAs. Further details of our methodology are provided in Text S1.\n\nThe predicted tRNA gene set includes all anticodons necessary to code for the 21 amino acids, including four potential SeC tRNAs. We identify a massive expansion of the tRNA-Ala-GGC family, with 322 sequences classified as functional tRNAs by tRNAscan-SE and an additional 172 classified as pseudogenes. These appear scattered throughout the scaffolds of the genome assembly. It is highly likely that the majority of these genes are pseudogenes, and the expansion may represent co-option of the tRNA into a transposable element.\n\nThree S. maritima microRNA genes have been reported previously, and are available in the miRBase database (version 18) [125]. Two of these, mir-282 and mir-965, have homologues in crustaceans and insects. The third, mir-3930, is specific to myriapods [15]. In addition, we found 52 homologues of known microRNAs (Figure S34). These include 28 homologues of the 34 ancient microRNA families found throughout the Bilateria [126]. Four of these families were previously reported to be lost at various stages during animal evolution and, consistent with this, we failed to identify them in the S. maritima genome. Surprisingly, we also could not identify the S. maritima homologue of mir-125, a member of the ancient mir-100/let-7/mir-125 cluster, which is found in almost all bilaterians and has a well-established function in the regulation of development of many species [127]–[129]. Mir-100 and let-7 are well-conserved and localized within a 1 kb region on the same scaffold in S. maritima. Whilst we cannot rule out the possibility that the missing mir-125 is an artefact of the draft-quality genome assembly, the size of the scaffold strongly suggests that it is not present in the mir-100/let-7 cluster. We also identified 17 homologues of microRNAs common to ecdysozoans, and nine microRNAs known only from arthropods. Among the former, there are five homologues of mir-2 localized in close proximity to each other and downstream of mir-71. This clustering is conserved across protostomes, and it has previously been shown that the mir-2 family underwent various expansions during evolution [130]. Finally, we discovered a homologue of mir-2788, which was previously only known from insects, suggesting that this microRNA had an earlier origin.\n\nConclusions\n\nThe sequencing of the centipede genome extends significantly the diversity of available arthropod genomes, and provides novel information pertinent to a range of evolutionary questions. Myriapods show a simple body organization that has remained relatively unchanged in comparison to their ancestors from the Silurian or even earlier [6], leading to an expectation of general conservatism. The myriapods are descendants of an independent terrestrialisation event from the hexapods and chelicerates, opening the opportunity for studying convergent evolution in these taxa. Naturally, S. maritima itself has its own evolutionary history, including both lineage specific features of the geophilomorphs and adaptations to their subterranean environment, allowing us to identify specific genomic signatures of ecological adaptations. Finally, the phylogenetic position of the myriapods within the arthropods has been the subject of intense debate for several years, and the availability of genomic data for a myriapod should contribute to the future resolution of this debate.\n\nThe morphological conservatism of centipedes is mirrored in many conservative aspects of the S. maritima genome. From the analyses of the various gene families outlined above it becomes clear that the S. maritima genome has undergone much less gene loss and rearrangement than the genomes of other sequenced arthropods, in particular those of the holometabolous insects such as D. melanogaster. This prototypical nature of the S. maritima genome is illustrated by the conservation of synteny relative to the arthropod and bilaterian ancestors, and the conservation of some ancient gene linkages and clustering, as seen for numerous homeobox genes. As such, the S. maritima genome can serve as a guide to the ancestral state of the arthropod genomes, or as a reference in the reconstruction of evolutionary events in the history of arthropod genomes.\n\nThe independent terrestrialisation of the myriapods and insects is evidenced by the use of different evolutionary solutions to similar problems. Figure 10 summarizes some of the gene gains and losses observed. We see this most clearly in the independent expansions of gustatory receptor proteins in myriapods and insects and the differential expansions of ionotropic and odorant receptors to deal with terrestrial chemosensation in the two lineages. Similarly, though probably not for the same reasons, we see a divergent solution for the generation of Dscam diversity in the immune response through the use of paralogues instead of the insect strategy of alternative splicing. The chelicerates also attained terrestriality independently. However, our understanding of chelicerate genomes still lags behind our understanding of insect, and now myriapod, genomes. Thus, extending this comparison to chelicerates, intriguing as it may be, will have to await future analysis of their genomes.\n\nLineage specific features of the S. maritima genome include the apparent loss of all known photoreceptors and a loss of the canonical circadian clock system based around period and its associated gene network. The characterization of whether S. maritima does have a circadian clock, and if it does how this is controlled, awaits further work, as does the pinpointing of when in their evolutionary history these systems were lost. The absence of the microRNA miR-125 is another surprising evolutionary loss. The extensive rearrangement of the mitochondrial genome is striking in comparison with the general conservatism seen in other known arthropod mitochondrial genomes, and especially in contrast with the conservative nature of S. maritima's nuclear genome.\n\nMaterials and Methods\n\nThe S. maritima raw sequence, and assembled genome sequence data are available at the NCBI under bioproject PRJNA20501 (http://www.ncbi.nlm.nih.gov/bioproject/PRJNA20501) Assembly ID GCA_000239455.1. The genome was sequenced using 454 sequencing technology, assembled using the celera assembler, annotated using a combination of the Maker 2.0 pipeline, and custom perl scripts followed by manual annotation of selected genes. Text S1 includes detailed methods for these steps, and additionally for the individuals sequenced, library construction and sequencing protocols used, repeat analysis, RNA sequencing, phylome db analysis, specific protocols for manual annotation of gene families, CpG analysis, and phylome and synteny re-construction.\n\nSupporting Information"
+}

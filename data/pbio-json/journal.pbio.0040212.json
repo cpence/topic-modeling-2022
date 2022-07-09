@@ -1,0 +1,39 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0040212",
+  "doi": "10.1371/journal.pbio.0040212",
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "The More the Merrier: Multiple Genomes in a Parasitic Prokaryote",
+  "authors": [
+    {
+      "name": "Liza Gross",
+      "first": "Liza",
+      "last": "Gross"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2006-06",
+  "dateElectronic": "2006-05-30",
+  "volume": "4",
+  "number": "6",
+  "pages": "e212",
+  "tags": [
+    "Discipline/Genetics and Genomics",
+    "Discipline/Infectious Diseases",
+    "Discipline/Microbiology",
+    "Discipline/Molecular Biology",
+    "System Taxonomy/Eubacteria",
+    "Type/Synopsis"
+  ],
+  "fullText": "The notion that bacteria and other single-celled “prokaryotes” carry only one genome copy per cell is as ingrained as the notion that they lack a distinct nucleus. (Organisms with one genome copy are “haploid”; organisms with two, including humans, are “diploid”; and organisms with more than two, such as plants, are “polyploid.”) This assumption is based on decades of research on \n\t\t\t\tEscherichia coli and a select group of other bacterial species.\n\nBut researchers have been finding indications that some bacteria, under certain conditions, have more genetic material in a single cell than would be expected for a single genome. And now, using a combination of cell sorting, fluorescent microscopy, microarray, and quantitative PCR techniques, Deborah Tobiason and Hank Seifert present strong evidence that the bacterium that causes gonorrhea, \n\t\t\t\t(Neisseria gonorrhoeae), is indeed polyploid.\n\n\t\t\t\tN. gonorrhoeae successfully infects at-risk individuals by reshuffling the genetic code for proteins expressed on its hairlike “pili” protrusions through a process called gene conversion. During gene conversion, one gene incorporates DNA from a variant copy that carries slightly different information. The high frequency of gene conversion events enhances pili protein diversity, which increases the likelihood that the human immune system won't detect the pathogen. It is conceivable that \n\t\t\t\tN. gonorrhoeae might briefly express two copies of the pilin gene in one cell after DNA replication, before cell division. But Tobiason and Seifert thought that the high frequency of gene conversion required for antigenic diversity might instead be supported by the presence of extra genome copies.\n\nTo explore this possibility, the researchers had to distinguish the amount of DNA associated with genome duplication prior to cell division from that found in a nondividing cell. They labeled the DNA of \n\t\t\t\tN. gonorrhoeae with fluorescent markers and, as a source of comparison, did the same for \n\t\t\t\tE. coli, which has provided a wellspring of knowledge on chromosomal DNA replication. Cells were either left untreated, allowing exponential growth, or were treated with an antibiotic that inhibits new rounds of replication but allows any DNA replication already in progress to finish. Cells in “stationary phase”—during which cell division stops and no new DNA replication begins, but active replication forks complete their task—were also labeled. Both antibiotic treated cells and stationary cells produce fully replicated chromosomes.\n\nUsing a standard cell sorting technique called flow cytometry, the researchers separated cells based on their DNA content. Treated and stationary phase \n\t\t\t\tE. coli cells produced individual cells with the equivalent of two, four, or eight genomes per cell. Since multiple initiation events on the chromosome can occur per round of cell division, the number of replicated genomes reflects the number of replication forks active when cell division stops. Untreated \n\t\t\t\tE. coli cells, however, revealed a wide range of DNA content per cell, likely reflecting the presence of multiple replication forks at various stages of replication and cell division. The DNA content of untreated gonococcal cells also varied, with most cells having between four and six genome equivalents.\n\nGonococcus exists as single (monococcal) and double spheres (diplococcal)—it is these two forms, Tobiason and Seifert show with fluorescence microscopy, that explains the range of DNA content in different cell populations found with flow cytometry. Monococci had, on average, about three to six genome equivalents, while diplococci averaged about four to ten per cell. To explore the reason for the expanded DNA content, the researchers treated gonococcal cells with antibiotics to generate fully replicated chromosomes. These experiments suggested that actively dividing cells have two or four pairs of active replication forks. They used independent measures to confirm that both monococci and diplococci contain fully replicated chromosomes with a single pair of active replication forks on each chromosome—which means that the DNA content they saw in gonococcal cells is not the result of multiple replication initiation events on a single chromosome, as occurs with \n\t\t\t\tE. coli, but represents multiple, fully replicated chromosomes. Future studies will have to determine whether polyploidy underlies pilin antigenic variation and the bacterium's success as a human pathogen. But this study leaves little doubt that it's time to retire the notion that all prokaryotes are haploid.",
+  "externalIds": [
+    "pmid:20076595",
+    "pmcid:PMC1470459"
+  ]
+}

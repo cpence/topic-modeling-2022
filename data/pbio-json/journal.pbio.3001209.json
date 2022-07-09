@@ -1,0 +1,345 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3001209",
+  "doi": "10.1371/journal.pbio.3001209",
+  "externalIds": [
+    "pii:PBIOLOGY-D-20-03724",
+    "pmid:33961621",
+    "pmcid:PMC8133496"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Structural basis for SARS-CoV-2 neutralizing antibodies with novel binding epitopes",
+  "authors": [
+    {
+      "name": "Dan Fu",
+      "first": "Dan",
+      "last": "Fu",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China"
+    },
+    {
+      "name": "Guangshun Zhang",
+      "first": "Guangshun",
+      "last": "Zhang",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China; Harbour Biomed (Suzhou) Co. Ltd., Suzhou Industrial Park, Suzhou, China; College of Life Science, Nankai University, Tianjin, China"
+    },
+    {
+      "name": "Yuhui Wang",
+      "first": "Yuhui",
+      "last": "Wang",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China; College of Life Science, Nankai University, Tianjin, China"
+    },
+    {
+      "name": "Zheng Zhang",
+      "first": "Zheng",
+      "last": "Zhang",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China"
+    },
+    {
+      "name": "Hengrui Hu",
+      "first": "Hengrui",
+      "last": "Hu",
+      "affiliation": "Center for Biosafety Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, Hubei, China; Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, China"
+    },
+    {
+      "name": "Shu Shen",
+      "first": "Shu",
+      "last": "Shen",
+      "affiliation": "Center for Biosafety Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, Hubei, China; State Key Laboratory of Virology and National Virus Resource Center, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, Hubei, China"
+    },
+    {
+      "name": "Jun Wu",
+      "first": "Jun",
+      "last": "Wu",
+      "affiliation": "Harbour Biomed (Suzhou) Co. Ltd., Suzhou Industrial Park, Suzhou, China",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-4457-5485"
+      ]
+    },
+    {
+      "name": "Bo Li",
+      "first": "Bo",
+      "last": "Li",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China; College of Life Science, Nankai University, Tianjin, China"
+    },
+    {
+      "name": "Xin Li",
+      "first": "Xin",
+      "last": "Li",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China; College of Life Science, Nankai University, Tianjin, China; Shanghai Institute for Advanced Immunochemical Studies, ShanghaiTech University, Shanghai, China"
+    },
+    {
+      "name": "Yaohui Fang",
+      "first": "Yaohui",
+      "last": "Fang",
+      "affiliation": "State Key Laboratory of Virology and National Virus Resource Center, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, Hubei, China"
+    },
+    {
+      "name": "Jia Liu",
+      "first": "Jia",
+      "last": "Liu",
+      "affiliation": "Center for Biosafety Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, Hubei, China"
+    },
+    {
+      "name": "Qiao Wang",
+      "first": "Qiao",
+      "last": "Wang",
+      "affiliation": "Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS), School of Basic Medical Sciences, Shanghai Medical College, Fudan University, Shanghai, China"
+    },
+    {
+      "name": "Yunjiao Zhou",
+      "first": "Yunjiao",
+      "last": "Zhou",
+      "affiliation": "Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS), School of Basic Medical Sciences, Shanghai Medical College, Fudan University, Shanghai, China",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-0937-3570"
+      ]
+    },
+    {
+      "name": "Wei Wang",
+      "first": "Wei",
+      "last": "Wang",
+      "affiliation": "Shanghai Institute for Advanced Immunochemical Studies, ShanghaiTech University, Shanghai, China"
+    },
+    {
+      "name": "Yufeng Li",
+      "first": "Yufeng",
+      "last": "Li",
+      "affiliation": "Center for Biosafety Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, Hubei, China"
+    },
+    {
+      "name": "Zhonghua Lu",
+      "first": "Zhonghua",
+      "last": "Lu",
+      "affiliation": "Harbour Biomed (Suzhou) Co. Ltd., Suzhou Industrial Park, Suzhou, China"
+    },
+    {
+      "name": "Xiaoxiao Wang",
+      "first": "Xiaoxiao",
+      "last": "Wang",
+      "affiliation": "Harbour Biomed (Suzhou) Co. Ltd., Suzhou Industrial Park, Suzhou, China"
+    },
+    {
+      "name": "Cui Nie",
+      "first": "Cui",
+      "last": "Nie",
+      "affiliation": "Harbour Biomed (Suzhou) Co. Ltd., Suzhou Industrial Park, Suzhou, China"
+    },
+    {
+      "name": "Yujie Tian",
+      "first": "Yujie",
+      "last": "Tian",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China; Frontiers Science Center for Cell Responses, Nankai University, Tianjin, China"
+    },
+    {
+      "name": "Da Chen",
+      "first": "Da",
+      "last": "Chen",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China; College of Life Science, Nankai University, Tianjin, China; Frontiers Science Center for Cell Responses, Nankai University, Tianjin, China"
+    },
+    {
+      "name": "Yuan Wang",
+      "first": "Yuan",
+      "last": "Wang",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China; College of Life Science, Nankai University, Tianjin, China; Frontiers Science Center for Cell Responses, Nankai University, Tianjin, China"
+    },
+    {
+      "name": "Xingdong Zhou",
+      "first": "Xingdong",
+      "last": "Zhou",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China; College of Life Science, Nankai University, Tianjin, China; Frontiers Science Center for Cell Responses, Nankai University, Tianjin, China"
+    },
+    {
+      "name": "Qisheng Wang",
+      "first": "Qisheng",
+      "last": "Wang",
+      "affiliation": "Shanghai Synchrotron Radiation Facility, Shanghai Advanced Research Institute, Chinese Academy of Sciences, Shanghai, China"
+    },
+    {
+      "name": "Feng Yu",
+      "first": "Feng",
+      "last": "Yu",
+      "affiliation": "Shanghai Synchrotron Radiation Facility, Shanghai Advanced Research Institute, Chinese Academy of Sciences, Shanghai, China"
+    },
+    {
+      "name": "Chen Zhang",
+      "first": "Chen",
+      "last": "Zhang",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China"
+    },
+    {
+      "name": "Changjing Deng",
+      "first": "Changjing",
+      "last": "Deng",
+      "affiliation": "Harbour Biomed (Suzhou) Co. Ltd., Suzhou Industrial Park, Suzhou, China"
+    },
+    {
+      "name": "Liang Zhou",
+      "first": "Liang",
+      "last": "Zhou",
+      "affiliation": "Harbour Biomed (Suzhou) Co. Ltd., Suzhou Industrial Park, Suzhou, China"
+    },
+    {
+      "name": "Guangkuo Guan",
+      "first": "Guangkuo",
+      "last": "Guan",
+      "affiliation": "Harbour Biomed (Suzhou) Co. Ltd., Suzhou Industrial Park, Suzhou, China"
+    },
+    {
+      "name": "Na Shao",
+      "first": "Na",
+      "last": "Shao",
+      "affiliation": "Harbour Biomed (Suzhou) Co. Ltd., Suzhou Industrial Park, Suzhou, China"
+    },
+    {
+      "name": "Zhiyong Lou",
+      "first": "Zhiyong",
+      "last": "Lou",
+      "affiliation": "MOE Key Laboratory of Protein Science & Collaborative Innovation Center of Biotherapy, School of Medicine, Tsinghua University, Beijing, China"
+    },
+    {
+      "name": "Fei Deng",
+      "first": "Fei",
+      "last": "Deng",
+      "affiliation": "Center for Biosafety Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, Hubei, China; State Key Laboratory of Virology and National Virus Resource Center, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, Hubei, China"
+    },
+    {
+      "name": "Hongkai Zhang",
+      "first": "Hongkai",
+      "last": "Zhang",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China; Shanghai Institute for Advanced Immunochemical Studies, ShanghaiTech University, Shanghai, China; Frontiers Science Center for Cell Responses, Nankai University, Tianjin, China"
+    },
+    {
+      "name": "Xinwen Chen",
+      "first": "Xinwen",
+      "last": "Chen",
+      "affiliation": "Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, China; Guangzhou Laboratory, Guangzhou International Bio-Island, Guangzhou, Guangdong, China"
+    },
+    {
+      "name": "Manli Wang",
+      "first": "Manli",
+      "last": "Wang",
+      "affiliation": "Center for Biosafety Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, Hubei, China"
+    },
+    {
+      "name": "Louis Liu",
+      "first": "Louis",
+      "last": "Liu",
+      "affiliation": "Harbour Biomed (Suzhou) Co. Ltd., Suzhou Industrial Park, Suzhou, China"
+    },
+    {
+      "name": "Zihe Rao",
+      "first": "Zihe",
+      "last": "Rao",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China; College of Life Science, Nankai University, Tianjin, China; Shanghai Institute for Advanced Immunochemical Studies, ShanghaiTech University, Shanghai, China"
+    },
+    {
+      "name": "Yu Guo",
+      "first": "Yu",
+      "last": "Guo",
+      "affiliation": "State Key Laboratory of Medicinal Chemical Biology and College of Pharmacy, Nankai University, Tianjin, China; Frontiers Science Center for Cell Responses, Nankai University, Tianjin, China; Guangzhou Laboratory, Guangzhou International Bio-Island, Guangzhou, Guangdong, China",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-8109-7515"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2021-05-07",
+  "dateAccepted": "2021-03-26",
+  "dateReceived": "2020-12-29",
+  "volume": "19",
+  "number": "5",
+  "pages": "e3001209",
+  "tags": [
+    "Animal models",
+    "Animal studies",
+    "Antibodies",
+    "Biochemistry",
+    "Bioengineering",
+    "Biotechnology",
+    "COVID 19",
+    "Coronaviruses",
+    "Diagnostic medicine",
+    "Discipline-v3/Animal models",
+    "Discipline-v3/Animal studies",
+    "Discipline-v3/Antibodies",
+    "Discipline-v3/Biochemistry",
+    "Discipline-v3/Bioengineering",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Biotechnology",
+    "Discipline-v3/COVID 19",
+    "Discipline-v3/Coronaviruses",
+    "Discipline-v3/Diagnostic medicine",
+    "Discipline-v3/Engineering and technology",
+    "Discipline-v3/Enzyme-linked immunoassays",
+    "Discipline-v3/Experimental organism systems",
+    "Discipline-v3/Genetic engineering",
+    "Discipline-v3/Genetically modified animals",
+    "Discipline-v3/Genetically modified organisms",
+    "Discipline-v3/Immune physiology",
+    "Discipline-v3/Immune system proteins",
+    "Discipline-v3/Immunoassays",
+    "Discipline-v3/Immunologic techniques",
+    "Discipline-v3/Immunology",
+    "Discipline-v3/Infectious diseases",
+    "Discipline-v3/Medical conditions",
+    "Discipline-v3/Medical microbiology",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Microbial pathogens",
+    "Discipline-v3/Microbiology",
+    "Discipline-v3/Model organisms",
+    "Discipline-v3/Mouse models",
+    "Discipline-v3/Organisms",
+    "Discipline-v3/Pathogens",
+    "Discipline-v3/Pathology and laboratory medicine",
+    "Discipline-v3/Physiology",
+    "Discipline-v3/Proteins",
+    "Discipline-v3/RNA viruses",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/SARS",
+    "Discipline-v3/SARS CoV 2",
+    "Discipline-v3/SARS coronavirus",
+    "Discipline-v3/Viral diseases",
+    "Discipline-v3/Viral pathogens",
+    "Discipline-v3/Virus testing",
+    "Discipline-v3/Viruses",
+    "Enzyme-linked immunoassays",
+    "Experimental organism systems",
+    "Genetic engineering",
+    "Genetically modified animals",
+    "Genetically modified organisms",
+    "Immune physiology",
+    "Immune system proteins",
+    "Immunoassays",
+    "Immunologic techniques",
+    "Immunology",
+    "Infectious diseases",
+    "Medical conditions",
+    "Medical microbiology",
+    "Microbial pathogens",
+    "Microbiology",
+    "Model organisms",
+    "Mouse models",
+    "Organisms",
+    "Pathogens",
+    "Pathology and laboratory medicine",
+    "Physiology",
+    "Proteins",
+    "RNA viruses",
+    "SARS",
+    "SARS CoV 2",
+    "SARS coronavirus",
+    "Type/Research Article",
+    "Viral diseases",
+    "Viral pathogens",
+    "Virus testing",
+    "Viruses"
+  ],
+  "abstract": "The ongoing Coronavirus Disease 2019 (COVID-19) pandemic caused by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) threatens global public health and economy unprecedentedly, requiring accelerating development of prophylactic and therapeutic interventions. Molecular understanding of neutralizing antibodies (NAbs) would greatly help advance the development of monoclonal antibody (mAb) therapy, as well as the design of next generation recombinant vaccines. Here, we applied H2L2 transgenic mice encoding the human immunoglobulin variable regions, together with a state-of-the-art antibody discovery platform to immunize and isolate NAbs. From a large panel of isolated antibodies, 25 antibodies showed potent neutralizing activities at sub-nanomolar levels by engaging the spike receptor-binding domain (RBD). Importantly, one human NAb, termed PR1077, from the H2L2 platform and 2 humanized NAb, including PR953 and PR961, were further characterized and subjected for subsequent structural analysis. High-resolution X-ray crystallography structures unveiled novel epitopes on the receptor-binding motif (RBM) for PR1077 and PR953, which directly compete with human angiotensin-converting enzyme 2 (hACE2) for binding, and a novel non-blocking epitope on the neighboring site near RBM for PR961. Moreover, we further tested the antiviral efficiency of PR1077 in the Ad5-hACE2 transduction mouse model of COVID-19. A single injection provided potent protection against SARS-CoV-2 infection in either prophylactic or treatment groups. Taken together, these results shed light on the development of mAb-related therapeutic interventions for COVID-19.",
+  "fullText": "Introduction\n\nAs of March 22, 2021, the Coronavirus Disease 2019 (COVID-19) has already infected over 124 million individuals and resulted in over 2.7 million deaths worldwide, requiring urgent prophylactic and therapeutic interventions. The etiological agent of COVID-19 is Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) [1]. This emerging coronavirus shares high primary sequence identity with other lineage B coronaviruses and has been categorized into the Betacoronavirus genus. SARS-CoV-2 is an enveloped virus with corona-like spike protein protruding from the viral particles. Like other type I transmembrane glycoproteins, the spike (S) glycoprotein forms homotrimers and is primed via cleavage into S1 and S2 subunits. S1 comprises the receptor-binding domain (RBD) and the N terminal domain (NTD), which mediate the recognition of and binding to the human receptors, including human angiotensin-converting enzyme 2 (hACE2) [2] and other potential co-receptors [3]. Tomography image indicated that more than half of the spike trimers adopt the “all close” state on SARS-CoV-2 particles [4]; interaction with cellular receptor hACE2 requires and locks the RBD into the “up” conformation, inducing virus–host cell membrane fusion engaged by the S2 subunit. The SARS-CoV-2 spike protein, especially the RBD region, serves as the primary target for interfering with the virus entry process [5].\n\nAlong with the development of vaccines and small molecule drugs, neutralizing antibodies (NAbs) against SARS-CoV-2 have also been proven to be an effective countermeasure for both prophylactic and therapeutic interventions, especially for seniors or individuals at high risk of viral infection. Many efforts have been devoted to the isolation and validation of SARS-CoV-2 NAbs, mainly from COVID-19 convalescent patients [6–17]. Besides helping in the development of monoclonal antibody (mAb) therapy, molecular understanding of NAbs would also greatly accelerate the design of next generation recombinant vaccines [17,18]. However, although numerous NAbs have been reported, most fall into several dominant germlines and recognize similar epitopes. For instance, hACE2-blocking NAbs composed of heavy chains (HCs) encoded by VH3-53 [1–4] and VH3-66 [1,2,5,6] exhibit a common RBD binding pattern featured by a shorter CDRH3 than the average length in human antibodies. The limited knowledge concerning more critical epitopes and immunogenic features of SARS-CoV-2 hampers the development of effective antibody-related therapeutics against COVID-19.\n\nHere, we utilized the H2L2 transgenic mice platform, which represents an alternative source of human antibodies, along with a state-of-art antibody screening platform, to identify NAbs for SARS-CoV-2. Among the 127 isolated antibodies, 25 RBD-specific antibodies showed potent neutralizing activities with sub-nanomolar IC50. The atomic-level structural information provides deep insights into novel epitopes on the RBD, with PR1077 and PR953 binding sites overlapping with the binding site of hACE2, and the hACE2 non-blocker antibody PR961 recognizing the neighboring site near RBM. In addition, we further assessed PR1077 for its potential in vivo efficacy in an animal model, which validated its potent protection against SARS-CoV-2 infection, both prophylactically and therapeutically.\n\nResults\n\nMouse immunization and antibody isolation\n\nThe Harbour H2L2 transgenic mouse carries fully human V-region heavy and light chains and rodent constant regions to allow endogenous affinity maturation and immune effector function, which features an immune response comparable to normal mice and offers diverse human V-gene usage [7]. For the rapid generation of high-quality SARS-CoV-2 NAbs, both Harbour H2L2 transgenic mice and BALB/c mice were immunized with the RBD domain of SARS-COV-2’s spike protein [8]. Sera were collected before and after each vaccination, and serum binding to RBD was determined by enzyme-linked immunosorbent assay (ELISA). After 3 to 4 boosts, the spleen and bone marrow cells were collected from immunized mice with high serum titers, and plasma B cells were isolated.\n\nNext, plasma B cells were loaded onto the Berkeley Lights Beacon Optofluidic system mounted with the OptoSelect chip, and assays were run to select single plasma B cells secreting SARS-CoV-2 RBD protein-specific antibodies [9,10] (Fig 1A, S1 Fig, S1 Table). Antigen-reactive B cells were exported to 96-wells preloaded with lysis buffer, followed by single cell sequencing designed to extract sequences of the VH (variable region, HC) and VL (variable region, light chain), which were paired to obtain the antibody sequence.\n\nFrom 9 single B cell cloning experiments, we identified 105 antibody sequences from Harbour H2L2 transgenic mice and 191 from BALB/c mice in total. We synthesized the genes of these antibodies and transiently expressed them in HEK293T cells in 24-well plates. The supernatant of transient expression cells was collected and tested for its binding to SARS-CoV-2 S1, as well as the effect on SARS-CoV-2 RBD binding to the hACE2 protein (Fig 1B and 1C). Primarily based on binding activity in ELISA (OD450 &gt; 0.5), 56 mAbs from Harbour H2L2 transgenic mice and 71 mAbs from BALB/c mice were selected for production in HEK293 system, followed by purification, sequence analysis, and further evaluation (Fig 1D).\n\nSelection and characterization of the purified antibodies\n\nThe binding activity to SARS-CoV-2 S1 protein and blocking activity against SARS-CoV-2 RBD binding to hACE2 of the purified antibodies were tested. Meanwhile, cross-reactivity to SARS S1 and MERS S1 proteins were also assessed by ELISA (Figs 1B, 1C, and 2A–2D). The EC50 of antibody binding to SARS-CoV-2 S1 was as low as approximately 1.5 ng/mL. Among the 56 mAbs from Harbour H2L2 transgenic mice and 71 mAbs from BALB/c mice that bound to SARS-CoV-2 S1 protein, 13 mAbs from H2L2 mice and 23 mAbs from BALB/c mice could block binding of soluble SARS-CoV-2-RBD to hACE2 protein, with IC50 values ranging from 74 ng/ml to 338 ng/mL for mAbs from H2L2 mice and from 5.5 ng/mL to 139.8 ng/mL for mAbs from BALB/c mice (Fig 2D, S1 Table). The binding kinetics of these mAbs were further assessed by bio-layer interferometry (BLI) assays, and equilibrium constant (KD) values were calculated. KD values for SARS-CoV-2 S1 were mostly at the nM or sub-nM level, while those for SARS-CoV-2-RBD were mostly at sub-nM or better (S1 Table).\n\nThe neutralizing activities of all 127 mAbs were further investigated by assessing pseudoviruses and authentic viruses in vitro, respectively. Totally, 25 NAbs were identified with IC50 values from 6.8 ng/mL to 3,071 ng/mL in pseudovirus based neutralization assays and from 14.4 ng/mL to approximately 1,753 ng/mL in live virus–based neutralization assays (Fig 1B and 1C, S1 Table). PR1077 from H2L2 transgenic mice and PR953 from BALB/C had the most potent neutralizing activities against live SARS-CoV-2 infection of Vero-E6 cells, with IC50 values of 27.9 and 14.4 ng/mL, respectively. Among the antibodies without hACE2-blocking capacity, PR961 was the most potent neutralizing with its IC50 of 570 ng/mL (S2E and S2F and S3 Figs).\n\nAccording to ImMunoGeneTics (IMGT) database-based analysis, the germlines of these 25 NAbs were defined. The VH domains of 11 NAbs from H2L2 mice were encoded by 3 different germlines, while their VL domains belonged to 4 different germlines. Most of the antibodies from H2L2 mice, including the most potent antibody PR1077, were encoded by the same germline origin of VH3-33 and VL2-28. Given the high primary sequence similarities between VH3-33 and VH3-30 germlines, this result is consistent with the previous finding that VH3-33 is one of the most frequently used germlines for NAbs isolated from patients recovering from SARS-CoV-2 infection [11–13,15,19]. The germlines of BALB/c mouse-derived antibodies showed a higher diversity. The VH and VL regions of 14 mouse antibodies were assigned to 7 IGHV and 8 IGLV germlines. Notably, the most potent mouse antibody PR953 was assigned to mVH1-22 and mVK6-15, and the germline encoding the non-blocking NAb PR961 was mVH1-74 and mVK3_5 (Fig 1C and 1D). These antibodies were then classified into 4 groups according to the competitive ELISA results (S4 Fig). Subsequently, based on sequence similarities with related human germlines, PR953 and PR961 were engineered as humanized antibodies.\n\nPR1077, PR961, and PR953 recognize novel epitopes of SARS-CoV-2 RBD\n\nTo gain further insights into the structural basis of the blocking and neutralizing mechanism, we selected 2 potent hACE2-blocking antibodies (PR1077 and PR953), alongside 1 non-blocker PR961, for subsequent structural analysis. The structure of the antibody Fab/Spike-RBD complex was resolved by X-ray crystallography at the resolutions of 2.5, 2.1, and 2.2 Å, respectively (Fig 3A, S2 Table). To the best of our knowledge, all 3 mAbs recognized novel epitopes of SARS-CoV-2 spike RBD. Overall, PR1077 and PR953 interacted with RBD near the hACE2 binding site, and hence blocked the binding of the cellular receptor hACE2 (Fig 3B, left and middle panels). In contrast, PR961 recognized RBD a novel epitope that is adjacent to the receptor-binding motif (RBM), making PR961 a non-blocking NAb for SARS-CoV-2 (Fig 3B, right panel).\n\nSpecifically, PR1077 is located directly at the RBM region of SARS-CoV-2 Spike RBD; the buried surface areas (BSAs) of the heavy and light chains were 873.5 Å2 and 190.8 Å2, respectively, inducing steric hindrance to the binding of receptor hACE2 (Fig 3C, left panel). All the heavy chain complementarity-determining regions (HCDRs) and light chain complementary-determining regions (LCDRs) participate in the interaction with SARS-CoV-2 RBD, mainly contributed by polar interactions and hydrogen bonds. F27, Y31, Y32, W52, Y53, F59, P101, L103, and F105 of the HCDRs and Y35, Y37, and Y54 of the LCDRs form strong hydrophobic interactions with the hydrophobic rim constituted by Y449, Y453, L455, F456, F486, Y489, F490, L492, Y495, and Y505. In addition, interactions were also facilitated by the hydrogen bond network constituted by Y31, Y32, W52, Y53, D54, S56, N57, R58, G101, G102, R104, and R106 of the HCDRs and H31, N33, Y35, Y54, Y37, and T99 of the LCDRs. It is worth noting that water molecules also played an important role in LCDR interactions with SARS-CoV-2 RBD (Fig 4A).\n\nDespite the potent binding, blocking, and neutralizing activities of PR953, its BSA (368.6 Å2 for the HC and 220.2 Å2 for the light chain) was much lower than expected. The complementarity-determining regions (CDRs) of PR953 formed a deep concave binding pocket and tightly covered the flexible tip of the RBM region (I472 to F490), partially overlapping with the hACE2 binding site (Fig 3C, middle panel). The interactions of PR953 were mainly stabilized by an extensive hydrogen bond network. T33, H35, N52, N55, D57, T59, D99, Y101, and Y105 of the HCDRs recognized the bulge region constituted by Q474, A475, G476, S477, N487, and Y489. The interactions were further stabilized by electrostatic interactions among Y91, N92, N93, Y94, and W96 of the LCDRs with S477, S478, N481, and F486 (Fig 4B).\n\nIn contrast, PR961 recognized SARS-CoV-2 RBD at the opposite side of PR953; this epitope was adjacent to the receptor-binding motif and did not induce direct steric hindrance to the binding of receptor hACE2, in agreement with binding and competition assays. The BSAs of the heavy and light chains were 550.2 Å2 and 277.3 Å2, respectively, mainly contributed by electrostatic forces (Fig 3C, right panel). S31, W33, H52, S54, D55, E57, D100, G101, Y102, and E103 of the HCDRs and S31, Y32, G33, N34, R54, S95, N96, and E97 of the LCDRs formed strong electrostatic interactions with the novel epitope constituted by T345, R346, F347, N440, S443, K444, V445, and N450. It is worth noting that 3 hydrogen donor residues, i.e., R346 and K444, along with N450, protruded at the RBD surface and interacted with both the heavy and light chains of PR961, playing a critical role in the interactions (Fig 4C).\n\nCharacterization of PR1077 as potential therapeutic candidate\n\nGiven its unique epitope, high potency of SARS-CoV-2 RBD binding, and neutralizing activity on live viruses, PR1077 was subsequently selected for further investigation as a potential therapeutic candidate against COVID-19.\n\nRecent tomography investigation of SARS-CoV-2 virus particles revealed 54% of the spike adopt “down” conformation [16]. Most of the identified antibodies could bind to SARS-CoV-2 spike trimer when RBDs are in the “open form”; in contrast, few antibodies could interact with spike trimer when all RBDs are in the “closed form” [20], since the antibody binding epitope of on RBM would be partially covered by the neighboring spike protomer for some antibodies. To analyze its potential binding mode on SARS-CoV-2 spike trimer, PR1077 was superimposed to the spike trimer structure. Interestingly, PR1077 epitope was shown to be fully accessible in either the open or “all close state” spike trimer (S5 Fig). More structural data, such as the CryoEM structure of the spike-PR1077 complex, would further support this hypothesis.\n\nNext, to test the possibility that some of the evolving mutations might confer antibody resistance, we measured the binding activity of PR1077 with RBD mutants and neutralizing activity against SARS-CoV-2 mutants by in vitro pseudovirus assays. All the tested clinical mutations remained sensitive to PR1077, with EC50 values from 2.6 ng/mL to 700 ng/mL in ELISA binding assays (S5 Fig), and with similar IC50 values ranging from 5.6 ng/mL to 18.6 ng/mL in neutralization assays of pseudoviruses expressing wild-type or mutated spike protein. In agreement with the potent binding affinity and broad coverage of PR1077 epitopes, these results indicated the robustness of PR1077 against viral escape.\n\nAnother aspect to consider in the development of vaccine and NAb therapies is the potential risk of antibody-dependent enhancement (ADE) of infection. Although the existence of ADE in COVID-19 patients remains elusive, the ADE effect in vitro has been reported recently, and it is of great importance to circumvent this potential risk [17]. Therefore, we used Raji cells, which represent a FcγRII-bearing human B lymphoblast cell line, to study the antibody-dependent viral entry as previously reported [18]. The antibody-dependent entry of SARS-CoV-2 pseudovirus in the presence of PR1077 was measured, and no ADE effect was detected at various antibody concentrations (S6 Fig).\n\nIn vivo efficacy evaluation of PR1077\n\nTo facilitate its clinical application, the neutralization activity of PR1077 against SARS-CoV-2 infection in vivo was tested in AdV-hACE2-Transduced IFNAR−/− mice, which show high susceptibility to SARS-CoV-2 infection [19,20]. First, the mice were intranasally transduced with 4 × 108 TCID50 of Ad5-hACE2 for hACE2 expression in the lungs. Five days post-transduction, the animals were challenged with 1 × 106 TCID50 of SARS-CoV-2 via the intranasal route and monitored over a 6-day time course (Fig 5A). For prophylactic treatment, mice were intraperitoneally injected with 50 mg/kg of PR1077 or 200 μl PBS at 24 hours before SARS-CoV-2 infection. The mice lost about 15% of the body weight in the first 2 days post-infection (d.p.i.), and prophylaxis with PR1077 led to almost complete recovery of the body weight loss and significantly reduced viral RNA levels in the lungs as determined by quantitative real-time PCR (qRT-PCR) (Fig 5B). For therapeutic treatment, the mice were treated with PBS or different doses of PR1077 (50 mg/kg or 25 mg/kg) at 2 hours post-infection (h.p.i.). As shown in Fig 5C, both PR1077 doses could prevent severe SARS-CoV-2–induced weight loss in infected mice after 3 d.p.i. and reduce viral RNA levels in the lungs at 6 d.p.i. (Fig 5C).\n\nHematoxylin–eosin (HE) staining showed that the lung samples from control mice displayed severe diffuse alveolar damage (DAD), including thickening of alveolar septa, extensive fibrosis with exudation of fibrin and protein edema in the alveoli, marked epithelial hyperplasia in the bronchi/bronchioles, and extensive immune infiltration in the alveoli, peri-bronchi and peri-vessels at 6 d.p.i. By contrast, in mice pretreated with PR1077, most alveolar septa and cavities were stained normally, and only small amounts of immune cell infiltration around bronchi/bronchioles and blood vessels were observed (Fig 5D). Similar to the prophylactic group, mice treated with 50 mg/kg of PR1077 also displayed mild pathological changes. In mice treated with 25 mg/kg of PR1077, moderate levels of DAD, peri-bronchi and peri-vascular cuffing, and interstitial inflammation were detected compared with the control group (Fig 5E). Therefore, PR1077 could effectively protect mice against SARS-CoV-2 infection either prophylactically or therapeutically.\n\nDiscussion\n\nSince not every infected individual generates high activity NAbs, mAb therapy would not only elicit optimized therapeutic potency, but also constitutes an important prophylactic intervention to safeguard the population at high risk of viral infection as complementary to vaccine approaches. Moreover, the characterization of NAbs, especially molecular understanding of atomic resolution, would provide valuable information for rational vaccine design [21]. Recently, many efforts have been devoted to the structural investigation of NAbs (S7 Fig). IGHV 1–2, 1–46, 3–9, 3–30, and 3–53 are among the most frequently used IGHV genes from convalescent patients [1,2,4,11–13,15,22–24]. Here, we isolated and identified 25 NAbs of sub-nanomolar IC50 from H2L2 or traditional mice platforms. Among them, 3 potent NAbs with novel epitopes were well studied by high-resolution structure elucidation, including 2 potent hACE2-blocking antibodies (PR1077 and PR953) and a non-blocking antibody (PR961). The variable region of PR953 forms a deep concave binding pocket and facilitates tight binding with the flexible tip of the RBM region. Despite its relatively small epitope, PR953 presented potent binding affinity and neutralizing activity by overlapping with the hACE2 binding site. In contrast, PR961 recognizes another novel epitope, which is located at the opposite side of the PR953 binding site. In consistent with this finding, PR961 do not directly compete with hACE2 binding based on the binding and blocking assay result. The neutralizing effect of PR961 may achieved by S1 shielding and conformational locking of spike trimer. Considering the emergence of new SARS-CoV-2 variants, more investigations on mAb cocktail therapy, which could present synergistic activity and deploy multiple functions to confer broad neutralization, are urgently needed. PR961 may serve as a hit for the optimization and development of non-hACE2 competitive NAb.\n\nAn interesting feature of PR1077 is the relatively short HCDR3 sequence. The Cα of P100, P101, and G102 of the HCDR3 is only about 4 Å away from the corresponding RBD residues, indicating that longer HCDR3 sequence, or the side chains of other amino acids, would clash with the RBD if they were present at this location. Sequence analysis further revealed that a high rate of somatic hypermutations is not required for IGHV3-33–derived NAbs (S8 Fig). Considering that IGHV3-30 and IGHV3-33 share high sequence similarity, and the complex structures of NAbs derived from IGHV3-33 with SARS-CoV-2 RBD not available, we compared the primary sequence and three-dimensional structure of PR1077 with those of 3 other NAbs from IGHV3-30 [12,14,25]. To our surprise, despite the high similarity of their HCDRs, alignment of the three-dimensional complex structures revealed significantly different binding modes with each antibody binding SARS-CoV-2 RBD at a distinct epitope. Interestingly, C002 and PR1077 engage SARS-CoV-2 RBD in similar regions, but adopt absolute opposite HCDR and LCDR orientations (S9 Fig). Overall, the molecular understanding of the antibodies presented here not only provide promising guidance for pairing antibody therapy, but also facilitate the rational design of next generation recombinant vaccines.\n\nNotably, PR1077 also displayed broad spectrum of binding affinity against all spike protein mutants tested, as well as excellent neutralizing activity in pseudovirus assay, including the currently prevalent variants D614G, V367F, V483A, and G476S. We further demonstrated that PR1077 displayed no ADE effect and effectively protected mice against SARS-CoV-2 infection, either prophylactically or therapeutically. These results proved that PR1077 may provide durable protection for the elderly or individuals at high risk of COVID-19 infection.\n\nOverall, the characterizations of these NAbs revealed novel and complementary epitopes on the SARS-CoV-2 RBD, providing potential pairing strategy for development of mAb cocktails against viral resistance that might arise under selective pressure by single antibody therapy. We anticipate that the comprehensive structural and functional characterization of these antibodies would provide a promising starting point for the development of more COVID-19 countermeasures in humans.\n\nMaterials and methods\n\nEthics statement\n\nMice immunization experiments were approved by the Institutional Animal Care and Use Committee (IACUC) of Harbour Biomed (Ethics number: AN-2020-E-0708) and conducted within the animal facility in the HUST-Suzhou Institute for Brainsmatics. The in vivo efficacy experiments were approved by the IACUC of Wuhan Institute of Virology, Chinese Academy of Sciences (Ethics number: WIVA01202001) and conducted within the Animal Biosafety Level 3 (ABSL-3) facility in the National Biosafety Laboratory (Wuhan), Chinese Academy of Sciences.\n\nSARS-CoV-2 spike RBD protein expression and purification\n\nThe codon-optimized wild-type cDNA of SARS-CoV-2 RBD (residues 333 to 530) was synthesized. The SARS-CoV-2 RBD with a carboxyl-terminal 8×His tag for purification was cloned into pAcgp67 vector with BamHI and NotI restriction sites using the cloning primers. The sequences of the primers were 5′-TCTCCTACATCTACGCCGACGGATCCACCAACCTCTGCCCTTTCGGT-3′ (forward) and 5′-TGGTGATGGTGGTGATGATGTGCGGCCGCACTCTTCTTTGGCCCGCATA-3′ (reverse). The accuracy of the inserts was verified by sequencing. The SARS-CoV-2 RBD was expressed using the Bac-to-Bac baculovirus system. The construct was transformed into bacterial DH5α component cells, and the extracted bacmid was then transfected into Sf9 cells using Cellfectin II Reagent (Invitrogen, USA). The low-titer viruses were harvested and then amplified to generate high-titer virus stock. The viruses and Endo H, Kifunensine, were coinfected Hi5 cells at a density of 2.0 × 106 cells/ml. The supernatant of cell culture containing the secreted removal of glycosylated RBD was harvested 72 hours after infection, and the recombinant RBD proteins were purified preliminarily on a Ni-NTA affinity column (GE Healthcare, USA). The affinity column was washed with 150 mL of wash buffer (25 mM Tris, 200 mM NaCl, 50 mM imidazole, pH 7.0), and the target protein was eluted with elution buffer containing 25 mM Tris, 200 mM NaCl, 500 mM imidazole, pH 7.0. The protein was further purified on a Superdex 75 16/60 size-exclusion column (GE Healthcare) equilibrated with 25 mM Tris, 200 mM NaCl, pH 7.0. SDS-PAGE analysis revealed over 96% purity of the final purified recombinant protein. Fractions from the single major peak were pooled and concentrated to 30.8 mg/mL.\n\nHarbour H2L2 transgenic mice and BALB/c mice immunization\n\nSARS-CoV-2 spike RBD protein was used as immunogen for mice immunization. Quality control (QC) includes concentration, purity, molecular weight measurement, and biological activity test. The SARS-CoV-2 spike RBD protein immunization used 6- to 8-week-old Harbour H2L2 transgenic mice and BALB/c mice (raised by Vital River, China). All mice were fed under SPF condition. The prime immunization was done by injecting 50-μg freshly prepared Complete Freund's Adjuvant (CFA) emulsified SARS-CoV-2 spike RBD protein intraperitoneally. Subsequent boosts were done by injecting 25-μg freshly prepared Ribi adjuvant emulsified SARS-CoV-2 spike RBD protein intraperitoneally. The interval between each immunization is 2 weeks.\n\nSingle B cell screening on Beacon Optofluidic system\n\nThe Beacon Optofluidic system (Berkeley Lights, Emeryville, California, United States of America) is an automated biosystem that could screen thousands of single plasma B cells for antigen-specific antibody-secreting B cells. Briefly, after approximately 3 to 4 boost, spleen and bone marrow cells were collected from immunized mice which showed good immune response based on TB test. Subsequent plasm B cell enrichment was done by using Plasma Cell Isolation Kit II (human, Miltenyi Biotec, USA) and EasySep Human CD138 Positive Selection Kit II (STEMCELL Technologies, USA). In this study, OptoSelect 14K chip was used following manufacture instruction (Berkeley Lights). Enriched plasma B cells were imported into the system and loaded into the nanopen on the chip. SARS-CoV-2 spike RBD conjugated beads mixed with anti-rat IgG (Fc) AF488 secondary antibody (Jackson ImmunoResearch Laboratories, USA) were imported in channel for antigen binding assay with an image capture iterations every 5 minutes for a total of 10 iterations, and antigen-specific antibody-secreting plasma B cells were identified. These antigen-specific antibody-secreting plasma B cells were then exported to 96-well forensic grade PCR plate (Eppendorf, Germany) containing cell lysis buffer (5 μL of TCL buffer (Qiagen, United Kingdom)) supplemented with 5 mM dithiothreitol (Thermo Fisher Scientific, USA), and 15 μL of mineral oil (Sigma, United Kingdom) was finally added to the top of each well. Samples were stored at −80°C until the next step [10].\n\nSingle B cell sequencing to determine heavy chain and light chain complementarity-determining region sequences of H2L2 antibody and CDR domain analysis\n\nCell lysate from single B cell screening was undergone RNA purification and reverse transcriptase (RT) PCR using a modified protocol provided by Berkeley Lights. RNA was purified using Agencourt RNAClean XP kit and eluted directly into a RT reaction with Maxima RNaseH minus RT. A dT primer with adaptor (P1) and a 5′ template switching primer (P2) were used in the RT reaction. The RT reaction product was added to a PCR mix using KAPA HiFi HotStart Readymix with primer P3 in a reaction, amplifying the complementary DNA (cDNA). The amplified cDNA was purified using Agencourt AMPure XP Beads, and then was used to amplify the gamma and kappa chains in separate reactions with primers in the antibody constant regions (CH Primer and CL Primer) and P4 to obtain the specific product for sequencing. The specific PCR products were sequenced at Genewiz with the corresponding antibody constant region primers. Sequence analysis was performed using in-house software and aligned to the international IMGT information system (http://www.imgt.org) database for germline determination.\n\nAntibody production\n\nSequences from the unique variable regions were synthesized with adaptors for cloning at GenScript (China). Cloning was performed using in-house vectors for expression. Plasmids were transfected into human embryonic kidney 293T cells (ATCC) using PEI (Sigma, #24885) in a 24-well plate and incubated at 37°C, 5% CO2 for 3 days before collecting supernatant for subsequent test. Positive clones in supernatant test were transfected into HEK 293F (Gibco, USA, R79007) or ExpiCHO cells (Thermo Fisher Scientific, A29127) for small-scale recombinant antibody production. Antibody was purified using Protein A (AmMag Protein A Magnetic Beads, Genscript, L00695) affinity chromotography, and purity was measured by both SDS-PAGE (SurePAGE, Bis-Tris, 10 × 8, 4% to 12%, 12 wells, Genscript, M00653) and SEC-HPLC (GE Healthcare).\n\nELISA test for antibody characterization\n\nELISA was used to test the binding between antibody containing supernatant/purified antibodies and the antigen (recombinant SARS-CoV-2 S1 protein) blocking activity of generated anti-SARS-CoV-2 S1 RBD antibodies against recombinant SARS-CoV-2 S1 RBD protein binding to recombinant hACE2 protein and to evaluate the epitope bins of testing antibodies. Briefly, recombinant SARS-CoV-2 S1 protein (Sino Biological, China, 40591-V08H or Genscript, P9FE001) was coated on a 96-well high binding plate overnight at 4°C, washed with PBST 3 times, incubated with blocking buffer (2% Bovine Serum Albumin) for 1 hour at 37°C, washed with PBST 3 times, and incubated with antibody containing supernatant or purified antibodies at desired dilutions or concentrations for 1 hour at 37°C. A secondary antibody, anti-human Fc (AHC)-HRP (Jackson ImmunoResearch Laboratories), was used for detection of the targeted antibody. TMB and stopping solution (Huzhou InnoReagents, China, TMB-S-003) were used for detection of HRP signal. The HRP signal was read on a SPECTRAMAX plate reader. Clones from supernatants with positive signal were selected for further production. For purified antibodies, EC50 was determined from the ELISA test result.\n\nFor competitive ELISA, antibody A was bound to the substrate in a 96-well high binding plate. Antibody B and biotinylated SARS-CoV-2 S1 protein were mixed and incubated for 30 minutes before adding to the plated. After 1-hour incubation, an Alexa 488 streptavidin was used to detect the biotinylated SARS-CoV-2 S1 protein bound to antibody A. The percentage of inhibition was calculated.\n\nFor receptor blocking assay, antibodies were initially tested with a BSNAT test kit (BioHermes, China, COV-S41). After that, recombinant hACE2 protein was bound to the substrate in a 96-well high binding plate at 5 μg/mL overnight at 4°C. A mouse Fc-tagged SARS-CoV-2 RBD protein and a testing antibody were added to the plate simultaneously. After 1 hour incubation, an anti-mouse Fc HRP was used to detect the binding of SARS-CoV-2 RBD protein to the hACE2 protein bound to the substrate.\n\nAffinity measurement by Octet\n\nAntibodies were diluted to 6 μg/mL and immobilized to AHC biosensor, and recombinant SARS-CoV-2 S1 protein/SARS-CoV-2 S1 RBD protein was diluted with 10 X Kinetics buffer, 3 of the following concentration depending on binding activity (800 nM, 400 nM, 200 nM, 100 nM, 50 nM, and 25 nM). Sample loading time is 100 seconds, and disassociation time is 400 to 800 seconds. Then the biosensor was regenerated in 10 mM glycine HCl (pH1.5) for 15 seconds. A simple one to one Langmuir model was chosen to calculate kD (kon and koff) in Octet Red96 software.\n\nCo-binding test by Octet\n\nSARS-CoV-S1 protein was immobilized, Ab1 was added with saturated concentration, then change to Ab2 w/ saturated concentration to obtain signal of Ab2 binding to S1-Ab1 complex as Signal 1. For the control group, Ab1 was replaced with buffer, then change to Ab2 with saturated concentration to obtain signal of Ab2 binding to S1 only as Signal 2. Binding rate of Ab2 to S1-Ab1 complex (i.e., binding rate of Ab2 to S1 when co-binding with Ab1) is Signal 1/Signal 2 × 100%.\n\nPseudovirus neutralization test\n\nThe pseudovirus neutralization assay was done at Institute of System Medicine, Chinese Academy of Science (Suzhou, China). An MLV SARS-CoV-2 S pseudovirus packaged with luciferase encoded vector was mixed with testing antibody, titrating from 15 μg/ml with 5-fold serial dilution, and incubated with cultured HEK293 cells overexpressing ACE2. After 48 hours, the Luciferase Assay Reagent (Promega, USA, E4550) was used as the detection reagent and the relative luminescence unit (RLU) was measured on a SpectraMax plate reader. The IC50 was calculated by a 4-parameter fitting in GraphPad Prism.\n\nLive virus neutralization test\n\nAll mAbs were 2-fold serially diluted in culture medium and was mixed and incubated with SARS-CoV-2 (National Virus Resource) for 1 hour at 37°C. VeroE6 cells (ATCC, CRL-1586, Lot#: 60526234) in 96-well plate were incubated with the mixture containing virus (100 TCID50 per well) in presence or absence with diluted antibodies for 1 hour, after which the cells were washed and further incubated in medium for 48 hours. Then, the cells were fixed with 4% paraformaldehyde for 15 minutes and permeabilized with 0.25% Triton X-100 at room temperature, followed by blocking with 5% BSA in PBS at 37°C for 1 hour. Then cells were incubated with an in-house prepared anti-SARS-CoV-2 NP rabbit serum (1:1,000 dilution) as the primary antibody and the Goat Anti-Rabbit IgG H&amp;L (Alexa Fluor 488) (1:500 dilution, Abcam, Cambridge, United Kingdom; ab150077; Lot#: GR3244688-2) as the secondary antibody according to the manufacturer’s instruction. Cell nuclei were stained with Hoechst 33258 (Beyotime, Shanghai, China; C1018) for cell counting. Imaging was done on Operetta CLSTM high throughput system (PerkinElmer, Waltham, USA), and number of infected cells and total cells in each well were counted. IC50 and IC90 were determined by GraphPad Prism 8.0.\n\nAntibody scFv fragment expression and purification\n\nThe single-chain variable fragment (scFv) of PR1077 contains the HC variable domain (VH) and a light chain variable domain (Vk) of the antibody, with a (GGGGS)3 peptide linker between VH and Vk. The codon-optimized wild-type cDNA of PR1077 scFv fragment was synthesized, which with a carboxyl-terminal 6×His tag for purification was cloned into pAcGP67 vector with BamHI and NotI restriction sites using the cloning primers. The sequences of the primers were forward 5′-CATCTACGCCGACGGATCCCAGGTGCAGCTGGTGGAGT-3′ and reverse 5′-GATGATGTGCGGCCGCTCAGTGGTGGTGGTGGTGGT-3′. The antibody scFv fragment was expressed using the Bac-to-Bac baculovirus system. The resulting recombinant expression plasmid was transformed into DH10Bac component cells, and the extracted bacmid was then transfected into Sf9 cells using Cellfectin II Reagent (Invitrogen). The low-titer viruses were harvested and then amplified to generate high-titer virus stock. The viruses were infected Hi5 cells at a density of 2.0 × 106 cells/ml. The supernatant of cell culture containing the secreted antibody scFv fragment was harvested 60 hours after infection, which was purified preliminarily on a Ni-NTA affinity column (GE Healthcare). The affinity column was washed with 200 mL of wash buffer (25 mM Tris, 200 mM NaCl, 50 mM imidazole, pH 7.0), and the target protein was eluted with elution buffer containing 25 mM Tris, 200 mM NaCl, 1M imidazole, pH 7.0. The protein was further purified on a Superdex 75 16/60 size-exclusion column (GE Healthcare) equilibrated with 25 mM Tris, 200 mM NaCl, pH 7.0. SDS-PAGE analysis revealed over 90% purity of the final purified recombinant protein. Fractions from the single major peak were pooled and concentrated to 10 mg/mL. The scFv of PR953 and PR961 was expressed and purified following the same protocol.\n\nCrystal screening\n\nThe SARS-CoV-2 RBD protein and antibody scFv fragment were mixed at a molar ratio of 1.2:1. The mixture was incubated on ice for 2 hours and further purified by Superdex 75 16/60 size-exclusion column (GE Healthcare). Moreover, 4 mg/mL and 8mg/mL of SARS-CoV-2 RBD/antibody scFv fragments were used for crystal screening by vapor-diffusion sitting-drop method at 16°C.\n\nThe rode-like diffracting crystals of the PR1077-RBD complex appeared after 7 days at the mother liquid containing 1% w/v Tryptone, 0.001 M Sodium azide, 0.05 M HEPES sodium pH 7.0, 12% w/v Polyethylene glycol 3,350. Crystals were cryo-protected in 30% w/v Polyethylene glycol 3,350 and cooled in a dry nitrogen stream at 100 K for X-ray data collection.\n\nThe pyramidal diffracting crystals of the PR953-RBD appeared after 7 days at the mother liquid containing 0.8 M Potassium sodium tartrate tetrahydrate, 0.1 M Tris pH 8.5, 0.5% w/v Polyethylene glycol monomethyl ether 5,000. Crystals were cryo-protected in 4 M Sodium formate and cooled in a dry nitrogen stream at 100 K for X-ray data collection.\n\nThe Flaky diffracting crystals of the PR961-RBD appeared after 4 days at the mother liquid containing 0.2 M Sodium chloride, 0.1 M Tris sodium pH 8.5, 29% w/v Polyethylene glycol 3,350. Crystals were cryo-protected in 4 M Sodium formate and cooled in a dry nitrogen stream at 100 K for X-ray data collection.\n\nX-ray data collection, processing, and structure determination\n\nDiffraction data were collected at the Beamline PX06SA of the Swiss Light Source, Paul Scherrer Institute, Villigen, Switzerland (wavelength, 1Å) at 100K for PR1077 and Shanghai Synchrotron Radiation Facility (SSRF) BL17U1 (wavelength, 0.97915 Å) at 100K for PR953 and PR961. Data sets were processed using the MOSFLM [24] or HKL3000 package [26]. Structures were solved by molecular replacement using PHASER [27] with the SARS-CoV-2 RBD structure (PDB ID: 6M0J) [28] and the structures of the Fab fragment available in the PDB with the highest sequence identities. The initial model was built into the modified experimental electron density using COOT [25] and further refined in PHENIX [29]. Model geometry was verified using the program MolProbity. Structural figures were drawn using the program PyMOL [30] (http://www.pymol.org). Epitope and paratope residues, as well as their interactions, were identified by accessing PISA (http://www.ebi.ac.uk/pdbe/prot_int/pistart.html) at the European Bioinformatics Institute.\n\nIn vitro assay to detect antibody-dependent viral entry\n\nIn vitro SARS-CoV-2 pseudovirus ADE assays was performed using Raji cells as previously reported [31]. Briefly, 3 × 104 Raji cells were seeded in each well of 96-well plates coated with 0.01% poly-L-lysine in PBS and cultured for 24 hours. The antibodies were serially diluted 1:2 (maximum concentration, 100μg/ml) in RPMI 1640 for 9 dilutions in total and were incubated with the SARS-CoV-2 pseudovirus for 30 minutes. The mixture was applied onto the Raji cells and cultured for 60 hours. The measurement of luciferase activity was performed as described above using a Firefly Luciferase Assay Kit (Promega). XG005, together with its silenced mutants XG005-GRLR (G236R and L328R in the Fc receptor-binding site), was used as positive and negative control, respectively.\n\nViruses\n\nSARS-CoV-2 strain (nCoV-2019BetaCoV/Wuhan/WIV04/2019) was propagated, stored, and titrated as previously described [32,33]. Construction and amplification of AdV-hACE2 were carried out as previously described [34]. All studies on infectious viruses were performed in a Biosafety Level 3 (BSL-3) laboratory.\n\nMouse experiments\n\nEight to 14-week-old IFNAR−/− C57BL/6 mice were inoculated intranasally with 4 × 108 TCID50 of AdV-hCE2. Five days after AdV transduction, mice were inoculated with 1 × 106 TCID50 of SARS-CoV-2 via an intranasal infection route. Weights were monitored daily, and animals were humanely killed at 6 d.p.i., and tissues were harvested.\n\nqRT-PCR\n\nTissues were weighted and homogenized with 1 mL TRIzol (Invitrogen), and RNA was extracted following the manufacturer’s protocol. qRT-PCR were carried out as described previously [35]. Briefly, cDNA was generated by reverse transcription using PrimerScript RT reagent Kit with gDNA Eraser (Takara, Japan) from 1 μg RNA, and qRT-PCR was performed on the StepOne Plus Real-Time PCR System (Applied Biosystems, USA) with TB Green Premix Ex Taq II (Takara), using the following condition: 95°C for 5 minutes, followed by 40 cycles at 95°C for 5 seconds, 54°C for 30 seconds, and 72°C for 30 seconds. Primers were designed to target the RBD of spike gene (RBD-F:5′-GCTCCATGGCCTAATATTACAAACTTGTGCC-3′, RBD-R:5′-TGCTCTAGACTCAAGTGTCTGTGGATCAC-3′).\n\nHistochemical staining\n\nThe collected lung tissues were fixed in 10% neutral buffered formalin, and the paraffin embedding and sectioning were carried out routinely. formalin-fixed, paraffin-embedded (FFPE) tissue blocks were sectioned (3-μm thick) and stained with HE histochemical.\n\nSupporting information"
+}

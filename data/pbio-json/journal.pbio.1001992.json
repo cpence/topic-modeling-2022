@@ -1,0 +1,41 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001992",
+  "doi": "10.1371/journal.pbio.1001992",
+  "externalIds": [
+    "pii:PBIOLOGY-D-14-03409",
+    "pmid:25387125",
+    "pmcid:PMC4227633"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Smooth Change, Mechanistic Fluctuation: Thermodynamic System Drift in Protein Evolution",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson",
+      "affiliation": "Freelance Science Writer, Sherborn, Massachusetts, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2014-11",
+  "dateReceived": "2014-09-25",
+  "volume": "12",
+  "number": "11",
+  "pages": "e1001992",
+  "tags": [
+    "Biophysics",
+    "Discipline-v2/Biology and life sciences",
+    "Discipline-v2/Biophysics",
+    "Discipline-v2/Evolutionary biology",
+    "Evolutionary biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "If you heat a protein up, the tertiary contacts that secure its three-dimensional shape weaken until eventually the protein unfolds, or “melts.” Not surprisingly, proteins from thermophilic organisms, such as the bacteria that live in hot springs, tend to have higher melting temperatures than their homologs from mesophiles like humans or the bacteria that live within them.\n\nThe increased melting temperature of a thermophile protein reflects an increase in the underlying stability of the protein, which itself is the sum of multiple independent properties of both the folded and unfolded states, ultimately encoded in the amino acid sequence of the protein. While differences in melting temperature seem likely to be the product of natural selection, it is less clear that the underlying biophysical differences themselves are the direct result of selection; alternatively, they could arise as a byproduct of other selective events, from neutral sequence drift, or other evolutionary mechanisms. In this issue of PLOS Biology, Kathryn Hart, Michael Harms, and colleagues, together with their advisors, Susan Marqusee and Joseph Thornton, show that this alternative explanation is likely the case for at least one protein, a feat they accomplished by measuring the properties of ancient proteins they reconstructed from scratch using statistical evolutionary methods.\n\nThe authors began by comparing the optimal growing temperatures of multiple extant bacteria to the melting temperatures of the enzyme RNase H1 (RNH) in each. As expected, an increase in the growing temperature correlated with an increase in the protein melting temperature, strongly suggesting that the melting temperature was selected in response to increasing environmental temperature.\n\nThey then traced the evolution of thermostability by statistically reconstructing the protein ancestors of RNH in Thermus thermophilius and Escherichia coli. The last common ancestor lived 3 billion years ago. Using multiple analytic tools, they reconstructed the sequence of that ancestor's RNH, along with several intermediates on each branch connecting the ancestor to the two modern species. With sequences in hand, they produced each protein, confirming their function by demonstrating that each could degrade RNA.\n\nT. thermophilus's RNH melts at 88°C, while E. coli's melts at 68°C. The RNH of the last common ancestor, they found, melted in between, at 77°C. Melting temperatures for the evolutionary intermediates were also intermediate, for the most part, though with a gradual increase along the thermophile branch, but an abrupt decrease early in the mesophile branch (Figure 1).\n\nWhat accounted for these changes in stability? In previous work, the authors had shown that the difference in the heat capacity of the two modern proteins accounted for more than half the difference in melting temperature between the two. The lower heat capacity of the thermophile's protein is due to its ability to retain residual structure in its unfolded state, they found, an effect they hypothesized might be directly adaptive, since it might minimize irreversible aggregation upon unfolding.\n\nTo test whether differences in heat capacity accounted for the differences in melting temperature of the reconstructed ancestral proteins, they determined the free energy of unfolding over a range of temperatures, using a classic thermodynamic equation that relates free energy to three parameters: the heat energy of unfolding, the change in heat capacity upon unfolding as it changes with temperature, and the temperature of maximum stability for the protein. Each of these parameters affects the melting temperature (which appears as an x-intercept in the graph of the equation), and by fitting the parameters to their data, the authors could extract heat capacity, as well as other biophysical information, for each protein.\n\nThey found that heat capacity only partly accounted for the increases in melting temperature along the thermophile branch. Contributions were also made by stronger tertiary attractions (reflected in the heat energy of unfolding), and temperature of maximum stability, with the exact mix different for each protein. The same fluctuating pattern of contributions characterized the differences in melting temperatures of proteins along the mesophilic branch as well.\n\nThe implication of these results is that while changes in melting temperature itself reflect a response to selective pressure, changes in the underlying mechanisms appear not to be monotonically driven by that same pressure. Within the field of evolutionary development, a fluctuation of underlying mechanism, even while selection directs the outward phenotype, is known as “developmental system drift;” the authors propose the term “thermodynamic system drift” for the analogous process in protein evolution, identified here.\n\nThey also point out that the data from their reconstructed proteins complicate the challenge of inferring ancient global temperature patterns based on ancient protein properties. The co-existence in time of a gradual progression in melting temperature of the thermophile branch with the abrupt decline and relative stasis of the mesophile branch suggests that adaptation to local conditions, rather than to any overarching global trend, is a major driver of thermal stability.\n\nHart KM, Harms MJ, Schmidt BH, Elya C, Thornton JW, et al. (2014) Thermodynamic System Drift in Protein Evolution. doi:10.1371/journal.pbio.1001994"
+}

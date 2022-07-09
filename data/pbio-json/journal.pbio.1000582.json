@@ -1,0 +1,444 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1000582",
+  "doi": "10.1371/journal.pbio.1000582",
+  "externalIds": [
+    "pii:10-PLBI-RA-8742R2",
+    "pmid:21267068",
+    "pmcid:PMC3022534"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A High-Resolution Anatomical Atlas of the Transcriptome in the Mouse Embryo",
+  "authors": [
+    {
+      "name": "Graciana Diez-Roux",
+      "first": "Graciana",
+      "last": "Diez-Roux",
+      "affiliation": "Telethon Institute of Genetics and Medicine, Naples, Italy"
+    },
+    {
+      "name": "Sandro Banfi",
+      "first": "Sandro",
+      "last": "Banfi",
+      "affiliation": "Telethon Institute of Genetics and Medicine, Naples, Italy"
+    },
+    {
+      "name": "Marc Sultan",
+      "first": "Marc",
+      "last": "Sultan",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Lars Geffers",
+      "first": "Lars",
+      "last": "Geffers",
+      "affiliation": "Genes and Behavior Department, Max Planck Institute of Biophysical Chemistry, Goettingen, Germany"
+    },
+    {
+      "name": "Santosh Anand",
+      "first": "Santosh",
+      "last": "Anand",
+      "affiliation": "Telethon Institute of Genetics and Medicine, Naples, Italy"
+    },
+    {
+      "name": "David Rozado",
+      "first": "David",
+      "last": "Rozado",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Alon Magen",
+      "first": "Alon",
+      "last": "Magen",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Elena Canidio",
+      "first": "Elena",
+      "last": "Canidio",
+      "affiliation": "Primm, Milan, Italy"
+    },
+    {
+      "name": "Massimiliano Pagani",
+      "first": "Massimiliano",
+      "last": "Pagani",
+      "affiliation": "Primm, Milan, Italy"
+    },
+    {
+      "name": "Ivana Peluso",
+      "first": "Ivana",
+      "last": "Peluso",
+      "affiliation": "Telethon Institute of Genetics and Medicine, Naples, Italy"
+    },
+    {
+      "name": "Nathalie Lin-Marq",
+      "first": "Nathalie",
+      "last": "Lin-Marq",
+      "affiliation": "Department of Genetic Medicine and Development, University of Geneva Medical School, Geneva, Switzerland"
+    },
+    {
+      "name": "Muriel Koch",
+      "first": "Muriel",
+      "last": "Koch",
+      "affiliation": "Institut Clinique de la Souris, Illkirch, France"
+    },
+    {
+      "name": "Marchesa Bilio",
+      "first": "Marchesa",
+      "last": "Bilio",
+      "affiliation": "Telethon Institute of Genetics and Medicine, Naples, Italy"
+    },
+    {
+      "name": "Immacolata Cantiello",
+      "first": "Immacolata",
+      "last": "Cantiello",
+      "affiliation": "Telethon Institute of Genetics and Medicine, Naples, Italy"
+    },
+    {
+      "name": "Roberta Verde",
+      "first": "Roberta",
+      "last": "Verde",
+      "affiliation": "Telethon Institute of Genetics and Medicine, Naples, Italy"
+    },
+    {
+      "name": "Cristian De Masi",
+      "first": "Cristian",
+      "last": "De Masi",
+      "affiliation": "Telethon Institute of Genetics and Medicine, Naples, Italy"
+    },
+    {
+      "name": "Salvatore A. Bianchi",
+      "first": "Salvatore A.",
+      "last": "Bianchi",
+      "affiliation": "Telethon Institute of Genetics and Medicine, Naples, Italy"
+    },
+    {
+      "name": "Juliette Cicchini",
+      "first": "Juliette",
+      "last": "Cicchini",
+      "affiliation": "Department of Genetic Medicine and Development, University of Geneva Medical School, Geneva, Switzerland"
+    },
+    {
+      "name": "Elodie Perroud",
+      "first": "Elodie",
+      "last": "Perroud",
+      "affiliation": "Department of Genetic Medicine and Development, University of Geneva Medical School, Geneva, Switzerland"
+    },
+    {
+      "name": "Shprese Mehmeti",
+      "first": "Shprese",
+      "last": "Mehmeti",
+      "affiliation": "Department of Genetic Medicine and Development, University of Geneva Medical School, Geneva, Switzerland"
+    },
+    {
+      "name": "Emilie Dagand",
+      "first": "Emilie",
+      "last": "Dagand",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Sabine Schrinner",
+      "first": "Sabine",
+      "last": "Schrinner",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Asja Nürnberger",
+      "first": "Asja",
+      "last": "Nürnberger",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Katja Schmidt",
+      "first": "Katja",
+      "last": "Schmidt",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Katja Metz",
+      "first": "Katja",
+      "last": "Metz",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Christina Zwingmann",
+      "first": "Christina",
+      "last": "Zwingmann",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Norbert Brieske",
+      "first": "Norbert",
+      "last": "Brieske",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Cindy Springer",
+      "first": "Cindy",
+      "last": "Springer",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Ana Martinez Hernandez",
+      "first": "Ana Martinez",
+      "last": "Hernandez",
+      "affiliation": "Genes and Behavior Department, Max Planck Institute of Biophysical Chemistry, Goettingen, Germany"
+    },
+    {
+      "name": "Sarah Herzog",
+      "first": "Sarah",
+      "last": "Herzog",
+      "affiliation": "Genes and Behavior Department, Max Planck Institute of Biophysical Chemistry, Goettingen, Germany"
+    },
+    {
+      "name": "Frauke Grabbe",
+      "first": "Frauke",
+      "last": "Grabbe",
+      "affiliation": "Genes and Behavior Department, Max Planck Institute of Biophysical Chemistry, Goettingen, Germany"
+    },
+    {
+      "name": "Cornelia Sieverding",
+      "first": "Cornelia",
+      "last": "Sieverding",
+      "affiliation": "Genes and Behavior Department, Max Planck Institute of Biophysical Chemistry, Goettingen, Germany"
+    },
+    {
+      "name": "Barbara Fischer",
+      "first": "Barbara",
+      "last": "Fischer",
+      "affiliation": "Genes and Behavior Department, Max Planck Institute of Biophysical Chemistry, Goettingen, Germany"
+    },
+    {
+      "name": "Kathrin Schrader",
+      "first": "Kathrin",
+      "last": "Schrader",
+      "affiliation": "Genes and Behavior Department, Max Planck Institute of Biophysical Chemistry, Goettingen, Germany"
+    },
+    {
+      "name": "Maren Brockmeyer",
+      "first": "Maren",
+      "last": "Brockmeyer",
+      "affiliation": "Genes and Behavior Department, Max Planck Institute of Biophysical Chemistry, Goettingen, Germany"
+    },
+    {
+      "name": "Sarah Dettmer",
+      "first": "Sarah",
+      "last": "Dettmer",
+      "affiliation": "Genes and Behavior Department, Max Planck Institute of Biophysical Chemistry, Goettingen, Germany"
+    },
+    {
+      "name": "Christin Helbig",
+      "first": "Christin",
+      "last": "Helbig",
+      "affiliation": "Genes and Behavior Department, Max Planck Institute of Biophysical Chemistry, Goettingen, Germany"
+    },
+    {
+      "name": "Violaine Alunni",
+      "first": "Violaine",
+      "last": "Alunni",
+      "affiliation": "Institut Clinique de la Souris, Illkirch, France"
+    },
+    {
+      "name": "Marie-Annick Battaini",
+      "first": "Marie-Annick",
+      "last": "Battaini",
+      "affiliation": "Institut Clinique de la Souris, Illkirch, France"
+    },
+    {
+      "name": "Carole Mura",
+      "first": "Carole",
+      "last": "Mura",
+      "affiliation": "Institut Clinique de la Souris, Illkirch, France"
+    },
+    {
+      "name": "Charlotte N. Henrichsen",
+      "first": "Charlotte N.",
+      "last": "Henrichsen",
+      "affiliation": "Center for Integrative Genomics, University of Lausanne, Lausanne, Switzerland"
+    },
+    {
+      "name": "Raquel Garcia-Lopez",
+      "first": "Raquel",
+      "last": "Garcia-Lopez",
+      "affiliation": "Experimental Embryology Lab, Instituto de Neurociencias, Universidad Miguel Hernandez, San Juan de Alicante, Spain"
+    },
+    {
+      "name": "Diego Echevarria",
+      "first": "Diego",
+      "last": "Echevarria",
+      "affiliation": "Experimental Embryology Lab, Instituto de Neurociencias, Universidad Miguel Hernandez, San Juan de Alicante, Spain"
+    },
+    {
+      "name": "Eduardo Puelles",
+      "first": "Eduardo",
+      "last": "Puelles",
+      "affiliation": "Experimental Embryology Lab, Instituto de Neurociencias, Universidad Miguel Hernandez, San Juan de Alicante, Spain"
+    },
+    {
+      "name": "Elena Garcia-Calero",
+      "first": "Elena",
+      "last": "Garcia-Calero",
+      "affiliation": "Experimental Embryology Lab, Instituto de Neurociencias, Universidad Miguel Hernandez, San Juan de Alicante, Spain"
+    },
+    {
+      "name": "Stefan Kruse",
+      "first": "Stefan",
+      "last": "Kruse",
+      "affiliation": "ORGARAT, Essen, Germany"
+    },
+    {
+      "name": "Markus Uhr",
+      "first": "Markus",
+      "last": "Uhr",
+      "affiliation": "Genes and Behavior Department, Max Planck Institute of Biophysical Chemistry, Goettingen, Germany"
+    },
+    {
+      "name": "Christine Kauck",
+      "first": "Christine",
+      "last": "Kauck",
+      "affiliation": "Genes and Behavior Department, Max Planck Institute of Biophysical Chemistry, Goettingen, Germany"
+    },
+    {
+      "name": "Guangjie Feng",
+      "first": "Guangjie",
+      "last": "Feng",
+      "affiliation": "Medical Research Council Human Genetics Unit, Western General Hospital, Edinburgh, United Kingdom"
+    },
+    {
+      "name": "Nestor Milyaev",
+      "first": "Nestor",
+      "last": "Milyaev",
+      "affiliation": "Medical Research Council Human Genetics Unit, Western General Hospital, Edinburgh, United Kingdom"
+    },
+    {
+      "name": "Chuang Kee Ong",
+      "first": "Chuang Kee",
+      "last": "Ong",
+      "affiliation": "Medical Research Council Human Genetics Unit, Western General Hospital, Edinburgh, United Kingdom"
+    },
+    {
+      "name": "Lalit Kumar",
+      "first": "Lalit",
+      "last": "Kumar",
+      "affiliation": "Medical Research Council Human Genetics Unit, Western General Hospital, Edinburgh, United Kingdom"
+    },
+    {
+      "name": "MeiSze Lam",
+      "first": "MeiSze",
+      "last": "Lam",
+      "affiliation": "Medical Research Council Human Genetics Unit, Western General Hospital, Edinburgh, United Kingdom"
+    },
+    {
+      "name": "Colin A. Semple",
+      "first": "Colin A.",
+      "last": "Semple",
+      "affiliation": "Medical Research Council Human Genetics Unit, Western General Hospital, Edinburgh, United Kingdom"
+    },
+    {
+      "name": "Attila Gyenesei",
+      "first": "Attila",
+      "last": "Gyenesei",
+      "affiliation": "Medical Research Council Human Genetics Unit, Western General Hospital, Edinburgh, United Kingdom"
+    },
+    {
+      "name": "Stefan Mundlos",
+      "first": "Stefan",
+      "last": "Mundlos",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Uwe Radelof",
+      "first": "Uwe",
+      "last": "Radelof",
+      "affiliation": "RZPD—Deutsches Ressourcenzentrum für Genomforschung, Berlin, Germany"
+    },
+    {
+      "name": "Hans Lehrach",
+      "first": "Hans",
+      "last": "Lehrach",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Paolo Sarmientos",
+      "first": "Paolo",
+      "last": "Sarmientos",
+      "affiliation": "Primm, Milan, Italy"
+    },
+    {
+      "name": "Alexandre Reymond",
+      "first": "Alexandre",
+      "last": "Reymond",
+      "affiliation": "Center for Integrative Genomics, University of Lausanne, Lausanne, Switzerland"
+    },
+    {
+      "name": "Duncan R. Davidson",
+      "first": "Duncan R.",
+      "last": "Davidson",
+      "affiliation": "Medical Research Council Human Genetics Unit, Western General Hospital, Edinburgh, United Kingdom"
+    },
+    {
+      "name": "Pascal Dollé",
+      "first": "Pascal",
+      "last": "Dollé",
+      "affiliation": "Institut de Génétique et de Biologie Moléculaire et Cellulaire, Inserm U 964, CNRS UMR 7104, Faculté de Médecine, Université de Strasbourg; Illkirch, France"
+    },
+    {
+      "name": "Stylianos E. Antonarakis",
+      "first": "Stylianos E.",
+      "last": "Antonarakis",
+      "affiliation": "Department of Genetic Medicine and Development, University of Geneva Medical School, Geneva, Switzerland; University Hospitals of Geneva, Geneva, Switzerland"
+    },
+    {
+      "name": "Marie-Laure Yaspo",
+      "first": "Marie-Laure",
+      "last": "Yaspo",
+      "affiliation": "Max Planck Institute for Molecular Genetics, Berlin, Germany"
+    },
+    {
+      "name": "Salvador Martinez",
+      "first": "Salvador",
+      "last": "Martinez",
+      "affiliation": "Experimental Embryology Lab, Instituto de Neurociencias, Universidad Miguel Hernandez, San Juan de Alicante, Spain"
+    },
+    {
+      "name": "Richard A. Baldock",
+      "first": "Richard A.",
+      "last": "Baldock",
+      "affiliation": "Medical Research Council Human Genetics Unit, Western General Hospital, Edinburgh, United Kingdom"
+    },
+    {
+      "name": "Gregor Eichele",
+      "first": "Gregor",
+      "last": "Eichele",
+      "affiliation": "Genes and Behavior Department, Max Planck Institute of Biophysical Chemistry, Goettingen, Germany"
+    },
+    {
+      "name": "Andrea Ballabio",
+      "first": "Andrea",
+      "last": "Ballabio",
+      "affiliation": "Telethon Institute of Genetics and Medicine, Naples, Italy; Medical Genetics, Department of Pediatrics, Federico II University, Naples, Italy; Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, United States of America; Jan and Dan Duncan Neurological Research Institute, Texas Children's Hospital, Houston, Texas, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2011-01",
+  "dateAccepted": "2010-12-06",
+  "dateReceived": "2010-08-04",
+  "volume": "9",
+  "number": "1",
+  "pages": "e1000582",
+  "tags": [
+    "Discipline/Developmental Biology",
+    "Discipline/Genetics and Genomics/Animal Genetics",
+    "Discipline/Genetics and Genomics/Gene Expression",
+    "Discipline/Genetics and Genomics/Genome Projects",
+    "Type/Research Article"
+  ],
+  "abstract": "The manuscript describes the “digital transcriptome atlas” of the developing mouse embryo, a powerful resource to determine co-expression of genes, to identify cell populations and lineages and to identify functional associations between genes relevant to development and disease.",
+  "fullText": "Introduction\n\nGenomic research has significantly advanced our understanding of physiological and pathophysiological processes, ranging from infectious diseases to cancer. Two fundamental aspects of this approach are the generation of large datasets and the systematic integration of the information contained therein. Transcriptome analysis has been in the forefront of this research field. Ascertaining when and where genes are expressed is of crucial importance to understanding or predicting the physiological role of genes and proteins and how they interact to form the complex networks that underlie organ development and function. Progress in understanding gene networks is driven by massive parallel approaches [1]–[4] that capture the complexity of a gene network as a whole. However, genome-scale approaches capable of unraveling events occurring in single cells or small groups of cells still pose a major challenge. In recent years, high-throughput methods that collect such information at cellular resolution on a gene-by-gene basis have been developed. Of particular relevance was the development of high-throughput technology for RNA in situ hybridization (ISH) to map gene expression patterns on tissue sections [5]–[7]. A widely used resource based on this technology is the Allen Brain Atlas (ABA) [8], a digital genome-wide atlas of gene expression in the adult mouse brain. Additional valuable resources documenting organ-specific gene expression using similar approaches include the Gene Expression Nervous System Altas (GENSAT), the GenitoUrinary Development Molecular Anatomy Project (GUDMAP), and the St. Jude Brain Gene Expression Map (BGEM) [9]–[11]. Efforts to integrate expression data that bring together information from diverse sources are the Edinburgh Mouse Atlas of Gene Expression (EMAGE) [12] and the Mouse Genome Informatics (MGI) Gene Expression Database (GXD) [13]. These databases use published gene expression data descriptions to provide expression annotations that follow standard anatomy ontology. The next challenge, partially addressed in Drosophila melanogaster [14],[15], is the generation of a transcriptome map of an entire organism at cellular resolution.\n\nHere we report the generation of the Eurexpress transcriptome atlas, which delivers the expression patterns of almost all Mus musculus protein-coding genes (more than 18,000 genes) in the developing mouse at embryonic day 14.5 (E14.5) by RNA ISH. These data were organized and annotated to build a Web-based gene expression atlas freely available to the scientific community (http://www.eurexpress.org). This atlas is to our knowledge the first resource generated in a mammalian organism that provides a simultaneous visualization of thoroughly annotated gene expression patterns at cellular resolution at one developmental stage.\n\nResults\n\nThe Transcriptome Atlas\n\nWe analyzed the expression patterns of over 18,000 transcripts (18,264), mostly corresponding to protein-coding genes, by RNA ISH in the developing wild-type laboratory mouse. The colorimetric ISH was performed on frozen sagittal sections of C57BL/6J wild-type mice at E14.5. At this developmental stage, organogenesis is largely complete, making it an adequate model to study organ architecture and function, and, in addition, stem cell division and cell differentiation are still ongoing. Each gene was analyzed on a set of 24 sagittal sections, which all together provide a complete representation of all embryonic tissues [5]. We set up semi-automated pipelines to design one appropriate probe per gene (Figure S1), with the aim of capturing most of the isoforms generated by alternative splicing. We also included a set of locked nucleic acid (LNA) probes covering the mature sequences of 444 murine microRNAs in the analysis.\n\nAfter ISH and automated microscopy image acquisition [16], expression patterns were manually annotated by expert anatomists using a revised version of the Edinburgh Mouse Atlas Project (EMAP) anatomy ontology, which includes 1,420 anatomical terms. The EMAP mouse anatomy ontology (http://www.emouseatlas.org/Databases/Anatomy/new/theiler23.shtml) is widely accepted and is used as the basis for annotating expression patterns in other large-scale expression resources such as EMAGE and MGI. This ontology supports annotation at different levels of resolution through automatic inheritance of properties between levels. In addition to identifying expression sites, our curated annotation provided information on the expression pattern (homogeneous, regional, or single cell) and on its strength (strong, moderate, or weak), revealing detailed patterns even for genes expressed at low levels. Compiling all ∼15,500 annotated patterns allowed classifying them into three broad categories: 39% were “regional” (signal detected in a limited number of discrete locations), 43% showed a nonregional signal in all tissues, and 18% were not detected. Figure 1 shows examples of these three categories. All images and their annotation are available and searchable at http://www.eurexpress.org.\n\nThe Eurexpress database allows basic and advanced queries by annotated anatomy, gene name, symbol, template, and gene sequence. The search interface provides both a thumbnail view of a representative section and the annotation summary (Figure 2A). The expression data can be visualized in the form of either a montage viewer (Figure 2B) or a zoom/panning viewer (virtual microscope, Figure 2C). All expression patterns are linked to expression databases, such as the ABA [8], EMAGE [12],[17], and the Gene Expression Nervous System Altas [11], and to bioinformatics resources such as Entrez Gene, ENSEMBL, and MGI. Additional features of Eurexpress include a standard anatomy reference atlas based on a set of eight sagittal histology sections that have been graphically annotated. These section views have a user-controlled overlay capability as well as the standard zoom viewer and can be used in conjunction with the assay image views to enable convenient comparison (http://www.eurexpress.org/eAtlasViewer/php/eurexpressAnatomyAtlas.php).\n\nValidation\n\nA quality control study on 250 solute carrier genes (Slc) characterized with the same ISH protocol [18] but using probes generated by PCR amplification with specific primers revealed over 90% concordance, indicating that our template resource was reliable (see Table S1). We also compared 1,089 expression patterns (including genes with tissue-restricted expression and a subset of disease genes) to previously published data, collected at the same stage and using the same methodology, by using the literature query form of the MGI Gene Expression Database (http://www.informatics.jax.org/searches/gxdindex_form.shtml). We found data in the literature for 14% of these, and the analysis revealed 84% overall concordance between the two datasets. The comparison was done by visual inspection, and concordance/partial concordance was scored when the sites of expression were the same or overlapping in the two datasets. Table S2 includes the results and the appropriate literature references. Interestingly, if we restrict the same analysis to a subset of more characterized genes, namely, 100 disease genes, for which we found published expression data in 72% of cases, the concordance reaches 97%, giving a clear indication of the equivalence between datasets when studying well-characterized genes. Overall, these results underscore the reliability of our data as tested against published data.\n\nWe compared our expression data to those obtained from microarrays using RNA from whole E14.5 embryos [19]. This comparison revealed that 30% of the genes determined as regional by ISH could not be detected by microarray (GSE-6081) (e.g., Titf1; Figure 1). In addition, we also compared Eurexpress data to the results of a microarray experiment carried out using RNA from the E14.5 mouse heart (E-GEOD-1479 in the Gene Expression Omnibus database). The comparative analysis revealed that of the 397 regional genes annotated to be expressed in the heart in Eurexpress, 20% (78 genes) were not detected by the microarray experiment described above. These data underline the value of ISH for revealing the expression of genes with very specific or restricted patterns.\n\nExpression Analysis and Expression Clustering\n\nWe performed data mining on genes annotated as regional to gain insight into the transcriptome complexity of the main organs and anatomical structures at E14.5. This analysis revealed that the tissues displaying the highest expression complexity belong to the central nervous system (CNS), accounting for 60% (n = 3,902) of regionally expressed genes, followed by the alimentary system (45%, n = 2,912) and the sensory organs (43%, n = 2,730) (Figure S2). We identified approximately 1,000 genes that display exclusive expression in a specific anatomical structure (Table S3), 16% of which have unknown function. For example, we identified 106 markers for specific structures of the CNS (e.g., cerebral cortex, thalamus, hypothalamus), 218 for specific structures of the alimentary system (147 of which are exclusively expressed in the liver), and 127 for the thymus. This collection represents an extraordinary source of novel histological markers for 37 different anatomical structures (see Figure 3 for specific examples and Table S4 for a complete summary). This novel catalog of genes with restricted expression patterns constitutes an invaluable tool for the identification of sequence control elements driving gene expression in specific tissues and organs and will be useful for the design of tissue-specific mouse CRE driver lines [20].\n\nHierarchical clustering of expression data is a powerful tool to assess synexpression, with the ultimate goals of elucidating transcriptional pathways and dissecting gene co-regulation mechanisms. We decided to apply this methodology to our expression atlas. Towards this goal, a subset of 5,933 regionally expressed genes was clustered according to the tissue annotations across 831 anatomical terms. For each gene, an expression value was set according to the expression strength. For hierarchical clustering we then used the Pearson correlation coefficient, which means the actual selected values are normalized and only relative expression strength across the tissues is used. Clustering by annotation identified numerous synexpression groups, i.e., genes with coordinated expression and that are potentially involved in the same biological process. At a threshold value of the Pearson coefficient of r≥0.7, we found 496 clusters, 90 of which included at least ten genes (additional information available at http://www.eurexpress.org/ee/project/publication/cluster.jsp). We determined the expression occupancy of these clusters, which provides a measure of how many of the genes in a cluster are expressed in a specific anatomical structure. This approach allowed us to group clusters expressed in the same sets of tissues (Figure 4A), thus facilitating the identification of complex synexpression groups. Figure 4B shows an example of a cluster with a complex expression pattern (cluster 83). We found that genes in this cluster continue to be synexpressed in the adult (Figure 4C), as assessed by analysis of publicly available microarray data. This case raises the possibility that embryonic expression patterns have predictive value for adult mice. The clusters can be browsed online at http://www.eurexpress.org/ee/project/publication/cluster.jsp, a Web link that also provides interactive access to the gene lists and associated assays, and the results of the functional enrichment analysis with respect to Gene Ontology (GO), InterPro domains, Mammalian Phenotype Ontology, and cytogenetic band mappings. The individual cluster Web pages are also accessible directly from each assay view via the “Syn-Expression” link on the assay Web page (e.g., http://www.eurexpress.org/ee/databases/assay.jsp?assayID=euxassay_009028). The identification of these expression clusters will facilitate the dissection of transcriptional networks by integrating the high-resolution power of RNA ISH with the currently available high-throughput—but generally low-resolution—procedures such as microarray and next generation sequencing.\n\nTo gain insight into the dynamics of gene expression in the embryo versus the adult, we took advantage of the ABA dataset [8]. We compared gene expression patterns of 80 genes we found to be confined to the following CNS structures: cerebral cortex, striatum, thalamus, hypothalamus, midbrain, cerebellum, pons, medulla, and spinal cord (taken from Table S3). We found that 26% of the genes had a conserved expression pattern, 43% had extended their expression pattern into new domains of the adult brain, and 30% were divergent (Table S5). Figure S3 shows two examples for partial (Figure S3A and S3B) and full conservation (Figure S3C and S3D) of expression sites. A similar comparison was done for a subset of the solute carrier family of genes (Slc) for which a cognate ABA dataset was available (99 genes in total). Concordance for this data set was 89% (Table S6). Figure S4 illustrates examples where a particular Slc was expressed in progenitor (E14.5) and differentiated (adult) cells. In the future, gene expression at cellular resolution, refined by double-labeling experiments with specific cell type markers, will uncover to what extent gene expression networks are conserved across stages.\n\nThe Eurexpress atlas is highly informative with regard to expression patterns of disease-causing genes. We selected 100 disease genes that are representative examples of genes responsible for either diseases targeting specific tissues (e.g., eye, skeletal muscle, heart, skeleton, immune system) or syndromic conditions affecting multiple tissues. This analysis was carried out by comparing the information present, for each disease, in the clinical synopsis section of the Online Mendelian Inheritance of Man (OMIM) database with the gene expression annotation data present in Eurexpress. In all cases the expression pattern observed was predictive for the phenotypes seen in human (Table S7; Figure S5).\n\nThe above-described comparative analyses between embryonic and adult brain and the foray into expression of human disease genes emphasize that the reach of Eurexpress is well beyond the mid-gestation mouse embryo.\n\nWnt Signaling in the Developing Kidney\n\nWnt signaling in embryogenesis is characterized by an extensive crosstalk between ligands, receptors and co-receptors, regulators, and downstream messengers [21]. Surprisingly, the expression patterns for many of the newly identified Wnt pathway components are largely elusive, a gap in knowledge Eurexpress begins to close. Table S8 summarizes the expression patterns of 117 Wnt signaling components for the major organ systems. Collectively these data illustrate which components are expressed in a given tissue and thus are an entryway into the identification of organ-relevant pathways. In the developing kidney, 58 genes of the Wnt signaling pathway show regional expression. Figure 5A displays the expression strength of these genes in ten renal structures that are recognizable at E14.5. The scheme in Figure 5B illustrates that the different steps of nephron formation occur concurrently at this stage. An early event is the induction of the condensing mesenchyme (Figure 5B, image 3), which subsequently undergoes a mesenchyme-to-epithelium transition leading to the development of the renal vesicle (Figure 5B, image 4). This process involves WNT9B and its downstream target WNT4 [22]. Consistent with published data [22], Wnt9b and Wnt4 are expressed in the ureteric bud and the condensing mesenchyme (white and black arrows in Figure 5C). In addition to WNT4, we identified seven Wnt signaling components that were markedly expressed in the condensing mesenchyme (Figure 5A, column 3) and in cells involved in the mesenchyme-to-epithelium transition. Among them are Fzd3 and Fzd4 (Figure 5C, black arrows), which are both expressed in the appropriate place and time to potentially mediate downstream effects of paracrine WNT9B and autocrine WNT4 signals. The condensing mesenchyme expresses essential components of the canonical β-catenin-dependent pathway such as the Wnt co-receptor Lrp5 and the transcription factor Tcf7 (Figure 5A). Additionally, regulators of canonical signaling such as DKK1 and its receptor, KREMEN1, as well as AES, a repressor competing with β-catenin for binding to transcription factors, are expressed (Figure 5A). We noticed that Fzd3 is prominently expressed in structures of early nephrogenesis (Figure 5A, columns 3–5), while Fzd4 expression is more pronounced in the renal vesicle and in structures derived from it, such as the proximal tubules (Figure 5A, columns 5–7). This observation could support the idea of a receptor-mediated switch from canonical to noncanonical signaling thought to occur at the beginning of tubulogenesis [23]. We conclude that the comprehensive nature of the Eurexpress database allows one to select those components of signaling pathways that are expressed at the right time and location.\n\nHematopoietic Stem Cell Lineages in Liver\n\nMany of the regulators that control hepatocyte and cholangiocyte differentiation [24] are represented in the Eurexpress database. In total, 147 genes were largely confined to liver (Table S3), and these will provide markers to investigate liver development, especially at later stages. In the embryo, hepatocytes are closely associated with hematopoietic stem cells (HSCs). During fetal development, HSCs change anatomical localization several times and are abundant in liver between E10 and E18, with HSC cell number peaking at ∼5,100 around E14.5 [25],[26]. At E14.5, HSC markers such as Itgab2 (CD41), Ptprc (CD45), Ly6a (Sca1), Kit (CD117), Runx1, and Gata2 are strongly expressed in single, discrete cells scattered throughout the liver. Cells expressing these bona fide markers can be classified into three categories (Table S9): (1) in the case of Gata2, Itgab2, and Runx1, intercellular distance (d) is much larger than the cell diameter (cd) (d≫cd); (2) Ly6a-positive cells also obey this rule but in addition tend to form small clusters and intercluster distances are much larger than cd; and (3) cells expressing Kit or Ptprc are in proximity to each other (d≈cd). We mined the transcriptome atlas for genes whose expression patterns in liver fall into the above groups. Table S9 lists the members of these groups and, in addition, defines a fourth group of scattered cells where d≤cd. Collectively, these groups contain many genes that are implicated in immune functions encoding membrane-bound cell surface receptors, extracellular proteins, transcription factors, extracellular cytokines, protease inhibitors, focal adhesion proteins, and proteins generally involved in cell adhesion. Many of our markers tag a few thousand cells per liver, corresponding to the HSC number estimates for fetal liver [27], which raises the possibility that they identify HSCs. However, double-labeling analyses will be required to resolve which markers (or marker combinations) actually identify HSCs and which their descendants.\n\nMolecular Organization of the CNS\n\nIn the E14.5 embryo, most neurons of the CNS have been generated and have migrated from the germinative epithelium into the mantle layer. However, important migratory processes that shape the future CNS have not yet initiated. Thus, this atlas is a rich source of additional gene markers that characterize diverse neuronal populations. Figure 6A shows examples of expression patterns of five genes collectively delineating the stratification of the nascent neocortex. 2610306H15Rik and Hist1h1d are localized at different apico-basal levels of the ventricular epithelium, Nhlh1 is expressed in the subventricular and intermediate zones, and Nin and Rorb are expressed in cells localized at different radial levels of the mantle layer.\n\nAt E14.5, the complex cytoarchitecture of the mature spinal cord is not evident, although most neurons have been generated and have migrated into the mantle layer. To date, many molecular markers for the motoneuron columns have been identified in the ventral horn [28], but there are few markers for the central zone and for the dorsal horn that do not show any internal subdivisions and appear as homogeneous cellular fields. We found that expression patterns of four genes revealed molecular differences of neurons at different ventro-dorsal levels along the length of the spinal cord (Figure 6D). Nhlh and Lrrtm1 are expressed at different layers of the dorsal horn, Adcyap1 is expressed in the dorsal-most cells of the dorsal horn and in motoneurons, and Zdhhc2 is mainly expressed in visceral motoneurons. These cellular populations that show different molecular expressions may belong to the primordium of Rexed's lamina in the mature spinal cord [29].\n\nThe thalamus also appears as a homogeneous cellular field at E14.5, except for the thalamo-cortical fiber confluence (Figure 6B). Mining the transcriptome digital atlas allowed us to detect genes marking an early molecular regionalization of the thalamic mantle layer, where undifferentiated neurons accumulate. Figure 6C, shows four examples of genes that show graded expression with respect to putative diencephalic “secondary organizers” that are the basal plate and zona limitans (as sources of SHH ventralizing and rostralizing signals) and the dorsal midline (which produces FGF8, BMPs, and Wnt dorsalizing signals) [30]. These intra-thalamic regionalized genes may specify different cell fates in a concentration-dependent manner and thus underlie the development of functional domains in the mature thalamus.\n\nThe developing mammalian CNS is characterized by complex gene expression patterns, and the interpretation of these data has led to the prosomeric model of the mammalian brain [31]. This model predicts the existence of domains within the ventricular zones that give rise to diverse segments and morphogenetic fields [31]. We mined the digital expression atlas for genes that have a restricted expression pattern within the ventricular zone along the rostral–caudal axis and hence could be involved in early specification of the pallial domains of the telencephalon [31]. Nissl staining showed a mainly homogeneous cellular organization along the midline (Figure S6A) and progressive lateral sections of the telencephalic pallium (Figure S6C and S6E). Gene expression patterns clearly demonstrated a molecular heterogeneity among different regions at the level of the ventricular epithelium and mantle layer in the corresponding midline (Figure S6B) and lateral sections (Figure S6D and S6F), thus mapping the predicted molecular regions in the subpallium and pallium. For instance, while a new marker gene (0610040j01Rik) showed a localized expression in the medial pallium epithelium (prospective hippocampus), Dct and Zic3 were expressed in progressively more anterior neuroepithelial domains (the prospective progenitors for lateral pallium and ventral pallium, respectively) (Figure S6C–S6F).\n\nMoreover, hierarchical clustering of brain-specific transcription factors (using the approach described in Figure 4) revealed a group of ten transcription factor genes that show co-localized or complementary expression patterns in the telencephalic pallium and subpallium (Nfe213, Hivep2, Klf7, Fos12, Satb2, Zfhx1b, Zfp184, Foxp4, Phf13, and Dmrtal). Therefore, the intricate organization of molecular markers identified allowed us to develop combinatorial maps that represent the molecular organization of the telencephalon (Figure S6B, S6D, and S6F). At the same time these markers will provide an entryway into future genetic fate mapping strategies.\n\nGiven that this combinatorial analysis of expression patterns in the developing diencephalon mainly agrees with previously proposed molecular maps [31]–[33], we were interested to explore the efficiency of this approach for studying regionalization and topology in the hypothalamus, where controversial models have been postulated [31],[32],[34] (see [35] for a review). Using the digital atlas we selected expression patterns of genes encoding DNA binding proteins that showed “regional expression” (1,395 genes) and analyzed in detail the expression of 126 of them expressed in brain. This analysis revealed that genes mainly expressed in the basal plate domains of the diencephalon, including the hypothalamus, were exclusively expressed in the caudal hypothalamic regions: mammillar region and retromammillar areas (13 genes were identified with this pattern: Foxa1, Mx1a, Lmx1b, Barhl1, Dbx1, Pax7, Olig2, Rarb, Dfp3, Lhx1, Lhx5, Irx1, and Irx3; Figure 7A and 7D). Conversely, genes mainly expressed in the diencephalic alar plate and/or in the telencephalon extended their expression into the tuberomammillar (TM) hypothalamus and/or anterior hypothalamic (AH) and suprachiasmatic nucleus (12 genes were identified with this pattern: Lhx2, Lhx6, Lhx9, Dlx1, Dlx2, Dlx5, Unc4, Cited, Rorb, Arx, Foxa2, and Otx2; Figure 7B–7D). Thus, this analysis revealed that both mammillar and retromammillar regions express genes of generic basal plate character, while the TM, AH, and suprachiasmatic hypothalamic areas, although classified as basal plate derivatives, express mainly “alar” genes. The expression analysis of the developing hypothalamus strongly suggests that the TM hypothalamus (including the neurohypophysis) and the anterior hypothalamus have an alar plate character. The expression patterns of Shh and Nkx2.1 in the tuberal and the AH areas could be used against this new interpretation [31]. However, grafting data showed different inductive properties of diencephalic and hypothalamic SHH signals [36], suggesting that these differences in SHH signaling could be attributed to its alar and basal nature. In conclusion, our data suggest a novel regional map of the hypothalamus (Figure 7E and 7F) that interprets the data more appropriately than the previous model [31] (Figure 7G) and that allows us to understand the different inductive effects of the anterior axial mesoderm in the anterior neural plate [37] and its ability to induce basal plate and alar plate derivatives. More interestingly, this new interpretation that places primary sensorial hypothalamic areas (i.e., AH and TM areas [38]) as alar plate derivatives agrees with the hypothesis of “functional columns” in the vertebrate brain, where sensorial information is primarily processed by alar derivatives (extensively reviewed in [39]).\n\nDiscussion\n\nThis is to our knowledge the first gene expression atlas of an entire mammalian organism that is thoroughly annotated so as to systematically capture gene expression in hundreds of organs and tissues. Because all this information is available in a searchable database, users can retrieve information tailored to their own needs. The present study provides a selection of examples demonstrating how this resource can be applied to a broad range of biomedical questions and drive scientific discovery. We showed that we can correlate disease phenotypes to sites of expression of underlying genes; we extracted information to demonstrate novel insights into the complex segmental organization of the mammalian brain; the cellular resolution provided by the Eurexpress atlas enabled the discovery of gene markers that characterize the molecular subdivision of organs, identified novel putative markers of the hematopoietic lineage, and facilitated the comprehensive organism-wide mapping of an important developmental signaling pathway. Future applications of these data might include the determination of elusive regional differences within structurally complex organs, the identification of expression signatures for specific cell populations, the search for regulatory elements that confer tissue- or region-specific expression, the establishment of gene networks that operate within and between organs, the molecular characterization of genetic or otherwise modified mice, and the design of new tissue-specific CRE driver lines and cell lineage experiments. Finally, this atlas is ideal for the evaluation of candidate genes for complex diseases and congenital disorders.\n\nMaterials and Methods\n\nTemplate Selection and Generation\n\nFor gene selection, both the mouse ENSEMBL and the mouse Entrez Gene databases were analyzed. Templates used for the generation of the atlas were PCR products obtained from either publicly available cDNA clones or reverse transcriptase PCR reactions, a fraction of which was provided by the ABA consortium [8]. Automated ISH was performed using previously described protocols [7]. We set up semi-automated routines for designing one appropriate probe per gene (Figure S1). Our approach was aimed at covering most of the genes represented in public mouse databases (ENSEMBL and Entrez Gene). Because of the high-throughput nature of the project, we restricted our selection to one probe per gene, capturing most of the isoforms generated by alternative splicing, when possible. As an initial source of DNA for PCR template generation, we used cDNA clones (IMAGE collection or Mammalian Gene Collection) that were available and re-sequenced at the German Resource Center for Genome Research (RZPD). Approximately 10,000 clones could be used for template generation. The clones were used as direct templates for PCR and stored as glycerol stock in 384-well plates at −80°C. This initial collection was then enlarged to include about 8,000 PCR templates generated from the ABA consortium [8]. The latter templates were dilutions of first-round PCR products derived from EST clone, mouse brain cDNA, or mouse genomic DNA (ABA templates).\n\nAll clones or PCR template sequences were compared to the mouse gene reference databases (ENSEMBL and Entrez Gene) via BLAST (http://www.ncbi.nlm.nih.gov/BLAST/) prior to selection. For the probe generation we selected only templates with sequences matching the reference with at least 95% identity across at least 80% of the length. Templates were generated by PCR using appropriate oligonucleotide primers. Full information on templates, including the complete sequence of the product, the sequences of the oligonucleotides used to generate them, and the RNA polymerase promoters used for riboprobe synthesis, are available on the Eurexpress Web site.\n\nPCR reactions were performed in a 100- µl total volume with final concentrations of 1× Taq buffer, 1.5 M Betaine, 0.2 mM dNTPs, 5 U Taq polymerase, 10 U Pfu DNA polymerase, and 0.5 µM of each primer. As template material for the PCR, we used clone glycerol stock, purified plasmid, or PCR product (ABA collection).\n\nThe quality (size and quantity) of the PCR templates was systematically assessed by standard gel electrophoresis (1% agarose gel) and by spectrophotometry (Nanodrop). PCR products yielding an unexpected size (±100 bp) or showing multiple bands were excluded from riboprobe generation.\n\nIn vitro transcription was performed as previously described [5].\n\nData Annotation\n\nApproximately 360,000 images were viewed and annotated, each of high resolution and typically 4K×4K pixels. To allow the annotators to rapidly pass through the data and assess each image, we implemented a bespoke annotation Java-based interface termed Fast Image Annotation Software (FIATAS). Key aspects of the software are the fast interfaces for image viewing, focused anatomy views with efficient menu and multi-select option annotation, data “inbox” management, quality control and multi-editor review, and automatic update to the tracking database and publication to the Web site (Figure S8). FIATAS can be installed for off-line operation or will start directly via Web-start from links on the Eurexpress Web site.\n\nFor anatomy tissue annotation we adopted the standard mouse ontology from EMAP. In the FIATAS interface, the full anatomical tree of 1,420 terms at Theiler stage 23 is provided, as well as a number of cut-down views, which can be used for more detailed access. More information on data annotation can be found in Text S1.\n\nData Management\n\nThe link between the central database and each activity was managed via a combination of Web services and ftp, with data exchanged either in XLS, XML or JPEG formats. The architecture is shown in Figure S7.\n\nCluster Analysis\n\nFunctional inference using Eurexpress data employed hierarchical clustering with centered Pearson correlation coefficients and the average linkage method. We employed a maximal propagation strategy, where parent terms acquire the values of child terms throughout the anatomical ontology. Four annotation types were examined: GO terms, InterPro conserved domain identifiers, Mammalian Phenotype Ontology terms, and cytogenetic band (as a proxy for genomic position). Annotation enrichment was calculated for each co-expressed cluster containing ten or more genes (to ensure sufficient annotation to carry out tests), and the significance of each test was measured using the hypergeometric distribution according to the standard practice. The significance of enrichment across all clusters in the dataset was determined using a permutation strategy: 100,000 permuted datasets were produced by permuting gene IDs with respect to their annotation, but maintaining GO term interdependencies. The numbers of tests passing given p-value thresholds, within each permuted dataset, were then used to calculate the significance of tests passing those thresholds in the observed dataset. This proportion provided us with a permutation-derived p-value, which accounted for the large number of tests performed while controlling for the interdependencies among the GO annotation terms.\n\nThe Eurexpress Web site has implemented a link to visualize clusters of co-expressed genes derived from hierarchical clustering of Eurexpress anatomical expression patterns. In each case the relevant cluster ID is given together with the average correlation coefficient between genes in the cluster, the number of genes within the cluster, and the IDs of the genes involved. Further information on the enrichment of functional annotation within each cluster is available to users by clicking on the cluster IDs. This information includes the annotation terms and enrichment p-values for the GO terms, the InterPro domains, the Mammalian Phenotype Ontology terms, and the cytogenetic band mappings.\n\nSupporting Information"
+}

@@ -1,0 +1,27 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0000047",
+  "doi": "10.1371/journal.pbio.0000047",
+  "license": "This is an open-access article distributed under the terms of the Public Library of Science Open-Access License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A Single Protein in Yeast Can Fine-Tune an Environmental Response",
+  "journal": "PLoS Biology",
+  "date": "2003-11",
+  "dateElectronic": "2003-11-17",
+  "volume": "1",
+  "number": "2",
+  "pages": "e47",
+  "tags": [
+    "Discipline/Cell Biology",
+    "Discipline/Computational Biology/Systems Biology",
+    "Discipline/Genetics and Genomics",
+    "System Taxonomy/Saccharomyces",
+    "Type/Synopsis"
+  ],
+  "fullText": "One might not expect that yeast lead terribly eventful lives, yet the single-celled fungus must struggle to survive just like everyone else. And for yeast—like everyone else—survival means being able to detect and coordinate a rapid response to changes in its environment. Though survival for humans is a bit more complicated, our cells use the same regulatory networks, which maintain cell growth and health when they work and contribute to diseases, from asthma to cancer, when they break down.\n\nGiven the variety of conditions even the lowly yeast is likely to encounter during its life, one might expect to find a multitude of molecules mobilizing a response. But yeast cells, it turns out, are fairly resourceful. As Erin O'Shea and colleagues report, just one protein in yeast activates different groups of genes in response to different amounts of an environmental stimulus. The researchers focused on how yeast responds to various levels of phosphate, an essential nutrient for all cells.\n\nOne way that cells regulate responses to environmental stimuli is through the transcription (activation) of genes. These transcriptional responses are often controlled by a multistep process that shuttles gene-activating proteins into the nucleus, where they can generate the appropriate response for a given stimulus, or confines them to the cytoplasm if their gene products are not needed. During this process, called phosphorylation, the addition of a phosphate group to a protein—such as a receptor or transcription factor—acts as a mechanism for controlling gene expression.\n\nO'Shea's team demonstrated that phosphorylation of a transcription factor called Pho4 controls gene expression by controlling where that protein resides in the cell—in the cytoplasm or in the nucleus. As is the case with many proteins, Pho4 can accept phosphate groups at multiple sites. To see whether the location of phosphorylation affects the action of Pho4, O'Shea's team exposed yeast to different levels of phosphate and tracked the cellular response.\n\nThey found that when yeast is deprived of phosphate, Pho4 has no phosphate groups at any of its binding sites and enters the nucleus, where it binds to DNA and activates a set of genes whose products can scavenge for phosphate or otherwise compensate for the scarcity. When yeast has ample supplies of phosphate, Pho4 is phosphorylated and remains in the cytoplasm—unable to influence transcription—suggesting that the cells can absorb plenty of nutrients from their environs without having to engage a specialized foraging team. When the researchers exposed the yeast to intermediate amounts of phosphate, the results were surprising. Middling concentrations of phosphate produced different forms of phosphorylated Pho4, which varied in their ability to activate genes, and so added to the number of possible responses. Pho4 partially phosphorylated at one site, for example, could still enter the nucleus, but activated only one type of phosphate-recovery gene and not others.\n\nWhile it is not unexpected that differential phosphorylation could have different functional outcomes, the authors say, it is surprising that one enzyme acting on one transcription factor can create different phosphorylation patterns—and therefore different gene-expression patterns—in response to different amounts of a single stimulus. Their results show that cells rely on a highly regulated series of interactions that induce subtle changes in gene expression to fine-tune their response to small environmental changes. And they do this in a remarkably efficient manner, relying on a small cast of characters to orchestrate the responses essential for survival."
+}

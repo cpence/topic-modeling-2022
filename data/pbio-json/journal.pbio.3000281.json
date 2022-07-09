@@ -1,0 +1,211 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000281",
+  "doi": "10.1371/journal.pbio.3000281",
+  "externalIds": [
+    "pii:PBIOLOGY-D-18-01199",
+    "pmid:31185007",
+    "pmcid:PMC6559632"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A novel druggable interprotomer pocket in the capsid of rhino- and enteroviruses",
+  "authors": [
+    {
+      "name": "Rana Abdelnabi",
+      "first": "Rana",
+      "last": "Abdelnabi",
+      "affiliation": "Department of Microbiology and Immunology, Rega Institute for Medical Research, Laboratory of Virology and Chemotherapy, KU Leuven, Leuven, Belgium",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-9771-7312"
+      ]
+    },
+    {
+      "name": "James A. Geraets",
+      "first": "James A.",
+      "last": "Geraets",
+      "affiliation": "Faculty of Biological and Environmental Sciences, Molecular and Integrative Bioscience Research Programme, University of Helsinki, Helsinki, Finland; Helsinki Institute of Life Sciences, Institute of Biotechnology, University of Helsinki, Helsinki, Finland",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-3378-0683"
+      ]
+    },
+    {
+      "name": "Yipeng Ma",
+      "first": "Yipeng",
+      "last": "Ma",
+      "affiliation": "Department of Microbiology and Immunology, Rega Institute for Medical Research, Laboratory of Virology and Chemotherapy, KU Leuven, Leuven, Belgium"
+    },
+    {
+      "name": "Carmen Mirabelli",
+      "first": "Carmen",
+      "last": "Mirabelli",
+      "affiliation": "Department of Microbiology and Immunology, Rega Institute for Medical Research, Laboratory of Virology and Chemotherapy, KU Leuven, Leuven, Belgium",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4785-5482"
+      ]
+    },
+    {
+      "name": "Justin W. Flatt",
+      "first": "Justin W.",
+      "last": "Flatt",
+      "affiliation": "Faculty of Biological and Environmental Sciences, Molecular and Integrative Bioscience Research Programme, University of Helsinki, Helsinki, Finland; Helsinki Institute of Life Sciences, Institute of Biotechnology, University of Helsinki, Helsinki, Finland",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-5406-8156"
+      ]
+    },
+    {
+      "name": "Aušra Domanska",
+      "first": "Aušra",
+      "last": "Domanska",
+      "affiliation": "Faculty of Biological and Environmental Sciences, Molecular and Integrative Bioscience Research Programme, University of Helsinki, Helsinki, Finland; Helsinki Institute of Life Sciences, Institute of Biotechnology, University of Helsinki, Helsinki, Finland",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-3772-6003"
+      ]
+    },
+    {
+      "name": "Leen Delang",
+      "first": "Leen",
+      "last": "Delang",
+      "affiliation": "Department of Microbiology and Immunology, Rega Institute for Medical Research, Laboratory of Virology and Chemotherapy, KU Leuven, Leuven, Belgium",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8874-675X"
+      ]
+    },
+    {
+      "name": "Dirk Jochmans",
+      "first": "Dirk",
+      "last": "Jochmans",
+      "affiliation": "Department of Microbiology and Immunology, Rega Institute for Medical Research, Laboratory of Virology and Chemotherapy, KU Leuven, Leuven, Belgium",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9265-6028"
+      ]
+    },
+    {
+      "name": "Timiri Ajay Kumar",
+      "first": "Timiri Ajay",
+      "last": "Kumar",
+      "affiliation": "Department of Pharmaceutical Sciences & Technology, Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India"
+    },
+    {
+      "name": "Venkatesan Jayaprakash",
+      "first": "Venkatesan",
+      "last": "Jayaprakash",
+      "affiliation": "Department of Pharmaceutical Sciences & Technology, Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9724-4153"
+      ]
+    },
+    {
+      "name": "Barij Nayan Sinha",
+      "first": "Barij Nayan",
+      "last": "Sinha",
+      "affiliation": "Department of Pharmaceutical Sciences & Technology, Birla Institute of Technology, Mesra, Ranchi, Jharkhand, India",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-6558-3572"
+      ]
+    },
+    {
+      "name": "Pieter Leyssen",
+      "first": "Pieter",
+      "last": "Leyssen",
+      "affiliation": "Department of Microbiology and Immunology, Rega Institute for Medical Research, Laboratory of Virology and Chemotherapy, KU Leuven, Leuven, Belgium",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-7537-1688"
+      ]
+    },
+    {
+      "name": "Sarah J. Butcher",
+      "first": "Sarah J.",
+      "last": "Butcher",
+      "affiliation": "Faculty of Biological and Environmental Sciences, Molecular and Integrative Bioscience Research Programme, University of Helsinki, Helsinki, Finland; Helsinki Institute of Life Sciences, Institute of Biotechnology, University of Helsinki, Helsinki, Finland",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7060-5871"
+      ]
+    },
+    {
+      "name": "Johan Neyts",
+      "first": "Johan",
+      "last": "Neyts",
+      "affiliation": "Department of Microbiology and Immunology, Rega Institute for Medical Research, Laboratory of Virology and Chemotherapy, KU Leuven, Leuven, Belgium",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-0033-7514"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2019-06-11",
+  "dateAccepted": "2019-05-08",
+  "dateReceived": "2018-11-12",
+  "volume": "17",
+  "number": "6",
+  "pages": "e3000281",
+  "tags": [
+    "Antimicrobial resistance",
+    "Antimicrobials",
+    "Antivirals",
+    "Coxsackieviruses",
+    "Discipline-v3/Antimicrobial resistance",
+    "Discipline-v3/Antimicrobials",
+    "Discipline-v3/Antivirals",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Coxsackieviruses",
+    "Discipline-v3/Drugs",
+    "Discipline-v3/Electron cryo-microscopy",
+    "Discipline-v3/Electron microscopy",
+    "Discipline-v3/Enteroviruses",
+    "Discipline-v3/Infectious diseases",
+    "Discipline-v3/Medical microbiology",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Microbial control",
+    "Discipline-v3/Microbial pathogens",
+    "Discipline-v3/Microbiology",
+    "Discipline-v3/Microscopy",
+    "Discipline-v3/Organisms",
+    "Discipline-v3/Pathogens",
+    "Discipline-v3/Pathology and laboratory medicine",
+    "Discipline-v3/Pharmacology",
+    "Discipline-v3/RNA viruses",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Rhinovirus infection",
+    "Discipline-v3/Viral diseases",
+    "Discipline-v3/Viral packaging",
+    "Discipline-v3/Viral pathogens",
+    "Discipline-v3/Viral replication",
+    "Discipline-v3/Viral structure",
+    "Discipline-v3/Virions",
+    "Discipline-v3/Virology",
+    "Discipline-v3/Viruses",
+    "Drugs",
+    "Electron cryo-microscopy",
+    "Electron microscopy",
+    "Enteroviruses",
+    "Infectious diseases",
+    "Medical microbiology",
+    "Microbial control",
+    "Microbial pathogens",
+    "Microbiology",
+    "Microscopy",
+    "Organisms",
+    "Pathogens",
+    "Pathology and laboratory medicine",
+    "Pharmacology",
+    "RNA viruses",
+    "Rhinovirus infection",
+    "Type/Research Article",
+    "Viral diseases",
+    "Viral packaging",
+    "Viral pathogens",
+    "Viral replication",
+    "Viral structure",
+    "Virions",
+    "Virology",
+    "Viruses"
+  ],
+  "abstract": "Rhino- and enteroviruses are important human pathogens, against which no antivirals are available. The best-studied inhibitors are “capsid binders” that fit in a hydrophobic pocket of the viral capsid. Employing a new class of entero-/rhinovirus inhibitors and by means of cryo–electron microscopy (EM), followed by resistance selection and reverse genetics, we discovered a hitherto unknown druggable pocket that is formed by viral proteins VP1 and VP3 and that is conserved across entero-/rhinovirus species. We propose that these inhibitors stabilize a key region of the virion, thereby preventing the conformational expansion needed for viral RNA release. A medicinal chemistry effort resulted in the identification of analogues targeting this pocket with broad-spectrum activity against Coxsackieviruses B (CVBs) and compounds with activity against enteroviruses (EV) of groups C and D, and even rhinoviruses (RV). Our findings provide novel insights in the biology of the entry of entero-/rhinoviruses and open new avenues for the design of broad-spectrum antivirals against these pathogens.",
+  "fullText": "Introduction\n\nRhino- and enteroviruses (family Picornaviridae) are important human pathogens. Rhinoviruses are responsible for the common cold and are the most important trigger of exacerbations of asthma and chronic obstructive pulmonary disease (COPD) [1]. Each year, millions of people are affected by enteroviruses; there are 29 Coxsackieviruses, 28 echoviruses, and 5 other enteroviruses that cause disease (such as hand, foot and mouth disease, myocarditis, pancreatitis, aseptic meningitis, and encephalitis) in man [2]. In recent years, massive outbreaks of the enterovirus 71 (EVA71) occurred in Asia that left a large number of children with life-threatening encephalitis [3]. In 2014 and 2016, widespread outbreaks in the United States of the enterovirus 68 (EVD68) resulted in severe respiratory illness in children that was in many cases associated with acute flaccid myelitis, a condition now documented across the world in 14 countries [4]. Poliovirus (PV) is yet another important enterovirus. An enormous effort by the Global Polio Eradication Initiative (whereby 2.5 billion children have been vaccinated, requiring a $14 billion investment) has been very successful in massively reducing the number of cases [5]. However, the polio endgame appears to be much more challenging than anticipated; it is now well accepted that antivirals will be needed for a successful eradication, in particular to control outbreaks of circulating vaccine-derived polioviruses (cVDPV) and to stop excretion in chronic shedders (www.polioeradication.org). There are, however, no antivirals available for the treatment and/or prophylaxis of infections with entero- (including polio) and/or rhinoviruses. The best studied inhibitors are the so-called “capsid binders” (such as pleconaril, pirodavir, vapendavir, and pocapavir). These compounds fit in a hydrophobic pocket in the viral particle, thereby preventing binding of the virus to the receptor and/or uncoating [6]. Capsid binders have the disadvantage that they select rapidly for drug-resistant variants; this was also recently documented when assessing the effect of pocapavir in healthy volunteers challenged with the oral live attenuated polio vaccine virus [7]. Moreover, some capsid binders, such as pleconaril, lack activity against certain enteroviruses such as EVA71 [8]. Also, rhinoviruses of group C (infections with these viruses are associated with severe respiratory infections and childhood asthma exacerbations) are completely resistant to the capsid binders because the hydrophobic pocket is collapsed in the particle [9]. Today, the hydrophobic pocket is the only druggable surface pocket of the entero-/rhinoviruses particle. Now 32 years after its discovery, we report on a novel druggable pocket within a conserved VP1-VP3 interprotomer interface of the viral capsid. We propose that this pocket is crucial for conformational changes required for viral RNA release, and we describe a class of compounds targeting this pocket with broad-spectrum activity against entero-/rhinoviruses.\n\nResults\n\nAn early-stage inhibitor of viral replication\n\nA benzene sulfonamide derivative, compound 17 (Fig 1A) was identified in a cell-based antiviral screening as a potent in vitro inhibitor of the Coxsackievirus B3 (CVB3) Nancy strain (50% effective concentration [EC50] 0.7 ± 0.1 μM; Fig 1B). The molecule has no adverse effect on the cells up to a concentration of 296 μM. Compound 17 also inhibits the replication of CVB1 and CVB6, and exerts moderate activity against CVB4, CVB5, and Coxsackievirus A9 (CVA9), but is devoid of activity against CVB2 at the highest concentration tested (Fig 1B). CVA16 and EVA71 (EV-A group), CVA21 and PV1 (EV-C group), EVD68 (EV-D group), and Rhinovirus B14 (RVB14, RV-B) are not inhibited by the compound (S1 Table). The antiviral activity of compound 17 was further confirmed in a virus yield assay in which it reduced, in a dose-dependent manner, the production of CVB3 RNA and CVB3 infectious virus particles with EC50 values of 0.4 ± 0.01 μM and 1.1 ± 0.3 μM, respectively (Fig 1C). Because the CVB3 Nancy strain has a substitution of leucine for isoleucine at position 92 of VP1 that confers resistance to pleconaril-like compounds [10], a pleconaril-sensitive CVB3 Nancy variant (VP1_L92I) was engineered to compare the time-of-addition profile of compound 17 with that of pleconaril and favipiravir (a viral polymerase inhibitor) [11]. Similar to pleconaril, compound 17 was found to target CVB3 replication at an early stage of the viral cycle because most of the antiviral activity was lost when the compound was added 2 h postinfection (Fig 1D). Early-stage enterovirus inhibitors, such as pleconaril, are known to interact with the viral capsids and to increase their stability to heat inactivation [12]. In contrast to untreated virus or virus treated with 20 μM inactive analogue (compound 15), incubation with compound 17 increased the thermostability of CVB3 by 1.5 and 2.1 log10 50% tissue culture infective dose per mL (TCID50/mL) at 46°C and 49°C, respectively (Fig 1E). This result is comparable with what has been previously reported for other capsid binders [12,13], indicating a direct binding/interaction between compound 17 and the viral capsid. When pleconaril and compound 17 were combined, a synergistic antiviral activity was observed, suggesting that they have different mechanisms of antiviral action (Fig 1F).\n\nA VP1-VP3 interprotomer binding pocket\n\nTo gain insights into the interaction of the drug with the viral capsid, a 4.0-Å structure of the CVB3–compound 17 complex was determined by cryo–electron microscopy (EM) and image reconstruction (S1 and S2 Figs). Capsid protein side chains were readily identified and a CVB3 Nancy homology model could be flexibly fitted into the density map (S2 Table). Unlike in the published CVB3 crystal structure (Protein Data Bank [PDB] ID: 1COV), the cryo-EM map of the Nancy strain lacks density for the lipid factor within the hydrophobic pocket of VP1 [14]. However, difference map analysis revealed additional density that could easily be fitted with an atomic model of compound 17 (Fig 2A and 2C). The compound has an L-shaped structure with a longer and a shorter arm, allowing unambiguous docking (Fig 2B). Modelling revealed that compound 17 binds into a pocket formed by two VP1 units and one VP3 unit at an interprotomer interface. Because of the icosahedrally symmetric nature of the virus, there are 60 such sites in one capsid, with 5 around each 5-fold vertex (Fig 2C and S3 Fig). This interprotomer site is 16 Å away from the hydrophobic pocket targeted by pleconaril and other capsid inhibitors, raising the possibility of complementary antiviral effects (for those strains susceptible to both classes of compounds) (S3 Fig). Modelling of the interaction within Proteins, Interfaces, Structures, and Assemblies (PISA) (S3 Table) revealed residues of VP1 (73, 75–78, 155–157,159–160, 219, and 234) and VP3 (233–236) that line the pocket, as shown in Fig 2D and 2E. From analyzing the conservation of these pocket residues in 56 CVB3 amino acid sequences retrieved from GenBank, 7 out of 16 residues appeared to be completely conserved, and, on average, 14 of the residues were very similar (&gt;97% when assessed by Grantham distance) (S3 Table). The pocket also shows conservation across the enterovirus B group, with 7 of 16 residues identical across the strains tested (S3 Table), and a good retention of pocket shape, as assessed by root mean square deviation (RMSD) (S4 Table).\n\nCritical residues of the pocket\n\nA clonal in vitro resistance selection [13] was performed to select compound-resistant virus variants. Four resistance mutations were identified mapping to the VP1 coding region of the genome. Three of the four amino acid mutations were located in the pocket vicinity: F76C, E78G, and A98V, and one in the 5-fold vertex region (D133G) (Fig 2D, S4A Fig). Twelve reverse-engineered CVB3 mutants were generated in a CVB3 infectious clone (Nancy strain). These were selected based on (i) residues that line the pocket in the atomic model and (ii) mutations identified in the resistance selection to compound 17. In addition, the glutathione-independent VP1_T77M CVB3 variant was engineered (that is resistant to the glutathione-depleting compound TP0219) [15]. Of these mutants, eight proved viable (Table 1 and Fig 2D) and were further investigated, whereas four were not viable (VP1_Q160G and VP1_R234G, VP3_F236G and VP3_Q233G). Seven out of the eight variants proved resistant to compound 17 and were equally sensitive to the control compound, i.e., the 3C protease inhibitor rupintrivir (Table 1). These results validate the importance of the pocket residues for compound 17 activity.\n\nAs for the only resistance mutation located outside the interprotomer pocket, the thermostability profile of the VP1_D133G variant revealed that it is more heat sensitive than the CVB3 Nancy (the mutation destabilizes the viral capsid) and that compound 17 could still stabilize the variant (S4B Fig). Hence, VP1_D133G is a compensatory mutation rather than a mutation that prevents compound 17 binding. The growth kinetics and plaque phenotyping of the variant revealed that the mutation slightly decreases virus fitness (S4C Fig).\n\nVP1_T77 has been implicated in glutathione binding [15], and we show here that the glutathione-independent VP1_T77M CVB3 variant has a reduced sensitivity to compound 17. Therefore, we assessed the impact of increasing intracellular glutathione on the antiviral activity of compound 17. The antiviral activity of compound 17 was unaffected by the glutathione ethyl ester, even at the highest concentration tested (S5 Fig).\n\nWe next assessed the potential effect of compound 17 on viral receptor binding. We used a flag-tagged human Coxsackievirus and adenovirus receptor (hCAR) protein (S6A Fig) bound to beads to pull down the virus in the presence or absence of compound 17. The binding affinity of CVB3 was not reduced in the presence of compound 17, even at the highest concentration tested (S6B Fig). Moreover, compound 17 was active against a decay-accelerating factor (DAF)–dependent enterovirus B, E-11 virus (S6C Fig). Neither of the two reported binding sites of Coxsackievirus and adenovirus receptor (CAR) and DAF on CVB3 (PDB ID:1JEW [16]; PDB ID:3J24 [17]) overlap with the interprotomer pocket, which further corroborates the experimental findings.\n\nDeveloping a broad-spectrum inhibitor\n\nThe structural and interaction information of compound 17 with the discovered pocket led to the identification of the core structure of this compound (S7 Fig). In a first step for hit optimization, commercially available analogs (compounds 20–50) with different R1 groups were acquired. Next, derivatives with different R2 and R3 modifications were obtained through medicinal chemistry efforts (compounds 51–81). Specifically, this was an iterative process whereby information from the antiviral assays was used to guide the synthesis of more active/selective analogues. This resulted in analogues with activity against enteroviruses belonging to different groups, including EV-B (CVBs), EV-C (PV1 and CVA21), EV-D (EVD68), RV-A (RVA09, RVA59, and RVA63), and RV-B (RVB14) species (Fig 3A and S1 Table). None of the tested compounds was active against EVA viruses (CVA16 and EVA71). Selected compounds, which exerted the most potent activity for each virus, are presented in Table 2 (the structural formulae are presented in S1 Table). Among the analogues, compounds 29 and 48 resulted in activity against all the six CVBs tested (Table 2, S8 Fig). Compound 48 also completely inhibited PV1 replication at concentration of 144 μM (Table 2, S8 Fig). Another analogue, i.e., compound 77, elicited antiviral activity against RV-A and RV-B species (Table 2). The shape of the new molecules in the series is complementary to that of the pocket (Fig 3). A clear structure-activity relationship (SAR) was deduced from the carboxylic group at the R3 position, where a hydrogen atom was essential for antiviral activity, and at position R2, where a hydroxyl group proves overall beneficial for broad antiviral action. The cryo-EM structure indicates that there is charge complementarity between R3 and the conserved residue VP1_R234. Sterically, this is also a restricted region of the pocket, preventing bulky R3 groups (Fig 2C–2E). A superposition of the viral structures available for susceptible strains revealed a significant conservation of the interprotomer pocket, which is in line with the number of pan-enterovirus active analogues identified in this first screen (Fig 3, Table 2, S1 Table). Based on the structural alignment of the pocket in different enteroviruses, we predicted that some of the compounds in this class would be also active against echoviruses 1 and 7 (E-1 and E-7). Subsequent antiviral assays confirmed the prediction and suggest that computational analysis will be instrumental for the development of more potent and broad-spectrum analogues (Fig 3, Table 2, and S4 Table).\n\nDiscussion\n\nPockets traditionally make more attractive targets for drug design and optimization than flat surfaces, as they can accommodate larger surface areas and hence contribute more residues for interaction. For the same reason, pockets such as the hydrophobic site found within VP1 of most enteroviruses play important functional roles during virus entry and replication. Until now, the hydrophobic canyon site has been the only explored surface pocket for enteroviruses. The cryo-EM structure of CVB3 in complex with compound 17 revealed that 16 residues line the interprotomer pocket and provided a plausible explanation for most of the observed resistance mutations identified by selection. To confirm the druggable site, several of the residues were mutated, and the resulting viruses had indeed reduced sensitivity to compound 17. There were several amino acid residues in the pocket that could not be mutated, highlighting the importance of this pocket in the biology of enterovirus replication. Residues in the pocket allow quaternary structural changes in the capsid as it progresses from the virion to an expanded altered particle (A-particle) during entry, primed for RNA release [2,18], a process common to many picornaviruses [2]. This expansion requires rotation and translation of VP1, relative to itself, and to VP3 and VP2, a process dependent on movements along the interprotomer interfaces, including the region containing the pocket described here. Comparison of several structures of expanded picornavirus particles revealed that in the expanded particle, the pocket has an altered shape caused by the movement of the VP3 C terminus; this includes the residues that line the pocket (Q233, Q234, N235, F236). Hence, we propose that binding of compounds in this pocket stabilizes the conformation of a key region of the virion, preventing rearrangements that allow transition to the A-particle. The resistant mutant distant to the pocket (VP1-D133G) destabilizes the particle sufficiently so that the energy barrier to the transition is lowered, compensating for the increased stability induced by the drug, and thus still allowing release of the RNA.\n\nTo conclude, compound 17 and its analogues are selective inhibitors of CVB3 replication that target a novel pocket on the surface of the capsid that is important in conformational changes required for RNA release from the viral particle. Cryo-EM structural data and in vitro resistance selection together with reverse engineering revealed a set of amino acid residues in the virion that are crucial for the compound activity and allowed us to propose a unique mechanism of antiviral action. Antiviral evaluation of a set of compound 17 analogues indicates that it is possible to target EV-B, EV-C, EV-D, and even rhinovirus (A and B) species. In addition, computational analysis suggests that the pocket is partially conserved across species, including the RV-C species that are naturally resistant to pleconaril (and molecules with a similar mechanism of action) and EV-A. However, the shape and electrostatic properties of the pocket are sufficiently different in those latter species so that further study is required to design molecules that also block viruses belonging to these species (S3 and S4 Tables). Medicinal chemistry efforts are ongoing to replace the carboxylic acid moiety in the core structure of this class of compounds with more stable moieties, such as (bio)isosteres. Hence, we foresee the development of a future series of analogues with improved activity and spectrum against an important group of viruses that cause significant infectious illnesses worldwide.\n\nMaterial and methods\n\nCells and viruses\n\nAfrican green monkey kidney (Vero A, ATCC CCL-81) cells, Buffalo green monkey (BGM, ECACC 90092601) cells, HeLa Rh cells (kindly provided by Dr. K. Andries [Janssen Infectious Diseases, Beerse, Belgium]), and human rhabdosarcoma (RD, ECACC 85111502) cells were maintained in minimal essential medium (MEM Rega-3, Gibco, Belgium) supplemented with 10% fetal bovine serum (FBS, Gibco, Belgium), 2 mM l-glutamine (Gibco, Belgium), and 1% sodium bicarbonate (Gibco, Belgium). Antiviral assays medium was supplemented with 2% FBS instead of 10%. All cell cultures were maintained at 37°C in an atmosphere of 5% CO2 except for rhinovirus 14, which was incubated at 35°C. Coxsackievirus B3 strain Nancy (CVB3, derived from plasmid P53CB3/T7), Coxsackievirus B1 (Conn-5), Coxsackievirus B2 (CVB2, OH), Coxsackievirus B5 (CVB5, Dekking), Coxsackievirus B6 (CVB6, stam P2183), enterovirus 71 (EVA71, BrCr), and enterovirus 68 (EVD68, CU70) were kind gifts from Prof. F. van Kuppeveld (Universiteit Utrecht, Utrecht, the Netherlands). Coxsackievirus B4 (CVB4, Edwards) was kindly provided by Dr. J.W. Yoon (Julia McFarlane Diabetes Research Centre, Canada). The Sabin vaccine strain of PV1 was kindly provided by Dr. A.J. Macadam (Centre for Infectious Diseases, University of Edinburgh, Edinburgh, United Kingdom). Human rhinovirus type 14 (RVB14) and echovirus 11 (ECHO11) was kindly provided by Dr. K. Andries (Janssen Infectious Diseases, Beerse, Belgium).\n\nCompounds\n\nCompound 17 and its inactive analogue compound 15 (where the carboxyl group has been replaced with a methyl group) were synthesized as described previously [19]. Favipiravir (T-705) was purchased as a custom synthesis product from BOC Sciences (NY). Rupintrivir was purchased from Axon Medchem (the Netherlands). Pleconaril was kindly provided by V. Makarov (RAS Institute of Biochemistry, Russia). All compounds were dissolved in analytical grade DMSO (10 mg/mL).\n\nCytopathic effect reduction assay\n\nCells were seeded (at a density of 2.5 × 104 cells/well for Vero A, BGM cells, and RD cells and 1.8 × 104 cells/well for HeLa Rh cells) in 96-well tissue culture plates (BD Falcon) and were allowed to adhere overnight. The next day, cells were treated with serial dilutions of the compound and infected with the selected virus strain at a multiplicity of infection (MOI) of 0.01. On days 2–3 postinfection, the antiviral effect of the compound was quantified using the 3-(4,5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyll-2-(4-sulfophenyl)-2-H-tetrazolium, inner salt)/phenazine methosulfate (MTS/PMS) assay, as described by the manufacturer Promega (the Netherlands). In addition, the cells were also checked microscopically for minor signs of virus-induced cytopathic effects (CPE) or compound-induced toxicity (changes in cell and/or monolayer morphology). The EC50, which is the concentration of compound that is required to inhibit virus-induced cell death by 50%, was determined using logarithmic interpolation.\n\nVirus yield assay\n\nVero A cells were seeded at a density of 5 × 104 cells/well in 96-well tissue culture plates. The next day, cells were treated with serial dilutions of the compound and then infected with CVB3 (MOI, 0.01). After a 2-h incubation, the cells were washed three times with assay medium to remove non-adsorbed virus. The cells were treated with the same serial dilutions of the compound as for the CPE reduction assay and incubated for 2 days at 37°C. At the end of the incubation period, the viral RNA was isolated from the culture supernatants in different wells using NucleoSpin 96 virus kit (Macherey Nagel, Germany) and was quantified by real-time quantitative reverse transcription PCR (qRT-PCR) (see below). In addition, the number of infectious virions in the collected supernatants was determined by an end-point titration assay, as described by Reed and Muench (TCID50/mL) [20].\n\nqRT-PCR\n\nFor each RT-PCR reaction, 25 μL of a PCR reagent mixture was prepared to contain 12.5 μL One-Step qRT-PCR mix (Eurogentec, Seraing, Belgium), a 900 nM concentration of each primer, a 200 nM concentration of the specific TaqMan probe, RNase-free water, and 5 μL RNA. The nucleotide sequences of the used primers and probe were as follows: forward primer (5′-ACG AAT CCC AGT GTG TTT TGG-3′), reverse primer (5′-TGC TCA AAA ACG GTA TGG ACA T-3′), and CVB3 probe (5′-FAM-CGA GGG AAA CGC CCC GCC-TAMRA-3′). The RT-PCR reaction was done using the ABI 7500 Fast Real-Time PCR System (Applied Biosystems, Branchburg, NJ) according to the following protocol: 30 min at 48°C and 10 min at 95°C, followed by 40 cycles of 15 s at 95°C and 1 min at 60°C. The RNA copy number in each sample was determined by a standard curve generated using serial dilutions of CVB3 standard cDNA that were included in the run [21].\n\nTime-of-drug-addition assay\n\nVero-A cells were seeded in 96-well tissue culture plates at a density of 5 × 104 cells/well in assay medium and incubated overnight. Cells were treated with the appropriate concentration of the compound before or after the infection with CVB3 VP1_L92I variant (pleconaril sensitive, MOI = 1) at the following time points (−2 h, zero time, 2 h, 4 h, and 6 h). Following 24 h of incubation, the intracellular viral RNA from treated and untreated cells was extracted using Cells-to-cDNA lysis buffer (Life Technologies, the Netherlands) and was quantified by quantitative RT-PCR, as described before.\n\nThermostability assay\n\nCVB3 WT (5 × 105 TCID50/mL) was incubated with 20 μM compound 17, 20 μM compound 15 (an inactive analogue) [22], or an equal volume of assay medium) at six different temperatures ranging from 37–52°C for 2 min, followed by rapid cooling to 4°C. Subsequently, the infectious virus load of the different samples was quantified by end-point titration.\n\nLarge-scale virus purification\n\nFor large-scale virus purification for structural study, CVB3 Nancy strain was grown on Vero A cells, maintained in MEM (Eagle, without L-glutamine, Sigma M2279) supplemented with sodium bicarbonate (1%), Glutamax (2 mM, Gibco, 35050–038), antibiotic/antimycotic solution (1%, Sigma, A-5955), and 10% FBS. For proliferation, 30× T175 flasks with confluent cell layers (approximately 90%) were inoculated with CVB3 Nancy strain at an MOI of 0.02 in serum-free medium. After CPE was observed over the entire cell monolayer, the contents of the flask were collected, freeze-thawed three times, and the lysate cleared by centrifugation (3,000g, 277 K, 15 min). The supernatant was filtered and concentrated by ultrafiltration in Centricon 100-kDa filter units (Millipore). Ultracentrifugation was then performed on a CsCl step gradient, for which the top density was 1.25 g/cm3 and the bottom 1.48 g/cm3 CsCl (32,000g, Beckmann SW41Ti, 277 K, 18 h), in buffer (0.01 M HEPES, pH 7.5, 0.1 M MgCl2,) with additional 0.5% CHAPS detergent [23]. The virus band was collected, and the CsCl and CHAPS removed in a buffer exchange by ultrafiltration in Centricon 100-kDa filters (Millipore). Ultracentrifugation, band collection, and buffer exchange steps were performed twice.\n\nCryo-EM\n\nPurified CVB3 was mixed with compound 17 at a 1:2,500 molar ratio of capsid to inhibitor and incubated for 1 h at 37°C prior to cryo sample preparation on glow-discharged ultrathin carbon on lacey carbon grids (#01824, Ted Pella, US). Micrographs were collected at the Diamond Light Source, UK, via iNEXT access using a FEI Titan Krios electron microscope equipped with a Gatan energy filter (post-GIF) and a Gatan K2 Summit direct electron detector. The K2 detector was operated in counting mode, recording movies at a nominal magnification of 130,000× (sampling 1.06 Å/pixel), using a total electron dose of approximately 47 e/Å2 separated into 20-dose fractions. Example micrographs are shown in S1A Fig.\n\nImage processing\n\nFor each movie collected, all 20-dose fractions were aligned and compensated for drift using MotionCor2 [24]. The defocus level and other CTF parameters of each micrograph were determined using GCTF [25]. Micrographs were discarded if the power spectrum indicated noticeable astigmatism, crystalline ice, or uncorrected drift. For each of the remaining 2,121 movies, 71,034 particles were automatically picked on aligned averaged images using Relion 2.0.4 [26]. Two-dimensional classification was used to select 10,182 particles for further processing. The starting model was generated by Fourier filtering a CVB3 capsid atomic model (PDB ID: 1COV) [14] to a resolution of 40 Å in UCSF Chimera [27]. Three-dimensional classification in Relion [28] was used to remove empty, broken, and overlapping particles. All 20 frames were used for classification, refinement, and calculation of the final density map in Relion 2.1 beta from 4,891 particles. The final refinement step combining two independent data sets gave a resolution of 4.0 Å, as assessed by 0.143 criterion Fourier shell correlation [29]. A B-factor of −170 Å2 was automatically calculated in Relion and applied. The reconstruction central section is shown in S1B Fig, and resolution estimates are shown in S2 Fig.\n\nAtomic model building and refinement\n\nAn initial atomic model for the Nancy strain CVB3-inhibitor complex was generated using I-TASSER and UCSF Chimera [27,30]. I-TASSER threaded the Nancy CVB3 sequence onto the crystal structure of the CVB3 coat protein (PDB ID: 1COV [14]). UCSF Chimera built compound 17 atom by atom from the simplified molecular-input line-entry system (SMILES) line notation that described the structure of the chemical species. Docking of atomic coordinates was done manually using UCSF Chimera and the fit was further optimized using the “Fit in Map” command. Inspection and further refinement of the viral atomic coordinates was done using Coot, and this served as input for molecular dynamics flexible fitting (MDFF) [31]. The MDFF program was used together with NAMD and VMD to further enhance the fit of the model into the cryo-EM density [32–34]. A scale factor of 1 was employed to weight the contribution of the cryo-EM map to the overall potential function used in MDFF. Simulations included 20,000 steps of minimization and 100,000 steps of molecular dynamics under implicit solvent conditions with secondary structure restraints in place. Model statistics are shown in S2 Table. Interface analysis was done with the PDBePISA www server [35] and with Coot [31] (S3 Table). RMSD analysis of the pocket conservation was calculated in UCSF Chimera (S4 Table).\n\nIsolation of compound 17–resistant CVB3 variants and reverse genetics\n\nA multistep clonal selection protocol was performed to obtain compound 17–resistant CVB3 variants [13]. Whole-genome sequencing was performed to detect any mutations in the genome of the putative compound-resistant variants (3130 Genetic Analyzer automatic sequencer, Applied Biosystems). Desired mutations were introduced into the CVB3 strain Nancy infectious cDNA clone kindly provided by Prof. F. van Kuppeveld (University of Utrecht, Utrecht, the Netherlands) using the QuikChange mutagenesis kit (Agilent, CA) according to the manufacturer’s instructions. The presence of the desired mutation in the produced construct was confirmed by sequencing. Full-length infectious viral RNA was then transcribed from each plasmid using the RiboMAX Large Scale RNA Production System-T7 (Promega, the Netherlands) and transfected into Vero A cells with a TransIT-mRNA Transfection Kit (Mirus) to produce virus stocks of the reverse-engineered mutants.\n\nGrowth kinetics\n\nThe in vitro growth kinetics of CVB3 WT and VP1 variants were determined in Vero A cells (96-well tissue culture plates, 5 × 104 cells/well). At time zero, cells were infected with the respective virus variants (MOI = 1). After 2 h of infection, the cells were washed three times with 2% medium to remove non-adsorbed virus, and 200 μL medium were added to each well. At 8 and 24 h postinfection, the culture supernatants were collected to quantify the number of infectious virus particles at each time point by end-point titration.\n\nPlaque phenotyping\n\nVero A cells were seeded in 6-well plates (BD Falcon 6-Well Cell Culture Plate) at a density of 1 × 106 cells/well. The next day, cells were infected with 1 mL of 10-fold serial dilutions of the respective virus variants in assay medium. At 2 h postinfection, the cell monolayers were washed three times with PBS, after which 3 mL of a freshly prepared 1:1 mixture of 1% low-melting-point agarose (Invitrogen, Belgium) and 2× MEM medium (Gibco, Belgium) was added. After 3 d of incubation at 37°C, cells were fixed with 3.7% formaldehyde followed by removal of the agarose overlay and staining with 2% Giemsa staining solution to visualize the virus-induced plaques.\n\nExpression of a flag-tagged CAR\n\nThe pcDNA3.1-hCAR plasmid was kindly provided by Prof. F. van Kuppeveld (Universiteit Utrecht, Utrecht, the Netherlands). A flag tag was added to the C terminus of an hCAR sequence by fusion PCR using the following set of primers: forward, GAAAAGCTTCCACCATGGCGCTCCTGCTGTGC; reverse, GGA TCC CTA CTT GTC GTC ATC GTC TTT GTA GTC TAC TAT AGA CCC ATC CTT GCT. The primers were designed to add HindIII and BamHI restriction sites at the N and C termini of the hCAR sequence, respectively. Following PCR amplification, the hCAR-flag fragment was digested with HindIII and BamHI restriction enzymes and cloned back into pcDNA3.1 vector (that was digested with the same enzymes). The pcDNA3.1-hCAR-flag plasmid was then transfected into HEK293T cells in 6-well plates (7 × 105 cells/well) using Mirus TransIT-LT1 Transfection Reagent according to the manufacturer’s protocol. The expression of flag-tagged hCAR protein on day 2 post-transfection was checked by immunostaining using ANTI-FLAG antibody (Sigma-Aldrich) rabbit IgG as a 1ry antibody and Alexa Fluor 488 goat anti-rabbit (Thermo Fisher Scientific, Belgium) as a secondary antibody. Fluorescence was detected using the FLoid Cell Imaging Station (Thermo Fisher Scientific, Belgium).\n\nTesting the effect of compound 17 on the binding of CVB3 to the CAR\n\nThe lysate from HEK293T cells transfected with a flag-tagged pcDNA3.1-hCAR plasmid was incubated with ANTI-FLAG M2 Magnetic Beads (Sigma-Aldrich) at 4°C overnight. After washing with PBS, the CAR-coated beads were incubated with CVB3 or mixtures of the virus with different concentrations of compound 17 for 2 h at 37°C. At the end of incubation, the beads were washed three times with PBS followed by elution of CAR-bound virus using RLT lysis buffer (Qiagen, Germany). The viral RNA in each sample was then extracted using an RNeasy kit (Qiagen, Germany) and quantified by real-time quantitative RT-PCR as described before [21].\n\nSupporting information"
+}

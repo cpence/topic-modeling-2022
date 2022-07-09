@@ -1,0 +1,237 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3001109",
+  "doi": "10.1371/journal.pbio.3001109",
+  "externalIds": [
+    "pii:PBIOLOGY-D-20-02311",
+    "pmid:33596198",
+    "pmcid:PMC7920383"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "COVID-19 induces a hyperactive phenotype in circulating platelets",
+  "authors": [
+    {
+      "name": "Shane P. Comer",
+      "first": "Shane P.",
+      "last": "Comer",
+      "affiliation": "Conway SPHERE Research Group, Conway Institute, University College Dublin, Dublin Ireland; School of Biomolecular and Biomedical Science, University College Dublin, Dublin, Ireland",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-5958-6670"
+      ]
+    },
+    {
+      "name": "Sarah Cullivan",
+      "first": "Sarah",
+      "last": "Cullivan",
+      "affiliation": "Department of Respiratory Medicine, Mater Misericordiae University Hospital, Dublin, Ireland"
+    },
+    {
+      "name": "Paulina B. Szklanna",
+      "first": "Paulina B.",
+      "last": "Szklanna",
+      "affiliation": "Conway SPHERE Research Group, Conway Institute, University College Dublin, Dublin Ireland; School of Biomolecular and Biomedical Science, University College Dublin, Dublin, Ireland"
+    },
+    {
+      "name": "Luisa Weiss",
+      "first": "Luisa",
+      "last": "Weiss",
+      "affiliation": "Conway SPHERE Research Group, Conway Institute, University College Dublin, Dublin Ireland; School of Biomolecular and Biomedical Science, University College Dublin, Dublin, Ireland",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-7018-5325"
+      ]
+    },
+    {
+      "name": "Steven Cullen",
+      "first": "Steven",
+      "last": "Cullen",
+      "affiliation": "School of Pharmacy and Biomolecular Sciences, Royal College of Surgeons in Ireland, Dublin, Ireland"
+    },
+    {
+      "name": "Sarah Kelliher",
+      "first": "Sarah",
+      "last": "Kelliher",
+      "affiliation": "Department of Haematology, Mater Misericordiae University Hospital, Dublin, Ireland"
+    },
+    {
+      "name": "Albert Smolenski",
+      "first": "Albert",
+      "last": "Smolenski",
+      "affiliation": "School of Medicine, University College Dublin, Dublin, Ireland",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0001-9210-9406"
+      ]
+    },
+    {
+      "name": "Claire Murphy",
+      "first": "Claire",
+      "last": "Murphy",
+      "affiliation": "Conway SPHERE Research Group, Conway Institute, University College Dublin, Dublin Ireland; Department of Paediatrics, Royal College of Surgeons in Ireland, Dublin, Ireland",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-9611-8606"
+      ]
+    },
+    {
+      "name": "Haidar Altaie",
+      "first": "Haidar",
+      "last": "Altaie",
+      "affiliation": "SAS UK Headquarters, Wittington House, Henley Road, Medmenham, Marlow, Buckinghamshire, United Kingdom"
+    },
+    {
+      "name": "John Curran",
+      "first": "John",
+      "last": "Curran",
+      "affiliation": "SAS Institute Ltd, Dublin, Ireland"
+    },
+    {
+      "name": "Katherine O’Reilly",
+      "first": "Katherine",
+      "last": "O’Reilly",
+      "affiliation": "Department of Respiratory Medicine, Mater Misericordiae University Hospital, Dublin, Ireland; School of Medicine, University College Dublin, Dublin, Ireland",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-6654-4057"
+      ]
+    },
+    {
+      "name": "Aoife G. Cotter",
+      "first": "Aoife G.",
+      "last": "Cotter",
+      "affiliation": "School of Medicine, University College Dublin, Dublin, Ireland; UCD Centre for Experimental Pathogen and Host Research, Dublin, Ireland; Department of Infectious Diseases, Mater Misericordiae University Hospital, Dublin, Ireland"
+    },
+    {
+      "name": "Brian Marsh",
+      "first": "Brian",
+      "last": "Marsh",
+      "affiliation": "School of Medicine, University College Dublin, Dublin, Ireland; Department of Critical Care Medicine, Mater Misericordiae University Hospital, Dublin, Ireland"
+    },
+    {
+      "name": "Sean Gaine",
+      "first": "Sean",
+      "last": "Gaine",
+      "affiliation": "Department of Respiratory Medicine, Mater Misericordiae University Hospital, Dublin, Ireland; School of Medicine, University College Dublin, Dublin, Ireland"
+    },
+    {
+      "name": "Patrick Mallon",
+      "first": "Patrick",
+      "last": "Mallon",
+      "affiliation": "School of Medicine, University College Dublin, Dublin, Ireland; Department of Infectious Diseases, St Vincent’s University Hospital, Dublin, Ireland"
+    },
+    {
+      "name": "Brian McCullagh",
+      "first": "Brian",
+      "last": "McCullagh",
+      "affiliation": "Department of Respiratory Medicine, Mater Misericordiae University Hospital, Dublin, Ireland; School of Medicine, University College Dublin, Dublin, Ireland"
+    },
+    {
+      "name": "Niamh Moran",
+      "first": "Niamh",
+      "last": "Moran",
+      "affiliation": "School of Pharmacy and Biomolecular Sciences, Royal College of Surgeons in Ireland, Dublin, Ireland"
+    },
+    {
+      "name": "Fionnuala Ní Áinle",
+      "first": "Fionnuala",
+      "last": "Ní Áinle",
+      "affiliation": "Conway SPHERE Research Group, Conway Institute, University College Dublin, Dublin Ireland; Department of Haematology, Mater Misericordiae University Hospital, Dublin, Ireland; School of Medicine, University College Dublin, Dublin, Ireland; Department of Haematology, Rotunda Hospital, Dublin, Ireland"
+    },
+    {
+      "name": "Barry Kevane",
+      "first": "Barry",
+      "last": "Kevane",
+      "affiliation": "Conway SPHERE Research Group, Conway Institute, University College Dublin, Dublin Ireland; Department of Haematology, Mater Misericordiae University Hospital, Dublin, Ireland; School of Medicine, University College Dublin, Dublin, Ireland"
+    },
+    {
+      "name": "Patricia B. Maguire",
+      "first": "Patricia B.",
+      "last": "Maguire",
+      "affiliation": "Conway SPHERE Research Group, Conway Institute, University College Dublin, Dublin Ireland; School of Biomolecular and Biomedical Science, University College Dublin, Dublin, Ireland; UCD Institute for Discovery, University College Dublin, Dublin, Ireland",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-0362-3778"
+      ]
+    },
+    {
+      "name": "On behalf of the COCOON Study investigators"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2021-02-17",
+  "dateAccepted": "2021-01-22",
+  "dateReceived": "2020-07-30",
+  "volume": "19",
+  "number": "2",
+  "pages": "e3001109",
+  "tags": [
+    "Anatomy",
+    "Animal cells",
+    "Antiplatelet therapy",
+    "Blood",
+    "Blood cells",
+    "Blood coagulation",
+    "Body fluids",
+    "COVID 19",
+    "Cardiology",
+    "Cardiovascular diseases",
+    "Cardiovascular medicine",
+    "Cell biology",
+    "Cellular types",
+    "Coagulation disorders",
+    "Diagnostic medicine",
+    "Discipline-v3/Anatomy",
+    "Discipline-v3/Animal cells",
+    "Discipline-v3/Antiplatelet therapy",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Blood",
+    "Discipline-v3/Blood cells",
+    "Discipline-v3/Blood coagulation",
+    "Discipline-v3/Body fluids",
+    "Discipline-v3/COVID 19",
+    "Discipline-v3/Cardiology",
+    "Discipline-v3/Cardiovascular diseases",
+    "Discipline-v3/Cardiovascular medicine",
+    "Discipline-v3/Cell biology",
+    "Discipline-v3/Cellular types",
+    "Discipline-v3/Coagulation disorders",
+    "Discipline-v3/Diagnostic medicine",
+    "Discipline-v3/Drug therapy",
+    "Discipline-v3/Epidemiology",
+    "Discipline-v3/Hematology",
+    "Discipline-v3/Infectious diseases",
+    "Discipline-v3/Medical conditions",
+    "Discipline-v3/Medical risk factors",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Pharmaceutics",
+    "Discipline-v3/Physiological processes",
+    "Discipline-v3/Physiology",
+    "Discipline-v3/Platelet activation",
+    "Discipline-v3/Platelets",
+    "Discipline-v3/Secretion",
+    "Discipline-v3/Thrombosis",
+    "Discipline-v3/Vascular medicine",
+    "Discipline-v3/Viral diseases",
+    "Discipline-v3/Virus testing",
+    "Drug therapy",
+    "Epidemiology",
+    "Hematology",
+    "Infectious diseases",
+    "Medical conditions",
+    "Medical risk factors",
+    "Pharmaceutics",
+    "Physiological processes",
+    "Physiology",
+    "Platelet activation",
+    "Platelets",
+    "Secretion",
+    "Thrombosis",
+    "Type/Research Article",
+    "Vascular medicine",
+    "Viral diseases",
+    "Virus testing"
+  ],
+  "abstract": "Coronavirus Disease 2019 (COVID-19), caused by the novel Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), has affected over 30 million globally to date. Although high rates of venous thromboembolism and evidence of COVID-19-induced endothelial dysfunction have been reported, the precise aetiology of the increased thrombotic risk associated with COVID-19 infection remains to be fully elucidated. Therefore, we assessed clinical platelet parameters and circulating platelet activity in patients with severe and nonsevere COVID-19. An assessment of clinical blood parameters in patients with severe COVID-19 disease (requiring intensive care), patients with nonsevere disease (not requiring intensive care), general medical in-patients without COVID-19, and healthy donors was undertaken. Platelet function and activity were also assessed by secretion and specific marker analysis. We demonstrated that routine clinical blood parameters including increased mean platelet volume (MPV) and decreased platelet:neutrophil ratio are associated with disease severity in COVID-19 upon hospitalisation and intensive care unit (ICU) admission. Strikingly, agonist-induced ADP release was 30- to 90-fold higher in COVID-19 patients compared with hospitalised controls and circulating levels of platelet factor 4 (PF4), soluble P-selectin (sP-selectin), and thrombopoietin (TPO) were also significantly elevated in COVID-19. This study shows that distinct differences exist in routine full blood count and other clinical laboratory parameters between patients with severe and nonsevere COVID-19. Moreover, we have determined all COVID-19 patients possess hyperactive circulating platelets. These data suggest abnormal platelet reactivity may contribute to hypercoagulability in COVID-19 and confirms the role that platelets/clotting has in determining the severity of the disease and the complexity of the recovery path.",
+  "fullText": "Introduction\n\nOver 30 million people globally have been infected since the outbreak of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in December 2019, with over 1 million fatalities reported to date [1]. Coronavirus Disease 2019 (COVID-19) is characterised by a marked pro-inflammatory response with fever, elevated inflammatory markers, and clinical and radiological features of pneumonitis being evident among affected individuals [2]. A complex interplay is known to exist between pro-inflammatory pathway activity and blood coagulation activation; this interplay appears to represent a source of morbidity among SARS-CoV-2–infected patients, particularly among those with severe disease [3]. Unexpectedly high levels of venous thromboembolism (VTE) [4–10] have been reported in this patient group and levels of D-dimer (a marker of increased blood coagulation activation) have been shown to correlate with disease severity and appear to be predictive of mortality [11,12]. COVID-19 patients with cardiovascular risk factors (hypertension, diabetes) are particularly at risk of thrombotic events [13–16]. Moreover, recent postmortem studies have shown evidence of widespread thrombosis in pulmonary vasculature and other organs [17,18].\n\nAntiplatelet drugs (such as aspirin) and anticoagulants (such as low molecular weight heparin (LMWH)) are known to be effective in the prevention and treatment of arterial and venous thrombosis [19–21]. High rates of VTE despite LMWH thromboprophylaxis have been reported in COVID-19, and emerging reports of unusual or severe arterial thrombotic events have been published [5,18,22–24]. As both arterial and venous thrombosis can have devastating consequences, efforts to determine the precise molecular mechanisms underlying the unique hypercoagulable state in COVID-19 must be prioritised in order to optimise preventative and therapeutic strategies [25,26].\n\nCirculating platelets, the activity of which are central to haemostasis and thrombosis, are now understood to fulfil a much broader role in the regulation of a myriad of biological processes including inflammation, wound healing, and angiogenesis [27]. Platelet-mediated immune responses induced by viral infection have previously been reported [28–31], and a recent report has demonstrated altered platelet gene expression profiles and functional responses in patients infected with COVID-19 [32]. Moreover, thrombocytopenia has been noted in response to dengue [33,34] and SARS-CoV infection [35], and among in-patients with COVID-19, thrombocytopenia appears to be associated with increased risk of in-hospital mortality [3,36]. Increased mean platelet volume (MPV), a sensitive indicator of circulating platelet activity and a prognostic marker in thromboinflammation [37–39], has also been reported in association with specific viral infections [40].\n\nIn the present study, we aimed to characterise patterns of platelet activity among patients infected with COVID-19 relative to that observed in nonaffected hospitalised patients in order to determine if platelet dysfunction or hyperactivity contributes to COVID-19-induced hypercoagulability.\n\nMethods\n\nPatient recruitment, blood collection and platelet preparation\n\nEthical approval to proceed with this study (1/378/2077) was granted by the Institutional Review Board of the Mater Misericordiae University Hospital (MMUH). Anonymised datasets describing clinical laboratory parameters among hospitalised patients with severe COVID-19 (requiring critical care support; n = 34), nonsevere COVID-19 (not requiring critical care; n = 20), and non-COVID-19–affected medical inpatients (not requiring critical care; n = 20) were compiled from routine clinical testing results. SARS-CoV-2 infection was confirmed in all cases by RT-PCR analysis of nasopharyngeal swab specimens. Informed consent was sought prior to obtaining additional blood samples for analysis from a subgroup of patients with severe COVID-19, nonsevere COVID-19, and hospitalised patients without COVID-19, with patients matched for age, gender, and body mass index (BMI). All patients were recruited at the MMUH, Dublin, Ireland. A group of healthy control donors were also recruited. Inability to provide informed consent, age younger than 18 years, and exposure to antiplatelet agents were contraindications to study inclusion. In particular, the use of aspirin or other antiplatelet agents in the preceding 2 weeks was an absolute contraindication to inclusion as these agents have direct effects on platelet function and would therefore interfere with the interpretation of results. Thromboembolic events during length of hospitalisation were also considered a contraindication to inclusion in the study. The hospitalised control group consisted of individuals admitted to our hospital with acute medical illness (lower respiratory tract infection, urinary infection, or skin infection) and without history of arterial/venous thrombosis. Patients presenting with a major pro-inflammatory/pro-thrombotic state such as recent major surgery/surgical illness, major traumatic injury, or active cancer were excluded. A Cohort diagram outlining patient recruitment to, and inclusion in, the present study, can be found in S1 Fig.\n\nA volume of 30 ml of blood was collected via venepuncture with a 21-gauge needle into a 10-mL acid citrate dextrose A (ACD-A) vacutainer and centrifuged (200 × g with no brake for 15 min at room temperature (RT). Platelet-rich plasma (PRP) was isolated and the pH adjusted to 6.5 with ACD-A and supplemented with 1 μM PGE1. Platelets were then isolated from plasma by centrifugation (600 × g for 10 min at RT) and platelet-poor plasma (PPP) was stored at −80°C. Isolated platelets from patient groups and healthy controls were washed using a modified Tyrode’s buffer (130 mM NaCl, 9 mM NaHCO3, 10 mM Tris-HCl, 10 mM Trisodium citrate, 3 mM KCl, 0.81 mM KH2PO4, 9 mM MgCl2 × 6H2O; pH 7.4 with ACD-A) followed by centrifugation (600 × g for 10 min at RT). Platelets were again resuspended in modified Tyrode’s buffer and incubated at 37°C.\n\nPlatelet ATP secretion assay\n\nPlatelets, isolated as above, for the ATP secretion assay were obtained from patients classified as severe COVID-19 (n = 6), nonsevere COVID-19 (n = 4), and hospitalised control (n = 3), as well as healthy controls (n = 6). ATP secretion was measured using a luminescence-based assay, as previously described [41–44]. Agonists and buffer (5 μl) were dispensed in duplicate into 96-well plates, together with 35 μl of washed platelets and incubated for 3 min at 37°C, with fast orbital shaking. The doses of platelet agonists used to induce platelet ATP secretion were as follows; thrombin: 0.1 U/ml, 0.5 U/ml; U46619: 1 μM, 6.6 μM. Following incubation, 5 μl of ATP-detecting reagent (chronolume; Labmedics, United Kingdom) was dispensed into each well, and luminescence was measured immediately using a Perkin Elmer 1420 96-well plate reader. Data were expressed as the amount of ATP secreted, in luminescence arbitrary units (AUs), and converted to pmoles ATP released per 106 platelets by comparison with the luminescence recorded from an ATP standard (0.4 mM).\n\nEnzyme-linked immunosorbent assay (ELISA)\n\nELISAs for thrombopoietin (DTP00b), P-selectin (DPSE00), and platelet factor 4 (DPF40) were purchased from R&amp;D Systems (Abingdon, UK) and performed according to the manufacturer’s instructions. ELISAs were performed using PPP from patients classified as severe COVID-19 (n = 6), nonsevere COVID-19 (n = 6), and hospitalised control (n = 6), as well as healthy controls (n = 6). In brief, undiluted or 1:40 diluted PPP was added in triplicate to wells for thrombopoietin and PF4, respectively. After incubation, the plates were washed and incubated with the respective conjugate. For P-selectin, 1:20 diluted PPP was added simultaneously with the P-selectin conjugate and incubated. Again, plates were washed, and the substrate added. The reaction was stopped with stop solution, and the optical density was determined at 450 nm within 30 min on a Dynex DS2 (Dynex Technologies, Worthing, UK). Protein quantification was performed using a 4 parametric logistic or log-logit regression.\n\nStatistical analysis\n\nStatistical analysis was performed using R (version 4.0.0) and SAS Viya software (version 3.5). Data were tested for normal distribution using a Shapiro–Wilk test. Normally distributed continuous FBC data were presented as mean ± standard deviation and assessed for statistical significance using a one-way ANOVA. Differences in ATP release and protein expression were determined using a two-tailed t test. In both cases, p-values were adjusted for multiple comparisons using a Holm–Bonferroni post hoc test. Categorical data were described as percentages and significance was tested using a Fisher exact test. Values below 0.05 were regarded as statistically significant. Data visualisation was performed using SAS Viya.\n\nResults\n\nMean platelet volume (MPV) and platelet-to-neutrophil ratio (PNR) are associated with disease severity in COVID-19\n\nClinical laboratory data were available for 54 patients with confirmed SARS-CoV-2 infection. Within this group, 34 patients had developed severe disease requiring transfer to the intensive care unit (ICU) for ventilatory support, while the remaining 20 patients did not require critical care support at any stage during the course of their hospital admission. Laboratory parameters relating to these 2 distinct subgroups of patients with COVID-19 (severe COVID-19, n = 34; nonsevere COVID-19, n = 20) were compared to data from an age and gender-matched cohort of hospitalised medical inpatients without COVID-19 (n = 20). Day of admission was defined as the day patients were admitted to the MMUH.\n\nHigher levels of D-dimer were observed on the day of hospital admission among the patients who subsequently developed severe COVID-19 (mean ± SD; 4.95 ± 6.36 mg/L) in comparison (p = 0.0.012) to that observed in the nonsevere COVID-19 group (1.01 ± 0.75 mg/L) (Table 1). Furthermore, a significantly higher MPV (p = 0.015) and neutrophil count (p = 0.013) in addition to a significantly lower PNR (p = 0.0067) was noted on the day of admission in the group of patients who subsequently developed a severe disease course relative to that seen in the nonsevere group (Fig 1A). Interestingly, these significant differences remained following transfer to intensive care (Fig 1B). Full clinical characteristics of each study group is provided in S1 Table.\n\nWhile platelet counts did not differ on the day of admission between patients subsequently designated to have had either a severe or nonsevere disease course (Fig 1A), significantly decreased platelet counts were observed among the severe COVID-19 patients at the time of transfer to the ICU relative to the nonsevere group (p = 0.014, Fig 1B). An increased neutrophil-to-lymphocyte ratio (NLR) in severe cases relative to nonsevere was also detected at the time of hospital admission (another previously reported predictor of disease severity) (S2A Fig) [45–47].\n\nAgonist-induced ADP release is dramatically higher in COVID-19 patients compared with non-COVID-19 hospitalised patients\n\nRecently published data have suggested a crucial mechanistic role for platelets in the pathophysiology of COVID-19 [18,32,48]. We assessed dense granule release following platelet activation with various platelet agonists. ATP secretion was used as a surrogate marker for dense granule secretion, given that the ratio of ADP to ATP in platelet dense granules is a constant 2:3 ratio [49].\n\nPlatelets from individuals within each group were isolated and activated with low and high concentrations of thrombin and U46619. Platelets from COVID-19 patients exhibited significantly higher levels of dense granule secretion when compared to both control cohorts (HeC and HoC) with no significant difference between severe and nonsevere COVID-19 patients (Fig 2). Low doses of thrombin (0.1 U/ml) and U46619 (1 μM) induced minimal activation in platelets isolated from healthy and hospitalised control patients. In contrast, dramatically increased dense granule secretion was observed upon platelet activation in patients with COVID-19 (Fig 2A and 2C and S2 Table). Platelet stimulation with 0.1 U/mL thrombin increased ADP-release 3-fold in COVID-19 patients compared with HeC and HoC (Fig 2A and S2 Table). Crucially, platelet activation with the thromboxane A2 receptor agonist U46619 (1 μM) induced a 28-fold increase in ADP-release in COVID-19–positive patients compared to HeC and strikingly, an 89-fold increase between COVID-19–positive patients and HoC (Fig 2C and S2 Table). Platelet stimulation with high-dose thrombin (0.5 U/ml) and U46619 (6.6 μM) induced a 2-fold and 10-fold increase, respectively, in dense granule secretion from COVID-19 patients compared to controls (Fig 2B and 2D and S2 Table). These data suggest that platelets from COVID-19 patients are more responsive to low-dose agonist stimulation when compared to control platelets, potentially indicating a reduced activation threshold in COVID-19 patients.\n\nCirculating levels of PF4, sP-selectin, and TPO are significantly elevated in COVID-19\n\nTo further characterise this hyperactive platelet phenotype, circulating plasma markers of platelet activity were measured in each of the above study groups (n = 6 per group; PPP was available from an additional 2 nonsevere COVID patients and an additional 3 hospitalised controls; clinical characteristics of the study groups are provided in S1 Table). Circulating levels of platelet factor 4 (PF4) were substantially elevated in COVID-19 patients when compared to both hospitalised (HoC) and healthy controls (HeC) (p = 0.012 and p = 0.0033, respectively; Fig 3A). Nonetheless, circulating PF4 levels could not differentiate between severe and nonsevere COVID-19 patient cohorts (p = 0.85). On the other hand, circulating levels of soluble P-selectin (sCD62P) also increased in COVID-19 patients when compared to our control cohorts (Fig 3B) and intriguingly could differentiate between our nonsevere and severe COVID-19 cohorts (p = 0.037), suggesting that elevated sP-selectin may be associated with disease severity.\n\nIncreased thrombopoietin (TPO) levels have been reported in SARS-CoV infection and more recently in COVID-19 (only in comparison to healthy controls) [50]. Within our study population, TPO levels were found to be significantly higher among patients with COVID-19 (combined severe and nonsevere) compared to HeC (p = 0.0021; Fig 3C). No significant difference in circulating TPO levels was noted between COVID-19 and HoC patients (p = 0.71; Fig 3C). Interestingly, TPO levels between our severe and nonsevere COVID-19 cohorts showed a clear trend towards elevated circulating TPO in severe COVID-19 infection (p = 0.052; Fig 3C).\n\nDiscussion\n\nWe have demonstrated that distinct platelet-related patterns in full blood count and other clinical laboratory parameters appear to be associated with the development of a more severe disease course in our cohort of COVID-19 patients, reflecting other recently published data [2,46,51]. Therewithal, we also report novel findings which indicate that COVID-19 is associated with abnormal platelet reactivity. Our observations are likely to be of significant clinical and translational relevance in view of the uncertainty that currently exists with regards to the aetiology of thrombotic risk in COVID-19 and the optimal strategy for prevention and treatment of thrombosis in this population.\n\nIn addition to the previously reported observations that neutrophilia, lymphopenia, elevated D-dimer, elevated NLR, and elevated platelet-to-lymphocyte ratio appear to be associated with severe disease, we have reported that within our cohort, a significantly lower PNR was observed on the day of admission among the COVID-19 patients who subsequently progressed to require critical care support [5,11,12,46,52].\n\nOther investigators have demonstrated increased platelet aggregation in response to low-dose agonist stimulation in COVID-19 patients as well as increased platelet thromboxane generation [32]. In line with these findings, we observed increased platelet responsiveness (ADP release) to low-dose agonist stimulation, within our population of COVID-19 patients. Intriguingly, previous reports have demonstrated similar patterns of enhanced platelet reactivity in response to subthreshold concentrations of agonists in the presence of dengue virus nonstructural protein 1 [34,53], potentially indicating a virus-induced sensitisation of platelets. As ADP/ATP and thromboxane A2 are locally acting autocrine agonists which rapidly amplify platelet activation triggering more release of platelet granule contents, our findings provide further evidence that platelets from COVID-19 patients are more reactive, a phenomenon which may contribute to thrombotic risk [4–10].\n\nThe circulating levels of the platelet activation markers PF4 and sP-selectin were highly elevated among our cohort of COVID-19–positive patients compared to controls which further supports the hypothesis that COVID-19 is associated with enhanced platelet activation. The elevated levels of TPO in COVID-19 also aligned with previous findings [32]. While circulating levels of PF4 did not differentiate between severe and nonsevere COVID-19 cases, sP-selectin was higher among the severe COVID-19 group, in keeping with previous reports [54]. Other investigators have also reported that sP-selectin levels were elevated in COVID-19 complicated by acute respiratory distress syndrome (ARDS) [55], with even higher levels detected in patients who subsequently died [56]. The mechanism underlying platelet activation in COVID-19 has been speculated to involve MAP kinase pathway [32]; however, the initial trigger remains unidentified. Potential alternative pathways may include internalisation of the virus or the virus genome or binding to other cell surface receptors (e.g., FcγRIIA or dendritic cell-specific intercellular adhesion molecule-3-grabbing nonintegrin), as observed with other viral infections [33,57–60].\n\nThis study has a number of limitations. Firstly, our cohort of patients is relatively small, a factor which (at least in part) is likely to be related to the success of the Irish healthcare system in suppressing transmission of the virus during the early stages of the pandemic. Additionally, given the public health restrictions that were in place during the period of this study, recruitment of healthy controls was substantially impeded, and, consequently, the available healthy controls were not appropriately matched for age relative to our COVID-19 group and hospitalised control group. Due to the small sample size, adjustment for confounding factors was not possible.\n\nIn conclusion, it has been apparent since the early stages of the COVID-19 pandemic that derangements of haemostasis represent a hallmark of this disease and appear to be associated with significant morbidity [12,61]. Several investigators have reported data suggesting that rates of venous thromboembolism are high in this population and that these thrombotic complications appear to occur despite compliance with standard VTE prevention protocols [5,7]. Reports of unusual and devastating cases of arterial thrombosis are also emerging [18,22–24]. The safety and efficacy of conventional antiplatelet and anticoagulant treatment strategies in the management of this thrombotic risk is becoming a major focus of translational and clinical interest. The aetiology of hypercoagulability in COVID-19 is likely multifactorial, but it is presumed to be driven by the marked inflammatory response which arises following infection [62,63]. It remains to be determined whether standard thrombosis prevention strategies require modification in order to be effective in the prevention of “immunothrombosis” in COVID-19 or if prevention strategies should focus instead on addressing the “upstream” inflammatory response driving coagulation activation. Our data indicate that platelets from patients infected with COVID-19 display a hyperactive phenotype, a factor which may contribute to thrombotic risk. Consequently, further characterisation of platelet dysfunction in COVID-19 and the evaluation of antiplatelet therapy as an adjunct to current thrombosis prevention measures is clearly warranted.\n\nSupporting information"
+}

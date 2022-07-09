@@ -1,0 +1,37 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1000268",
+  "doi": "10.1371/journal.pbio.1000268",
+  "externalIds": [
+    "pii:09-PLBI-S-4821R1",
+    "pmid:20076742",
+    "pmcid:PMC2789318"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "An Acetylcholine Receptor Keeps Muscles in Balance",
+  "authors": [
+    {
+      "name": "Rachel Jones",
+      "first": "Rachel",
+      "last": "Jones",
+      "affiliation": "Freelance Science Writer and Editor, Welwyn, Hertfordshire, United Kingdom"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2009-12",
+  "volume": "7",
+  "number": "12",
+  "pages": "e1000268",
+  "tags": [
+    "Discipline/Genetics and Genomics/Gene Function",
+    "Discipline/Neuroscience/Behavioral Neuroscience",
+    "Type/Synopsis"
+  ],
+  "fullText": "Muscle contraction is controlled by receptors in the muscle cell membranes that respond to the neurotransmitter acetylcholine when it is released from motor neurons. Acetylcholine receptors are also found on neurons, where they perform a variety of important functions, including modulating cognition and addiction. In a new study in PLoS Biology, Yishi Jin and colleagues have identified and characterized a neuronal acetylcholine receptor in the Caenorhabditis elegans that allows the tiny worm to wriggle about. The receptor regulates the balance between excitation and inhibition in muscles, and thus contributes to the coordinated contraction and relaxation of muscles on opposite sides of the body that results in locomotion.\n\nAn acetylcholine receptor consists of five subunits, and there are many subunit types (29 in C. elegans) from which a receptor can be assembled. The subunit composition of a receptor, and, in particular, of its transmembrane pore, which is lined with one transmembrane domain from each subunit, determines how it responds to acetylcholine and what effects this response has on the cell. Because of the number of possible subunit combinations, it is very difficult to identify the cell-specific composition of an acetylcholine receptor.\n\nIn this study, the authors began by identifying a mutant strain of C. elegans in which the muscles were overstimulated, causing the worms to “shrink”, as all their muscles contracted when they were touched. Molecular characterization of the mutation revealed that it consisted of an activating mutation in an acetylcholine receptor subunit called ACR-2. Specifically, the mutation is in the pore-forming transmembrane domain, in a position that is thought to influence the ion selectivity of the channel.\n\nWhen the authors used reporter genes in which fluorescent proteins were controlled by the acr-2 promoter, they discovered that the ACR-2 subunit is expressed in cholinergic motor neurons in the worm's ventral cord. Expression of wild-type acr-2 or a “mini-gene” containing part of the gene in the mutant worms reversed the “shrinking” defect, confirming that the defect resulted from the acr-2 mutation. Worms in which acr-2 contained a loss-of-function or null mutation do not show hypercontraction of muscles, but rather moved slowly, and electrophysiological analysis showed that the release of acetylcholine from the motor neurons was reduced in these animals.\n\nIn worms with the activating mutation of acr-2, the release of acetylcholine from motor neurons was increased. In addition, neurotransmission from inhibitory GABA-releasing motor neurons was reduced. However, ACR-2 is not found in GABAergic neurons, so this reduction in GABA neurotransmission is likely to be an indirect result of the mutation's effects on cholinergic neurons.\n\nTo find out which other subunits combine with ACR-2 to make a functional receptor on cholinergic motor neurons, the authors looked for mutations in other genes that suppressed the effects of the activating acr-2 mutation. Several such mutations were found, and most of these mutations mapped to three other acetylcholine receptor subunit genes—acr-12, unc-38, and unc-63. Other suppressor mutations mapped to genes that are required for transport of the acetylcholine receptor to the cell surface.\n\nTo confirm the subunit composition of the acetylcholine receptor, the authors reconstituted the receptor in Xenopus oocytes and discovered that in addition to the ACR-2, ACR-12, UNC-38, and UNC-63 subunits, the functional receptor also required ACR-3. The acr-3 gene is very close to acr-2, so that the two subunits are likely to be coexpressed.\n\nTogether, these results show that the ACR-2 neuronal acetylcholine receptor manages the interplay between excitation and inhibition in the muscles in C. elegans. They also demonstrate that a gain-of-function mutation in the pore-forming domain of a receptor subunit can influence the pharmacological function of the receptor channel so that transmitter release from the receptor-bearing neuron is increased. Finally, the authors show how the analysis of suppressor mutations can be used to address the challenge of defining the subunit composition of a heteromeric receptor.\n\nFurther study of how ACR-2 modulates the excitation and inhibition of muscles might give insight into how this balance is maintained in other neuronal contexts, and how it can be perturbed, for example in some forms of epilepsy. It will be particularly interesting to investigate how an activating mutation in a receptor on a cholinergic neuron can influence the activity of GABAergic neurons that do not bear the mutated channel.\n\nJospin M, Qi YB, Stawicki TM, Boulin T, Schuske KR, et al. (2009) A Neuronal Acetylcholine Receptor Regulates the Balance of Muscle Excitation and Inhibition in C. elegans. doi:10.1371/journal.pbio.1000265"
+}

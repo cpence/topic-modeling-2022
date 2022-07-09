@@ -1,0 +1,770 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0030059",
+  "doi": "10.1371/journal.pbio.0030059",
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Discovery-Based Science Education: Functional Genomic Dissection in Drosophila by Undergraduate Researchers",
+  "authors": [
+    {
+      "name": "Jiong Chen",
+      "first": "Jiong",
+      "last": "Chen",
+      "affiliation": "Molecular Biology Institute at the University of California, Los Angeles, California, USA."
+    },
+    {
+      "name": "Gerald B Call",
+      "first": "Gerald B",
+      "last": "Call"
+    },
+    {
+      "name": "Elsa Beyer",
+      "first": "Elsa",
+      "last": "Beyer"
+    },
+    {
+      "name": "Chris Bui",
+      "first": "Chris",
+      "last": "Bui"
+    },
+    {
+      "name": "Albert Cespedes",
+      "first": "Albert",
+      "last": "Cespedes"
+    },
+    {
+      "name": "Amy Chan",
+      "first": "Amy",
+      "last": "Chan"
+    },
+    {
+      "name": "Jenny Chan",
+      "first": "Jenny",
+      "last": "Chan"
+    },
+    {
+      "name": "Stacy Chan",
+      "first": "Stacy",
+      "last": "Chan"
+    },
+    {
+      "name": "Akanksha Chhabra",
+      "first": "Akanksha",
+      "last": "Chhabra"
+    },
+    {
+      "name": "Peter Dang",
+      "first": "Peter",
+      "last": "Dang"
+    },
+    {
+      "name": "Artemis Deravanesian",
+      "first": "Artemis",
+      "last": "Deravanesian"
+    },
+    {
+      "name": "Brenda Hermogeno",
+      "first": "Brenda",
+      "last": "Hermogeno"
+    },
+    {
+      "name": "James Jen",
+      "first": "James",
+      "last": "Jen"
+    },
+    {
+      "name": "Eunha Kim",
+      "first": "Eunha",
+      "last": "Kim"
+    },
+    {
+      "name": "Eric Lee",
+      "first": "Eric",
+      "last": "Lee"
+    },
+    {
+      "name": "Gemma Lewis",
+      "first": "Gemma",
+      "last": "Lewis"
+    },
+    {
+      "name": "Jamie Marshall",
+      "first": "Jamie",
+      "last": "Marshall"
+    },
+    {
+      "name": "Kirsten Regalia",
+      "first": "Kirsten",
+      "last": "Regalia"
+    },
+    {
+      "name": "Farnaz Shadpour",
+      "first": "Farnaz",
+      "last": "Shadpour"
+    },
+    {
+      "name": "Aram Shemmassian",
+      "first": "Aram",
+      "last": "Shemmassian"
+    },
+    {
+      "name": "Kristin Spivey",
+      "first": "Kristin",
+      "last": "Spivey"
+    },
+    {
+      "name": "Maggie Wells",
+      "first": "Maggie",
+      "last": "Wells"
+    },
+    {
+      "name": "Joy Wu",
+      "first": "Joy",
+      "last": "Wu"
+    },
+    {
+      "name": "Yuki Yamauchi",
+      "first": "Yuki",
+      "last": "Yamauchi"
+    },
+    {
+      "name": "Amir Yavari",
+      "first": "Amir",
+      "last": "Yavari"
+    },
+    {
+      "name": "Anna Abrams",
+      "first": "Anna",
+      "last": "Abrams"
+    },
+    {
+      "name": "Amanda Abramson",
+      "first": "Amanda",
+      "last": "Abramson"
+    },
+    {
+      "name": "Latiffe Amado",
+      "first": "Latiffe",
+      "last": "Amado"
+    },
+    {
+      "name": "Jenny Anderson",
+      "first": "Jenny",
+      "last": "Anderson"
+    },
+    {
+      "name": "Keenan Bashour",
+      "first": "Keenan",
+      "last": "Bashour"
+    },
+    {
+      "name": "Elena Bibikova",
+      "first": "Elena",
+      "last": "Bibikova"
+    },
+    {
+      "name": "Allen Bookatz",
+      "first": "Allen",
+      "last": "Bookatz"
+    },
+    {
+      "name": "Sarah Brewer",
+      "first": "Sarah",
+      "last": "Brewer"
+    },
+    {
+      "name": "Natalie Buu",
+      "first": "Natalie",
+      "last": "Buu"
+    },
+    {
+      "name": "Stephanie Calvillo",
+      "first": "Stephanie",
+      "last": "Calvillo"
+    },
+    {
+      "name": "Joseph Cao",
+      "first": "Joseph",
+      "last": "Cao"
+    },
+    {
+      "name": "Aileen Chang",
+      "first": "Aileen",
+      "last": "Chang"
+    },
+    {
+      "name": "Daniel Chang",
+      "first": "Daniel",
+      "last": "Chang"
+    },
+    {
+      "name": "Yuli Chang",
+      "first": "Yuli",
+      "last": "Chang"
+    },
+    {
+      "name": "Yibing Chen",
+      "first": "Yibing",
+      "last": "Chen"
+    },
+    {
+      "name": "Joo Choi",
+      "first": "Joo",
+      "last": "Choi"
+    },
+    {
+      "name": "Jeyling Chou",
+      "first": "Jeyling",
+      "last": "Chou"
+    },
+    {
+      "name": "Sumit Datta",
+      "first": "Sumit",
+      "last": "Datta"
+    },
+    {
+      "name": "Ardy Davarifar",
+      "first": "Ardy",
+      "last": "Davarifar"
+    },
+    {
+      "name": "Poonam Desai",
+      "first": "Poonam",
+      "last": "Desai"
+    },
+    {
+      "name": "Jordan Fabrikant",
+      "first": "Jordan",
+      "last": "Fabrikant"
+    },
+    {
+      "name": "Shahbaz Farnad",
+      "first": "Shahbaz",
+      "last": "Farnad"
+    },
+    {
+      "name": "Katherine Fu",
+      "first": "Katherine",
+      "last": "Fu"
+    },
+    {
+      "name": "Eddie Garcia",
+      "first": "Eddie",
+      "last": "Garcia"
+    },
+    {
+      "name": "Nick Garrone",
+      "first": "Nick",
+      "last": "Garrone"
+    },
+    {
+      "name": "Srpouhi Gasparyan",
+      "first": "Srpouhi",
+      "last": "Gasparyan"
+    },
+    {
+      "name": "Phyllis Gayda",
+      "first": "Phyllis",
+      "last": "Gayda"
+    },
+    {
+      "name": "Chad Goffstein",
+      "first": "Chad",
+      "last": "Goffstein"
+    },
+    {
+      "name": "Courtney Gonzalez",
+      "first": "Courtney",
+      "last": "Gonzalez"
+    },
+    {
+      "name": "Mariam Guirguis",
+      "first": "Mariam",
+      "last": "Guirguis"
+    },
+    {
+      "name": "Ryan Hassid",
+      "first": "Ryan",
+      "last": "Hassid"
+    },
+    {
+      "name": "Aria Hong",
+      "first": "Aria",
+      "last": "Hong"
+    },
+    {
+      "name": "Julie Hong",
+      "first": "Julie",
+      "last": "Hong"
+    },
+    {
+      "name": "Lindsay Hovestreydt",
+      "first": "Lindsay",
+      "last": "Hovestreydt"
+    },
+    {
+      "name": "Charles Hu",
+      "first": "Charles",
+      "last": "Hu"
+    },
+    {
+      "name": "Farid Jamshidian",
+      "first": "Farid",
+      "last": "Jamshidian"
+    },
+    {
+      "name": "Katrin Kahen",
+      "first": "Katrin",
+      "last": "Kahen"
+    },
+    {
+      "name": "Linda Kao",
+      "first": "Linda",
+      "last": "Kao"
+    },
+    {
+      "name": "Melissa Kelley",
+      "first": "Melissa",
+      "last": "Kelley"
+    },
+    {
+      "name": "Thomas Kho",
+      "first": "Thomas",
+      "last": "Kho"
+    },
+    {
+      "name": "Sarah Kim",
+      "first": "Sarah",
+      "last": "Kim"
+    },
+    {
+      "name": "Yein Kim",
+      "first": "Yein",
+      "last": "Kim"
+    },
+    {
+      "name": "Brian Kirkpatrick",
+      "first": "Brian",
+      "last": "Kirkpatrick"
+    },
+    {
+      "name": "Emil Kohan",
+      "first": "Emil",
+      "last": "Kohan"
+    },
+    {
+      "name": "Robert Kwak",
+      "first": "Robert",
+      "last": "Kwak"
+    },
+    {
+      "name": "Adam Langenbacher",
+      "first": "Adam",
+      "last": "Langenbacher"
+    },
+    {
+      "name": "Santino Laxamana",
+      "first": "Santino",
+      "last": "Laxamana"
+    },
+    {
+      "name": "Chris Lee",
+      "first": "Chris",
+      "last": "Lee"
+    },
+    {
+      "name": "Janet Lee",
+      "first": "Janet",
+      "last": "Lee"
+    },
+    {
+      "name": "So-Youn Lee",
+      "first": "So-Youn",
+      "last": "Lee"
+    },
+    {
+      "name": "To Hang S Lee",
+      "first": "To Hang S",
+      "last": "Lee"
+    },
+    {
+      "name": "Toni Lee",
+      "first": "Toni",
+      "last": "Lee"
+    },
+    {
+      "name": "Sheila Lezcano",
+      "first": "Sheila",
+      "last": "Lezcano"
+    },
+    {
+      "name": "Henry Lin",
+      "first": "Henry",
+      "last": "Lin"
+    },
+    {
+      "name": "Peter Lin",
+      "first": "Peter",
+      "last": "Lin"
+    },
+    {
+      "name": "Julie Luu",
+      "first": "Julie",
+      "last": "Luu"
+    },
+    {
+      "name": "Thanh Luu",
+      "first": "Thanh",
+      "last": "Luu"
+    },
+    {
+      "name": "Will Marrs",
+      "first": "Will",
+      "last": "Marrs"
+    },
+    {
+      "name": "Erin Marsh",
+      "first": "Erin",
+      "last": "Marsh"
+    },
+    {
+      "name": "Sarah Min",
+      "first": "Sarah",
+      "last": "Min"
+    },
+    {
+      "name": "Tanya Minasian",
+      "first": "Tanya",
+      "last": "Minasian"
+    },
+    {
+      "name": "Amit Misra",
+      "first": "Amit",
+      "last": "Misra"
+    },
+    {
+      "name": "Miles Morimoto",
+      "first": "Miles",
+      "last": "Morimoto"
+    },
+    {
+      "name": "Yasaman Moshfegh",
+      "first": "Yasaman",
+      "last": "Moshfegh"
+    },
+    {
+      "name": "Jessica Murray",
+      "first": "Jessica",
+      "last": "Murray"
+    },
+    {
+      "name": "Cynthia Nguyen",
+      "first": "Cynthia",
+      "last": "Nguyen"
+    },
+    {
+      "name": "Kha Nguyen",
+      "first": "Kha",
+      "last": "Nguyen"
+    },
+    {
+      "name": "Ernesto Nodado II",
+      "first": "Ernesto",
+      "last": "Nodado",
+      "suffix": "II"
+    },
+    {
+      "name": "Amanda O'Donahue",
+      "first": "Amanda",
+      "last": "O'Donahue"
+    },
+    {
+      "name": "Ndidi Onugha",
+      "first": "Ndidi",
+      "last": "Onugha"
+    },
+    {
+      "name": "Nneka Orjiakor",
+      "first": "Nneka",
+      "last": "Orjiakor"
+    },
+    {
+      "name": "Bhavin Padhiar",
+      "first": "Bhavin",
+      "last": "Padhiar"
+    },
+    {
+      "name": "Mara Pavel-Dinu",
+      "first": "Mara",
+      "last": "Pavel-Dinu"
+    },
+    {
+      "name": "Alex Pavlenko",
+      "first": "Alex",
+      "last": "Pavlenko"
+    },
+    {
+      "name": "Edwin Paz",
+      "first": "Edwin",
+      "last": "Paz"
+    },
+    {
+      "name": "Sarah Phaklides",
+      "first": "Sarah",
+      "last": "Phaklides"
+    },
+    {
+      "name": "Lephong Pham",
+      "first": "Lephong",
+      "last": "Pham"
+    },
+    {
+      "name": "Preethi Poulose",
+      "first": "Preethi",
+      "last": "Poulose"
+    },
+    {
+      "name": "Russell Powell",
+      "first": "Russell",
+      "last": "Powell"
+    },
+    {
+      "name": "Aya Pusic",
+      "first": "Aya",
+      "last": "Pusic"
+    },
+    {
+      "name": "Divi Ramola",
+      "first": "Divi",
+      "last": "Ramola"
+    },
+    {
+      "name": "Meghann Ribbens",
+      "first": "Meghann",
+      "last": "Ribbens"
+    },
+    {
+      "name": "Bassel Rifai",
+      "first": "Bassel",
+      "last": "Rifai"
+    },
+    {
+      "name": "Desiree Rosselli",
+      "first": "Desiree",
+      "last": "Rosselli"
+    },
+    {
+      "name": "Manyak Saakyan",
+      "first": "Manyak",
+      "last": "Saakyan"
+    },
+    {
+      "name": "Pamela Saarikoski",
+      "first": "Pamela",
+      "last": "Saarikoski"
+    },
+    {
+      "name": "Miriam Segura",
+      "first": "Miriam",
+      "last": "Segura"
+    },
+    {
+      "name": "Ramnik Singh",
+      "first": "Ramnik",
+      "last": "Singh"
+    },
+    {
+      "name": "Vivek Singh",
+      "first": "Vivek",
+      "last": "Singh"
+    },
+    {
+      "name": "Emily Skinner",
+      "first": "Emily",
+      "last": "Skinner"
+    },
+    {
+      "name": "Daniel Solomin",
+      "first": "Daniel",
+      "last": "Solomin"
+    },
+    {
+      "name": "Kosha Soneji",
+      "first": "Kosha",
+      "last": "Soneji"
+    },
+    {
+      "name": "Erika Stageberg",
+      "first": "Erika",
+      "last": "Stageberg"
+    },
+    {
+      "name": "Marina Stavchanskiy",
+      "first": "Marina",
+      "last": "Stavchanskiy"
+    },
+    {
+      "name": "Leena Tekchandani",
+      "first": "Leena",
+      "last": "Tekchandani"
+    },
+    {
+      "name": "Leo Thai",
+      "first": "Leo",
+      "last": "Thai"
+    },
+    {
+      "name": "Jayantha Thiyanaratnam",
+      "first": "Jayantha",
+      "last": "Thiyanaratnam"
+    },
+    {
+      "name": "Maurine Tong",
+      "first": "Maurine",
+      "last": "Tong"
+    },
+    {
+      "name": "Aneet Toor",
+      "first": "Aneet",
+      "last": "Toor"
+    },
+    {
+      "name": "Steve Tovar",
+      "first": "Steve",
+      "last": "Tovar"
+    },
+    {
+      "name": "Kelly Trangsrud",
+      "first": "Kelly",
+      "last": "Trangsrud"
+    },
+    {
+      "name": "Wah-Yung Tsang",
+      "first": "Wah-Yung",
+      "last": "Tsang"
+    },
+    {
+      "name": "Marc Uemura",
+      "first": "Marc",
+      "last": "Uemura"
+    },
+    {
+      "name": "Mary Unkovic",
+      "first": "Mary",
+      "last": "Unkovic"
+    },
+    {
+      "name": "Emily Vollmer",
+      "first": "Emily",
+      "last": "Vollmer"
+    },
+    {
+      "name": "Emily Weiss",
+      "first": "Emily",
+      "last": "Weiss"
+    },
+    {
+      "name": "Damien Wood",
+      "first": "Damien",
+      "last": "Wood"
+    },
+    {
+      "name": "Sophia Wu",
+      "first": "Sophia",
+      "last": "Wu"
+    },
+    {
+      "name": "Winston Wu",
+      "first": "Winston",
+      "last": "Wu"
+    },
+    {
+      "name": "Qing Xu",
+      "first": "Qing",
+      "last": "Xu"
+    },
+    {
+      "name": "Kevin Yackle",
+      "first": "Kevin",
+      "last": "Yackle"
+    },
+    {
+      "name": "Will Yarosh",
+      "first": "Will",
+      "last": "Yarosh"
+    },
+    {
+      "name": "Laura Yee",
+      "first": "Laura",
+      "last": "Yee"
+    },
+    {
+      "name": "George Yen",
+      "first": "George",
+      "last": "Yen"
+    },
+    {
+      "name": "Grant Alkin",
+      "first": "Grant",
+      "last": "Alkin"
+    },
+    {
+      "name": "Sheryllene Go",
+      "first": "Sheryllene",
+      "last": "Go"
+    },
+    {
+      "name": "Devon M Huff",
+      "first": "Devon M",
+      "last": "Huff"
+    },
+    {
+      "name": "Helena Minye",
+      "first": "Helena",
+      "last": "Minye"
+    },
+    {
+      "name": "Eric Paul",
+      "first": "Eric",
+      "last": "Paul"
+    },
+    {
+      "name": "Nikki Villarasa",
+      "first": "Nikki",
+      "last": "Villarasa"
+    },
+    {
+      "name": "Allison Milchanowski",
+      "first": "Allison",
+      "last": "Milchanowski"
+    },
+    {
+      "name": "Utpal Banerjee",
+      "first": "Utpal",
+      "last": "Banerjee"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2005-02",
+  "dateElectronic": "2005-02-15",
+  "volume": "3",
+  "number": "2",
+  "pages": "e59",
+  "tags": [
+    "Discipline/Developmental Biology",
+    "Discipline/Genetics and Genomics",
+    "System Taxonomy/Drosophila",
+    "Type/Community Page"
+  ],
+  "abstract": "How can you combine professional-quality research with discovery-based undergraduate education? The UCLA Undergraduate Consortium for Functional Genomics provides the answer.",
+  "fullText": "The excitement of scientific research and discovery cannot be fully conveyed by didactic lectures alone. Several recent initiatives and proposals, therefore, have supported a more participatory, discovery-based instruction for undergraduate science education [1,2]. In functional genomics, we have found an ideal platform to simultaneously benefit students and contribute to scientific discovery. The sequencing of eukaryotic genomes has facilitated the identification of complete sets of genes in humans and model genetic organisms. This has allowed many forms of high-throughput analyses of transcriptional profiles, protein interactions, structural motifs, and even genome-wide knock-downs in cell lines or in selected organisms. However, one of the best tools to provide functional information about gene action— obtaining in vivo evidence about the phenotype resulting from heritable loss of function—is difficult and less amenable to high-throughput research. We were able to achieve a large-scale in vivo analysis with a significant number of undergraduate students at UCLA, called the UCLA Undergraduate Consortium for Functional Genomics. This work, a practical manifestation of policy positions proposing discoverybased education, is described in summary form here (and in Box 1) and in detail online at http://www.bruinfly.ucla.edu. This effort combines professional-quality research with a strategy for research-based undergraduate education.\n\n          Box 1. Scientific Results\n          \nThe Drosophila eye is an intricate neurocrystalline lattice of approximately 800 individual ommatidia arrayed in a very precise order (Figure 3A) [3]. Minor perturbations in ommatidial development can be easily detected, making it a very sensitive system for functional genomic screens [3]. Our study utilized 1,375 unique recessive lethal transposable element (P-element) insertion stocks from the 2nd and 3rd chromosomes of Drosophila to characterize their later role in eye development. To avoid early lethality, the FLP/FRT system was used to generate homozygous mutant tissue specifically in the eye [4]. Of the mutations analyzed, 501 (36%) displayed a mutant eye phenotype, providing the first genome-wide estimate of the fraction of essential genes that are also involved in eye development. Adult eye phenotypes were classified into three broad classes: rough, cell lethal, and glossy (Figure 3). The genes responsible for these phenotypes were assigned into 19 different functional categories, which are summarized in Table 1. Signal transduction components previously established to be important for eye development (e.g,. EGFR, pointed, Star, tramtrak, Delta) were identified, validating the effectiveness of our screen. In addition, our genomics approach has shown that a number of novel classes of genes are involved in eye development that have not been previously described (Table 1). \n\nWe have created a novel curriculum with three main components: didactic, computer, and laboratory. The only prerequisite for this course is high school advanced-placement-level biology; all other knowledge necessary for the course is taught within it. Since there are no other prerequisites for the course, a majority of the students enrolled are freshmen and sophomores, enabling us to educate them in this novel way early in their undergraduate career. Approximately 30 students take this course each quarter, and it is offered every quarter through the school year, allowing for a broad impact. In the lecture series, students are exposed to interactive lectures on background material, basic concepts of genetics, research ethics, and career options. For their “midterm,” each student proposes an experiment in a grant proposal formatted according the National Institutes of Health requirements. The “final” is written as a scientific paper summarizing the student's own results. In the computer section, students perform research with a “virtual fly lab” to help them understand more about their crosses in the laboratory section. In addition, they learn about modern genomic resources available on the Internet, and utilize some of the genomics tools available (e.g., BLAST) to help them determine the identity and function of their disrupted genes. The main component of the class, however, is the laboratory portion.\n\nIn the laboratory, the students perform all the necessary work to manipulate the genotypes of their stocks to determine what effect homozygous mutation of their target genes has in the adult Drosophila eye (Figure 1). To accomplish this, the students perform five-generation Drosophila crosses that nicely fit into a ten-week quarter. Each student is assigned about ten mutants to work with. During the quarter, students are able to recombine each mutation onto a flippase (FLP) recombination target (FRT) chromosome, generate mutant somatic clones, and record details of the adult eye phenotype with both light and scanning electron microscopic techniques. The students then upload their data into an online database (http://www.bruinfly.ucla.edu).\n\nOur database contains pictures of the mutant eyes for all of the stocks examined, as well as other information pertinent to that stock, including the gene disrupted, the exact genomic location of the P-element insertion, and whether an excision of the P-element has been performed and its results. A sample Web page of the database is shown in Figure 2. Following the introductory course, a small number of students continue to analyze the developmental basis for select mutations in future quarters in more advanced laboratory classes. In these advanced classes, the students perform P-element excision experiments to determine whether the mutant phenotype observed is indeed derived from the P-element. These students have performed 294 excision experiments, the results of which indicate that 72% of the stocks successfully revert to wildtype phenotype when the P-element is removed. Over the last two years, we have educated 138 students in the introductory course. Advanced classes have totaled 96 student-quarters (46 students, each working two or more additional quarters).\n\nIn summary, discovery-based experiments in functional genomics are well suited for undergraduate education: they actively engage a large number of students in research without compromising their didactic training. The sense of ownership developed from this research amplifies the students' learning experience. For the research community, the online database and the large collection of newly generated FRT-lethal lines represent a valuable resource for future experiments in eye development. Furthermore, the stocks developed can be used to create mutant clones in an investigator's tissue of choice. This novel approach for performing research, for which functional genomics is very amenable, not only encourages many students in new ways of thinking but also generates professional-quality results and resources for the scientific community.\n\n      Supporting Information",
+  "externalIds": [
+    "pmid:15719063",
+    "pmcid:PMC548953"
+  ]
+}

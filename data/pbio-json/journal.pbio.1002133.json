@@ -1,0 +1,50 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1002133",
+  "doi": "10.1371/journal.pbio.1002133",
+  "externalIds": [
+    "pii:PBIOLOGY-D-15-00517",
+    "pmid:25909860",
+    "pmcid:PMC4409071"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Some Agreement on Kin Selection and Eusociality?",
+  "authors": [
+    {
+      "name": "David C. Queller",
+      "first": "David C.",
+      "last": "Queller",
+      "affiliation": "Biology Department, Washington University in St. Louis, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Stephen Rong",
+      "first": "Stephen",
+      "last": "Rong",
+      "affiliation": "Biology Department, Washington University in St. Louis, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Xiaoyun Liao",
+      "first": "Xiaoyun",
+      "last": "Liao",
+      "affiliation": "Department of Ecology and Evolutionary Biology, Rice University, Houston, Texas, United States of America"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2015-04-24",
+  "dateAccepted": "2015-03-17",
+  "dateReceived": "2015-02-17",
+  "volume": "13",
+  "number": "4",
+  "pages": "e1002133",
+  "tags": [
+    "Type/Formal Comment"
+  ],
+  "abstract": "The authors of &quot;Relatedness, Conflict, and the Evolution of Eusociality&quot; respond to objections raised by Martin Nowak and Benjamin Allen.",
+  "fullText": "Our paper [1] was not about the exact mathematical equivalence of inclusive fitness and other approaches. Theoreticians will continue to debate this question, but the rest of us want to know whether it matters for biology. We asked whether the model of Nowak, Tarnita, and Wilson (NTW)[2], when applied to their chosen test case of eusociality, makes any important difference. Does it refute kin selection theory? Does it offer new insights? The answer to both questions is no.\n\nNow Nowak and Allen [3] suggest that we have misinterpreted NTW. For example, NTW did not mean that relatedness is unimportant. Instead, they only meant that if relatedness is high and held constant, other factors determine which species evolve eusociality, and that this is an issue the kin selectionists have not considered. On the contrary, it is completely obvious from Hamilton’s rule; if you hold relatedness constant, differences will be determined by variation in costs and benefits. There have also been more specific studies about synergistic factors affecting these costs and benefits [4,5]. Moreover, if this is the basis for NTW’s claim that relatedness is not causal, then we have shown that NTW’s other parameters are also not causal, because when we force them to be constant, only variation in relatedness matters [1]. Finally, this apparent concession about the importance of relatedness is perplexing, given that Nowak and Allen expend significant effort questioning the details of exactly how we modeled lower relatedness, while continuing to equivocate about the real issue of how relatedness matters. Low relatedness groups are real and can be formed in many ways, but with offspring control they do not give rise to eusociality [6]. If Nowak and Allen think otherwise and believe that there are reasonable ways to lower relatedness so that it does not make eusociality harder to evolve, then they should show how.\n\nWe could direct similar skepticism at Nowak and Allen’s [3] interpretations of the other two NTW claims that we investigated. But let us accept at face value all three of their interpretations about what NTW meant. If NTW did not actually mean that relatedness is unimportant, and if they did not mean that workers are merely robotic extra-somatic projections of the queen’s genome, and if they did not mean that eusociality was as hard to evolve as suggested in their main examples, then we are in happy agreement! But if this is so, why do they not just explicitly say, for example, “our method agrees with inclusive fitness in showing that higher relatedness is crucial in the evolution of eusociality”? Perhaps because it would require admitting that what we have learned about eusociality from kin selection models still stands, and that the NTW models, despite their much greater complexity, have so far added little more."
+}

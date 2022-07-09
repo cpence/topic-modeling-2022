@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001058",
+  "doi": "10.1371/journal.pbio.1001058",
+  "externalIds": [
+    "pii:PBIOLOGY-D-11-01050",
+    "pmid:21572905",
+    "pmcid:PMC3092782"
+  ],
+  "license": "This is an open-access article distributed under\n                the terms of the Creative Commons Attribution License, which permits unrestricted\n                use, distribution, and reproduction in any medium, provided the original author and\n                source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "After 40 Years, Retina Reveals It Uses Positive Feedback, as Well as\n                    Negative",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson",
+      "affiliation": "Freelance Science Writer, Sherborn, Massachusetts, United States of\n                    America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2011-05",
+  "volume": "9",
+  "number": "5",
+  "pages": "e1001058",
+  "tags": [
+    "Discipline-v2/Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "The eye is not a camera, and the retina\n                is not a piece of film. Indeed, the retina might be better likened to a computer\n                running Photoshop, given the extent of image processing that it performs before\n                passing visual information along to the brain. A central aspect of that processing\n                is called center-surround inhibition, in which illumination stimulates the firing of\n                a small number of retinal cells, accompanied by inhibition of surrounding cells.\n                This phenomenon increases spatial contrast and sharpens perception of edges.\n\nThe mechanism of center-surround inhibition is complex, but one key part is played by\n                interactions between photoreceptor cells and horizontal cells.\n                Photoreceptors—the rods and cones that absorb light to begin the visual\n                process—form synapses with horizontal cells, which, as their name implies,\n                spread out horizontally across the retinal surface. Each horizontal cell receives\n                input from dozens of photoreceptor cells, integrating and processing their input\n                before passing it further along the visual chain.\n\nWhile photoreceptor cells activate horizontal cells, horizontal cells also\n                subsequently influence photoreceptor cells, inhibiting their activation, an inverse\n                influence called a negative feedback loop. But in this issue of PLoS\n                    Biology, Skyler Jackman, Richard Kramer, and colleagues show that the\n                two are also linked by a positive feedback loop, which may help offset the loss of\n                signal strength inherent in negative feedback, helping to maintain strong signal\n                output without degrading spatial contrast.\n\nThe authors began by isolating whole retinas from the anole lizard. Unlike most other\n                sensory cells, photoreceptors continually release neurotransmitter in the\n                    unstimulated condition, that is, in the dark. The\n                neurotransmitter glutamate is released from small sacs called synaptic vesicles that\n                fuse with photoreceptor membrane. After their contents are released, bits of the\n                membrane pinch off to generate new vesicles that gradually refill with glutamate for\n                another round of release. The authors tapped into this recycling process to stain\n                the vesicles with a dye as they were forming, allowing them later to monitor the\n                rate of exocytosis of the labeled vesicles, and thus, the degree of stimulation of\n                the photoreceptor.\n\nBecause the negative feedback effect of horizontal cells activated by glutamate is to\n                inhibit photoreceptor exocytosis, the authors expected that addition of exogenous\n                glutamate into the synapse would reduce the rate of exocytosis. Instead, they found\n                the opposite—an increase in glutamate release with addition of glutamate, the\n                essence of a positive feedback loop.\n\nThrough a series of experiments that blocked or stimulated different receptors, they\n                established that the effect was mediated by a certain kind of receptor, called an\n                ionotropic glutamate receptor. Since such receptors are found on the surface of the\n                horizontal cells, but not on photoreceptor cells, and since ablating horizontal\n                cells eliminated the effect, the authors concluded that positive feedback originated\n                in these horizontal-cell receptors. Activation of the receptor allows calcium ions\n                to flow into the horizontal cells, and when the authors released calcium directly\n                into the horizontal cells, the photoreceptors were stimulated even in absence of\n                excess glutamate, clinching the case. Further experiments will be needed to identify\n                the messenger released by the horizontal cell that stimulates the photoreceptor\n                cell. More experiments will also be needed to confirm these results in rods, since\n                the anole lizard's retina contains only cones.\n\nHow has this positive feedback mechanism remained hidden in plain sight through four\n                decades or research on the retina? One reason, the authors suggest, is that it is\n                only robustly observed in whole retina preparations, while retinal slices have been\n                used for the majority of work elucidating retinal function.\n\nThe authors propose that the function of the positive feedback loop is to offset the\n                effect of negative feedback, which reduces overall output from a given visual\n                stimulus. By tightly controlling the spatial spread of the positive stimulatory\n                signal, they suggest that the system can maintain high signal strength without\n                losing the sharp contrast enhancement of the center-surround system.\n\n                Jackman SL, Babai N, Chambers JJ, Thoreson WB, Kramer RH (2011) A Positive\n                    Feedback Synapse from Retinal Horizontal Cells to Cone Photoreceptors.\n                    doi:10.1371/journal.pbio.1001057"
+}

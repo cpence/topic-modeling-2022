@@ -1,0 +1,37 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0060228",
+  "doi": "10.1371/journal.pbio.0060228",
+  "externalIds": [
+    "pii:08-PLBI-S-3301",
+    "pmid:20076722",
+    "pmcid:PMC2528053"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "How Signaling Receptors Meet Their End",
+  "authors": [
+    {
+      "name": "Mary Hoff",
+      "first": "Mary",
+      "last": "Hoff"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2008-09",
+  "dateElectronic": "2008-09-02",
+  "volume": "6",
+  "number": "9",
+  "pages": "e228",
+  "tags": [
+    "Discipline/Biochemistry",
+    "Discipline/Cell Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "Many fundamental processes that shape and sustain life—from cell migration to tissue regeneration—depend on cell-to-cell communication. Cells receive and transmit messages from other cells through protein receptors embedded in the membrane. To function normally, cells must express signaling receptors on their surface in appropriate amounts and, especially, at the right time. If a receptor tells a cell to divide when it shouldn't, for example, it may lead to aberrant tissue growth, which could in turn lead to cancer.\n\nGiven the damage that an overactive signaling receptor can do, cells must maintain tight control over their signaling machinery. When the cell wants to turn the signal off, it marks the receptor with a “kiss of death” molecule known as ubiquitin, then sends it down a pathway to destruction. The bit of membrane containing the ubiquitinated receptor invaginates, forming an inside-out bubble within the cell. The bubble hooks up with an intracellular structure (the early endosome), where its various components are either recycled back to the cell membrane or, in the case of the ubiquitinated receptor, transported via another structure (a late endosome) to the lysosome, where it will be broken down by digestive enzymes.\n\nIn a new study, Jean Gruenberg, Véronique Pons, and colleagues investigated a question that has long dogged cell biologists: What are the mechanisms that are responsible for the formation of such “inside-out” bubbles that are responsible for the sorting of ubiquitinated receptors? The researchers sought their answer through a series of studies examining the fate of the epidermal growth factor (EGF) receptor after invagination.\n\nWhat cell biologists already knew is that the EGF receptor–ubiquitin complex binds to a protein called Hrs, which hooks up with phosphatidylinositol 3-phosphate (PtdIns3P), a lipid involved in gathering key proteins to the early endosome, and clathrin to form groups of molecules inside the early endosomes. The globs then become encapsulated in structures called endosomal carrier vesicles/multivesicular bodies (ECV/MVBs) that pinch off from the early endosome and carry their contents toward the lysosomes.\n\nWhat has remained obscure is the relationship between the two major steps of sorting receptors into ECV/MVBs and sending them to lysosomes. To learn if and how they are linked, the researchers looked at two PtdIns3P-binding proteins, Hrs and SNX3, that help shuttle proteins around in cells.\n\nThe researchers first looked at what happens when SNX3 is overexpressed in cells. When the cells were incubated long enough, receptor degradation was delayed. SNX3 overexpression also resulted in reduced transport of the tracer dextran to late endosomes and reduced the impact of a virus that targets this pathway. Observing the process under an electron microscope, the researchers also found that SNX3 overexpression causes ECV/MVBs to accumulate on the early endosome membrane—confirmation that excess SNX3 gums up the progress of these bodies down the receptor degradation pathway. Using light microscopy to examine the consequences of SNX3 overexpression in a mutant cell line that makes enlarged early endosomes, the researchers observed that the sorting machinery is concentrated in specific areas. Clearly, they concluded, invagination and ECV/MVB formation proceeds just fine with SNX3 over-expression; it's only later transport that is inhibited.\n\nNext, the researchers tried under-expressing SNX3, and found that the formation of “inside-out” bubbles was impaired: multivesicular structures were no longer multivesicular! However, underexpression barely affected the action of the virus or receptor degradation. These results indicate that sorting receptors into ECV/MVBs is independent of receptor transport and degradation.\n\nWhat is the link between Hrs and SNX3? The researchers found that Hrs underexpression reduced SNX3 expression and the formation of ECV/MVBs, but blocking SNX3 expression didn't reduce Hrs expression, suggesting that Hrs acts upstream of SNX3, and SNX3 drives ECV/MVB formation. This conclusion was supported by the observation under light microscopy that reduced levels of either Hrs or SNX3 reduced receptor sorting into ECV/MVBs, but when SNX3 was replaced in Hrs-depleted situations, sorting was restored.\n\nWhat is the role of Hrs? Since Hrs depletion seems to get in the way of SNX3 doing its job, but SNX3 knockdown doesn't block receptor transport and degradation, it appears that Hrs is responsible for transporting the receptor to lysosomes—and that it can do so even when receptors don't get sorted into ECV/MVBs.\n\nTo further evaluate the nuances of which does what, the researchers treated the system with anthrax toxin, which rides ECV/MVBs to late endosomes, where the toxin is released into the cytosol. When either Hrs or SNX3 was ablated, the effects of the toxin in the cytosol were reduced, suggesting that transport to late vesicles is restricted. And when SNX3 only was restored, the toxin didn't move to the late endosomes at all.\n\nBiologists have long thought that receptors were sorted by the Hrs protein-trafficking protein and downstream partners into ECV/MVBs for transport to lysosomes. This study has shown that the receptors can be transported to lysosomes even without this sorting process, and that Hrs is needed for receptor transport but not for ECV/MVB genesis. SNX3, on the other hand, is needed for ECV/MVB formation. Thus, transport of receptors to lysosomes and ECV/MVB formation are controlled separately via two separate effectors, Hrs and SNX3, suggesting that the process of receptor degradation is even more intricate than previously thought."
+}

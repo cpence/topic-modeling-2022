@@ -1,0 +1,262 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000896",
+  "doi": "10.1371/journal.pbio.3000896",
+  "externalIds": [
+    "pii:PBIOLOGY-D-20-01258",
+    "pmid:33006983",
+    "pmcid:PMC7556528"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Direct RT-qPCR detection of SARS-CoV-2 RNA from patient nasopharyngeal swabs without an RNA extraction step",
+  "authors": [
+    {
+      "name": "Emily A. Bruce",
+      "first": "Emily A.",
+      "last": "Bruce",
+      "affiliation": "Division of Immunobiology, Department of Medicine, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-8391-370X"
+      ]
+    },
+    {
+      "name": "Meei-Li Huang",
+      "first": "Meei-Li",
+      "last": "Huang",
+      "affiliation": "Virology Division, Department of Laboratory Medicine and Pathology, University of Washington, Seattle, Washington, United States of America"
+    },
+    {
+      "name": "Garrett A. Perchetti",
+      "first": "Garrett A.",
+      "last": "Perchetti",
+      "affiliation": "Virology Division, Department of Laboratory Medicine and Pathology, University of Washington, Seattle, Washington, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-3786-0509"
+      ]
+    },
+    {
+      "name": "Scott Tighe",
+      "first": "Scott",
+      "last": "Tighe",
+      "affiliation": "Vermont Integrative Genomics Resource, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-3988-0741"
+      ]
+    },
+    {
+      "name": "Pheobe Laaguiby",
+      "first": "Pheobe",
+      "last": "Laaguiby",
+      "affiliation": "Vermont Integrative Genomics Resource, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America"
+    },
+    {
+      "name": "Jessica J. Hoffman",
+      "first": "Jessica J.",
+      "last": "Hoffman",
+      "affiliation": "Vermont Integrative Genomics Resource, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9286-1611"
+      ]
+    },
+    {
+      "name": "Diana L. Gerrard",
+      "first": "Diana L.",
+      "last": "Gerrard",
+      "affiliation": "Department of Pathology and Laboratory Medicine, University of Vermont Medical Center, Burlington, Vermont, United States of America"
+    },
+    {
+      "name": "Arun K. Nalla",
+      "first": "Arun K.",
+      "last": "Nalla",
+      "affiliation": "Virology Division, Department of Laboratory Medicine and Pathology, University of Washington, Seattle, Washington, United States of America"
+    },
+    {
+      "name": "Yulun Wei",
+      "first": "Yulun",
+      "last": "Wei",
+      "affiliation": "Virology Division, Department of Laboratory Medicine and Pathology, University of Washington, Seattle, Washington, United States of America"
+    },
+    {
+      "name": "Alexander L. Greninger",
+      "first": "Alexander L.",
+      "last": "Greninger",
+      "affiliation": "Virology Division, Department of Laboratory Medicine and Pathology, University of Washington, Seattle, Washington, United States of America; Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, Washington, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-7443-0527"
+      ]
+    },
+    {
+      "name": "Sean A. Diehl",
+      "first": "Sean A.",
+      "last": "Diehl",
+      "affiliation": "Department of Microbiology and Molecular Genetics, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America; Vaccine Testing Center, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-9700-235X"
+      ]
+    },
+    {
+      "name": "David J. Shirley",
+      "first": "David J.",
+      "last": "Shirley",
+      "affiliation": "Data Science Division, IXIS, Burlington, Vermont, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-4529-0403"
+      ]
+    },
+    {
+      "name": "Debra G. B. Leonard",
+      "first": "Debra G. B.",
+      "last": "Leonard",
+      "affiliation": "Department of Pathology and Laboratory Medicine, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America; University of Vermont Health Network, Burlington, Vermont, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1431-4935"
+      ]
+    },
+    {
+      "name": "Christopher D. Huston",
+      "first": "Christopher D.",
+      "last": "Huston",
+      "affiliation": "Department of Microbiology and Molecular Genetics, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America; Division of Infectious Disease, Department of Medicine, University of Vermont Medical Center, Burlington, Vermont, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-5393-139X"
+      ]
+    },
+    {
+      "name": "Beth D. Kirkpatrick",
+      "first": "Beth D.",
+      "last": "Kirkpatrick",
+      "affiliation": "Department of Microbiology and Molecular Genetics, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America; Vaccine Testing Center, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America; Division of Infectious Disease, Department of Medicine, University of Vermont Medical Center, Burlington, Vermont, United States of America"
+    },
+    {
+      "name": "Julie A. Dragon",
+      "first": "Julie A.",
+      "last": "Dragon",
+      "affiliation": "Vermont Integrative Genomics Resource, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America; Department of Microbiology and Molecular Genetics, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America"
+    },
+    {
+      "name": "Jessica W. Crothers",
+      "first": "Jessica W.",
+      "last": "Crothers",
+      "affiliation": "Department of Pathology and Laboratory Medicine, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America; University of Vermont Health Network, Burlington, Vermont, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-4594-5051"
+      ]
+    },
+    {
+      "name": "Keith R. Jerome",
+      "first": "Keith R.",
+      "last": "Jerome",
+      "affiliation": "Virology Division, Department of Laboratory Medicine and Pathology, University of Washington, Seattle, Washington, United States of America; Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, Washington, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8212-3789"
+      ]
+    },
+    {
+      "name": "Jason W. Botten",
+      "first": "Jason W.",
+      "last": "Botten",
+      "affiliation": "Division of Immunobiology, Department of Medicine, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America; Department of Microbiology and Molecular Genetics, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America; Vaccine Testing Center, Robert Larner, M.D. College of Medicine, University of Vermont, Burlington, Vermont, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6839-0306"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2020-10-02",
+  "dateAccepted": "2020-09-10",
+  "dateReceived": "2020-05-04",
+  "volume": "18",
+  "number": "10",
+  "pages": "e3000896",
+  "tags": [
+    "Artificial gene amplification and extension",
+    "Biochemistry",
+    "COVID 19",
+    "Coronaviruses",
+    "DNA-binding proteins",
+    "Diagnostic medicine",
+    "Diluents",
+    "Discipline-v3/Artificial gene amplification and extension",
+    "Discipline-v3/Biochemistry",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/COVID 19",
+    "Discipline-v3/Coronaviruses",
+    "Discipline-v3/DNA-binding proteins",
+    "Discipline-v3/Diagnostic medicine",
+    "Discipline-v3/Diluents",
+    "Discipline-v3/Enzymes",
+    "Discipline-v3/Enzymology",
+    "Discipline-v3/Extraction techniques",
+    "Discipline-v3/Hydrolases",
+    "Discipline-v3/Infectious diseases",
+    "Discipline-v3/Materials",
+    "Discipline-v3/Materials science",
+    "Discipline-v3/Medical conditions",
+    "Discipline-v3/Medical microbiology",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Microbial pathogens",
+    "Discipline-v3/Microbiology",
+    "Discipline-v3/Mixtures",
+    "Discipline-v3/Molecular biology",
+    "Discipline-v3/Molecular biology techniques",
+    "Discipline-v3/Nucleases",
+    "Discipline-v3/Organisms",
+    "Discipline-v3/Pathogens",
+    "Discipline-v3/Pathology and laboratory medicine",
+    "Discipline-v3/Physical sciences",
+    "Discipline-v3/Polymerase chain reaction",
+    "Discipline-v3/Proteins",
+    "Discipline-v3/RNA extraction",
+    "Discipline-v3/RNA viruses",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Reverse transcriptase-polymerase chain reaction",
+    "Discipline-v3/Ribonucleases",
+    "Discipline-v3/SARS CoV 2",
+    "Discipline-v3/SARS coronavirus",
+    "Discipline-v3/Solutions",
+    "Discipline-v3/Viral diseases",
+    "Discipline-v3/Viral pathogens",
+    "Discipline-v3/Virus testing",
+    "Discipline-v3/Viruses",
+    "Enzymes",
+    "Enzymology",
+    "Extraction techniques",
+    "Hydrolases",
+    "Infectious diseases",
+    "Materials",
+    "Materials science",
+    "Medical conditions",
+    "Medical microbiology",
+    "Microbial pathogens",
+    "Microbiology",
+    "Mixtures",
+    "Molecular biology",
+    "Molecular biology techniques",
+    "Nucleases",
+    "Organisms",
+    "Pathogens",
+    "Pathology and laboratory medicine",
+    "Polymerase chain reaction",
+    "Proteins",
+    "RNA extraction",
+    "RNA viruses",
+    "Reverse transcriptase-polymerase chain reaction",
+    "Ribonucleases",
+    "SARS CoV 2",
+    "SARS coronavirus",
+    "Solutions",
+    "Type/Methods and Resources",
+    "Viral diseases",
+    "Viral pathogens",
+    "Virus testing",
+    "Viruses"
+  ],
+  "abstract": "The ongoing COVID-19 pandemic has created an unprecedented need for rapid diagnostic testing. The World Health Organization (WHO) recommends a standard assay that includes an RNA extraction step from a nasopharyngeal (NP) swab followed by reverse transcription–quantitative polymerase chain reaction (RT-qPCR) to detect the purified SARS-CoV-2 RNA. The current global shortage of RNA extraction kits has caused a severe bottleneck to COVID-19 testing. The goal of this study was to determine whether SARS-CoV-2 RNA could be detected from NP samples via a direct RT-qPCR assay that omits the RNA extraction step altogether. The direct RT-qPCR approach correctly identified 92% of a reference set of blinded NP samples (n = 155) demonstrated to be positive for SARS-CoV-2 RNA by traditional clinical diagnostic RT-qPCR that included an RNA extraction. Importantly, the direct method had sufficient sensitivity to reliably detect those patients with viral loads that correlate with the presence of infectious virus. Thus, this strategy has the potential to ease supply choke points to substantially expand COVID-19 testing and screening capacity and should be applicable throughout the world.",
+  "fullText": "Results/Discussion\n\nThe ongoing COVID-19 pandemic has put exceptional strain on public health laboratories, hospital laboratories, and commercial laboratories as they attempt to keep up with demands for SARS-CoV-2 testing. The current diagnostic testing methods recommended by the Centers for Disease Control and Prevention (CDC) in the United States and the World Health Organization (WHO) are traditional reverse transcription–quantitative polymerase chain reaction (RT-qPCR) assays that require 2 steps: an RNA extraction from patient nasopharyngeal (NP) swab material, followed by RT-qPCR amplification of the extracted RNA to detect viral RNA [1–3]. A major bottleneck to widespread SARS-CoV-2 testing lies at the RNA extraction step. By mid-March of 2020 many RNA extraction kits were completely sold out, and reagents for manual kits as well as reagents and supplies for the larger automated instruments remain extremely limited, with uncertain supply chains. While substitution of other RNA extraction kits [4–6] is possible, they too are in limited supply. RNA extraction represents a choke point not only due to shortages of the required reagents, but also due to the cost of the extraction process, the labor and time required to perform it, and the fact that it is rate limiting compared to the downstream RT-qPCR analysis. It is also worth noting that RNA extraction uses more liquid handling steps than the downstream RT-PCR, with corresponding requirements for consumables and reagents. While recent Emergency Use Authorizations have been approved by the US Food and Drug Administration for commercial extraction-free diagnostic tests, these are proprietary systems; protocols that work with the open-source RT-qPCR assay developed by the WHO are needed. To address this issue, we tested the performance of a RT-qPCR approach eliminating the RNA extraction step altogether, instead directly loading patient swab material into the RT-qPCR mix. Herein, we report that this approach (which we refer to hereafter as “direct RT-qPCR”) correctly identified 92% of samples (n = 155) identified as positive for SARS-CoV-2 RNA by conventional RT-qPCR featuring an RNA extraction. This approach has a sensitivity of 95% on samples with a clinical cycle threshold (CT) at or below 32, which corresponds to a viral load of 1.7 × 104 copies/ml. Notably, this is considerably below the threshold at which samples have been shown to contain live virus and are thought to be infectious (106–107 copies/ml) [7,8]. Thus, our results suggest that this streamlined assay can robustly detect potentially infectious individuals and greatly alleviate constraints to COVID-19 testing in many regions of the world.\n\nWe initially conducted a pilot experiment using NP swabs from 2 COVID-19 patients who had previously been verified as having SARS-CoV-2 infection by the Vermont Department of Health Laboratory using the CDC’s recommended RT-qPCR test. The samples were originally collected as NP swabs in 3 ml of M6 viral transport medium (termed diluent hereafter), and were pooled for this analysis (equi-volume). RNA was extracted from 140 μl of the pooled sample using the QIAamp Viral RNA Mini Kit, and purified RNA representing 11.3 μl of the original swab diluent was detected as positive via standard RT-qPCR using the CDC 2019-nCoV_N3 primer/probe set, with a CT of 18.7. In parallel, we added 7 μl of the pooled COVID-19 patient NP swab diluent directly to the RT-qPCR reaction, and found that SARS-CoV-2 RNA was successfully detected in the absence of an RNA extraction step. Compared to the same pooled NP swab diluent extracted with the QIAamp Viral RNA Mini Kit (after adjusting for the quantity of swab diluent added in each case), adding the NP diluent directly into the RT-qPCR reaction resulted in an approximately 4 CT delay in sensitivity (Fig 1A). Preheating the NP diluent for 5 minutes at 70°C prior to RT-qPCR had no impact on viral RNA detection. These results provided proof of principle that successful detection of SARS-CoV-2 RNA from an NP swab sample by RT-qPCR could be done in the absence of an RNA extraction step.\n\nWe next sought to validate the direct RT-qPCR approach on additional samples, determine the optimal volume of NP swab diluent for use in the direct RT-qPCR assay, and further address the potential impact of a higher temperature prior heating step on assay sensitivity. NP samples from 3 COVID-19 patients that had previously been shown to be positive for SARS-CoV-2 RNA at high, intermediate, or low copy load by the Department of Laboratory Medicine at the University of Washington (UW) in Seattle were heated or not at 95°C for 10 minutes and then directly loaded into RT-qPCR reactions at a volume of 1, 3, or 5 μl, or subjected to RNA extraction via the Roche MagNA Pure 96 platform prior to loading the equivalent of approximately 20 μl of swab diluent into the RT-qPCR reaction. SARS-CoV-2 RNA could be detected in all 3 viral copy level samples at any of the input volumes by direct RT-qPCR, provided they were heated first (Table 1). Heating appeared to be important for detection of low viral copy samples, presumably because it denatured RNases or inhibitors of the reverse transcriptase and/or PCR enzymes present in the NP diluent and/or enhanced the availability of viral RNA through direct lysis of cells and virions. Addition of less NP diluent led to more sensitive detection of target RNA. The best sensitivity for SARS-CoV-2 detection was achieved when 3 μl of swab diluent was used for direct RT-qPCR (Table 1).\n\nThe CDC RT-qPCR method includes an internal control primer/probe set for detection of human RNase P. To ensure that direct RT-qPCR was able to detect the presence of this gene in NP swab diluent, and to test whether our approach was generalizable to other primer/probe sets, we screened 7 donors (n = 4 SARS-CoV-2 positive; n = 3 SARS-CoV-2 negative) using the 2019-nCoV_N1, 2019-nCoV_N2, and RNase P primer/probe sets. Both the 2019-nCoV_N1 and 2019-nCoV_N2 primer/probe sets specifically detected SARS-CoV-2 RNA in each sample from COVID-19 patients, but not in samples from the negative donors (Fig 1B and 1C). In addition, RNase P was successfully detected in each donor by direct RT-qPCR (Fig 1D). Collectively, these results confirmed the validity of our direct RT-qPCR approach with additional virus-specific primer/probe sets for detection of SARS-CoV-2 RNA and a primer/probe set to detect the presence of the RNase P gene/mRNA in all samples tested.\n\nTo get an accurate view of how omission of the RNA extraction step would perform in a real-world clinical setting, we tested, in a blinded fashion, a panel of 150 NP swabs from COVID-19 patients that encompassed the full range of CT values seen in clinical testing at UW. Samples selected included high (CT less than 20), intermediate (CT of 20–30), or low (CT of more than 30) viral RNA loads by a standard clinical RT-qPCR assay that included RNA extraction (referred to hereafter as a laboratory developed test [LDT]) (S1A Table). The incorporation of a second testing site into our study also helped to evaluate the generalizability of the direct RT-qPCR approach and confirm that our results are not dependent on a single master mix, primer/probe set, or RT-qPCR machine. To address the potential impact of a prior heating step on detection sensitivity, NP swab samples were heated or not for 10 minutes at 95°C prior to use in the downstream RNA extraction and/or direct RT-qPCR. For each NP swab sample, a 3-μl volume of diluent was used for direct RT-qPCR. In parallel, a 30-μl aliquot of each sample was used for RNA extraction and an equivalent of 3 μl of the original swab diluent was used for RT-qPCR, allowing for a one-to-one comparison with the direct RT-qPCR method. To control for inhibitors of the reverse transcriptase or PCR enzymes and/or RNase activity in the swab diluent, an aliquot of each swab diluent was spiked with 4 × 104 copies of EXO control RNA for subsequent detection with an EXO primer/probe set. While it has been reported that the CDC RNase P primers have the potential to amplify both genomic DNA as well as mRNA (as both primers are in the same exon), the EXO spike-in control utilized in the UW LDT provides a built-in control for successful RT-PCR amplification from a known RNA template [9]. Inhibition was noted in only 2 samples of 240 tested, 1 negative sample and 1 positive sample tested by the direct approach (S1B and S2B Tables). Preheating NP swab samples prior to direct RT-qPCR enhanced assay sensitivity (138/150 samples positive with preheating, compared with 126/150 without; Table 2). In contrast to the results with the direct RT-qPCR assay, preheating samples reduced sensitivity when using the Roche MagNA Pure 96 RNA extraction system. Extraction of RNA prior to RT-qPCR did not enhance detection of SARS-CoV-2-positive samples when an equivalent amount of diluent was screened by direct RT-qPCR (138 of 150 samples were detected by each approach), suggesting that much of the benefit of kit-based RNA extraction comes from concentrating the sample material, allowing more to be loaded into the RT-qPCR reaction. Of the 12 samples not detected by direct RT-qPCR, 11 were from donors that had extremely low loads of viral RNA as originally determined in the clinical test, with CT values ranging from 33 to 38 (Fig 2; S1A Table).\n\nTo more precisely determine the limit of detection of the direct RT-qPCR assay, we tested an additional 60 samples with original clinical CT values between 27 and 36. We specifically screened a large number of patient samples with low viral loads in order to test the limits of the direct assay, although in real-world testing, patients with these CT values represent a minority of overall clinical samples tested. We found the limit of detection (CT value at which 95% of known positives are correctly identified) for the direct approach to be a clinical CT of 32, which corresponds to approximately 50 RNA copies/reaction, or 1.7 × 104 copies/ml of patient sample as measured by the UW clinical LDT (Fig 3; S2A Table). Recent studies suggest that infectious virus can only be isolated from NP swabs that contain at least 106–107 copies of viral RNA/ml [7,8]. To directly relate this to our assay, 106 copies of viral RNA/ml of NP swab diluent is equal to 3 × 103 copies in a 3-μl reaction, which equates to a CT of approximately 25.5 in the direct RT-qPCR assay. Thus, the direct RT-qPCR method described here would have sufficient sensitivity to detect individuals most likely to be infectious.\n\nTo determine the specificity of the direct approach we also tested 30 samples known to be SARS-CoV-2 negative by the UW LDT. All 30 samples were negative for SARS-CoV-2 RNA by the direct approach, and 29/30 successfully amplified the EXO spike-in control (S2A and S2B Table). From this result it appears that in rare cases inhibitors in patient samples can prevent amplification of the RT-PCR reaction, but it is worth noting that the EXO internal control failed to amplify only twice out of 240 samples tested in this study (S1B and S2B Tables). The addition of a spike-in control or the use of a set of primers designed to unambiguously detect a human mRNA could provide an important control to rule out false negatives that result from RT-PCR inhibition, though this phenomenon appears to occur only rarely. Collectively, these results demonstrate that the direct RT-qPCR assay described here is capable of reliably detecting SARS-CoV-2 RNA in COVID-19 patients with 100% specificity.\n\nCOVID-19 testing demands are currently overwhelming the world’s clinical laboratories. A major choke point is the RNA extraction step, due to both the time and labor for this step and the critical shortage of extraction kits and required reagents. As a means to circumvent these limitations on clinical testing availability, we show here that a direct RT-qPCR approach that omits an RNA extraction step can effectively identify SARS-CoV-2 RNA from NP swabs. When applied to a large collection of clinical NP specimens representative of the range of COVID-19 patients in the state of Washington, the direct RT-qPCR assay correctly identified 92% of the donors screened, with 100% specificity. The only samples missed were those with very low levels of viral RNA, near the limit of detection even when RNA extraction was used. It is likely that the direct assay would detect the most infectious patients, as the ability to isolate live virus from NP swabs correlates with viral loads that are robustly detected here [7,8,10]. In the weeks since we posted our initial results on bioRxiv on March 21, 2020 [4], several groups from around the world have reported similar findings [11–21]. The simplified approach presented here may be especially well suited for general screening of the public and identification of “silent carrier” individuals. A substantial fraction (over 50% in one nursing home surveilled) of SARS-CoV-2-positive cases are asymptomatic or presymptomatic, indicating that a surveillance strategy based on testing only symptomatic individuals would fail to prevent transmission [10]. Notably, the majority of asymptomatic or presymptomatic patients have thus far displayed CT values that the direct RT-qPCR approach would reliably detect.\n\nWe propose that the direct RT-qPCR approach described here could be useful in at least 2 settings. First, in regions of the world that have some degree of access to RNA extraction kits to perform the recommended CDC or WHO clinical RT-qPCR test, we envision that this approach could be used as a screening strategy to expand testing capacity to those (such as asymptomatic individuals, nursing home patients, essential workers, and school children) who are not currently receiving tests. As this approach would pick up the majority of cases, including those most infectious as well as presymptomatic or asymptomatic individuals [7,10], we suggest using it as a means to implement additional testing capacity. This would reserve the extraction-based test for medical personnel, hospital inpatients, and others for whom the very highest accuracy is required in order to determine exposure-related transmission precautions. It is important to note that test sensitivity is a function of time post-infection as well as the technical specifications of any given test. As viral loads (and the ability to isolate live virus) decline after the first 5 days of symptomatic disease, a less sensitive testing approach that can be widely applied to people with very mild symptoms on the first day they appear will likely pick up more people than an exquisitely sensitive test delivered days after symptom onset (a situation seen frequently in the United States due to testing capacity shortages) [7,10,22]. Test accuracy is also a function of the prevalence of the disease in the population being tested. With a specificity of 100% and a sensitivity of 92%, the direct RT-PCR approach described here would have a negative predictive value (the probability that a negative is a true negative) ranging from 97.4% to 99.8% with disease prevalences of 25% to 2%, respectively. The positive predictive value (the probability that a positive is a true positive) of this approach is 100% regardless of disease prevalence, given that no false positives were observed in our data.\n\nThe testing approach described here could also easily be adopted in more resource limited settings, including large portions of the developing world that at present completely lack access to RNA extraction. A testing approach that uses patient samples directly without RNA extraction would open up perhaps the only viable avenue for widespread testing in these regions. In recent months the scientific community has made enormous strides towards addressing the formidable challenge of providing ample and accessible COVID-19 testing across the globe, and yet the problem is assuredly not solved. An “all-in” approach to testing (which we describe further here [23]) in which the global scientific community continues to develop and validate a range of testing approaches, with the goal of maximizing access and affordability across the world, represents a promising avenue to address this enormous challenge. Beyond the PCR-based approach described here, the current study also provides a reasonable baseline to predict how well other detection platforms (e.g., loop-mediated isothermal amplification [LAMP]) may perform following direct addition of NP swab samples.\n\nMaterials and methods\n\nEthical statement\n\nRT-qPCR analysis of clinical samples for this study was approved by the University of Vermont and the University of Washington institutional review boards with a consent waiver. The de-identified samples were determined to be exempt because they were not considered human subjects research due to the quality improvement and public health intent of the work.\n\nSamples\n\nUniversity of Vermont\n\nClinical NP swabs were collected in 3 ml of M6 transport medium. Patients were confirmed to be negative (3) or positive (6) for SARS-CoV-2 by the Vermont Department of Health using the CDC 2019-Novel Coronavirus (2019-nCoV) Real-Time RT-PCR Diagnostic Panel [1]. Limited quantities of this material were available, so we initially pooled equal amounts of sample from 2 COVID-19 patients (Fig 1A). Subsequently, 4 additional confirmed SARS-CoV-2-positive patients and 4 SARS-CoV-2-negative donors were tested individually for the presence of SARS-CoV-2 RNA or RNase P by direct RT-qPCR of the sample material (Fig 1B–1D).\n\nUniversity of Washington\n\nClinical NP swabs were collected in 3 ml of universal transport medium (UTM). Thirty samples from patients confirmed to be SARS-CoV-2 negative and 210 samples from patients confirmed to be SARS-CoV-2 positive by the University of Washington Medical Laboratory with a range of viral loads (CT values of SARS-CoV-2 with the N2 primer from the original clinical test run at UW ranged from 10.17 to 38.13) and sufficient volume were selected for this study (Figs 2 and 3; Tables 1, 2, S1 and S2).\n\nAll patient samples at each testing site were stored at 4°C in between sample collection and transport to the laboratory, and again until clinical testing was carried out, maintaining a standardized sample acquisition and processing protocol.\n\nRNA extraction\n\nUniversity of Vermont\n\nTo compare the effect of nucleic acid extraction with direct RT-PCR, RNA from a pooled patient sample was extracted using the QIAamp Viral RNA Mini Kit (Qiagen, Cat. No. 52904) according to the manufacturer’s instructions. A total of 140 μl of pooled NP swab diluent was extracted and eluted in 60 μl; 5 μl (equivalent to 11 μl of original sample) was used for real-time RT-PCR (Fig 1A).\n\nUniversity of Washington\n\nTo compare the effect of nucleic acid extraction with direct RT-PCR, RNA from 30 μl or 200 μl of patient sample was extracted using the Roche MagNA Pure 96 platform (Roche Lifesciences) and eluted into 50 μl of buffer; 5 μl of RNA (equivalent to 3 μl of original sample for a 30-μl extraction or 20 μl of original sample for a 200-μl extraction) was used for real-time RT-PCR. To monitor RNA recovery and RT-PCR efficiency, 40,000 copies of EXO internal control RNA were added into the lysis buffer and went through the extraction process with each sample (Figs 2 and 3; Tables 1, 2, S1 and S2).\n\nRT-qPCR detection\n\nUniversity of Vermont\n\nIn Fig 1A, 7 μl of pooled NP swab diluent (heated to 70°C for 5 minutes, or not), or 5 μl of extracted RNA, was used as input material for the New England Biolabs Luna Universal Probe One-Step RT qPCR Kit (Cat #E3006S, lot #10066679) according to the Integrated DNA Technologies (IDT) recommendation for primers/probes (1.5 μl of primer/probe per reaction) using primer set N3 from IDT’s 2019-nCoV CDC Emergency Use Authorization Kits (20-μl reaction). Subsequently, in Fig 1B–1D, 3 μl of NP swab diluent was used as input material for the Thermo Fisher TaqPath 1-Step RT-qPCR Master Mix, CG (Cat #A15299) using primer sets N1, N2, and RP (human RNase P) from IDT’s 2019-nCoV CDC Emergency Use Authorization Kits (20-μl reaction). Known copies of positive control RNA (CDC 2019-nCoV Positive Control in vitro transcribed RNA for Fig 1A; fully synthetic SARS-CoV-2 RNA Control 2 [Cat# MN908947.3, Twist Bioscience] for Fig 1B and 1C) were used to compare viral RNA quantities in patient samples. Each patient sample, as well as no template control (water as well as M6 transport medium), was run in duplicate; the synthetic RNA standard was run in triplicate. The initial experiment was run on an ABI QuantStudio 6 Flex (Fig 1A), while subsequent experiments were run on an ABI 7500 Fast (Fig 1B–1D). Reagent preparations were performed in a PCR-free clean room equipped with PCR workstations (AirClean Systems). Clinical sample manipulations (RNA extractions or direct addition of NP swab diluent to RT-qPCR plates) were done in a Class IIA Biosafety Cabinet using BSL-2 precautions. RT-qPCR plates were placed directly in biosafety waste at the conclusion of each run.\n\nUniversity of Washington\n\nFor Figs 2 and 3 and Tables 1, 2, S1 and S2, for each patient sample, 250 μl was heat treated at 95°C for 10 minutes, or not. For direct RT-PCR, 3 μl of this sample, or 5 μl of extracted RNA, was added directly into the RT-PCR reaction mixture. Each real-time RT-PCR reaction contained 400 nM CDC N2 forward and reverse primers and 100 nM N2 probe. To monitor potential RT-PCR inhibition, each RT-PCR reaction was spiked with 40,000 copies of EXO internal control RNA and EXO primers (100 nM EXO forward and 200 nM EXO reverse) and probes (62.5 nM). Real-time RT-PCR assays were performed using the AgPath-ID One-Step RT-PCR kit (Life Technologies) and an ABI 7500 Real-Time PCR System was used to perform the RT-PCR reactions [24]. For samples that were subjected to RNA extraction, 40,000 copies of EXO RNA was spiked into the lysis buffer. Extraction efficiency for each sample was tracked based on the percentage of the spiked EXO RNA that was detected by RT-qPCR. The primer/probe sequences and RT-qPCR conditions for all methods used are provided in Tables 3 and 4.\n\nStudy design\n\nFor both the University of Vermont and UW, sample selection (including information regarding CT values) and RNA extraction/RT-PCR of samples were performed by separate individuals; the person running the assays was blinded to the original clinical CT value of the samples.\n\nSupporting information"
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0040266",
+  "doi": "10.1371/journal.pbio.0040266",
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Ancient Protein Partners Take on Additional Roles in Multicellular Animals",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2006-08",
+  "dateElectronic": "2006-07-04",
+  "volume": "4",
+  "number": "8",
+  "pages": "e266",
+  "tags": [
+    "Discipline/Cell Biology",
+    "Discipline/Developmental Biology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Molecular Biology",
+    "System Taxonomy/Caenorhabditis",
+    "System Taxonomy/Drosophila",
+    "System Taxonomy/Saccharomyces",
+    "Type/Synopsis"
+  ],
+  "fullText": "Over the long course of life's history, the appearance of a new function in an organism may be accompanied by a new protein. But, more often, the work is done by an old one that adds a new role to its repertoire. Such proteins are likely to be found in a wide variety of organisms, reflecting their ancient lineage and continuing relevance. Proteins never act in isolation, of course; instead, they bind to one or more others to carry out their tasks. And so, if one member of a protein pair has taken on a new function, it's a good bet the other may have done so as well. In a new study, Vlad Seitan, Tom Strachan, and colleagues show that two proteins, whose interactions in yeast help chromosomes divide, have counterparts in a full range of other organisms, including humans. And true to prediction, the proteins don't just continue to play their old roles—in animals, they also appear to help guide multicellular development.\n\nThe focus of the study is a pair of yeast proteins, Scc2 and Scc4. Bound together, they load the protein complex cohesin onto chromosomes to link together sister chromatids, ensuring proper separation in mitosis. Scc2 has orthologs—proteins with similar structure sharing a common ancestor—in both fruit flies and humans, known respectively as Nipped-B and delangin. But, until very recently, orthologs of Scc4 have not been found outside of a few fungal species.\n\nThe authors set out to find binding partners for Nipped-B and delangin. Using Nipped-B as the bait, they snagged the protein product of the fly gene CG4203. The human counterpart of this protein, called KIAA0892, bound to delangin. Because both \n\t\t\t\tCG4203 and KIAA0892 are related to a nematode protein called MAU-2, the authors dubbed them fly and human MAU-2. Each of these was about the same size as Scc4 and, using specialized bioinformatics approaches, they confirmed that the sequences of all three were related. Thus, Scc2 is to Scc4 as Nipped-B is to fly MAU-2, and delangin is to human MAU-2.\n\nUp to this point, the only demonstrated functional similarity between Scc4 and the MAU-2s was their ability to bind their respective partners. To test whether human MAU-2 had a similar role in linking sister chromatids, the authors used RNA interference to diminish MAU-2 expression. When the level of MAU-2 was low, less cohesin was loaded onto the chromosomes, and sister chromatids prematurely separated, just as in yeast.\n\nThe nematode version of MAU-2 was originally identified as having a role in guiding cell movements and growth of axons during development. Did it also play a part in chromatid cohesion in the worm? Once again, RNA interference showed it did. Finally, if MAU-2 has a developmental role in the worm, what about in other organisms? When the authors used antisense to reduce MAU-2 in the frog, early development was delayed and the embryo displayed multiple defects. Reduction of frog delangin caused similar defects, indicating the two likely pair in this organism as well.\n\nThese findings shed light on the mechanics of chromatid cohesion, and will be useful for further elucidating the complex means by which chromatids remain together and then separate during mitosis. They also indicate that both subunits take part in shaping development. How they do so is not yet clear, but the role of the pair in controlling chromosome structure suggests they may help modify chromatin outside of the events of mitosis. Further study of this activity will likely help illuminate the pathologic mechanism of a rare human developmental disorder, Cornelia de Lange syndrome, which can be caused by a mutation in the delangin gene and which is characterized by low birth weight, slow growth, and multiple physical abnormalities.",
+  "externalIds": [
+    "pmid:20076621",
+    "pmcid:PMC1484499"
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1000533",
+  "doi": "10.1371/journal.pbio.1000533",
+  "externalIds": [
+    "pii:09-PLBI-RA-4758R4",
+    "pmid:21085693",
+    "pmcid:PMC2976721"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "The DNA Methylome of Human Peripheral Blood Mononuclear Cells",
+  "authors": [
+    {
+      "name": "Yingrui Li",
+      "first": "Yingrui",
+      "last": "Li",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Jingde Zhu",
+      "first": "Jingde",
+      "last": "Zhu",
+      "affiliation": "Cancer Epigenetics and Gene Therapy Program, Shanghai Cancer Institute, Shanghai Jiaotong University, Shanghai, China; Epigentic Laboratory, Bio-X Center, Shanghai JiaoTong University, Shanghai, China"
+    },
+    {
+      "name": "Geng Tian",
+      "first": "Geng",
+      "last": "Tian",
+      "affiliation": "Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China; The Graduate University of Chinese Academy of Sciences, Beijing, China; BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Ning Li",
+      "first": "Ning",
+      "last": "Li",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Qibin Li",
+      "first": "Qibin",
+      "last": "Li",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Mingzhi Ye",
+      "first": "Mingzhi",
+      "last": "Ye",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Hancheng Zheng",
+      "first": "Hancheng",
+      "last": "Zheng",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Jian Yu",
+      "first": "Jian",
+      "last": "Yu",
+      "affiliation": "Cancer Epigenetics and Gene Therapy Program, Shanghai Cancer Institute, Shanghai Jiaotong University, Shanghai, China"
+    },
+    {
+      "name": "Honglong Wu",
+      "first": "Honglong",
+      "last": "Wu",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Jihua Sun",
+      "first": "Jihua",
+      "last": "Sun",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Hongyu Zhang",
+      "first": "Hongyu",
+      "last": "Zhang",
+      "affiliation": "Cancer Epigenetics and Gene Therapy Program, Shanghai Cancer Institute, Shanghai Jiaotong University, Shanghai, China"
+    },
+    {
+      "name": "Quan Chen",
+      "first": "Quan",
+      "last": "Chen",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Ruibang Luo",
+      "first": "Ruibang",
+      "last": "Luo",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China; School of Bioscience and Biotechnology, South China University of Technology, Guangzhou, China"
+    },
+    {
+      "name": "Minfeng Chen",
+      "first": "Minfeng",
+      "last": "Chen",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Yinghua He",
+      "first": "Yinghua",
+      "last": "He",
+      "affiliation": "Cancer Epigenetics and Gene Therapy Program, Shanghai Cancer Institute, Shanghai Jiaotong University, Shanghai, China"
+    },
+    {
+      "name": "Xin Jin",
+      "first": "Xin",
+      "last": "Jin",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China; School of Bioscience and Biotechnology, South China University of Technology, Guangzhou, China"
+    },
+    {
+      "name": "Qinghui Zhang",
+      "first": "Qinghui",
+      "last": "Zhang",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Chang Yu",
+      "first": "Chang",
+      "last": "Yu",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Guangyu Zhou",
+      "first": "Guangyu",
+      "last": "Zhou",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Jinfeng Sun",
+      "first": "Jinfeng",
+      "last": "Sun",
+      "affiliation": "Cancer Epigenetics and Gene Therapy Program, Shanghai Cancer Institute, Shanghai Jiaotong University, Shanghai, China"
+    },
+    {
+      "name": "Yebo Huang",
+      "first": "Yebo",
+      "last": "Huang",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Huisong Zheng",
+      "first": "Huisong",
+      "last": "Zheng",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Hongzhi Cao",
+      "first": "Hongzhi",
+      "last": "Cao",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Xiaoyu Zhou",
+      "first": "Xiaoyu",
+      "last": "Zhou",
+      "affiliation": "Cancer Epigenetics and Gene Therapy Program, Shanghai Cancer Institute, Shanghai Jiaotong University, Shanghai, China"
+    },
+    {
+      "name": "Shicheng Guo",
+      "first": "Shicheng",
+      "last": "Guo",
+      "affiliation": "Cancer Epigenetics and Gene Therapy Program, Shanghai Cancer Institute, Shanghai Jiaotong University, Shanghai, China"
+    },
+    {
+      "name": "Xueda Hu",
+      "first": "Xueda",
+      "last": "Hu",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Xin Li",
+      "first": "Xin",
+      "last": "Li",
+      "affiliation": "Kunming Institute of Zoology, Chinese Academy of Sciences, Yunnan, China"
+    },
+    {
+      "name": "Karsten Kristiansen",
+      "first": "Karsten",
+      "last": "Kristiansen",
+      "affiliation": "Department of Biology, University of Copenhagen, Copenhagen, Denmark"
+    },
+    {
+      "name": "Lars Bolund",
+      "first": "Lars",
+      "last": "Bolund",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China; Institute of Human Genetics, University of Aarhus, Aarhus, Denmark"
+    },
+    {
+      "name": "Jiujin Xu",
+      "first": "Jiujin",
+      "last": "Xu",
+      "affiliation": "Institute of Genetics and Developmental Biology, Chinese Academy of Human Sciences, Beijing, China"
+    },
+    {
+      "name": "Wen Wang",
+      "first": "Wen",
+      "last": "Wang",
+      "affiliation": "Kunming Institute of Zoology, Chinese Academy of Sciences, Yunnan, China"
+    },
+    {
+      "name": "Huanming Yang",
+      "first": "Huanming",
+      "last": "Yang",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Jian Wang",
+      "first": "Jian",
+      "last": "Wang",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Ruiqiang Li",
+      "first": "Ruiqiang",
+      "last": "Li",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    },
+    {
+      "name": "Stephan Beck",
+      "first": "Stephan",
+      "last": "Beck",
+      "affiliation": "UCL Cancer Institute, University College London, London, United Kingdom"
+    },
+    {
+      "name": "Jun Wang",
+      "first": "Jun",
+      "last": "Wang",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China; Department of Biology, University of Copenhagen, Copenhagen, Denmark"
+    },
+    {
+      "name": "Xiuqing Zhang",
+      "first": "Xiuqing",
+      "last": "Zhang",
+      "affiliation": "BGI-Shenzhen, Shenzhen, Guangdong, China"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2010-11",
+  "dateAccepted": "2010-09-21",
+  "dateReceived": "2009-11-13",
+  "volume": "8",
+  "number": "11",
+  "pages": "e1000533",
+  "tags": [
+    "Discipline/Biotechnology",
+    "Discipline/Genetics and Genomics/Epigenetics",
+    "Discipline/Genetics and Genomics/Gene Expression",
+    "Discipline/Genetics and Genomics/Genomics",
+    "Type/Research Article"
+  ],
+  "abstract": "Analysis across the genome of patterns of DNA methylation reveals a rich landscape of allele-specific epigenetic modification and consequent effects on allele-specific gene expression.",
+  "fullText": "Introduction\n\nDNA methylation plays a vital role in genome dynamics. In the human genome, it predominantly occurs at cytosine guanine dinucleotide (CpG) sites in somatic cells [1] and at non-CpG cytosines in embryonic stem cells [2] and perhaps other cells as well. DNA methylation at any of these sites can vary and thus affect many biological processes that impact on human health and disease [3]. Therefore, detailed knowledge of the of DNA methylation status of all cytosines (the methylome) is paramount for understanding the mechanisms and functions underlying DNA methylation.\n\nThe emergence of the next-generation sequencing of bisulfite converted DNA represents an important advance in the field of DNA methylation analysis [4]–[6]. This technology has enabled human methylome analysis to advance from single chromosomes [7] to low (100 bp) resolution whole genomes [8] to single-base resolution whole genomes using bisulfite sequencing [2],[9]. For a comprehensive description of methylome analysis methods, please refer to the recent review by P. Laird [10].\n\nUsing whole-genome bisulfite sequencing, we here report the methylome analysis of peripheral blood mononuclear cells (PBMC) from an anonymous male Han Chinese individual (YanHuang) whose genome was determined in the first Asian genome project, henceforth referred to as YH [11]. This approach allowed us to analyse approximately 20 million CpG sites of this clinically important human methylome for genomic landscape, allele-specific methylation (ASM), and allele-specific expression (ASE) in primary cells in a single individual.\n\nResults\n\nData Generation and Quality Assessment\n\nThe methylome reported and analyzed here was generated from the same sample of peripheral blood mononuclear cells (PBMCs) from a consented donor whose genome was deciphered in the YH project [11]. The nuclear DNA was extracted and subjected to unbiased, whole-genome bisulfite sequencing (BS-seq) using the Illumina Genome Analyzer (Table S1a) [5],[12]. In total, we generated 103.5 Gbp of paired-end sequence data. Of these, 70.4 Gbp (68%) were successfully aligned to either strand of the YH genome [11] with an average mismatch rate of 1.3% (Table S1b), resulting in an average sequencing depth of 12.3-fold per DNA strand or a 24.7-fold overall depth. Of the 18,962,679 CpGs present in the unique haploid part (2.21 Gb) of the YH reference genome sequence, approximately 99.86% were covered by at least one unambiguously mapped read of quality score &gt;14 on either strand, and 92.62% were unambiguously covered on both strands (Figure S1 shows the cumulative distribution of sequencing depth; see Methods for details). Based on the 24.7-fold overall coverage, we estimated that about 88.1% of CpGs were covered on both alleles, but only 6.2% of CpGs could be definitively defined due to the limited number of nearby SNPs. We therefore only used these 6.2% (or 1.17 million) CpG sites for our allele-specific methylation analysis. Based on alignment to in silico converted non-CpG cytosines, the bisulfite conversion rate was determined to be at least 99.8% even assuming all non-CpG methylcytosines are due to conversion failure, ensuring reliable ascertainment of CpG methylcytosines at a false positive rate of &lt;0.5%. All five libraries (Table S1a) showed similar conversion rates (99.7% to 99.9%), and a linear correlation was observed in methylation levels estimated from different libraries (Figure S2). This demonstrates high consistency between technical replicates. We also performed conventional bisulfite Sanger sequencing in randomly selected regions and found that 100% (50 of 50 tested CpG sites) showed a consistent methylation level (p&gt;0.01 in chi-square test; Table S8). The rate of unconverted non-CpG cytosines is a combination of incomplete conversion and authentic non-CpG methylation, which indicates very low methylation levels (&lt;0.2%) of non-CpG cytosines in PBMC. We also used the methylation ascertainment method based on binomial test and false discovery rate constraint that was applied by Lister et al. [2] to distinguish putative non-CpG methylation sites from incomplete bisulfite conversion and found a comparable (&lt;0.2%) rate of non-CpG methylation in human PBMC. Non-CpG methylation roughly followed an exponential distribution where only a few (&lt;1e−5) cytosines had methylation levels of &gt;80% (Figure S3). We used these findings to exclude non-CpG methylation from subsequent analyses and estimate the overall specificity of identified methylcytosines in the PBMC methylome presented here to be 99.5%. We also used computing simulation to estimate the false negative rate of methylation site discovery. Assuming the methylation levels of CpG cytosines are similar between hESC [2] and PBMC, we estimate that about 13% of methylated CpG sites would be missed, of which a majority would be hypomethylation (&lt;20%) sites. This indicates the PBMC methylome has a sensitivity to detect most methylated CpG sites.\n\nLandscape of PBMC Methylome\n\nWe carried out a global analysis of the PBMC methylome and found the overall CpG methylation level to be 68.4%, which is lower than in H1 human embryonic stem cells (ESC) [2] but is still considered to be relatively high. Next, we determined the methylation distribution (Figure 1a) and showed it was less bimodal (9.27% hypo (&lt;20%) methylated, 28.81% hyper (&gt;80%) methylated) than has been previously observed (27.4% and 42.4%, respectively) [7], reflecting less bias of the whole-genome approach used here. Chromosome-specific effects could be excluded based on a separate analysis (Figure S4) of the three chromosomes analysed in the previous study [7]. Most notable was that the methylation distribution was not significantly affected by our depth threshold (where 4-fold was the lowest depth; Figure S10). In support of the conclusions drawn here, these data were consistent with the previous observation showing the CpG methylation level to peak at &gt;70% in the human ESC methylome using the same bisulfite sequencing technology [2]. The whole genome CpG density showed a negative correlation with previously observed methylation levels [2],[6], while a major decrease was observed when CpG density rose from 10 to 15 per 200 bp windows.\n\nWe next performed a comprehensive analysis of the PBMC methylome for an additional 20 distinct genomic features (Figure 1b–u). Although some of these features have been analysed before [2],[6],[7],[13] (reviewed in [13]), our analyses provided additional information as well as a more global assessment of some of these components. For example, with respect to protein-coding genes, our data enabled the integration of multiple features into higher-order structures, such as canonical DNA methylation profiles across the entire transcriptional units of expressed and silent genes (Figure 2). Up to 13% difference (p&lt;1e−42) in methylation between highly expressed and silent genes (as determined by digital gene expression profiling (DGEP) of the same sample) are clearly visible, as are two discrete switchover zones, one upstream of the TSS and one in intron 1 that demarcates the transition from hypo- to hypermethylation in the inverse relationship between promoter and gene-body methylation and expression. Also evident is a distinct elevation in methylation level at internal exons with clear demarcation of intron/exon boundaries.\n\nTo define genes as expressed or silent, we grouped them according to their DGEP tags, allowing correlation to be assessed between averaged levels of DNA methylation and gene expression. However, other factors than DNA methylation can of course affect expression levels, and future analysis of samples from different tissues should help to address this issue. Within these limitations, we observed a clear trend for DNA methylation levels of expressed genes to decrease at TSS and to increase at gene bodies. This is consistent with results reported from bisulfite sequencing of human ESC [2].\n\nFor non-coding RNA genes, we found that different gene families had very different methylation profiles (Figure 1h–j). For instance, tRNA genes had a significantly (p&lt;1e−343) lower methylation level than rRNA genes and the genome average. We further conducted a comprehensive analysis of repeat elements, which is a particular strength of our unbiased whole-genome BS-seq approach (Figure 1k–t). Here we found elements that were still active, such as long terminal repeats (LTRs), LINE/L1, and SINE/Alu, and had significantly higher methylation levels than genome average (p&lt;1e−100), displaying hypermethylation even at high CpG density (&gt;12 CpGs in 200 bp). For instance, we found that methylation levels in Alu elements negatively correlated with evolutionary sequence divergence (Figure S5) and thus negatively correlated with retrotransposon mobility [14]. Loss of methylation in such transposable elements is known to be associated with tumorigenesis [15],[16], and the above observations are consistent with DNA methylation playing a role in controlling retrotransposon mobility by lowering their activities and thereby stabilizing the genome.\n\nIn methylome studies, CpG islands are a special genomic feature of great interest (Figure 1u). To investigate these, we performed a canonical analysis of CpG islands and found CpG density and methylation levels displayed a mirrored pattern (Figure S11). CpG islands are CpG-rich and generally hypomethylated, and the shores [17] showed gradual transition of CpG density and methylation levels between the CpG islands and genome average.\n\nCo-Methylation\n\nNext, we examined the correlation of methylation level of any two nearby CpGs and the relationship between spatial distance (from one CpG to another) and strength of this correlation. Gaining knowledge of genomic regions or features that are highly correlated in methylation status is advantageous for developing efficient designs for genome-wide association studies by enabling the selection of tag CpGs, analogous to tag SNPs [18]. As has been previously observed [7], co-methylation deteriorates over distance and becomes nearly undetectable at distances &gt;1,000 bp (Figure S6a). The co-methylation observed here was not affected by the underlying CpG density (Figure S12).\n\nAnalysis of CpG cytosines that had the same distance between them showed that higher methylation levels correlate when they were located on the same strand than on opposite strands (p&lt;6e−7; Figure S6a). This is presumably due to temporary hemi-methylation as a result of post-replication lag in methylation maintenance in proliferating cells. Co-methylation is also markedly different between different genomic features (Figure S6b–t). For example, the correlation was significantly (p&lt;1e−30) higher in gene- than in repeat-associated features. Using Fourier transformation, we also tested the methylation correlation for patterns and found a significant (p&lt;1e−4) peak in periodicity of approximately 170 bp (Figure S7). A similar (CHG) methylation pattern was observed in Arabidopsis [4], which the researchers suggested was due to a nucleosome positioning effect on co-methylation. However, no significant periodicity of smaller motifs was observed in our data.\n\nTissue-Specific Differentially Methylated Regions\n\nWe compared the PBMC methylome to that of fetal lung fibroblast cells (IMR90) [2],[8] to assess potential tissue-specific differentially methylated regions (tDMR). In total, 240,856&gt;200 bp independent regions (range 200–3.5 kbp; median size 500 kbp; see Methods for more details) that had significant differences in methylation level (&gt;2-fold change, at least in one tissue is not hypomethylated (&lt;20%) and Fisher test p value &lt;1e−2) were identified as candidate tDMRs. Of these, 6,197 were located in the 2 kb flanking sequences of transcription start sites (TSSs) of 6,415 genes. GO classification showed that genes associated with PBMC-specific, hypomethylated tDMR candidates (and confirmed to be expressed according to DGEP analysis and/or the GEO database [19]) were significantly (p&lt;1e−4) overrepresented in categories that related to DNA damage checkpoint (Tables S2, S3).\n\nAllele-Specific Methylation\n\nWe examined the PBMC methylome to assess allele-specific methylation (ASM) in the context of genomic imprinting [20] and allele-specific expression (ASE) [21]. Integration of our methylome data with the YH haploid genome sequences [11] enabled us to determine ASM for 1.17 million CpG sites (see above), providing an unprecedented opportunity to identify a first and comprehensive set of haploid differentially methylated regions (hDMR) in any human cell type. Using a conservative threshold (≥5 CpGs with at least 2-fold methylation difference and p value &lt;0.001 in Fisher test), we identified 599 hDMRs (mean size of 312 bp), which accounted for 0.61% of all CpGs with biallelic methylation information or 0.33% of 181,599 regions with bi-allelic sequence information and ≥5 CpGs in their 300 bp flanking sequences (Table S4, see Methods for details). For each of the hDMRs, we randomly selected genomic CpGs with same sequencing depths to that of the hDMRs and subjected them to 10,000 bootstrap iterations to determine how many times the randomly selected CpGs would show differential methylation as defined above. The simulation indicated that 4.17% of these hDMRs were stochastic (showing hDMR signals in &gt;5% of the simulations). As there are approximately 28 million CpG sites in the human genome and ASM could be ascertained for 1.14 million sites, we extrapolated the total number of hDMRs in the YH methylome to be approximately 10,000. This rate, however, is likely to be an overestimation because: (1) 300 bp windows with &lt;5 CpGs may not have enough statistical power to distinguish ASM and (2) CpGs in such lower-CpG-density regions are generally hypermethylated and statistically less likely (likelihood ratio &lt;0.133 compared to regions with ≥5 CpGs in 300 bp windows based on 100,000 simulations on the PBMC methylome) to qualify as ASM according to the conservative threshold described above (p&lt;0.001, 2-fold methylation level change). Nonetheless, if none of the 300 bp windows with &lt;5 CpGs were to display ASM, and those with ≥5 CpGs were to have the same rate of displaying ASM as observed in flanking regions with bi-allelic sequence information, the lower limit of the total number of hDMRs in the YH methylome would still be expected to be 5,000. Thus, we estimate that 0.3%–0.6% of the YH genome are subject to ASM. Annotation analysis revealed that some of these hDMRs were associated with 287 genes (see Table S5 for full list). Figure 3 shows an example of such an association (with the gene FANK1), which displays ASM. FANK1 is a testis-specific gene and has been proposed to play a role in the transition from the diploid to the haploid phase during spermatogenesis [22]. In addition, we investigated the distribution of hDMRs within the YH genome. This analysis revealed a significant (p&lt;1e−343) tendency for the hDMRs to cluster, particularly when in proximity to telomeres or centromeres, which are both hallmarks of imprinting.\n\nTo assess the potential of the hDMRs to denote known or novel imprinted loci, we tested the 599 identified hDMRs for correlation with known imprinted loci [23]. First, we analysed the known genomic imprinted space (defined by 40 loci in 15 chromosomal regions [23]) and identified 17 overlaps (Figure 4), including with well-known imprinted loci such as IGF2, H19, KCNQ1, GNAS, and others (Figure S8). Reciprocal analysis of known imprinted loci for which bi-allelic information was available showed 87.8% ASM, indicating that most of the ASM regions can be identified by bisulfite sequencing and that the major limiting factor is a lack of SNPs to differentiate the two alleles. We therefore estimate that most of the hDMRs are not attributable to imprinting but to other mechanisms such as sequence-dependent ASM [24].\n\nFinally, we analysed the possible involvement of ASM (defined by presence of hDMRs) in epigenetically driven allele-specific expression (ASE) (reviewed in [21]). For this, we randomly selected 6 of the 76 genes that had one or more hDMR(s) within 2 kb of their TSS and measured their expression by TA clone sequencing. Five of the six genes (83%) showed a &gt;1.5-fold difference in expression level between the two alleles (Table S6), confirming the inverse relationship between promoter ASM and ASE. As ASM is definitive for 6.2% of the genome and 76 genes had hDMRs within 2 kb flanking sequence, we estimated that 600 to 1,200 genes (3%–6%) display ASM, which indicates that up to a quarter of the 20% of human genes that have been reported to display ASE [25] may be driven by ASM.\n\nTo determine possible biological functions of the 76 genes displaying ASM, we carried out gene ontology (GO) analysis. Our results showed that these hDMR-containing genes are significantly (p&lt;1e−4) overrepresented in function categories related to cell division and differentiation (see Table S7 for full list of significant GO categories), such as “negative regulation of S phase of mitotic cell cycle,” “mitotic metaphase/anaphase transition,” and “negative regulation of lymphocyte proliferation.” This functional enrichment pattern was also supported by hDMR-containing non-coding RNA genes hY3 and hY5 that were reported to be essential in DNA replication [26], which is an integral part of cell division.\n\nDiscussion\n\nIn this study, we have generated and analysed the two haploid methylomes of human peripheral blood mononuclear cells (PBMC) from an individual whose genome was previously sequenced. This allowed, for the first time, for assessment of the level of ASM within a human methylome and extends recent studies analysing variation between different human methylomes [2],[9]. Compared to what was observed in embryonic stem cells in these studies, non-CpG methylation in human PBMC was negligible.\n\nOur results show that ASM is more frequent than can be accounted for by known imprinted loci [23] and correlates very well with ASE for genes displaying ASM in their promoter regions. To further quantify this observation, additional methylomes will be required to increase the number of parental polymorphisms at imprinted regions. Nonetheless, our work provides a first proof-of-concept for the importance of including ASM in methylome analyses.\n\nIn addition, our data revealed a rich landscape of distinct epigenomic features for regulatory, coding, and non-coding sequences. Exons, for instance, were clearly discernable from introns by elevated methylation levels, demarcated by sharp intron-exon boundaries. This finding confirms and extends a recent observation that exons can be defined by epigenetic marks such as nucleosome positioning [13],[27]. The nature of our whole-genome approach enabled us to also analyse features that have previously been difficult to assess [28] such as repeat elements that constitute about 50% of the human genome [29]. Mobility of Alu repeat elements, for instance, was found to negatively correlate with their methylation levels, emphasizing the critical role of DNA methylation in genome stability.\n\nIn conclusion, we have reported the first comprehensive methylome analysis at single base-pair resolution for human blood cells with relevance to basic and clinical research. Our results demonstrate this methylome to be rich in biological information, compatible for integration with functional data, and we expected it to form a lasting resource as part of the International Human Epigenome Project [30].\n\nMaterials and Methods\n\nData Availability\n\nThe PBMC methylome data have been deposited into the NCBI Gene Expression Omnibus (http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE17972). In addition, the PBMC methylome and other data are available at the YH genome database (http://yh.genomics.org.cn).\n\nPublic Data Used\n\nThe YH genome was downloaded from YH database (http://yh.genomics.org.cn). Gene and repeat annotations were downloaded from the UCSC database (http://genome.ucsc.edu/). The NCBI reference genes with prefix “NM” were mapped to the reference genome using BLAT by UCSC. Hits with &gt;90% identity were retained for further analysis and only one transcript was retained for each gene. Known imprinted genes were extracted from the content of [23], respectively.\n\nSample Preparation and Bisulfite Sequencing\n\nPeripheral blood was obtained from the same individual as in the YH project, and mononuclear cells were separated through Ficoll-Paque (GE Heatlthcare) gradient centrifugation. The total DNA was prepared by proteinase K/phenol extraction, and RNA was extracted from mononuclear cells with RNeasy Mini Kit (Qiagen) following the manufacturer's instructions. The DNA was fragmented by sonication using a Bioruptor (Diagenode, Belgium) to a mean size of approximately 250 bp, followed by the blunt-ending, dA addition to 3′-end and, finally, adaptor addition (in this case of methylated adaptors to protect from bisulfite conversion), essentially according to the manufacturer's instructions. The bisulfite conversion of the adaptor-added DNA was carried out as previously described [31]. Raw GA sequencing data were processed by Illumina Pipeline v1.3.1.\n\nValidation of the methylated state of selected candidate loci was performed by sequencing of multiple T-cloned PCR fragments from the bisulfite converted DNA. The bisulfite treated DNA was amplified by 18 PCR cycles and used for Solexa sequencing.\n\nSequence Alignment and Identification of Methylcytosines\n\nThe reads generated by Illumina sequencing were aligned to the YH genome [11]. As DNA methylation has strand specificity, separate alignments of 6 Gbp in combined length were generated for the Watson and Crick strands of the YH genome. All cytosines in the 6 Gbp target sequence (“original form”) were replaced in silico by thymines (“alignment form”) to allow alignment after bisulfite conversion. In addition, the original forms of the reads were also transformed to cope with BS-treatment nucleotide conversion in the alignment process using the following criteria: (1) observed cytosines on the forward read of each read pair were in silico replaced by thymines, and (2) observed guanines on the reverse read of each read pair were in silico replaced by adenosines. We then mapped the “alignment form” reads to the “alignment form” target sequence using SOAPaligner [32]. Every hit with a single placement with minimum number of mismatches and a clear strand assignment was defined as an unambiguous alignment and was used in methylcytosine ascertainment. Ambiguously aligned reads were only used to estimate the approximate copy number of the local region. Local copy number of a genomic location was calculated by averaging the hit counts of all reads that cover a certain genomic location. Genomic bases with a copy number larger than 1.5 were not used to call methylcytosines and not used in any subsequent analysis to avoid errors caused by misalignment. In total, 2.21 Gbp (77.5% of the whole genome excluding N's) were of local copy number &lt;1.5, which we defined as the “unique” part of genome that contained all cytosines analyzed in this study.\n\nFor methylcytosine identification, we transformed each aligned read and the two strands of the YH genome back to their original forms to build an alignment between the original forms. In the unique part of genome, cytosines that were covered by cytosines from reads on the same strand or guanines from those on the opposite strand (hereafter, referred to as ascertainment bases) were called as potentially methylated sites. To exclude spurious ascertainment bases that were caused by sequencing errors, we filtered out all bases with quality scores lower than 14. Increasing the quality threshold further did not change the non-CpG methylation rate. The false positive rate of methylcytosine identification was calculated as: where r is the conversion rate (proportion of non-CpG cytosines with Q14 ascertainment bases), NCpG is the total number of CpG cytosines, and NmCpG is the total number of ascertained methylated CpG cytosines. As non-CpG methylation may occur, though at a very low level, the false positive rate is an overestimation.\n\nEstimation of Methylation Level\n\nSequencing errors could affect the ascertainment of methylation; therefore, we used the non-CpG methylation level as an indicator of errors. Overall methylation level of non-CpG sites becomes stable when quality &gt;14 (Figure S9), which means the estimate is reliable above such a threshold. To eliminate the effect of low quality bases when estimating the methylation level of a specific genomic CpG cytosine, we divided the number of ascertainment bases by the number of total Q14-covering bases of that genomic location. To estimate the methylation level of a single base accurately, we only used CpG cytosines with a per-strand depth of more than 4 in the analysis of distribution of single CpG methylation levels, as for Figure 1 in the main text. Distribution of methylation level on CpG sites with 4× to 10× coverage, between which there was at minimum a consistent 10× coverage, indicated that the depth requirement was reasonable at even 4× coverage and could provide 5 different results (Figure S10).\n\nFor estimating the methylation level in a specific region, we divided the number of all ascertaining bases in the region by the number of all Q14 bases covering CpG cytosines in that region.\n\nIdentification of Potential Tissue-Specific Differentially Methylated Regions (tDMR)\n\nPutative tDMRs were identified by comparison of the PBMC and fetal lung fibroblast cell (IMR90) [2] methylomes using windows that contained at least 5 CpG sites with a 2-fold change in methylation level and Fisher test p value &lt;1e−20. In addition, we require that both tissues should not be hypomethylated in tDMR discovery. Two nearby tDMRs would be considered interdependent and joined into one continuous tDMR if the genomic region from the start of an upstream tDMR to the end of a downstream tDMR also had 2-fold methylation level differences between sperm and PBMC with a p value &lt;1e−20. Otherwise, the two tDMRs were viewed as independent. After iteratively merging interdependent tDMRs, the final dataset of tDMRs was made up of those that were independent from each other.\n\nIdentification of Haploid Differentially Methylated Regions (hDMR)\n\nWe checked single-end and paired-end reads that were aligned across heterozygotes identified from the YH genome [11] to assign them to specific alleles. We calculated the methylation level of CpGs in SNP-allele containing reads that were assigned to an allele, and the number of methylcytosines and cytosines in the reads from each allele were subjected to Fisher test. Regions with at least 5 genomic CpGs, 2-fold change in methylation level, and a p value &lt;0.001 were defined as hDMRs. Two hDMRs were joined if the phasing relationship could be validated by haplotype analysis of the corresponding YH sequence data or by reads spanning two heterozygotes.\n\nSupporting Information"
+}

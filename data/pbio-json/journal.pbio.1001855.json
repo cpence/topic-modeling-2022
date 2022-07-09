@@ -1,0 +1,187 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001855",
+  "doi": "10.1371/journal.pbio.1001855",
+  "externalIds": [
+    "pii:PBIOLOGY-D-13-04473",
+    "pmid:24802997",
+    "pmcid:PMC4011677"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Tnfa Signaling Through Tnfr2 Protects Skin Against Oxidative Stress–Induced Inflammation",
+  "authors": [
+    {
+      "name": "Sergio Candel",
+      "first": "Sergio",
+      "last": "Candel",
+      "affiliation": "Departamento de Biología Celular e Histología, Facultad de Biología, Universidad de Murcia, Murcia, Spain; Instituto Murciano de Investigación Biosanitaria (IMIB), Murcia, Spain"
+    },
+    {
+      "name": "Sofía de Oliveira",
+      "first": "Sofía",
+      "last": "de Oliveira",
+      "affiliation": "Departamento de Biología Celular e Histología, Facultad de Biología, Universidad de Murcia, Murcia, Spain; Instituto Murciano de Investigación Biosanitaria (IMIB), Murcia, Spain; Carlota Saldanha Lab, Instituto de Medicina Molecular, Instituto de Bioquímica, Faculdade de Medicina, Universidade de Lisboa, Lisboa, Portugal"
+    },
+    {
+      "name": "Azucena López-Muñoz",
+      "first": "Azucena",
+      "last": "López-Muñoz",
+      "affiliation": "Departamento de Biología Celular e Histología, Facultad de Biología, Universidad de Murcia, Murcia, Spain; Instituto Murciano de Investigación Biosanitaria (IMIB), Murcia, Spain"
+    },
+    {
+      "name": "Diana García-Moreno",
+      "first": "Diana",
+      "last": "García-Moreno",
+      "affiliation": "Departamento de Biología Celular e Histología, Facultad de Biología, Universidad de Murcia, Murcia, Spain; Instituto Murciano de Investigación Biosanitaria (IMIB), Murcia, Spain"
+    },
+    {
+      "name": "Raquel Espín-Palazón",
+      "first": "Raquel",
+      "last": "Espín-Palazón",
+      "affiliation": "Departamento de Biología Celular e Histología, Facultad de Biología, Universidad de Murcia, Murcia, Spain; Instituto Murciano de Investigación Biosanitaria (IMIB), Murcia, Spain"
+    },
+    {
+      "name": "Sylwia D. Tyrkalska",
+      "first": "Sylwia D.",
+      "last": "Tyrkalska",
+      "affiliation": "Departamento de Biología Celular e Histología, Facultad de Biología, Universidad de Murcia, Murcia, Spain; Instituto Murciano de Investigación Biosanitaria (IMIB), Murcia, Spain; Instituto de Investigaciones Marinas, Consejo Superior de Investigaciones Científicas (CSIC), Vigo, Spain"
+    },
+    {
+      "name": "María L. Cayuela",
+      "first": "María L.",
+      "last": "Cayuela",
+      "affiliation": "Instituto Murciano de Investigación Biosanitaria (IMIB), Murcia, Spain; Grupo de Telómeros, Envejecimiento y Cáncer, Unidad de Investigación, Departamento de Cirugía, CIBERehd. Hospital Universitario “Virgen de la Arrixaca,” Murcia, Spain"
+    },
+    {
+      "name": "Stephen A. Renshaw",
+      "first": "Stephen A.",
+      "last": "Renshaw",
+      "affiliation": "MRC Centre for Developmental and Biomedical Genetics, University of Sheffield, Sheffield, United Kingdom"
+    },
+    {
+      "name": "Raúl Corbalán-Vélez",
+      "first": "Raúl",
+      "last": "Corbalán-Vélez",
+      "affiliation": "Servicio de Dermatología, Hospital Universitario “Virgen de la Arrixaca,” Murcia, Spain"
+    },
+    {
+      "name": "Inmaculada Vidal-Abarca",
+      "first": "Inmaculada",
+      "last": "Vidal-Abarca",
+      "affiliation": "Servicio de Anatomía Patológica, Hospital Universitario “Virgen de la Arrixaca,” Murcia, Spain"
+    },
+    {
+      "name": "Huai-Jen Tsai",
+      "first": "Huai-Jen",
+      "last": "Tsai",
+      "affiliation": "Institute of Molecular and Cellular Biology, National Taiwan University, Taipei, Taiwan"
+    },
+    {
+      "name": "José Meseguer",
+      "first": "José",
+      "last": "Meseguer",
+      "affiliation": "Departamento de Biología Celular e Histología, Facultad de Biología, Universidad de Murcia, Murcia, Spain; Instituto Murciano de Investigación Biosanitaria (IMIB), Murcia, Spain"
+    },
+    {
+      "name": "María P. Sepulcre",
+      "first": "María P.",
+      "last": "Sepulcre",
+      "affiliation": "Departamento de Biología Celular e Histología, Facultad de Biología, Universidad de Murcia, Murcia, Spain; Instituto Murciano de Investigación Biosanitaria (IMIB), Murcia, Spain"
+    },
+    {
+      "name": "Victoriano Mulero",
+      "first": "Victoriano",
+      "last": "Mulero",
+      "affiliation": "Departamento de Biología Celular e Histología, Facultad de Biología, Universidad de Murcia, Murcia, Spain; Instituto Murciano de Investigación Biosanitaria (IMIB), Murcia, Spain"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2014-05",
+  "dateAccepted": "2014-03-28",
+  "dateReceived": "2013-11-08",
+  "volume": "12",
+  "number": "5",
+  "pages": "e1001855",
+  "tags": [
+    "Anatomy",
+    "Animal cells",
+    "Animal models",
+    "Animals",
+    "Autoimmunity",
+    "Biological tissue",
+    "Cell biology",
+    "Cell processes",
+    "Cell signaling",
+    "Cellular stress responses",
+    "Cellular types",
+    "Cytokines",
+    "Dermatology",
+    "Developmental biology",
+    "Discipline-v2/Anatomy",
+    "Discipline-v2/Animal cells",
+    "Discipline-v2/Animal models",
+    "Discipline-v2/Animals",
+    "Discipline-v2/Autoimmunity",
+    "Discipline-v2/Biological tissue",
+    "Discipline-v2/Biology and life sciences",
+    "Discipline-v2/Cell biology",
+    "Discipline-v2/Cell processes",
+    "Discipline-v2/Cell signaling",
+    "Discipline-v2/Cellular stress responses",
+    "Discipline-v2/Cellular types",
+    "Discipline-v2/Cytokines",
+    "Discipline-v2/Dermatology",
+    "Discipline-v2/Developmental biology",
+    "Discipline-v2/Epithelial cells",
+    "Discipline-v2/Epithelium",
+    "Discipline-v2/Fishes",
+    "Discipline-v2/Immune cells",
+    "Discipline-v2/Immune response",
+    "Discipline-v2/Immune system",
+    "Discipline-v2/Immunity",
+    "Discipline-v2/Immunology",
+    "Discipline-v2/Inflammation",
+    "Discipline-v2/Inflammatory diseases",
+    "Discipline-v2/Innate immune system",
+    "Discipline-v2/Medicine and health sciences",
+    "Discipline-v2/Model organisms",
+    "Discipline-v2/Molecular cell biology",
+    "Discipline-v2/Molecular development",
+    "Discipline-v2/Organisms",
+    "Discipline-v2/Osteichthyes",
+    "Discipline-v2/Research and analysis methods",
+    "Discipline-v2/Signal transduction",
+    "Discipline-v2/Signaling cascades",
+    "Discipline-v2/Vertebrates",
+    "Discipline-v2/Zebrafish",
+    "Epithelial cells",
+    "Epithelium",
+    "Fishes",
+    "Immune cells",
+    "Immune response",
+    "Immune system",
+    "Immunity",
+    "Immunology",
+    "Inflammation",
+    "Inflammatory diseases",
+    "Innate immune system",
+    "Model organisms",
+    "Molecular cell biology",
+    "Molecular development",
+    "Organisms",
+    "Osteichthyes",
+    "Signal transduction",
+    "Signaling cascades",
+    "Type/Research Article",
+    "Vertebrates",
+    "Zebrafish"
+  ],
+  "abstract": "A new zebrafish model of skin inflammatory disease explains new-onset and worsening psoriasis and lichen planus in patients receiving anti-TNFα therapy.",
+  "fullText": "Introduction\n\nTumor necrosis factor α (TNFα) is a multifunctional cytokine that mediates key roles in acute and chronic inflammation, antitumor responses, and infection. TNFα binds TNF receptor 1 (TNFR1, also known as TNFRSF1A or P55) and TNFR2 (also known as TNFRSF1B or P75) for stimulation of two opposing signaling events [1]. In general, TNFR1 signaling results in the trigger of a cascade that can result in apoptosis [2]. This is dependent upon the cell type, the state of activation of the cell, and the cell cycle. In contrast, a TNFR2 signal induces cell survival pathways that can result in cell proliferation [2].\n\nEnhanced TNFα synthesis is associated with the development of autoimmune/chronic inflammatory diseases, including psoriasis, lichen planus, rheumatoid arthritis, and inflammatory bowel disease (IBD). The inhibition of TNFα activities in these diseases has been remarkably successful [3],[4]. Paradoxically, however, numerous studies have reported new-onset psoriasis and lichen planus, or worsening of existing psoriasis, following TNFα antagonist therapy in adult patients [5]–[10]. Despite these clinical data pointing to an ambiguous function of TNFα in psoriasis and lichen planus, the role of TNFα, and in particular the contribution of each TNFR, in the regulation of skin inflammation has been scarcely studied. An earlier study using gene-targeted mutant mice lacking either TNFR1 or TNFR2 showed that skin inflammation induced indirectly by irritant chemicals or directly by intradermal administration of TNFα was greatly attenuated in TNFR1-deficient mice, whereas TNFR2-deficient siblings responded normally [11]. In addition, mice with an arrested canonical NF-κB activation pathway in the keratinocytes develop a severe inflammatory skin disease shortly after birth, which is caused by TNFα- and macrophage-mediated, but T-cell–independent, mechanisms [12]–[16]. The characteristics of this complex disorder are strikingly similar to those associated with the human X-linked genodermatosis incontinentia pigmenti (IP) [17]. To the best of our knowledge, however, the role played by TNFα in the homeostasis of healthy skin has never been studied.\n\nTNFα and TNFRs are conserved in all vertebrates. Recent studies have shown that in the zebrafish (Danio rerio) Tnfa functions as a pro-inflammatory cytokine [18] and Tnfr signaling plays an important role in the homeostasis of endothelial cells [19]. In the present study, we have taken advantage of the strengths of the zebrafish embryo model to study the impact of Tnfa, Tnfr1, and Tnfr2 deficiencies in a whole vertebrate organism. We found that Tnfa and Tnfr2 are both crucial, whereas Tnfr1 is dispensable, for the homeostasis of the skin. Genetic inhibition of Tnfa and Tnfr2 promotes H2O2-mediated skin infiltration by neutrophils, increased keratinocyte proliferation, and the local activation of the master inflammation transcription factor NF-κB, which then promotes the induction of genes encoding pro-inflammatory molecules. In addition, DUOX1 was strongly induced in keratinocytes of human psoriasis and lichen planus patients.\n\nResults\n\nTnfa or Tnfr2 Deficiency Results in Neutrophil Mobilization to the Skin\n\nIn wild-type larvae, most neutrophils (approximately 90%) were located in the caudal hematopoietic tissue (CHT) [20] by 3 d postfertilization (dpf) (Figure 1A–C), which is consistent with neutrophil localization patterns described previously [21],[22]. However, in Tnfa- and Tnfr2-deficient larvae, approximately 40% of neutrophils were located outside the CHT (Figure 1A–C). In addition, Tnfr1-deficient animals showed a normal neutrophil distribution, whereas their double deficient siblings for both Tnfr1 and Tnfr2 showed also a distribution pattern more similar to single Tnfr2-deficient fish (Figure 1A–C). The specificity of this phenotype was confirmed with a dominant negative (DN) Tnfr2, which is lacking the entire intracellular signaling domain, but is identical to full-length Tnfr2 in its transmembrane and extracellular domains, and therefore, its trimerization with endogenous Tnfr2 extinguishes Tnfr2 signaling [19]. The results showed that the altered neutrophil distribution of Tnfr2 morphants was phenocopied by overexpression of DN-Tnfr2 (Figure S1A). In addition, the scattered distribution of Tnfa- and Tnfr2-deficient larvae was partially rescued by overexpression of wild-type Tnfa and Tnfr2 RNAs, respectively (Figure S1B). These results prompted us to examine the distribution of macrophages in TNFα- and TNFR2-deficient fish, and surprisingly, macrophage distribution was apparently normal in all cases (Figure S2).\n\nTo ascertain the precise localization of neutrophils in Tnfa/Tnfr2-deficient larvae, we knocked down Tnfr2 in transgenic mpx:eGFP animals followed by whole mount immunohistochemistry (WIHC) against p63 (basal keratinocyte marker) to visualize neutrophils (GFP+) and skin keratinocytes (p63+) at the same time in whole larvae. The results revealed that although neutrophils from wild-type animals were mainly located in the CHT, a high proportion of neutrophils were seen in close contact with keratinocytes in Tnfr2-deficient animals (Figure 1D and Videos S1 and S2). Collectively, these results indicate that deficiency of either Tnfa or Tnfr2 specifically promotes neutrophil infiltration into the skin of zebrafish during early development.\n\nTnfa or Tnfr2 Deficiency Triggers the Induction of Genes Encoding Pro-Inflammatory Mediators in Keratinocytes\n\nThe phenotype of Tnfa- and Tnfr2-deficient fish is reminiscent of that of spint1a and clint1 mutant fish, which show chronic skin inflammation characterized by increased interleukin-1β (IL-1β) production and neutrophil infiltration [23]–[25]. This led us to examine the expression of three genes encoding major pro-inflammatory molecules, namely Tnfa itself, IL-1β, and prostaglandin-endoperoxide synthase 2b (PTGS2b, also known as COX2b), in whole wild-type and Tnfr2-deficient larvae at 3 dpf as well as in sorted mpx:eGFP+ cells—that is, neutrophils. It was found that Tnfr2 deficiency triggered the expression of tnfa, il1b, and ptgs2b genes (Figure 2A). Although neutrophils highly expressed the genes encoding Tnfa and Il1b as well as both Tnfrs, they did not mediate the induction of il1b observed in Tnfr2-deficient fish (Figures 2B, S3A, and S4A). Nevertheless, the transcript levels of tnfa were higher in neutrophils from Tnfr2-deficient fish than in neutrophils from their wild-type siblings (Figure 2B), but this might reflect a positive feedback loop in response to Tnfr2 deficiency [19]. In addition, Tnfr2-deficient embryos showed higher transcript levels of il1b at 24 hpf (Figure S5), soon after the development of the first neutrophils in the zebrafish embryo [21],[22],[26] and before hatching. We then sorted krt18+ cells from Tnfa- and Tnfr2-deficient animals at 3 dpf and found that they show much higher transcript levels of il1b and ptgs2b than krt18+ cells from wild-type animals (Figures 2C and S3B). Notably, krt18+ cells expressed both Tnf receptors (Figure S4B) and the specific marker of basal keratinocytes p63 (Figure S3B).\n\nWe next wondered whether knockdown of Il1b using a specific morpholino (MO) [27] might rescue the neutrophil dispersion of Tnfr2-deficient animals. As shown in Figure 2D, genetic inhibition of Il1b failed to rescue the neutrophil dispersion observed in Tnfr2 morphants. These results taken together indicate that the Tnfa/Tnfr2 axis is required for skin homeostasis in zebrafish and that the deficiency of either ligand or receptor triggers an inflammatory response characterized by the induction of pro-inflammatory mediators and neutrophil infiltration.\n\nTnfa and Tnfr2 Deficiencies Induce NF-κB Activation in the Skin\n\nThe master regulator of inflammation NF-κB plays an essential role in the homeostasis of skin. Thus, genetic inhibition of the NF-κB pathway in keratinocytes triggers a severe inflammatory skin disease in newborn mice, which is completely rescued by Tnfa and Tnfr1 depletion [12]–[16]. We therefore use a NF-κB reporter line [28] to visualize the dynamics of NF-κB in whole Tnfr2-deficient larvae. Injection of bacterial DNA, which activated TLR9, resulted in a drastic activation of NF-κB in the whole larvae (Figure 3A–B), as expected from previous results [29],[30]. Interestingly, Tnfr2 deficiency promoted a restricted activation of NF-κB in the skin (Figure 3A–E and Videos S3 and S4). Furthermore, although skin integrity was unaffected up to 5 dpf in Tnfr2-deficient larvae, as assayed by histology (Figure S6), they showed increased keratinocyte proliferation, as assayed in double transgenic NF-κB:eGFP; krt18:RFP animals and double WIHC with anti-RFP and anti-phosphorylated H3 (Figure 4).\n\nTnfa and Tnfr2 Deficiencies Trigger H2O2 Production in the Skin\n\nHydrogen peroxide gradients were recently shown to contribute to the early influx of neutrophils in wound [31] and tumor [32]. Interestingly, however, H2O2 is not required for neutrophil detection of localized infection [33]. These gradients are created by the dual oxidase 1 (Duox1) [31] and sensed by neutrophils through the tyrosine kinase Lyn [34]. Although identified and best studied in the zebrafish, H2O2 is likely to play the same function in human neutrophils [34]. We first analyzed the expression of the gene encoding Duox1 and found that Tnfr2-deficient keratinocytes showed higher transcript levels of duox1 than wild-type animals (Figure 5A). Next, using an H2O2-detecting fluorescence probe, we observed that Tnfr2-deficient larvae also produced H2O2 in the skin (Figure 5B,C). We observed similar levels of labeling with the H2O2 probe in Tnfr2-deficient keratinocytes and in local keratinocytes after wounding (Figure S7). Notably, H2O2 production by Tnfr2-deficient keratinocytes preceded the activation of NF-κB (Figure S8). Consistent with these observations, genetic inhibition of Duox1 with a specific MO [31] was able to partially prevent the infiltration of neutrophils into the skin of Tnfr2-deficient larvae (Figure 5D,E). To further confirm this result, we designed a DN form of Duox1 [35], and notably, overexpression of DN-Duox1 was also able to partially prevent neutrophil infiltration in Tnfr2-deficient larvae (Figure S9A,B). Furthermore, we knocked down the H2O2 sensor of neutrophils, Lyn [34], and found full prevention of neutrophil infiltration in both Tnfr2- and Tnfa-deficient animals (Figure 5F,G).\n\nPharmacological Inhibition of Duox1 Restores Skin Homeostasis in Tnfa- and Tnfr2-Deficient Animals\n\nThe above results prompted us to evaluate whether pharmacological inhibition of Duox1 using the NADPH oxidase inhibitor dibenziodolium chloride (DPI), which has been shown to inhibit Duox1 and H2O2 gradient formation in zebrafish [31],[34], may restore skin homeostasis in Tnfa- and Tnfr2-deficient larvae. The results showed that DPI treatment completely inhibited the generation of H2O2 in the skin (Figure 5B,C), the infiltration of neutrophils (Figure 6A–C) into this tissue, and more importantly, skin NF-κB activation (Figure 6D–F) in both Tnfa- and Tnfr2-deficient animals. Collectively, these results demonstrate that the Tnfa/Tnfr2 axis is indispensable for skin homeostasis and its inhibition results in the release of Duox1-derived H2O2, local activation of NF-κB, induction of genes encoding Duox1 and pro-inflammatory mediators, and neutrophil infiltration.\n\nDUOX1 Is Induced in Human Psoriasis and Lichen Planus Lesions\n\nThe crucial role of Duox1-generated H2O2 in the infiltration of neutrophils into the skin and the induction of NF-κB prompted us to investigate if this inflammatory signal may also play a role in human psoriasis and lichen planus. We analyzed by immunohistochemistry 10 healthy skins and 8 lichen planus and 15 psoriasis lesions using an antibody to human DUOX1 (Figure 7). The results showed that although DUOX1 was expressed at low levels in healthy epidermis, mainly in the granular layer, a drastic induction of this enzyme was obvious in the keratinocytes of the spinous layer of the epidermis from both psoriasis and lichen planus lesions. In some patients, the induction was obvious in all keratinocytes of the spinous layer, whereas in others it was observed only in the upper layers of this stratum. It was noticeable the localization of DUOX1 in the plasma membrane of psoriasis and lichen planus keratinocytes and also in their cytoplasm, where it was accumulated in the upper side of these cells—that is, facing the cornified layer. Although this particular distribution deserves further investigation, these results strongly suggest a role for DUOX1 in psoriasis and lichen planus.\n\nDiscussion\n\nIncreased production of TNFα is associated with the development of autoimmune/chronic inflammatory diseases, including psoriasis, lichen planus, rheumatoid arthritis, and IBD. We have used the unique advantages of the zebrafish embryo for in vivo imaging and cell tracking to demonstrate that the genetic depletion of Tnfa or Tnfr2, but not Tnfr1, caused the infiltration of neutrophils into the skin and hyperproliferation of keratinocytes through the activation of an H2O2/NF-κB/Duox1 positive feedback inflammatory loop (Figure 8). Strikingly, neutrophils, but not macrophages, are rapidly attracted to the skin. However, the activation of NF-κB and the induction of the gene encoding Il1b in the skin occurred before the appearance of the first neutrophils in the developing embryo. More importantly, DUOX1 was also strongly induced in the skin lesions of psoriasis and lichen planus patients. Collectively, these results (i) indicate a critical role of TNFα/TNFR2 signaling in the protection of the skin against oxidative stress, (ii) might explain the appearance of psoriasis and lichen planus in patients treated with anti-TNFα therapies [5]–[10], and (iii) support the idea that specific inhibition of the TNFα/TNFR1 signaling axis while leaving TNFα/TNFR2 signaling unaffected would inhibit the pathological effects of TNFα and reduce the side effects associated with this therapy [19],[36]. This apparent discrepancy with TNFα-deficient mice, which do not show skin inflammation, may be due to developmental and/or physiological compensations, which probably do not exist in humans [37]–[39].\n\nOne of the most intriguing observations from this study is that impaired Tnfr2 signaling led to the induction of duox1 and the production of H2O2 by keratinocytes. H2O2 gradient was recently shown to contribute to the early influx of neutrophils in wound [31] and tumor [32], although it seems to be dispensable for neutrophil detection of localized infection [33]. To the best of our knowledge, this is the first study showing a role for Duox1-derived H2O2 in the induction of NF-κB in the skin in vivo, suggesting that H2O2 might play a critical role in the initiation and maintenance of chronic inflammatory diseases in both zebrafish and human. These observations suggest that antioxidants or inhibition of Duox1 might be therapeutic for the treatment of patients suffering from psoriasis, lichen planus, and other inflammatory diseases. Supporting this notion, several studies using psoriasis and IBD mouse models have shown that transgenic overexpression of endogenous antioxidant genes promotes protection, while antioxidant gene knockout promotes sensitization (reviewed by [40],[41]). Even more importantly, the antioxidant levels and the oxidative stress biomarkers are usually correlated with the disease severity and the extent of inflammation in the psoriasis and IBD patients [40]–[42]. Therefore, all these results taken together suggest that antioxidants should be considered as part of a more specific and effective therapy for the treatment of inflammatory skin diseases, including psoriasis and lichen planus. The ability of Duox1 inhibition by pharmacological approaches, but not of IL-1β, to restore skin homeostasis in Tnfa- and Tnfr2-deficient zebrafish embryos further supports this conclusion.\n\nIt is known that different reactive oxygen species (ROS) act as second messengers, influencing various cellular signal transduction pathways, including NF-κB. However, there are still many inconsistencies concerning the influence of oxidative stress on NF-κB activity [43], and unfortunately, most studies have been performed in vitro using H2O2 and cultured cells [44],[45]. Such studies have shown that H2O2 can act as an activator of IκB kinases (IKKs) [46] or can inactivate these proteins [47], probably depending on the cell type. More recently, it has been found that the same prolyl hydroxylases that confer oxygen sensitivity to the hypoxia-inducible factor (HIF) pathway, namely PHD1 and PHD2, seem to act as repressors of the canonical NF-κB pathway through mechanisms that could include direct hydroxylation of IKKβ [48]. Our epistasis study in zebrafish demonstrates for the first time that the absence of Tnfa/Tnfr2 signaling led to the production of H2O2 by keratinocytes, which, in turn, resulted in NF-κB activation and the induction of genes encoding pro-inflammatory mediators. This self-perpetuating cycle may be of clinical importance in view of the presumably key role played by oxidative stress [40]–[42], HIF [49],[50], and NF-κB in psoriasis and IBD. It is tempting to speculate that the Tnfa/Tnfr2 axis would be required to prevent skin oxidative stress through the regulation of ROS-detoxifying enzymes, as it has been reported for oligodendrocyte progenitor cells in vitro [51]. The model reported here might contribute to clarify the mechanisms involved in the regulation of oxidative stress by TNFα, the regulation of NF-κB activity by ROS, and the crosstalk between oxidative stress and inflammation in vivo.\n\nThe essential role played by NF-κB in the homeostasis of the skin is evidenced by the human X-linked genodermatosis IP, which affects the regulatory subunit of IKK (IKKγ, NEMO) [17]. Humans suffering from this genetic disease exhibit severe skin inflammation, paradoxically due to impaired NF-κB activation and reduced resistance to TNFα/TNFR1-mediated apoptosis [52],[53]. Similarly, although NF-κB actively participates in the excessive inflammatory response observed in IBD patients [54],[55], recent studies with mice defective in NF-κB activation have revealed that epithelial NF-κB activation is essential to preserve intestinal homeostasis [56],[57]. Therefore, a critical NF-κB signaling balance is required for skin and gut homeostasis, as both excessive and defective epithelial NF-κB activation can result in inflammation. Similarly, although the TNFα/TNFR1 axis was earlier appreciated to be involved in the apoptosis of both keratinocytes and enterocytes in the absence of NF-κB signaling [52],[53],[56],[57], our results show that TNFα signaling through TNFR2 is also critically required for skin homeostasis. Whether the TNFα/TNFR2 axis is also required for gut homeostasis will require further investigation using germ-free and gnotobiotic zebrafish larvae, as host–microbe interactions have a profound impact in gut physiology and are usually involved in IBD.\n\nIn conclusion, we have found that Tnfa signaling through Tnfr2 is indispensably required for the protection of the skin against oxidative stress-induced inflammation in the zebrafish. Thus, the absence of this signal triggers the local production of H2O2 by Duox1, which, in turn, activates NF-κB and results in the up-regulation of genes encoding pro-inflammatory mediators and neutrophil infiltration. These results, together with the induction of DUOX1 in the skin lesions of psoriasis and lichen planus patients, reveal a crucial role of H2O2 and DUOX1 in skin inflammation and suggest that pharmacologic and genetic therapies that target these two key factors could provide innovative approaches to the management of psoriasis, lichen planus, and other chronic inflammatory diseases.\n\nMaterials and Methods\n\nEthics Statement\n\nThe experiments performed comply with the Guidelines of the European Union Council (86/609/EU). Experiments and procedures were performed as approved by the Bioethical Committee of the University of Murcia (approval no. 537/2011) and the Ethical Clinical Research Committee of the University Hospital Virgen de la Arrixaca (approval no. 8/13).\n\nAnimals\n\nZebrafish (Danio rerio H.) were obtained from the Zebrafish International Resource Center and mated, staged, raised, and processed as described [58]. The lines Tg(mpx:eGFP)i114 [59], Tg(lyz:dsRED)nz50 [60], Tg(mpeg1:eGFP)gl22 [61], and Tg(krt18:RFP) [62] were previously described. The Tg(NFκB-RE:eGFP) (NF-κB:eGFP for simplicity) line was generated with the method and constructs previously described [28].\n\nMO, RNA Injection, and Chemical Treatments\n\nSpecific MOs (Gene Tools) were resuspended in nuclease-free water to 1 mM (Table S1). In vitro–transcribed RNA was obtained following the manufacturer's instructions (mMESSAGE mMACHINE Kit, Ambion). MOs and RNA (200 pg/egg) were mixed in microinjection buffer (0.5× Tango buffer and 0.05% phenol red solution) and microinjected into the yolk sac of one- to eight-cell-stage embryos using a microinjector (Narishige) (0.5–1 nl per embryo). The same amounts of MOs and/or RNA were used in all experimental groups. The efficiency of the MOS was checked by RT-PCR as described previously [19],[27],[31],[34].\n\nIn some experiments, 1 dpf embryos were manually dechorionated and/or treated for 24 h at 28°C by bath immersion with the NADPH oxidase inhibitor dibenziodolium chloride (DPI, Sigma-Aldrich) at a final concentration of 100 µM diluted in egg water supplemented with 1% DMSO.\n\nLive Imaging of Zebrafish Larvae\n\nAt 72 hpf, larvae were anesthetized in tricaine and mounted in 1% (wt/vol) low-melting-point agarose (Sigma-Aldrich) dissolved in egg water [63]. Images were captured with an epifluorescence Lumar V12 stereomicroscope equipped with green and red fluorescent filters while animals were kept in their agar matrixes at 28.5°C. All images were acquired with the integrated camera on the stereomicroscope and were used for subsequently counting the number of neutrophils (mpx:eGFP) and examining their distribution. The activation of NF-κB was visualized and quantified using the line NF-κB::eGFP. Stacked images were captured using 1 µm (neutrophil infiltration into the skin) or 25 µm (neutrophil distribution, NF-κB activation, and H2O2 formation) increments and deconvolved using Huygens Essential Confocal software (v 4.1 0p6b) by Scientific Volume Imaging. Stacks were processed using the free source software ImageJ (http://rsbweb.nih.gov/ij) to obtain a maximum intensity projection of the xy axis of the stack. For the quantification of neutrophil distribution and NF-κB activation, the maximum projection for each larva was then converted to a fluorescence value matrix, where the value obtained for each pixel transversally was the mean ± S.E.M. for all the pixels for each row (15 larvae per treatment from 3 different experiments). In parallel, the activation of NF-κB in the skin was also quantified by the skin NF-κB activation index, which was defined as the fluorescence in the skin (a+b) relative to the total fluorescence of the larvae (c).\n\nH2O2 imaging using a live cell fluorogenic substrate was performed essentially as previously described [32]. Briefly, 3-dpf tnfα and Tnfr2 morphants and their control siblings were loaded for 30 min with 50 µM acetyl-pentafluorobenzene sulphonyl fluorescein (Cayman Chemical) in 1% DMSO in egg water and imaged as above. As a positive control, complete transfection of the tail of anesthetized 72 hpf larvae was performed with a disposable sterile scalpel [63].\n\nFlow Cytometry\n\nAt 3 dpf, approximately 300 to 500 Tg(mpx:eGFP) and Tg(krt18:RFP) larvae were anesthetized in tricaine, minced with a razor blade, incubated at 28°C for 30 min with 0.077 mg/ml Liberase (Roche), and the resulting cell suspension passed through a 40 µm cell strainer. Sytox (Life Technologies) was used as a vital dye to exclude dead cells. Flow cytometric acquisitions were performed on a FACSCALIBUR (BD), and cell sorting was performed on a Coulter (Epics Altra). Analyses were performed using FlowJo software (Treestar).\n\nAnalysis of Gene Expression\n\nTotal RNA was extracted from whole embryos/larvae or sorted cell suspensions with TRIzol reagent (Invitrogen) following the manufacturer's instructions and treated with DNase I, amplification grade (1 U/µg RNA; Invitrogen). SuperScript III RNase H− Reverse Transcriptase (Invitrogen) was used to synthesize first-strand cDNA with oligo(dT)18 primer from 1 µg of total RNA at 50°C for 50 min. Real-time PCR was performed with an ABI PRISM 7500 instrument (Applied Biosystems) using SYBR Green PCR Core Reagents (Applied Biosystems). Reaction mixtures were incubated for 10 min at 95°C, followed by 40 cycles of 15 s at 95°C, 1 min at 60°C, and finally 15 s at 95°C, 1 min 60°C, and 15 s at 95°C. For each mRNA, gene expression was normalized to the ribosomal protein S11 (rps11) content in each sample using the Pfaffl method [64]. The primers used are shown in Table S2. In all cases, each PCR was performed with triplicate samples and repeated at least with two independent samples.\n\nHistology and WIHC\n\nLarvae were fixed overnight in 4% paraformaldehyde solution (PFA), embedded in Paraplast Plus (Sherwood Medical), and sectioned at a thickness of 5 µm. After being dewaxed and rehydrated, they were stained with haematoxylin and eosin (H&amp;E).\n\nTg(mpx:eGFP) or Tg(NF-κB:eGFP); Tg(krt18:RFP) 3 dpf larvae were fixed overnight at 4°C in 4% PFA at room temperature, dehydrated in methanol/PBS solutions (25, 50, 75, and 100%, 5 min each), and stored in 100% methanol at −20°C. For staining, larvae were rehydrated in 75, 50, and 25% methanol/PBT (PBS and 0.1% Tween-20) solutions for 5 min each, washed three times for 5 min in PBT, incubated for 5 min RT with 150 mM Tris-HCl pH 9, followed by heating at 70°C for 15 min [65]. After the heating treatment, larvae were directly washed twice in PBT for 10 min and twice in dH2O for 5 min. Subsequently, to enhance tissue permeabilization, larvae were incubated with cold acetone for 20 min at −20°C, washed twice in dH2O and twice in PBT (5 min each), followed by blocking with blocking solution (PDT = PBT+1% DMSO) supplemented with 5% FBS and 2 mg/ml BSA) for 2 h at 22°C. After blocking, embryos were incubated overnight at 4°C with primary antibodies diluted (1∶200) in blocking buffer, washed three times in PDT (15 min each), and blocked again for 2 h at 22°C. Secondary antibody staining was done for 2 h RT at 1∶500 dilution in blocking buffer, and larvae were then washed five times in PBT (5 min each) and stored in Vectashield (Vector Labs) until image acquisition. The following primary antibodies were used: rabbit anti-phosphorylated-Histone H3 (Ser 10)-R (#SC8656-R, Santa Cruz Biotechnology) and rabbit anti-human p63 (#SC8343, Santa Cruz Biotechnology). Mouse anti-RFP (#MA5-15257, Thermo Scientific) and Alexa Fluor 594 (#A11032) and Alexa Fluor 532 (#A11002) Goat Anti-Mouse IgG (H+L) (Life Technologies) were used as secondary antibodies.\n\nConfocal immunofluorescence images were acquired with a confocal microscope (LEICA TCS-SP2, Leica) using an NA 0.70/20× dry objective. Z-series were acquired using a 210–300 µm pinhole. The 2D and 3D maximum intensity projections and corresponding animation videos were made using ImageJ (http://rsb.info.nih.gov/ij/).\n\nHuman Skin Samples\n\nSkin biopsies from healthy donors (n = 10) and lichen planus (n = 8) and psoriasis patients (n = 15) were fixed in 4% PFA, embedded in Paraplast Plus, and sectioned at a thickness of 5 µm. After being dewaxed and rehydrated, the sections were incubated in 50 mM glycine-HCl buffer (pH 3.5) containing 0.01% ethylenediaminetetraacetic acid (EDTA) at 95°C for 5 min and then at room temperature for 20 min to retrieve the antigen. Afterwards, they were immunostained with a 1/50 dilution of a goat polyclonal antibody to human DUOX1 (sc-48858, Santa Cruz Biotechnology) followed by ImmunoCruz goat ABC Staining System (sc-2023, Santa Cruz Biotechnology) following the manufacturer's recommendations. The specificity of the staining was confirmed by pre-incubating a 10-fold excess (in molarity) of a commercial blocking peptide (sc-48858 P, Santa Cruz Biotechnology) with the DUOX1 antibody overnight at 4°C. No staining was observed in these conditions. Sections were finally examined under a Leica microscope equipped with a digital camera Leica DFC 280, and the photographs were processed with Leica QWin Pro software.\n\nStatistical Analysis\n\nData were analyzed by analysis of variance (ANOVA) and a Tukey multiple range test to determine differences between groups. The differences between two samples were analyzed by the Student t test. The contingency graphs were analyzed by the Chi-square (and Fisher's exact) test.\n\nSupporting Information"
+}

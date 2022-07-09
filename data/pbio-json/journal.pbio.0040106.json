@@ -1,0 +1,45 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0040106",
+  "doi": "10.1371/journal.pbio.0040106",
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Relaxing the Clock Brings Time Back into Phylogenetics",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2006-05",
+  "dateElectronic": "2006-03-14",
+  "volume": "4",
+  "number": "5",
+  "pages": "e106",
+  "tags": [
+    "Discipline/Computational Biology",
+    "Discipline/Ecology",
+    "Discipline/Evolutionary Biology",
+    "Discipline/Evolutionary Biology/Paleontology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Virology",
+    "System Taxonomy/Animals",
+    "System Taxonomy/Eubacteria",
+    "System Taxonomy/Plants",
+    "System Taxonomy/Primates",
+    "System Taxonomy/Yeast and Fungi",
+    "Type/Synopsis"
+  ],
+  "fullText": "The hypothesis of a “molecular clock”—a constant rate of mutation over evolutionary time—revolutionized phylogenetics, the study of evolutionary relationships among organisms. Using the assumption of this constant rate, one can determine the time since two organisms diverged from a common ancestor simply by toting up the number of DNA sequence differences between them. Thus, the molecular clock provided an important tool for constructing phylogenies, “trees” of relatedness, for organisms as diverse as primates and protists.\n\nHowever, the constancy of the mutation rate, both between different groups and within a single group over time, has been repeatedly challenged. As a result, the molecular clock has been largely abandoned in recent years for constructing phylogenetic trees. In its place has arisen a model that accepts that each branch may have its own rate of mutation. Relatedness between two organisms can still be determined and trees can still be drawn, but without a constant mutation rate, no estimate can be made of the time since divergence, and thus the position in time of the last common ancestor—the “root” of the tree—cannot be calculated.\n\nAn alternative approach, termed a “relaxed molecular clock,” has been developed to overcome the difficulties of both the molecular clock and unrooted phylogeny models. In a new study, Alexei Drummond, Andrew Rambaut, and colleagues describe a new approach to relaxed-clock analysis, showing that it can be used to simultaneously construct accurate trees and infer times of divergence.\n\nPrevious attempts to reintroduce a molecular clock into relaxed phylogenetics have posited differing, but correlated, rates of mutation along different branches. But filling in these rates requires specifying the topology of the tree—knowing who's related to whom—beforehand. This is often poorly known, and may be the very question phylogeneticists are trying to answer.\n\nDrummond et al. took a different approach. Using a set of artificial DNA sequences generated and mutated to form a rooted tree, they tested five different models of rate variations to determine which most accurately modeled the simulated evolution of this group. The five models included a strict molecular clock, in which mutation rates were the same on all branches at all times, as well as various modifications in which rates were correlated or uncorrelated among the branches. Using the phylogenetic analysis program called BEAST, they found that the most robust model—the one that did best under various starting conditions—was neither the strict molecular clock nor the correlated models, but the “uncorrelated relaxed-clock” models, in which the mutation rates in each branch are allowed to vary but within particular constraints.\n\nThey then tested their models in several real sets of data, including viruses, marsupials, plants, bacteria, and yeast. In the plant dataset, which was known to have the most “clock-like” evolution, the strict molecular clock model did best, not surprisingly. But the relaxed-clock model performed best overall among all the datasets, drawing trees that were closest to known relationships with the fewest missteps. And, unlike in the unrooted phylogenic approach, they were able to assign times of divergence to each branch on the tree.\n\nThe model developed by the authors promises to bring the very important question of time back into phylogenetic analysis. The ability of the model to create accurate trees may also make it of use even to scientists whose main interests are in understanding phylogenetic relationships, rather than the timing of evolutionary divergence.",
+  "externalIds": [
+    "pmid:20076564",
+    "pmcid:PMC1395352"
+  ]
+}

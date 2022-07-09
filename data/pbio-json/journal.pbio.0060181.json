@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0060181",
+  "doi": "10.1371/journal.pbio.0060181",
+  "externalIds": [
+    "pii:08-PLBI-S-2287R1",
+    "pmid:20076718",
+    "pmcid:PMC2459207"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Starting Over: The Search for Endogenous NKT Cell Ligands",
+  "authors": [
+    {
+      "name": "Caitlin Sedwick",
+      "first": "Caitlin",
+      "last": "Sedwick"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2008-07",
+  "dateElectronic": "2008-07-15",
+  "volume": "6",
+  "number": "7",
+  "pages": "e181",
+  "tags": [
+    "Discipline/Immunology",
+    "Type/Synopsis"
+  ],
+  "fullText": "Like a circus performer in a high-wire act, the human immune system teeters on a precarious perch. It must continually balance an effective defense against microbial invaders with the need to avoid the kind of inappropriate immune activity that leads to autoimmune disease. The consequences of a misstep can be disastrous.\n\nNatural killer T (NKT) cells, a specialized type of T cell, constitute one of the fulcrums upon which a functional and appropriate immune response balances. Although present in very small numbers in the body, NKT cells can produce large amounts of cytokines, thereby potently manipulating the activities of other cells of the immune system. However, the precise role of NKT cells in the immune response is unclear; in some circumstances, the cytokines made by NKT cells can prod a developing immune response into high gear to help fight off microbial invaders and cancer. But in other cases, NKT cells help prevent autoimmunity by strengthening immunosuppressive pathways. A better grasp of the functions of these enigmatic cells is essential to understanding the workings of the immune system.\n\nOne important question about NKT cells concerns the nature of the signals that are used in the body to regulate their development and function. NKT cells respond to glycolipids presented to them by other body cells (the glycolipids are presented in complexes with the CD1d protein, a relative of the major histocompatibility complex, [MHC] protein family). But just which glycolipids regulate NKT cell activity within the body? So far, the search for endogenous glycolipids that can activate NKT cells has turned up just one major contender: isoglobotrihexosylceramide (iGb3). This lipid is present in mice and can potently activate both mouse and human NKT cells. However, the role of iGb3 in NKT cell activation is a controversial subject, because not all research has supported the involvement of iGb3. Now, in this issue of PLoS Biology, Dale Christiansen, Mauro Sandrin, and colleagues deal a major blow to the importance of iGb3 in NKT cell activation by showing that the enzyme responsible for its synthesis—iGb3 synthase (iGb3S)—is neither expressed nor functional in humans.\n\nIn their article, Christiansen et al. describe their efforts to determine whether iGb3 is an endogenous ligand for human NKT cells. Another research group had earlier thrown doubt on the importance of iGb3 when they were unable to detect iGb3 in mouse or human thymus (a major organ of the immune system). Therefore, Christiansen and colleagues first looked to see if they could find the mRNA for iGb3S in human tissues using reverse-transcriptase (RT)-PCR. They could not detect iGb3S mRNA in any of the human tissues tested, although the possibility remained that the RT-PCR assay was not sufficiently sensitive to detect the mRNA if it were expressed at very low levels. This prompted the researchers to examine whether human iGb3S mRNA would be functional if it were expressed.\n\nTo determine whether human iGb3S has enzymatic activity, the group replaced the catalytic domain of rat iGb3S with that from the human sequence. They then expressed this hybrid protein in a cell line and looked to see whether it could synthesize iGb3. While normal rat iGb3S efficiently makes iGb3, the human–rat hybrid protein failed to make any iGb3 at all. Furthermore, changing just two amino acids in the rat iGb3S sequence to the ones found in the analogous positions of the human version was sufficient to completely inactivate the rat enzyme. The authors concluded that even if a protein product were made from the human iGb3S gene, it would likely be inactive due to the presence of multiple mutations. Collectively, these data show that humans lack the enzyme that is thought to be required to make iGb3. This finding challenges the idea that iGb3 has any role in the development or maintenance of human NKT cell populations. While the agonist properties of iGb3 for NKT cells is not in dispute and further studies into the significance of this molecule as an NKT cell ligand are warranted, it is becoming increasingly clear that the search for the endogenous glycolipid NKT ligand(s) must be re-started if we are to gain a better understanding of this cell type and its role in controlling the balance of immune function.\n\nThe absence of iGb3 in humans has other important physiological implications, beyond the control of NKT cells. For example, Christiansen and colleagues showed that humans actually make antibodies to iGb3 (presumably because iGb3 is not normally present in the body) and that these antibodies can cause the lysis of cells that express iGb3. This is potentially important for the field of transplantation biology, which has been increasingly looking to our mammalian cousins as potential sources for organ transplantation. For example, pigs can be genetically manipulated to be more similar to transplant recipients. However, because pigs express iGb3 and humans do not, any organs transplanted from pigs to humans might face antibody or NKT cell-mediated attacks against the iGb3 antigen."
+}

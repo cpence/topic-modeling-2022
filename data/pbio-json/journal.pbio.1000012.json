@@ -1,0 +1,38 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1000012",
+  "doi": "10.1371/journal.pbio.1000012",
+  "externalIds": [
+    "pii:08-PLBI-S-5225",
+    "sici:plbi-07-01-11",
+    "pmid:20076725",
+    "pmcid:PMC2628403"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Feedback System Protects Inner Ear",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2009-01",
+  "dateElectronic": "2009-01-20",
+  "volume": "7",
+  "number": "1",
+  "pages": "e1000012",
+  "tags": [
+    "Discipline/Neuroscience",
+    "Discipline/Physiology",
+    "Type/Synopsis"
+  ],
+  "fullText": "Rock ‘n’ roll sounds best turned up loud, but as hundreds of aging rockers (and millions of their aging fans) are discovering, the cost of all that glorious noise is hearing loss and tinnitus. And it's not just loud music—our ears are daily assaulted by the roar of the jet engine, the shriek of the power tool, the blare of the car horn, and the pounding of the jackhammer. In most cases, it seems that our only protection is to close the window or cover our ears. But, according to new research by Taranda et al., it turns out we have another, quite ancient defense against these modern assaults—a way to turn down the noise is wired right into our hearing systems. While the discovery can't bring back your lost hearing, it may lead to ways to better protect what you have left.\n\nTo understand the discovery, it helps to remember how the ear processes sound. Pressure waves in the air vibrate the ear drum, pushing and pulling on three tiny bones just beyond them, which transmit these vibrations to fluid within the spiral-shaped cochlea. That fluid lies atop a sheet of cells, and the fluid's motion distorts cilia (hairs), which protrude from the tips of those cells. The cells are of two kinds, called inner and outer hair cells. Inner hair cells are connected to the neurons of the auditory nerve, and when cilia on inner hair cells are distorted, they trigger those neurons to fire. These neuronal signals travel to the brain, and we hear the music.\n\nOuter hair cells have a different function, based on a property unique to them: When their cilia are distorted by fluid vibrations, the cells elongate and shorten in length. Because they are attached to one side of the fluid chamber, their movements amplify the very vibration that set them in motion, increasing the sensitivity of the hearing apparatus, especially to the softest sounds.\n\nOuter hair cells have another curious property. They, too, make contact with neurons, but they don't send messages—they receive them from the brain. These incoming neurons fire in response to loud noises, releasing the neurotransmitter acetylcholine. This molecule binds to receptors on the outer hair cells, reducing their ability to change in length, thereby diminishing fluid vibration and cochlear amplification. The existence of this auditory feedback loop has been known for decades, and its cellular mechanisms for several years, but its function—whether for hearing protection, signal-noise resolution, or fine-tuning of auditory attention—has remained unclear.\n\nTo explore this, the authors crafted a mutant receptor whose response to acetylcholine was longer and stronger than the original. In mice, they found that the mutant receptors reduced the amplification ability of the hair cells, thereby diminishing the cochlea's sensitivity. This ability could be restored by specifically blocking the acetylcholine receptor with the poison strychnine, indicating that the mutant's effect was directly tied to its altered response to the incoming neuronal signal. Compared to wild-type mice, mice bearing the mutant receptor were protected against noise known to induce permanent hearing loss. Because the mutation introduced no new function, but only exaggerated the existing action of the feedback system, the authors conclude that the normal function of the system included protecting the inner ear from noise-induced damage.\n\nLoud noise causes permanent hearing loss by killing hair cells. These cells cannot be regenerated, and the current findings do not alter that. They do, however, strongly point to outer hair cells, and specifically their acetylcholine receptors, as targets to protect remaining hearing ability. Developing drugs that mimic the effect of the mutation—leading to more sustained receptor opening—would be an obvious first step. Further exploration of the outer hair cell system, facilitated by the author's mouse model, is likely to reveal other points of intervention to accomplish the same goal. This is still in the future, though. Until then, rock on—but you may want to turn it down a little."
+}

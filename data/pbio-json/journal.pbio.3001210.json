@@ -1,0 +1,308 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3001210",
+  "doi": "10.1371/journal.pbio.3001210",
+  "externalIds": [
+    "pii:PBIOLOGY-D-20-03622",
+    "pmid:34061821",
+    "pmcid:PMC8168848"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A return-on-investment approach for prioritization of rigorous taxonomic research needed to inform responses to the biodiversity crisis",
+  "authors": [
+    {
+      "name": "Jane Melville",
+      "first": "Jane",
+      "last": "Melville",
+      "affiliation": "Department of Sciences, Museums Victoria, Melbourne, Australia; Department of Biology, Washington University, St. Louis, MI, United States of America; School of Biological Sciences, Monash University, Clayton, Australia",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-9994-6423"
+      ]
+    },
+    {
+      "name": "David G. Chapple",
+      "first": "David G.",
+      "last": "Chapple",
+      "affiliation": "School of Biological Sciences, Monash University, Clayton, Australia"
+    },
+    {
+      "name": "J. Scott Keogh",
+      "first": "J. Scott",
+      "last": "Keogh",
+      "affiliation": "Division of Ecology & Evolution, Research School of Biology, Australian National University, Canberra, Australia",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-1373-6186"
+      ]
+    },
+    {
+      "name": "Joanna Sumner",
+      "first": "Joanna",
+      "last": "Sumner",
+      "affiliation": "Department of Sciences, Museums Victoria, Melbourne, Australia",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-0498-6642"
+      ]
+    },
+    {
+      "name": "Andrew Amey",
+      "first": "Andrew",
+      "last": "Amey",
+      "affiliation": "Biodiversity & Geosciences Program, Queensland Museum, Brisbane, Australia",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-6366-2875"
+      ]
+    },
+    {
+      "name": "Phil Bowles",
+      "first": "Phil",
+      "last": "Bowles",
+      "affiliation": "Snake & Lizard Red List Authority, CI-IUCN Biodiversity Assessment Unit, IUCN North America Office, Washington, DC, United States of America",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-7808-3892"
+      ]
+    },
+    {
+      "name": "Ian G. Brennan",
+      "first": "Ian G.",
+      "last": "Brennan",
+      "affiliation": "Division of Ecology & Evolution, Research School of Biology, Australian National University, Canberra, Australia",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-4416-5224"
+      ]
+    },
+    {
+      "name": "Patrick Couper",
+      "first": "Patrick",
+      "last": "Couper",
+      "affiliation": "Biodiversity & Geosciences Program, Queensland Museum, Brisbane, Australia",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-0439-6757"
+      ]
+    },
+    {
+      "name": "Stephen C. Donnellan",
+      "first": "Stephen C.",
+      "last": "Donnellan",
+      "affiliation": "South Australian Museum, North Terrace, Adelaide, Australia"
+    },
+    {
+      "name": "Paul Doughty",
+      "first": "Paul",
+      "last": "Doughty",
+      "affiliation": "Collections & Research, Western Australian Museum, Welshpool, Australia"
+    },
+    {
+      "name": "Danielle L. Edwards",
+      "first": "Danielle L.",
+      "last": "Edwards",
+      "affiliation": "Department of Life & Environmental Sciences, University of California, Merced, Merced, CA, United States of America",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-1165-4427"
+      ]
+    },
+    {
+      "name": "Ryan J. Ellis",
+      "first": "Ryan J.",
+      "last": "Ellis",
+      "affiliation": "Collections & Research, Western Australian Museum, Welshpool, Australia; Biologic Environmental Survey, East Perth, Australia",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-9272-8204"
+      ]
+    },
+    {
+      "name": "Damien Esquerré",
+      "first": "Damien",
+      "last": "Esquerré",
+      "affiliation": "Division of Ecology & Evolution, Research School of Biology, Australian National University, Canberra, Australia"
+    },
+    {
+      "name": "Jéssica Fenker",
+      "first": "Jéssica",
+      "last": "Fenker",
+      "affiliation": "Division of Ecology & Evolution, Research School of Biology, Australian National University, Canberra, Australia",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-7430-3886"
+      ]
+    },
+    {
+      "name": "Michael G. Gardner",
+      "first": "Michael G.",
+      "last": "Gardner",
+      "affiliation": "South Australian Museum, North Terrace, Adelaide, Australia; College of Science & Engineering, Flinders University, Adelaide, Australia"
+    },
+    {
+      "name": "Arthur Georges",
+      "first": "Arthur",
+      "last": "Georges",
+      "affiliation": "Institute for Applied Ecology, University of Canberra, Canberra, Australia"
+    },
+    {
+      "name": "Margaret L. Haines",
+      "first": "Margaret L.",
+      "last": "Haines",
+      "affiliation": "Department of Sciences, Museums Victoria, Melbourne, Australia"
+    },
+    {
+      "name": "Conrad J. Hoskin",
+      "first": "Conrad J.",
+      "last": "Hoskin",
+      "affiliation": "College of Science & Engineering, James Cook University, Townsville, Australia"
+    },
+    {
+      "name": "Mark Hutchinson",
+      "first": "Mark",
+      "last": "Hutchinson",
+      "affiliation": "South Australian Museum, North Terrace, Adelaide, Australia",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0003-2910-1983"
+      ]
+    },
+    {
+      "name": "Craig Moritz",
+      "first": "Craig",
+      "last": "Moritz",
+      "affiliation": "Division of Ecology & Evolution, Research School of Biology, Australian National University, Canberra, Australia"
+    },
+    {
+      "name": "James Nankivell",
+      "first": "James",
+      "last": "Nankivell",
+      "affiliation": "School of Biological Sciences, University of Adelaide, Adelaide, Australia",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0003-0521-7383"
+      ]
+    },
+    {
+      "name": "Paul Oliver",
+      "first": "Paul",
+      "last": "Oliver",
+      "affiliation": "Biodiversity & Geosciences Program, Queensland Museum, Brisbane, Australia; Environmental Futures Research Institute, Griffith University, Australia",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0003-4291-257X"
+      ]
+    },
+    {
+      "name": "Carlos J. Pavón-Vázquez",
+      "first": "Carlos J.",
+      "last": "Pavón-Vázquez",
+      "affiliation": "Division of Ecology & Evolution, Research School of Biology, Australian National University, Canberra, Australia",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0001-7484-7026"
+      ]
+    },
+    {
+      "name": "Mitzy Pepper",
+      "first": "Mitzy",
+      "last": "Pepper",
+      "affiliation": "Division of Ecology & Evolution, Research School of Biology, Australian National University, Canberra, Australia"
+    },
+    {
+      "name": "Daniel L. Rabosky",
+      "first": "Daniel L.",
+      "last": "Rabosky",
+      "affiliation": "Museum of Zoology & Department of Ecology and Evolutionary Biology, University of Michigan, Ann Arbor, MI, United States of America",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-7499-8251"
+      ]
+    },
+    {
+      "name": "Kate Sanders",
+      "first": "Kate",
+      "last": "Sanders",
+      "affiliation": "School of Biological Sciences, University of Adelaide, Adelaide, Australia"
+    },
+    {
+      "name": "Glenn Shea",
+      "first": "Glenn",
+      "last": "Shea",
+      "affiliation": "School of Veterinary Science, University of Sydney, Sydney, Australia; Australian Museum Research Institute, The Australian Museum, Sydney, Australia"
+    },
+    {
+      "name": "Sonal Singhal",
+      "first": "Sonal",
+      "last": "Singhal",
+      "affiliation": "Department of Biology, California State University, Dominguez Hills, Carson, CA, United States of America"
+    },
+    {
+      "name": "Jessica Worthington Wilmer",
+      "first": "Jessica",
+      "last": "Worthington Wilmer",
+      "affiliation": "Biodiversity & Geosciences Program, Queensland Museum, Brisbane, Australia",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0002-4362-4054"
+      ]
+    },
+    {
+      "name": "Reid Tingley",
+      "first": "Reid",
+      "last": "Tingley",
+      "affiliation": "School of Biological Sciences, Monash University, Clayton, Australia"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2021-06-01",
+  "dateAccepted": "2021-03-29",
+  "dateReceived": "2020-12-15",
+  "volume": "19",
+  "number": "6",
+  "pages": "e3001210",
+  "tags": [
+    "Amniotes",
+    "Animals",
+    "Cartography",
+    "Conservation biology",
+    "Conservation science",
+    "Data management",
+    "Discipline-v3/Amniotes",
+    "Discipline-v3/Animals",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Cartography",
+    "Discipline-v3/Computer and information sciences",
+    "Discipline-v3/Conservation biology",
+    "Discipline-v3/Conservation science",
+    "Discipline-v3/Data management",
+    "Discipline-v3/Earth sciences",
+    "Discipline-v3/Ecological metrics",
+    "Discipline-v3/Ecology",
+    "Discipline-v3/Ecology and environmental sciences",
+    "Discipline-v3/Endangered species",
+    "Discipline-v3/Eukaryota",
+    "Discipline-v3/Evolutionary biology",
+    "Discipline-v3/Evolutionary processes",
+    "Discipline-v3/Geography",
+    "Discipline-v3/Organisms",
+    "Discipline-v3/Reptiles",
+    "Discipline-v3/Speciation",
+    "Discipline-v3/Species delimitation",
+    "Discipline-v3/Species diversity",
+    "Discipline-v3/Squamates",
+    "Discipline-v3/Taxonomy",
+    "Discipline-v3/Vertebrates",
+    "Discipline-v3/Zoology",
+    "Ecological metrics",
+    "Ecology",
+    "Endangered species",
+    "Eukaryota",
+    "Evolutionary biology",
+    "Evolutionary processes",
+    "Geography",
+    "Organisms",
+    "Reptiles",
+    "Speciation",
+    "Species delimitation",
+    "Species diversity",
+    "Squamates",
+    "Taxonomy",
+    "Type/Meta-Research Article",
+    "Vertebrates",
+    "Zoology"
+  ],
+  "abstract": "Global biodiversity loss is a profound consequence of human activity. Disturbingly, biodiversity loss is greater than realized because of the unknown number of undocumented species. Conservation fundamentally relies on taxonomic recognition of species, but only a fraction of biodiversity is described. Here, we provide a new quantitative approach for prioritizing rigorous taxonomic research for conservation. We implement this approach in a highly diverse vertebrate group—Australian lizards and snakes. Of 870 species assessed, we identified 282 (32.4%) with taxonomic uncertainty, of which 17.6% likely comprise undescribed species of conservation concern. We identify 24 species in need of immediate taxonomic attention to facilitate conservation. Using a broadly applicable return-on-investment framework, we demonstrate the importance of prioritizing the fundamental work of identifying species before they are lost.",
+  "fullText": "Introduction\n\nSpecies-level listings of fauna and flora are the foundation of conservation management globally (e.g., the IUCN Red List). While most agencies have some provision for conservation units below the species level, ambiguity around definitions and lack of formal recognition of management units means these alternate taxonomies are not commonly employed or enforced [1]. Yet close inspection of many, if not most, highly diverse fauna and flora groups shows that significant work is needed to provide rigorous and comprehensive taxonomic documentation.\n\nThis problem is most profound in megadiverse groups, with recent estimates suggesting less than 20% of terrestrial arthropods have been described [2,3]. However, even in vertebrates, the extent of taxonomic uncertainty is astounding. New species are still being discovered, but undocumented diversity hidden within described “species” still looms large [4]. This hidden diversity is invisible to conservation assessment. These undescribed species often have small geographical ranges [5,6], making them of particular conservation concern because distribution size is a strong predictor of extinction risk [7].\n\nGlobally, there are many examples across all faunal groups of the impact of incomplete taxonomy in the conservation of species [8–15], with clear evidence that taxonomic research improves conservation efforts and outcomes [8,16]. Here, we provide an objective, transparent, and data-driven approach to ascertain which species are in greatest need of rigorous taxonomic research for subsequent conservation management. Using a return-on-investment approach [17], a well-established methodology used in conservation biology but not yet in taxonomy, we establish a framework to assess taxonomic need and prioritize species for more rigorous taxonomic research. We implement this method in Australian squamate reptiles, an ideal test case both because it is a highly diverse fauna and because it has been studied extensively by many taxonomic experts. However, our approach is readily transferrable to most organismal groups.\n\nSquamate reptiles (lizards, snakes, and amphisbaenians) are the most diverse order of terrestrial vertebrates, with more than 10,000 currently recognized species. Of the global squamate diversity, Australia stands out with more than 1,000 species (approximately 10% of global diversity). Moreover, Australia is a lizard-diversity hotspot [18] with very high endemicity: 98% of squamates species are found only in Australia [19]. The number of recognized Australian squamates has increased by 40% in the last 40 years [19]; a much larger increase than in any other Australian terrestrial vertebrate group. However, expert accounts suggest there are still significant levels of undescribed diversity in Australian squamates, with important implications for conservation.\n\nWe brought together experts in the taxonomy and systematics of Australian squamates, spanning researchers using both genetic and morphological approaches, to undertake structured expert elicitation to quantify outstanding taxonomic uncertainties in Australian squamates—the “known unknowns.” We compiled a dataset identifying species for which further taxonomic research is required, what research effort is required to complete species descriptions (the taxonomic process of species recognition), and the predicted conservation concern for the resulting new taxa (referred to as “candidate” species). We implemented a deliberately conservative approach for estimating the number and conservation concern of candidate species, ensuring a high level of confidence that prioritized taxa are of immediate need of rigorous taxonomic research.\n\nResults and discussion\n\nExpert assessment of taxonomic need\n\nOf 1,034 Australian squamate species, we were able to assess the taxonomic status of 870 (84.1%), with 282 of these probably or definitely needing taxonomic revision (S1 Table). The majority of these taxonomic revisions (216 of 282) would lead to an increase in species number, while another 43 species belong to large complexes where boundaries across current and candidate species are too complicated for clear-cut assessment of net increase or decrease in diversity. The remaining 11 species would lead to synonymy (amalgamation of 2 species into one). These results indicate that 24.8% (29.8% if large species complexes are included) of Australian squamate reptiles comprise additional, unrecognized species.\n\nThis potential increase in diversity was high across most squamate groups, and highest in 4 Australian squamate families (Diplodactylidae, Varanidae, Pythonidae, and Typhlopidae) that were each identified as having ≥30% of species requiring taxonomic revision. Although not as diverse as the squamates, an assessment of the remaining Australian reptiles (turtles and crocodiles) found a similar level of taxonomic uncertainty in freshwater turtles, with 26.1% (6 species) needing taxonomic revision that would lead to an increase in diversity (S2 Table).\n\nOur results suggest that the current IUCN estimate of 6.3% (Methods) of Australian squamates requiring taxonomic revision is a significant underestimate. While the IUCN assessment process recognizes the importance of taxonomic uncertainty to accurately assess the extinction risk of a species, its primary focus is on assessing species as currently recognized. Given most diverse faunal groups likely harbor similar, if not greater, levels of taxonomic uncertainty [20], this approach clearly underestimates the scale of taxonomic issues.\n\nTo further explore the conservation implications of the unrecognized taxonomic diversity of Australian squamates, we scored three conservation elements for each species group (Methods): highly localized species (used as a proxy for vulnerability to threatening processes [9]); probable threatening processes (i.e., factors that may cause candidate species to become threatened); and a high probability of an IUCN Red List threatened status (i.e., already within a threatened species group). There were 52 species (24.0%) needing taxonomic revision that were identified as containing unrecognized highly localized species, while 38 (17.6%) were conservatively identified as harboring undescribed species that would be of conservation concern.\n\nOur estimate that 17.6% of undescribed species may be of conservation concern is close to the global average (approximately 18%) of threatened squamates [19]. Currently, 7.1% (range 6.8% to 11.3%, depending on the treatment of Data Deficient species) of Australian squamates are of conservation concern [19]. It has been postulated that the low estimate of threatened squamates in Australia may be due to limited knowledge of population sizes, trends, and threats to which they are exposed, rather than a lower degree of imperilment [19]. Our study suggests that the low level of currently recognized threatened squamates in Australia may also be attributable to unresolved taxonomic issues leading to imperiled species being invisible to conservation assessment. Indeed, 4 out of the top 5 most imperiled reptile species in Australia were only described in the last decade [21].\n\nWe also visualized the spatial patterns of candidate species richness by overlaying species geographic range maps on a 25 × 25 km grid of Australia (Methods). The distribution of all species identified as requiring taxonomic revision reflects the richness of currently recognized species [19], with greatest richness in the northern Australian Monsoon Tropics, Wet Tropics, Central Desert Ranges, and the Pilbara (Fig 1A, including key for bioregions). While these regions already host the highest species richness, with approximately 120 species in some grid cells [19], some areas comprise more than 40 species (&gt;50 species in the Kimberley region in north-western Australia) that need further taxonomic research.\n\nThe geographic distribution of highly localized candidate species shows high species richness in the Australian Monsoon Tropics, particularly the Kimberley region, Wet Tropics, and mid-east Queensland (Fig 1B). In contrast, the geographic distribution of candidate species of probable conservation concern shows the highest mean values in southern Australia, particularly in Tasmania, western Victoria, Lord Howe Island, and Norfolk Island, even though there are more candidate species of conservation concern in the Australian Monsoon Tropics, Wet Tropics, Flinders Ranges, and Goldfields region (Fig 1C). This result largely reflects the current distribution of threatened species [19], where islands and south-eastern regions have lower species diversity but a heightened level of imperilment.\n\nReturn-on-investment analyses to prioritize taxonomic research\n\nWe then used the data to prioritize taxonomic revisions for enhanced conservation outcomes, employing a return-on-investment (ROI) analysis. We categorized the research resources (e.g., human effort, financial expense) needed to complete rigorous taxonomic revisions for species in relation to the level of likelihood a given species contains undescribed taxa that would be of conservation concern (Methods). A resulting ROI metric &gt;1 indicates a species that has high predicted conservation importance but lower research investment needed to complete rigorous taxonomic revision. Our analysis identified 24 species of lizards with an ROI ≥1 (Fig 2). The highest number of these species occur in the Kimberley region of the Australian Monsoon Tropics (Fig 1D); however, regions with high mean ROI values also include the offshore islands (Tasmania, Lord Howe and Norfolk Island groups), western Victoria, and the Tanami Desert region in northern Australia (Fig 1D). We suggest that all these regions are an immediate priority for conservation-focused taxonomic research.\n\nA continental-scale approach such as this can provide crucial information for targeting regions of high need for taxonomic research. However, this ROI assessment approach is easily scaled down to focus on a single species complex. We provide a case-study in a species complex of earless dragons (Tympanocryptis spp.) to demonstrate how this approach can also be applied at a smaller scale (S1 Text). In south-eastern Australia, earless dragons in the critically endangered temperate grasslands provide a powerful example of how candidate species can sit hidden and unrecognized to the detriment of conservation outcomes. A recent taxonomic revision [10,22] determined grassland earless dragons comprise a number of candidate species with a high probability of threatened status (Fig 3). One of these newly revised species may represent the first extinction of a reptile on mainland Australia—a probable extinction that occurred prior to taxonomic recognition [10]. Such sobering examples of species being described after they have gone extinct are surprisingly common and not restricted to particular faunal groups or geographic regions [23–26]. A quantitative approach, such as the one we outline here that identifies and prioritizes species for rigorous taxonomic research, may help prevent such occurrences in the future.\n\nGlobally, there is a significant backlog of species awaiting description across most organismal groups, largely due to the lack of resources to undertake taxonomic projects [27]. Recent large scale genomic and bar-coding projects are rapidly uncovering new species, with a $180 million global effort to identify more than 10 million new species [28]. These genetic initiatives provide a powerful approach to understanding global diversity, yet this is only the first step in the formal recognition of species. In the Australian squamates alone, there is a backlog of 26.4% of candidate species for which field samples and genetics/genomics data have been collected, but essential elements of taxonomic research are awaiting completion (Fig 4). The process of describing and naming species—taxonomy—requires multiple steps beyond genetic delineation, including comprehensive morphological/phenotypic/diagnostic assessment combined with a high level of familiarity and scholarship of the group in question [29]. To make a difference, resources need to be invested in taxonomy, including research funding and increased provision of viable career-paths [30,31].\n\nWithout taxonomic research, the conservation assessment and management of unrecognized species will not proceed [32]. There are untold numbers of species globally that are undocumented and are already under threat of extinction, possibly going extinct before we have the opportunity to save them. Our study demonstrates that large-scale approaches that unify taxonomic expertise and incorporate a return-on-investment methodology provide a powerful argument for targeting effort and resources. Such return-on-investment methods are well established in conservation biology for prioritization of conservation efforts and provide a promising new approach for targeting rigorous taxonomic research across many faunal groups.\n\nMethods\n\nStructured expert elicitation\n\nWe gathered a panel of experts on Australian squamate taxonomy and systematics. This panel worked on developing an easy to implement prioritization method to identify species of greatest need for rigorous taxonomic research in terms of conservation outcomes. The core of our expert panel was the Taxonomic Advisory Committee of the professional association, the Australian Society of Herpetologists, with additional panel members identified as being the taxonomic experts on specific squamate groups. Ten members of this expert panel had also participated in the 2017 IUCN Red List assessment workshops that assessed the conservation status of Australian squamates and were well versed in the process and guidelines for determining the various threatened categories.\n\nDuring these 2017 IUCN workshops, researchers provided expert assessments on currently recognized species. The IUCN assessment process is focused at the species level, although some sea turtles have some subpopulation-level assessments—mammals and birds have a higher incidence of subspecific assessments. Of 983 IUCN Red List assessments from Australia, Christmas Island, and Norfolk Island, 60 species (6.3% of assessments) are recorded as requiring further taxonomic research (available at https://www.iucnredlist.org/, Version 2019–2), spanning those that are Data Deficient (6 species), Endangered (2 species), Near Threatened (1 species), Vulnerable (2 species), and Least Concern (49 species). This level of taxonomic research needed in Australian squamates is somewhat lower than that recorded for squamates globally, with 900 listed as needing taxonomic work (12.4% of 7,259 squamates). It is unclear why there is a lower level of taxonomic research need recorded in Australia. Our experts anecdotally believed this was an underestimate of taxonomic uncertainties, either at the 6.3% of Australian squamates listed as currently requiring taxonomic research or the global average of 12.4%.\n\nConsequently, we developed a set of questions that aimed to determine whether taxonomic revision was likely to be required for a given species and if these revisions were considered likely to result in an increase or decrease in species diversity. Some species were deemed to be extremely complex, characterized as being a taxonomic “mess” without enough current information to reasonably predict an outcome. These species were put into a third category: “species complex.” Only those species categorized as leading to an increase in diversity were used in subsequent analyses.\n\nWe used 2 approaches to limit overinflation in our estimation of taxonomic uncertainty. Firstly, experts were asked to provide the level of confidence that taxonomic revision is needed, including: no revision, probably not, highly probable, and definitely. We then only used the last 2 categories in our analyses. Secondly, we used a binary system for categorizing whether taxonomic revision would lead to an increase, decrease, or a “species complex,” where 1 = yes and 0 = no. This is opposed to trying to estimate exactly how many species are contained within the current taxa. Our binary approach means that even if there are a small percentage of the “highly probable” and “definitely” categories that do not end up leading to an increase in diversity, it is only an overestimate of “1” for each case. This approach means that our assessment is a conservative one, as there are numerous species that contain multiple undescribed species, but with our binary methodology, they are counted as “1.”\n\nExperts then provided information on what research was needed to complete the taxonomic revision of the species, separated into separate categorical items: (i) fieldwork and additional sampling; (ii) genetics and/or genomics; (iii) morphological and/or other phenotypic data; and (iv) analysis and manuscript preparation. Again, we used a binary coding system for each of these categories, where 1 = yes and 0 = no.\n\nIn conjunction with these taxonomic questions, we also asked for information regarding the predicted conservation concern of any new species that would results from the taxonomic revisions assessed above. To assess this, we asked for information on 3 factors: distribution size; known presence of threatening processes; and current conservation status of “parent” species. Firstly, we asked whether there would be any highly localized species, defined as those species with an extent of occurrence smaller than 20,000 km2. This is the IUCN Red List threshold for being eligible to be considered Vulnerable, putting a species at greater risk from threatening processes. We used a binary coding system for each of these categories, where 1 = yes and 0 = no. Secondly, asked experts to predict whether any of the candidate species would be the subject of species-level threatening processes (as defined by the IUCN Red List), and thirdly, if there would be a high probability of a candidate species being assessed as Vulnerable (VU), Endangered (EN), or Critically Endangered (CR). Species were scored as having a high probability of containing undescribed threatened species if they were already VU, EN, or CR, or if there was a closely related and very similar species to the undescribed taxa that was listed as VU, EN, or CR. For each of these categories, threatening processes and high probability of being threatened, we used a binary coding system, where 1 = yes and 0 = no.\n\nExperts were asked to provide data only on those species for which they were able to give a meaningful, expert assessment. Free text cells were also provided for each section—taxonomy, research components, and predicted conservation concern—allowing further explanation of decisions. If experts were unable to provide a prediction of conservation concern, a conservative approach was taken and this section was scored as “0” (no concern).\n\nTo avoid influence of other expert opinions, spreadsheets without any assessment data were sent to each research group. The spreadsheets provided a list of all current species (rows) and columns for each of the taxonomic, research, and conservation criteria to be assessed. When spreadsheets were returned with assessment data, they were compiled by JM and JS. Any species for which there were multiple assessments sent in from different research groups were checked to see if they agreed. There was differing assessment in the need for taxonomic revision for 27 species, which fell into 3 categories: (1) morphological variation suggests potential candidate species, but unpublished genetic/genomic data suggest within species morphological variation (21 species); (2) morphological variation suggests potential geographically isolated, short-range endemic candidate species but no genetic/genomic data available for that location (5 species); and (3) genetic/genomic data provide strong evidence of short-range endemic candidate species; however, an assessor was unaware that a recent taxonomic publication has already described this species (1 species). Each of these cases was followed up with the researchers to gain more detail on the information they were using to provide this assessment and the confidence in the level of divergence, particularly for the second category, which was based on knowledge of morphological variation. Using a conservative approach, we coded those species in category (1) and (3) as not requiring taxonomic revision, and those in category (2) as having a high probability of taxonomic revision needed.\n\nExpert assessment was provided for 870 species of the 1,034 currently recognized Australian squamates (assessment provided in S1 Data). Of the assessments that were categorized as highly probable or definitely needing taxonomic revision, 273 were based on some form of genetic/genomic evidence, while 8 were based on morphological variation in geographically defined parts of a range. Summary data of assessments, used in further analysis, is provided in S1 Table. We provide an example species assessment on available data in the supplementary materials (S1 Text, S3 Fig, S3 Table).\n\nReturn-on-investment analyses\n\nReturn-on-investment (ROI) is a cost-effectiveness tool that has been used in conservation as a prioritization approach evaluating benefits against costs [17,33–35]. In contrast to the benefit–cost analysis (BCA), ROI typically examines a larger scale (e.g., a region or country) and does not does not require conversion of benefits into monetary equivalents [35]. It provides a more objective, transparent, and data-driven approach to evaluation, without the need to monetize analytical steps. In its simplest form, ROI analysis is estimated by dividing the conservation benefit of a particular action by the cost of taking that action [17]. As yet, ROI analysis has not been used in evaluating the role of taxonomic research in conservation. In our study, we applied an approach using a categorical score for the research steps needed to finalize taxonomic work (r1 → r4) on a given species as the relative “costs.” We then applied a categorical score to the predicted conservation features of the taxonomic work (c1 → c4) as the relative “benefits” for that species. We also incorporated a measure of certainty as to whether taxonomic revision is required for a given species, from no revision needed (tax = 0), probably not (tax = 0.2), highly probable (tax = 0.8), and definitely (tax = 1.0). Initially, we excluded all species with a tax of 0. We also only included those species that had been identified as requiring taxonomic revision that would lead to an increase in species numbers. All resulting species were included in the ROI analysis (N = 216). ROI for each species was calculated as follows:\n\nwhere c1 → c4 denote predicted conservation features of species described in taxonomic research: c1, taxonomic description allows conservation assessment; c2, highly localized candidate species (defined as those species with an extent of occurrence smaller than 20,000 km2); c3, candidate species would be the subject of species-level threatening processes (as defined by the IUCN Red List); and c4, high probability of a candidate species being assessed as Vulnerable, Endangered, or Critically Endangered (determined if parent species or close relative with similar traits were already listed as VU, EN, or CR).\n\nResearch steps required to complete the taxonomic work (r1 → r4) were defined as:\n\nr1, fieldwork and additional sampling; r2, genetics and/or genomics; r3, morphological and/or other phenotypic data; and r4, analysis and manuscript preparation.\n\nS1 Fig illustrates the decision framework in this ROI analysis, detailing the categorical score attributed to each factor.\n\nGeographic patterns of taxonomic assessment, predicted conservation concern, and ROI\n\nDuring two 5-day IUCN workshops that were held in Australia to assess the extinction risk of Australian terrestrial squamates against IUCN criteria (Perth, February 2017; Melbourne, June 2017), distribution maps were compiled for 948 species. Distributional data used for mapping were collated by Tingley and colleagues [19] and are publically available from the IUCN website (https://www.iucnredlist.org/). The result of this process was a refined geographic range polygon for each species, converted to a shapefile and clipped to the Australian coastline (data available from https://www.iucnredlist.org/). These shapefiles were used to generate geographic distribution maps for the taxonomic, predicted conservation, and ROI data.\n\nSpecies geographic range maps were overlaid on a 25 km × 25 km grid to estimate spatial patterns of species richness in each grid cell for: (i) squamate species for which taxonomic revision would lead to an increase in diversity; (ii) species that are predicted to contain undescribed highly localized species; (iii) species that are predicted to contain undescribed threatened species; and (iv) the estimate of ROI for species. We mapped species richness of features (i) and (ii) in each grid cell. For features (iii) and (iv), we present species richness and means of those scores for each 25-km grid cell. For example, if 6 species were present in a grid cell, of which 4 had an ROI of 1, one of 3 and one of 4, the species would equal the total number of species in the cell [6], whereas the weighted mean would be 1.83 (11/6). The latter approach accounted for overall species richness in a cell, allowing identification of regions with high ROI scores but low species diversity. We repeated all the above analyses at 1 km resolution for Lord Howe Island (group) and Norfolk Island (group). This finer spatial resolution was used to better visualize geographic patterns, given the relatively small spatial extent of the islands. The weighted mean of ROI was found to be influenced by a small number of high-scoring map cells (see S2A and S2B Fig). Consequently, weighted-mean of ROI in each cell was square root transformed to negate the influence of the low number of high-scoring cells (see S2C Fig).\n\nSupporting information"
+}

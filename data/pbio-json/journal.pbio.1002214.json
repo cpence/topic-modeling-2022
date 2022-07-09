@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1002214",
+  "doi": "10.1371/journal.pbio.1002214",
+  "externalIds": [
+    "pii:PBIOLOGY-D-15-01788",
+    "pmid:26271078",
+    "pmcid:PMC4535887"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Destabilizing DNA during Rejoining Enhances Fidelity of Repair",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson",
+      "affiliation": "Freelance Science Writer, Sherborn, Massachusetts, United States of America"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2015-08-13",
+  "volume": "13",
+  "number": "8",
+  "pages": "e1002214",
+  "tags": [
+    "Type/Synopsis"
+  ],
+  "abstract": "A new study shows that during repair of DNA, the effect of a single-strand annealing protein is to destabilize DNA duplex formation so that annealing only occurs between perfectly matched strands; the protein then clamps the strands together for repair. Read the Research Article.",
+  "fullText": "Despite its protected position within the nucleus, DNA is subjected to a constant barrage of destabilizing forces, the result of which is an unending series of breaks in the double helix. Repairing the damage is the job of a suite of specialized proteins, which includes a newly discovered superfamily of single-strand annealing proteins (SSAPs). How SSAPs, such as human RAD52 or Redβ from the bacterial phage lambda, function remains unclear, but early studies of RAD52 and Redβ revealed that they could form ring-shaped multimers. Whether and how these ring complexes catalyze DNA repair was puzzling, especially since the high concentrations of protein required to produce the rings also seemed to inhibit, rather than promote, repair.\n\nNow, a new study on Redβ by Marcel Ander, Erik Schäffer, and colleagues shows that the ring appears to play no role in healing broken DNA; instead, repair is initiated by the protein in monomeric form. Surprisingly, the initial interaction between protein and DNA weakens, not strengthens, the link between the two DNA strands, and by the time its job is done, the forces holding Redβ units to one another are among the strongest protein–protein associations known.\n\nThe authors measured the force needed to unzip a double-stranded DNA hairpin using “optical tweezers,” whereby one end of the double-stranded DNA was tethered to a moveable surface and the other end to a stationary microsphere, suspended in space by a finely tuned laser, with the hairpin in the middle. Shifting the surface away from the microsphere stretched the DNA, unzipping the hairpin.\n\nThe resisting force of the DNA against that stretch was measured over multiple cycles of unzipping and rezipping (annealing) and revealed a surprising pattern. As expected, the presence of Redβ had no effect on the force required for initial unzipping, consistent with its specificity for binding single-, not double-, stranded DNA. Once separated, Redβ bound to the single strands of the separated hairpin. However, when the tweezers relaxed, allowing the hairpin to re-form, the presence of Redβ–impaired annealing, such that the stability of the rezipped structure was less than in the absence of Redβ.\n\nWhat was the function of this destabilizing effect? Combining measurements and modeling, the authors concluded that the destabilization induced by Redβ promoted fidelity in repair. Without Redβ, even the weak attraction between mismatched DNA bases would bind them tightly together; with Redβ in place, only the best-matched bases stayed bound, ensuring a largely error-free annealing.\n\nFurther detailed measurements during annealing showed that multiple Redβ molecules bound at random along the unwound single strands of DNA. Their presence was revealed during unzipping as multiple points of resistance, each about 12 picoNewtons in strength. Over several rounds of zipping and unzipping, the number of bound Redβ molecules increased, until the resisting force jumped from 12 picoNewtons up to 200 picoNewtons, corresponding to the formation of a Redβ dimer. Dimerization secures homology and establishes the nucleus for a nucleoprotein filament (Fig 1). The authors dubbed the very stable complex, caused by a structural change of Redβ, a DNA clamp. This final linkage is among the strongest protein–protein interactions recorded, similar in strength to the attractions between fibrils in insoluble amyloid deposits. As to the ring form of Redβ seen in previous experiments, the authors showed that it only formed at concentrations well above those found in vivo, indicating it was likely an experimental artifact, not a bona fide molecular machine.\n\nThe strength of the DNA clamp suggests that Redβ or related SSAPs may serve other roles in chromosome dynamics, the authors propose, including maintenance of chromosomal integrity during recombination."
+}

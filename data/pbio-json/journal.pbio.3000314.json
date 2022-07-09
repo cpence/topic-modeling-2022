@@ -1,0 +1,158 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000314",
+  "doi": "10.1371/journal.pbio.3000314",
+  "externalIds": [
+    "pii:PBIOLOGY-D-19-00627",
+    "pmid:31194732",
+    "pmcid:PMC6592544"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Detecting T cell receptors involved in immune responses from single repertoire snapshots",
+  "authors": [
+    {
+      "name": "Mikhail V. Pogorelyy",
+      "first": "Mikhail V.",
+      "last": "Pogorelyy",
+      "affiliation": "Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry, Moscow, Russia; Pirogov Russian National Research Medical University, Moscow, Russia"
+    },
+    {
+      "name": "Anastasia A. Minervina",
+      "first": "Anastasia A.",
+      "last": "Minervina",
+      "affiliation": "Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry, Moscow, Russia"
+    },
+    {
+      "name": "Mikhail Shugay",
+      "first": "Mikhail",
+      "last": "Shugay",
+      "affiliation": "Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry, Moscow, Russia; Pirogov Russian National Research Medical University, Moscow, Russia; Privolzhsky Research Medical University, Nizhny Novgorod, Russia; Center of Life Sciences, Skoltech, Moscow, Russia; Masaryk University, Central European Institute of Technology, Brno, Czech Republic",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7826-7942"
+      ]
+    },
+    {
+      "name": "Dmitriy M. Chudakov",
+      "first": "Dmitriy M.",
+      "last": "Chudakov",
+      "affiliation": "Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry, Moscow, Russia; Pirogov Russian National Research Medical University, Moscow, Russia; Privolzhsky Research Medical University, Nizhny Novgorod, Russia; Center of Life Sciences, Skoltech, Moscow, Russia; Masaryk University, Central European Institute of Technology, Brno, Czech Republic",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-0430-790X"
+      ]
+    },
+    {
+      "name": "Yuri B. Lebedev",
+      "first": "Yuri B.",
+      "last": "Lebedev",
+      "affiliation": "Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry, Moscow, Russia; Moscow State University, Moscow, Russia",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-4554-4733"
+      ]
+    },
+    {
+      "name": "Thierry Mora",
+      "first": "Thierry",
+      "last": "Mora",
+      "affiliation": "Laboratoire de physique statistique, CNRS, Sorbonne Université, Université Paris-Diderot, and École normale supérieure (PSL University), Paris, France",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-5456-9361"
+      ]
+    },
+    {
+      "name": "Aleksandra M. Walczak",
+      "first": "Aleksandra M.",
+      "last": "Walczak",
+      "affiliation": "Laboratoire de physique théorique, CNRS, Sorbonne Université, Université Paris-Diderot, and École normale supérieure (PSL University), Paris, France",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-2686-5702"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2019-06-13",
+  "dateAccepted": "2019-05-21",
+  "dateReceived": "2019-03-05",
+  "volume": "17",
+  "number": "6",
+  "pages": "e3000314",
+  "tags": [
+    "Animal cells",
+    "Biochemistry",
+    "Bioinformatics",
+    "Blood cells",
+    "Cancer immunotherapy",
+    "Cancer treatment",
+    "Cell biology",
+    "Cellular types",
+    "Clinical immunology",
+    "Clinical medicine",
+    "Database and informatics methods",
+    "Discipline-v3/Animal cells",
+    "Discipline-v3/Biochemistry",
+    "Discipline-v3/Bioinformatics",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Blood cells",
+    "Discipline-v3/Cancer immunotherapy",
+    "Discipline-v3/Cancer treatment",
+    "Discipline-v3/Cell biology",
+    "Discipline-v3/Cellular types",
+    "Discipline-v3/Clinical immunology",
+    "Discipline-v3/Clinical medicine",
+    "Discipline-v3/Database and informatics methods",
+    "Discipline-v3/Immune cells",
+    "Discipline-v3/Immune receptors",
+    "Discipline-v3/Immune response",
+    "Discipline-v3/Immune system proteins",
+    "Discipline-v3/Immunology",
+    "Discipline-v3/Immunotherapy",
+    "Discipline-v3/Lymphocytes",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Molecular biology",
+    "Discipline-v3/Molecular biology techniques",
+    "Discipline-v3/Nucleotide sequencing",
+    "Discipline-v3/Oncology",
+    "Discipline-v3/Preventive medicine",
+    "Discipline-v3/Protein sequencing",
+    "Discipline-v3/Proteins",
+    "Discipline-v3/Public and occupational health",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Sequence analysis",
+    "Discipline-v3/Sequence motif analysis",
+    "Discipline-v3/Sequencing techniques",
+    "Discipline-v3/Signal transduction",
+    "Discipline-v3/T cell receptors",
+    "Discipline-v3/Vaccination and immunization",
+    "Discipline-v3/White blood cells",
+    "Immune cells",
+    "Immune receptors",
+    "Immune response",
+    "Immune system proteins",
+    "Immunology",
+    "Immunotherapy",
+    "Lymphocytes",
+    "Molecular biology",
+    "Molecular biology techniques",
+    "Nucleotide sequencing",
+    "Oncology",
+    "Preventive medicine",
+    "Protein sequencing",
+    "Proteins",
+    "Public and occupational health",
+    "Sequence analysis",
+    "Sequence motif analysis",
+    "Sequencing techniques",
+    "Signal transduction",
+    "T cell receptors",
+    "Type/Research Article",
+    "Vaccination and immunization",
+    "White blood cells"
+  ],
+  "abstract": "Hypervariable T cell receptors (TCRs) play a key role in adaptive immunity, recognizing a vast diversity of pathogen-derived antigens. Our ability to extract clinically relevant information from large high-throughput sequencing of TCR repertoires (RepSeq) data is limited, because little is known about TCR–disease associations. We present Antigen-specific Lymphocyte Identification by Clustering of Expanded sequences (ALICE), a statistical approach that identifies TCR sequences actively involved in current immune responses from a single RepSeq sample and apply it to repertoires of patients with a variety of disorders — patients with autoimmune disease (ankylosing spondylitis [AS]), under cancer immunotherapy, or subject to an acute infection (live yellow fever [YF] vaccine). We validate the method with independent assays. ALICE requires no longitudinal data collection nor large cohorts, and it is directly applicable to most RepSeq datasets. Its results facilitate the identification of TCR variants associated with diseases and conditions, which can be used for diagnostics and rational vaccine design.",
+  "fullText": "Introduction\n\nA major goal of quantitative immunology is to be able to detect and predict T cell receptor (TCR) specificity from high-throughput sequencing of TCR repertoires (RepSeq) data. Current methods that rely on epitope-specific in vitro experiments such as MHC multimer assays [1–4] require knowledge of the individual’s HLA type as well as the presented peptide and do not capture the context of the immune response in vivo. Alternatives based on mining public TCRs from large cohorts of patients with a common condition [5–9] are very costly and only capture TCRs specific to widely shared HLA/epitope pairs, ignoring the private response. Another approach is to use longitudinal data to identify responding clonotypes [10], but this requires carefully planned experimental setups with time points taken before the infection, which is not always possible. Antigen-specific Lymphocyte Identification by Clustering of Expanded sequences (ALICE) overcomes these issues by predicting TCR involved in the immune response from single repertoire snapshots of single individuals, using sequence similarity.\n\nRecent work has shown that TCRs recognizing the same epitopes often have similar sequences [2–4, 11, 12]. However, highly similar TCRs may also arise regardless of their binding properties, by virtue of their high generation probability by V(D)J recombination [13, 14], with clusters of similar TCRs found even in naive repertoires [2, 15]. To correct for those naive clusters, ALICE evaluates the number of similar sequences relative to the baseline expectation from V(D)J recombination statistics, allowing it to identify clusters of TCRs responding to the same antigen (as schematized in Fig 1a).\n\nFor each TCR amino acid sequence in the data, ALICE uses a stochastic TCR recombination model [18, 19] to estimate the fraction of the repertoire composed of TCR variants, called ‘neighbors’, differing by at most 1 amino acid in their Complementarity Determining Region 3 (CDR3). This allows us to predict theoretically the number of neighboring clonotypes (nucleotide sequences) for each TCR under the null hypothesis of no antigen-driven TCR selection and identify TCRs with a significantly higher number of neighbors in the data than the null expectation (see Materials and methods). We refer to such significant results as ALICE signatures or hits. Although the basic version of the algorithm discards clonotype abundances and should thus be sensitive to sequencing depth, we also implemented an advanced (but much slower) version that includes read counts and shuffles them among clonotypes in the null (see Materials and methods).\n\nResults\n\nAs a minimal requirement for its validity, we applied our algorithm to published naive (CD45RA+CCR7+) and effector memory (CD45RA−CCR7−) TCR beta repertoires from Thome and colleagues [16]. Our algorithm identified multiple signatures in the memory subsets and virtually no significant hits in the naive subsets (Fig 1b and S1 Fig), in agreement with the definition that naive cells have never responded to antigen stimulation.\n\nTo further validate the method’s ability to detect clonal expansion during an ongoing immune response, we applied it to published TCR beta repertoires from mixed lymphocyte reaction (MLR) assay [17]. In this assay, peripheral blood mononuclear cells (PBMCs) from 2 individuals (a responder and a stimulator) are mixed, and reactive T-cell clones from the responder’s repertoire proliferate in response to the antigens presented by the stimulator’s cells. ALICE identified many more hits in the responder’s repertoire in the MLR culture than in unstimulated cells (Fig 1c). Furthermore, the clonotypes identified by ALICE are enriched in MLR culture compared to bulk PBMCs (Fig 1d), clearly demonstrating that these hits correspond to antigen-specific clonal expansions.\n\nWe then asked whether our method could identify TCRs specific to a particular target using an in vivo acute viral infection model. In a previous study, peripheral blood of 6 donors was collected, and their TCR beta repertoire was sequenced at several time points before and after immunization with live yellow fever (YF) vaccine (YF-17D) [10]. Clonotypes that significantly expanded following vaccination were identified by temporal comparisons. Notably, even the most strongly expanded clonotypes after YF immunization are not the most abundant clones in the repertoire even at the peak of the response (day 15 time point), and the overall clone size distribution on day 15 is similar to the one observed before vaccination. Thus, it is not possible to identify expanded clonotypes using only their frequencies on day 15. Here, we applied ALICE to each time point to identify responding clonotypes independently, using only single repertoire snapshots.\n\nALICE identified more immune response signatures on the peak of response (day 15) than before immunization (day 0) in all donors (Fig 2a, left) except one who was probably undergoing another immune response at the moment of immunization (see S2 Fig). Applying the advanced version of ALICE with read counts yielded almost identical results (see S3 Fig). To validate ALICE’s expanded clonotypes, we compared its predictions to known YF-17D–reactive sequences obtained from longitudinal data in the source study. We found that 35% to 73% of ALICE hits on day 15 were highly similar (same VJ combination and up to one CDR3 amino acid mismatch) to previously identified YF-specific clonotypes (Fig 2a, right).\n\nNext, we applied our approach to peripheral blood TCR beta repertoire samples from 2 cytotoxic T-lymphocyte-associated protein 4 (CTLA4) checkpoint blockade cancer immunotherapy studies [20, 21]. We found more ALICE immune response signatures after the treatment than before (Fig 2b and S4 Fig). The number of these signatures is a better measure than previously proposed summary statistics of peripheral TCR repertoires aimed at detecting the effect of immunotherapy (richness and Shannon entropy): it discriminated pre- and post-treatment time points better than the number of unique clonotypes (richness) proposed in Robert and colleagues [20], as evidenced by the comparison of their receiver operating characteristic curves (Fig 2c). ALICE hits increased significantly after immunotherapy, both in the data from Robert and colleagues [20] (p = 0.0016 for ALICE versus p = 0.0005 for richness and p = 0.04 for entropy, Wilcoxon signed rank test) and in the data from Subudhi and colleagues [21] (p = 0.0003 for ALICE versus p = 0.06 for richness and p = 0.6 for entropy).\n\nIn contrast to these other measures, ALICE identifies particular clonotypes that are likely to be activated by the therapy. Tracking of such clonotypes in time and in the tumor tissue could provide insights into therapy efficiency and adverse effects.\n\nLastly, we asked whether ALICE was able to identify condition-associated clonotypes in patients with autoimmune diseases. We analyzed 4 TCR beta repertoires of CD8+ T cells from the synovial fluid of ankylosing spondylitis (AS) patients from Komech and colleagues [8]. Fig 2d shows clusters of ALICE-predicted clonotypes in 3 HLA-B27+ donors and 1 HLA-B27− donor. Although most predicted TCRs were patient-specific, 2 clonotypes were independently found in all 3 HLA-B27+ patients but not in the HLA-B27− patient. These 2 clonotypes exactly coincide with previously reported public clonotypes in a population of HLA-B27+ patients with AS [7, 8] and were also found in synovial fluid spectratyping of patients with AS and reactive arthritis [22, 23]. The independent identification of these sequences by ALICE demonstrates the relevance of its predictions, as well as suggests that these public clonotypes actively participate in the immune response in inflamed joints. ALICE also predicts previously unreported patient-specific expanded clonotypes, which population studies cannot detect by design.\n\nTo visualize CDR3 sequence motifs identified by the algorithm, we developed a novel approach to highlight differences in amino acid composition relative to the background recombination statistics (similar to [3]), based on a position-weight matrix selection model learned from the TCR sequence subset (as in [24], see Materials and methods). In a classical sequence logo derived from the central cluster of Fig 2d, positions encoded in the germline by V and J segments at the two ends of the CDR3 are very conserved and dominate the logo (Fig 2e, top). By contrast, our selection logo highlights amino acids that are enriched relative to that baseline (Fig 2e, bottom), showing a high enrichment in aromatic (Y and F) residues at CDR3 position 8. We speculate that these residues form contacts with the antigen that are crucial for TCR recognition.\n\nDiscussion\n\nOur method can thus be applied to variety of conditions for which information about HLA type or epitope is not available, from autoimmune disease to infection models. While ALICE has different principles and scope than the computational method of Pogorelyy and colleagues [6], which was designed to analyze the public repertoire of cohorts, the two approaches could be combined to leverage the statistical power of large cohorts with the information from sequence similarity exploited by ALICE.\n\nOur approach has several limitations. It can only identify responding TCR with high enough frequencies. A significant fraction of responding TCR are rare and individual specific [10, 12, 15] and are unlikely to have similar variants and thus to be detected by the algorithm. Extending our method to more refined distance measures (e.g., [3]) could help mitigate this issue. Another limitation is a natural consequence of its main advantage — antigen independence. In individuals with multiple conditions, the algorithm will identify clonotypes associated with all of them, and potentially with memory clones from previous immune responses as well, with no way of telling them apart. Repeating the analysis at different time points (e.g., after clearance of an infection) can help to distinguish TCR associated with each condition. In S2 Fig, we performed such an analysis for the outlying YF vaccinee Q1, who was probably undergoing another transient immune response, and identified ALICE signatures that were truly YF-specific. Finally, while ALICE can reliably detect expanded clonotypes from TCRβ repertoire, specificity is ultimately determined by the full αβ clonotype. ALICE could be extended to analyse αβ repertoires by estimating the joint probability of αβ recombinations using the OLGA algorithm [25], because the two chains are largely independent in their recombinations [26, 27].\n\nAs we have illustrated in our applications, the number of ALICE hits can be indicative of the immune activity. This new repertoire-wide metric could be used in combination or comparison with other metrics such as clonality, diversity, or maximum clone frequency [16, 20, 21] to predict immune status. However, ALICE’s main advance is to be able to identify particular sequences, which can be studied across patients that share a condition to identify publicly responding clones, as we did in the AS example. They could be tracked over time during and after the disease to help design biomarkers for diagnostics and to understand the persistence of immune memory. They could be searched in the repertoires of T-cell subpopulations to gain insight into their immunological function. As more repertoire sequence datasets associated with various conditions are being collected, ALICE could be used to rapidly grow databases of condition-specific TCR, with applications in the diagnostic and treatment of diseases.\n\nMaterials and methods\n\nALICE statistical model formulation\n\nThe algorithm operates on a dataset of n unique nucleotide TCR sequences (clonotypes) with a given VJ combination. The procedure is then applied to all VJ combinations present in the data. Unique nucleotide sequences have corresponding amino acid sequences. The goal is to find outlying sequences that have an abnormal number of nucleotide variants in the data that differ by at most 1 amino acid. The algorithm considers distinct nucleotide sequences as separate entities even if they have identical amino acid sequences, because they originate from different T-cell clones.\n\nFor each amino acid sequence σ, under the null hypothesis we expect the number of neighbors d to be Poisson distributed:\n\nwith mean λ = nΣσ' ~ σ QPgen(σ'). The sum is over all possible similar variants σ' of σ. Here, similarity σ' ~ σ is defined by having at most 1 amino acid mismatch, but other measures could be used instead. Pgen(σ') is the probability to generate a given amino acid sequence σ' by V(D)J recombination, and Q a rescaling factor accounting for thymic selection [6, 14] that eliminates a fraction 1/Q of generated sequences. Its value was set to Q = 9.41 as the average over all VJ combinations reported by Pogorelyy and colleagues [6]. There is an option in the algorithm to use separate selection factors for different CDR3 lengths L within each VJ class, QL|VJ. In this case, QL|VJ = Q × RL|VJ / ΣL'RL'|VJPdata (L'|VJ), where Q the same scaling factor as above, Pdata (L|VJ) is the probability of CDR3 length L given the VJ combination, and RL|VJ = Pdata (L|VJ)/Pgen (L|VJ), where Pdata (L|VJ) and Pgen (L|VJ) are the distribution of CDR3 lengths in each VJ class in the data and in the simulated sequences, respectively. We redid analysis for YF-vaccination datasets with this approach and got very similar results (see S5 Fig).\n\nEstimating the generation probability of amino acid sequences\n\nWe estimated Pgen(σ) of amino acid sequences by Monte Carlo simulation, as described by Pogorelyy and colleagues [6]. We generated 100 million TCRs with fixed VJ choice in silico using the VDJ recombination model from Murugan and colleagues [18]. Sequences were then translated to amino acids, and the overall frequency of each distinct amino acid sequence was estimated by counting. The advantage of Monte Carlo simulations is that it can be done for all sequences of interest simultaneously. The exact computation of Pgen of each sequence of interest by OLGA [25] is available within the ALICE software and may be faster for datasets of moderate sizes. Another option would be to use large number of published datasets [5, 28] and treat the number of occurrences of each TCR sequence of interest in these datasets as a proxy for TCR recombination probability, as implemented into VDJtools [29]. An implementation of the corresponding routine for VDJtools software framework is described at http://vdjtools-doc.readthedocs.io/en/master/annotate.html#calcdegreestats. Note that VDJtools implementation allows setting an arbitrary Levenstein distance threshold for defining neighboring clonotypes. Forcing clonotypes to have the same VJ/V segments or allowing segment mismatches is also optional. The implementation relies on a precompiled control dataset instead of using a generative VDJ rearrangement model; control datasets can be obtained from https://zenodo.org/record/1318986.\n\nALICE pipeline\n\nNucleotide sequences with low numbers of reads may represent erroneous variants of high-frequency clonotypes and thus inflate their neighbor counts and lead to false positives. Here, we counted as neighbors only clonotypes with more than 1 read. To correct for sequencing errors in the germline regions, clonotypes with the same CDR3 nucleotide sequence and V- and J-segments were collapsed. To additionally filter sequencing errors, ALICE hits with Monte Carlo–estimated neighborhood size of 0 were also discarded. For each amino acid sequence σ present in the data, we count how many one-mismatch variants are also present in the data, and we denote that number d(σ). The neighborhood of σ includes σ, meaning that different nucleotide variants of the same amino acid sequence are counted as valid neighbors. For each σ such that d(σ) &gt; 2, we generate all possible one-mismatch variants σ' in silico and calculate their Pgen(σ') using Monte Carlo simulations as described above. Finally, we calculate a p-value for each σ corresponding to the probability that σ has no less similar variants in null model than in the data, Σd' ≥ d(σ) P(d'|σ) using Eq 1. We correct p-values for multiple testing using Benjamini-Hochberg (BH) correction and select clonotypes with BH-adjusted p &lt; 0.001 as significant results (ALICE hits).\n\nNumber of neighbors per se is not enough to reliably identify responding clonotypes\n\nThe main innovation of our approach is to use the probability of TCR sequence generation, Pgen, to get the null model for the expected number of neighbors for each sequence in the data. We wanted to quantify the improvement our null model provides on top of the initial clustering step. We expect the observed number of neighbors, d(σ), to grow after an immune challenge due to the expansion of many similar clonotypes. d(σ) scales with the total number of possible neighbors (equal to n, the number of unique clonotypes in a given VJ combination). As a simplest method, which does not use Pgen, one could simply select all clones with d(σ)/n above a certain threshold. We performed this analysis for the YF-vaccination dataset (see S1 Data). For each donor we picked a threshold d(σ)/n that selects the same amount of clones on day 15 in each donor as we identify with the ALICE approach, and the same threshold is used for the day 0 time point. For brevity, we call clones with d(σ)/n larger than the threshold d-hits. The number of d-hits is larger after vaccination than before (with the exception of Q1 donor). On day 0, there are 2 to 6 times more d-hits than ALICE hits (e.g., for donor P2, 478 d-hits versus 81 ALICE hits). On day 15, much (1.5–40 times) fewer d-hits are similar to known YF clones than ALICE hits. Notably, for one twin pair, P1 and P2, almost all d-hits are unrelated to the YF vaccination (e.g., for P2, there are 7 YF-like d-hits out of 775 on day 15 versus 274 YF-like ALICE hits). To summarize, the number of neighbors alone is not enough to identify interesting and potentially responding clonotypes, but the ALICE approach substantially improves on this, both decreasing the number of false positives (number of hits pre vaccination) and increasing the true positive rate (fraction of YF-like hits post vaccination).\n\nIncluding abundance information\n\nThe basic pipeline only takes the occurrence of nucleotide sequences in the sample into account, and not their abundance (read count). To include that information, we replace in the pipeline the number of similar sequences, d, by a sum of transformed abundances over these sequences, s=∑i=1df(ci), where ci is the abundance of the ith nucleotide variant with similar amino acid sequence. There exist several choices for the transformation f. f(c) = 1 − δc,0 gives back the basic method, s = d. f(c) = c corresponds to summing the abundances of all similar variants, whereas f(c) = log(c) corresponds to summing their logarithms. To define the null model, we assume that the abundance of each sequence is sampled at random from the distribution of empirical frequencies. Because this distribution followed a power law, we worked on the logarithmic scale, and we picked f(c) = log(c). To calculate P(s|σ), under null hypothesis, we use the identity P(s|σ) = Σd P(s|d)P(d|σ), where P(d|σ) was computed as described in the basic pipeline (Eq 1). Then, P(s|d) is obtained as a d-fold convolution of Pf(f), the probability distribution of the transformed abundances f (ci). For instance, P(s|d = 1) = Pf(f), P(s|d = 2) = ΣfPf(f)Pf(s − f) = (Pf * Pf) (s), etc., so that P(s|d)=Pf(*)(s). These quantities do not depend on σ and are computed just once at the beginning of the procedure from the clonotype abundance distribution. Applying this advanced version of ALICE to the YF data of Fig 2a [10] yielded very similar results (S3 Fig) as the basic method. Although it is slower to implement, the advanced method could still be useful because it is expected to be robust to wide ranges of repertoire sampling depths, while the basic version implicitly relies on many sequences not being captured by the sample.\n\nStatistics\n\nTo compare the normalized number of ALICE hits and maximum frequency of productive rearrangement between memory and naive repertoires (Fig 1b), we used Wilcoxon rank-sum two-tailed test (N = 52 naive subsets and N = 60 memory repertoires, p = 2.3 × 10−14 for maximum frequency of productive rearrangement, and p = 1.7 × 10−14 for normalized number of ALICE hits). To compare the normalized number of ALICE hits in repertoires before and after MLR (Fig 1c), we used Wilcoxon rank-sum two-tailed test (N = 12 pre-MLR PBMC samples, N = 12 MLR cultures, p = 7.4 × 10−7). To compare number of ALICE hits with other statistics between pre- and post-treatment time points for immunotherapy patients, we used Wilcoxon signed-rank two-tailed test: In Fig 2c (N = 21 before and N = 21 after therapy), the total number of clonotypes gave p = 0.0005, Shannon entropy gave p = 0.042, and normalized ALICE hits gave p = 0.0016. In S4 Fig (N = 40 before and N = 40 after first dose of therapy), the total number of clonotypes gave p = 0.6, Shannon entropy gave p = 0.6, and normalized ALICE hits gave p = 0.0003.\n\nEstimating enrichment in certain amino acid position of the TCR motif\n\nTo estimate the enrichment of amino acids at specific positions in the set of expanded TCR, we used a position weight matrix model of TCR selection [24]. The sequence enrichment ratio takes a factorized form over amino acid positions, parametrized by selection coefficient si(σi), where σi denotes the amino acid of sequence σ at position i. The predicted frequency in the expanded set is then\n\nwhere Z a normalization factor.\n\nThe si parameters were learned by gradient ascent of the likelihood function, to which an L2 regularization term, −λ || s ||2, was added. Specifically, selection coefficients are updated according to si(σi) ← si(σi) + ε[Pdata(σi) − Psel(σi) − 2λsi(σi)], where Psel(σi) is the predicted frequency of given amino acid at position i and Pdata(σi) is its observed frequency in the data. After each update, all si(σi) are shifted by a common additive constant to satisfy following normalization constraint: ∑aPgen(σi)esi(σi)=1.\n\nWe applied this inference procedure on the 26 sequences forming the central cluster of sequences from AS patients in Fig 2d. ε was set to 0.5, and λ was set to 0.02. The algorithm was initialized with si(σi) = 0. The iterative procedure was repeated until the sum of the squared update difference was lower than 10−6. The bottom logo of Fig 2e shows values of si(σi) weighted by amino acid frequencies, so that the height of each letter is Pdata(σi)si(σi).\n\nSupporting information"
+}

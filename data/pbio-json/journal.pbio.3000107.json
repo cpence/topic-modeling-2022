@@ -1,0 +1,201 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000107",
+  "doi": "10.1371/journal.pbio.3000107",
+  "externalIds": [
+    "pii:PBIOLOGY-D-18-00494",
+    "pmid:30629605",
+    "pmcid:PMC6343928"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Bio-On-Magnetic-Beads (BOMB): Open platform for high-throughput nucleic acid extraction and manipulation",
+  "authors": [
+    {
+      "name": "Phil Oberacker",
+      "first": "Phil",
+      "last": "Oberacker",
+      "affiliation": "Department of Biochemistry, Institute of Biochemistry and Technical Biochemistry, University of Stuttgart, Stuttgart, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4018-8656"
+      ]
+    },
+    {
+      "name": "Peter Stepper",
+      "first": "Peter",
+      "last": "Stepper",
+      "affiliation": "Department of Biochemistry, Institute of Biochemistry and Technical Biochemistry, University of Stuttgart, Stuttgart, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1785-2405"
+      ]
+    },
+    {
+      "name": "Donna M. Bond",
+      "first": "Donna M.",
+      "last": "Bond",
+      "affiliation": "Department of Anatomy, University of Otago, Dunedin, New Zealand",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7704-1263"
+      ]
+    },
+    {
+      "name": "Sven Höhn",
+      "first": "Sven",
+      "last": "Höhn",
+      "affiliation": "Department of Biochemistry, Institute of Biochemistry and Technical Biochemistry, University of Stuttgart, Stuttgart, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8598-8956"
+      ]
+    },
+    {
+      "name": "Jule Focken",
+      "first": "Jule",
+      "last": "Focken",
+      "affiliation": "Department of Biochemistry, Institute of Biochemistry and Technical Biochemistry, University of Stuttgart, Stuttgart, Germany"
+    },
+    {
+      "name": "Vivien Meyer",
+      "first": "Vivien",
+      "last": "Meyer",
+      "affiliation": "Department of Biochemistry, Institute of Biochemistry and Technical Biochemistry, University of Stuttgart, Stuttgart, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-8891-2340"
+      ]
+    },
+    {
+      "name": "Luca Schelle",
+      "first": "Luca",
+      "last": "Schelle",
+      "affiliation": "Department of Biochemistry, Institute of Biochemistry and Technical Biochemistry, University of Stuttgart, Stuttgart, Germany"
+    },
+    {
+      "name": "Victoria J. Sugrue",
+      "first": "Victoria J.",
+      "last": "Sugrue",
+      "affiliation": "Department of Anatomy, University of Otago, Dunedin, New Zealand",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-0427-5146"
+      ]
+    },
+    {
+      "name": "Gert-Jan Jeunen",
+      "first": "Gert-Jan",
+      "last": "Jeunen",
+      "affiliation": "Department of Anatomy, University of Otago, Dunedin, New Zealand"
+    },
+    {
+      "name": "Tim Moser",
+      "first": "Tim",
+      "last": "Moser",
+      "affiliation": "Department of Anatomy, University of Otago, Dunedin, New Zealand"
+    },
+    {
+      "name": "Steven R. Hore",
+      "first": "Steven R.",
+      "last": "Hore",
+      "affiliation": "CENENG Ltd, Omakau, New Zealand"
+    },
+    {
+      "name": "Ferdinand von Meyenn",
+      "first": "Ferdinand",
+      "last": "von Meyenn",
+      "affiliation": "Epigenetics Programme, Babraham Institute, Cambridge, United Kingdom and Department of Medical and Molecular Medicine, Kings College London, Guys Hospital, London, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-9920-3075"
+      ]
+    },
+    {
+      "name": "Katharina Hipp",
+      "first": "Katharina",
+      "last": "Hipp",
+      "affiliation": "Max Planck Institute for Developmental Biology, Tübingen, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-1493-9698"
+      ]
+    },
+    {
+      "name": "Timothy A. Hore",
+      "first": "Timothy A.",
+      "last": "Hore",
+      "affiliation": "Department of Anatomy, University of Otago, Dunedin, New Zealand",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-6735-225X"
+      ]
+    },
+    {
+      "name": "Tomasz P. Jurkowski",
+      "first": "Tomasz P.",
+      "last": "Jurkowski",
+      "affiliation": "Department of Biochemistry, Institute of Biochemistry and Technical Biochemistry, University of Stuttgart, Stuttgart, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-2012-0240"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2019-01-10",
+  "volume": "17",
+  "number": "1",
+  "pages": "e3000107",
+  "tags": [
+    "Artificial gene amplification and extension",
+    "Biochemistry",
+    "Biomolecular isolation",
+    "Bombs",
+    "Coatings",
+    "DNA extraction",
+    "DNA isolation",
+    "Discipline-v3/Artificial gene amplification and extension",
+    "Discipline-v3/Biochemistry",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Biomolecular isolation",
+    "Discipline-v3/Bombs",
+    "Discipline-v3/Coatings",
+    "Discipline-v3/DNA extraction",
+    "Discipline-v3/DNA isolation",
+    "Discipline-v3/Engineering and technology",
+    "Discipline-v3/Epidemiology",
+    "Discipline-v3/Equipment",
+    "Discipline-v3/Extraction techniques",
+    "Discipline-v3/Manufacturing processes",
+    "Discipline-v3/Materials",
+    "Discipline-v3/Materials science",
+    "Discipline-v3/Medical risk factors",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Molecular biology",
+    "Discipline-v3/Molecular biology techniques",
+    "Discipline-v3/Nucleic acids",
+    "Discipline-v3/Physical sciences",
+    "Discipline-v3/Polymerase chain reaction",
+    "Discipline-v3/Public and occupational health",
+    "Discipline-v3/RNA extraction",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Surface treatments",
+    "Discipline-v3/Traumatic injury risk factors",
+    "Discipline-v3/Weapons",
+    "Epidemiology",
+    "Equipment",
+    "Extraction techniques",
+    "Manufacturing processes",
+    "Materials",
+    "Materials science",
+    "Medical risk factors",
+    "Molecular biology",
+    "Molecular biology techniques",
+    "Nucleic acids",
+    "Polymerase chain reaction",
+    "Public and occupational health",
+    "RNA extraction",
+    "Surface treatments",
+    "Traumatic injury risk factors",
+    "Type/Community Page",
+    "Weapons"
+  ],
+  "abstract": "Current molecular biology laboratories rely heavily on the purification and manipulation of nucleic acids. Yet, commonly used centrifuge- and column-based protocols require specialised equipment, often use toxic reagents, and are not economically scalable or practical to use in a high-throughput manner. Although it has been known for some time that magnetic beads can provide an elegant answer to these issues, the development of open-source protocols based on beads has been limited. In this article, we provide step-by-step instructions for an easy synthesis of functionalised magnetic beads, and detailed protocols for their use in the high-throughput purification of plasmids, genomic DNA, RNA and total nucleic acid (TNA) from a range of bacterial, animal, plant, environmental and synthetic sources. We also provide a bead-based protocol for bisulfite conversion and size selection of DNA and RNA fragments. Comparison to other methods highlights the capability, versatility, and extreme cost-effectiveness of using magnetic beads. These open-source protocols and the associated webpage (https://bomb.bio) can serve as a platform for further protocol customisation and community engagement.",
+  "fullText": "Introduction\n\nThe nucleic acids, RNA and DNA, essentially harbour all heritable biological information so far known [1]. Because of this, the majority of molecular biology laboratories are dependent upon nucleic acid purification and manipulation. Initial purification can be carried out from a variety of sources, which commonly include bacterial cultures and plant and animal cells or tissues. Nucleic acids may also be derived from cell-free sources, such as blood plasma, various environmental substrates, or from in vitro reactions like PCR. Once purified, nucleic acids are usually manipulated in some manner ahead of analysis or functional use—a process that in turn requires further appropriate reagents and handling. Most current nucleic acid purification and manipulation techniques rely upon either a commercially produced silica-based column or a centrifuge (often both). In addition to commonly using toxic chemicals such as phenol, these protocols are generally not suitable for high-throughput approaches, whereby 96 or more samples are processed simultaneously. This is because standard benchtop centrifuges only hold 24 tubes and multichannel pipettes or liquid handling robots cannot be used to accelerate the isolations. Moreover, the per-sample cost of silica columns make processing large numbers prohibitively expensive, and other available commercial high-throughput solutions for nucleic acids extractions are still not affordable for most molecular biology laboratories.\n\nMagnetic beads are small nano- or microparticles and have long been recognised as a way to solve scalability issues with respect to nucleic acid purification and manipulation [2–4]. Their most useful characteristic is the ability to achieve solid-phase reversible immobilisation (SPRI) [3], meaning they can reversibly bind nucleic acid under dehydrating conditions and, when in the presence of a strong magnet, can be safely immobilised throughout multiple wash and manipulation steps. Magnetic bead protocols are inherently scalable due to the fact that they are independent of centrifugation and the required materials are exceedingly cheap both to purchase and manufacture in a laboratory setting. However, despite these attractive attributes, surprisingly little community effort has been committed to the development of open-source protocols featuring their use.\n\nHere, we present Bio-On-Magnetic-Beads (BOMB), an open-source platform consisting of both novel and existing magnetic bead-based protocols that are capable of a wide-range of nucleic acid purification and manipulation experiments (Fig 1). We first detail a method for simple synthesis of magnetic nanoparticles (MNPs) and their functionalisation with either a silica or carboxyl coating that can be performed in any molecular biology laboratory with standard equipment. We further show how cheap magnetic immobilisation devices can be assembled or fabricated for 1.5 ml microcentrifuge tubes and 96-well plates. Finally, we provide protocols for use of the beads and magnetic racks in purifying bacterial plasmid DNA, total nucleic acid (TNA), genomic DNA, PCR amplicons, and environmental DNA, as well as total RNA from various sources, all of which have been validated in both modular and high-throughput settings. We have also developed an open-source protocol for bisulfite conversion of DNA used in epigenetic analysis and update existing protocols for size selection of DNA fragments.\n\nIn the expectation that BOMB protocols will benefit from continued refinement and development, we provide a forum-type website, which allows community engagement (https://bomb.bio). Given the impressive economic advantages of magnetic beads for nucleic acid extraction and manipulation, both in terms of capital outlay and per-sample costs, we consider the BOMB platform a positive step towards the democratisation of life sciences.\n\nBuilding the BOMB molecular biology platform\n\nThe essential components of a magnetic bead platform are the beads themselves and a magnet strong enough to immobilise them. Although many life science researchers will be familiar with proprietary beads (e.g., DynaBeads for antibody capture, AMPure beads for size selection), few are aware that they can assemble both beads and magnet components themselves from cheap materials. However, in order to do so, some potentially unfamiliar concepts need to be explained.\n\nFirstly, magnetic beads commonly used for molecular biology come in two major forms—either relatively small (50 nm to 2 μm) particles constructed from a solid ferrite core or larger ferrite-polymer combinations (1–5 μm) [5]. Both bead types work well for nucleic acid purification and manipulation; however, their different physical and chemical properties do change their behaviour. For example, the polymer within the larger ferrite-polymer beads effectively lowers the density of the bead so they are less likely to settle out of the suspension during handling steps. The smaller solid-core ferrite beads have a larger relative surface area for binding and can also be easily made in a standard molecular biology laboratory (see BOMB protocols 1–3).\n\nA key aspect of magnetic beads used for molecular biology is that, irrespective of their size, they need to be chemically coated. The first reason for doing this is to provide stability for the bead. Without coating, oxidation of the ferrite would lead to contamination of potentially sensitive samples with iron ions, and the beads would lose their magnetic properties over time. In addition, chemical coating grants additional function to magnetic beads. For example, silica- or carboxyl-polymer coatings are most commonly used because, in addition to providing bead stability, they are relatively chemically inert (silica) or negatively charged (carboxyl), thus facilitating desorption of the negatively charged nucleic acids from the beads during elution steps. Here, we outline a simple protocol for preparation of silica- or carboxyl-coated beads in a standard life science laboratory and production of magnetic racks suitable for their immobilisation.\n\nSimple synthesis of functionalised magnetic beads for nucleic acid manipulation\n\nProtocol #1: Synthesis of ferrite core magnetic particles\n\nFerrite nanoparticles can be synthesised using various protocols (reviewed in [6,7]). We adopted the broadly used coprecipitation method due to its simplicity and efficiency, but also because it does not require any specialised equipment [8]. Briefly, FeCl3 and FeCl2 solutions are mixed in a 1:2 molar ratio and slowly dripped into a preheated alkali solution leading to the formation of black ferrite (Fe3O4) precipitate (S1 Appendix, BOMB protocol 1.1). The ferrite particles synthesised using this approach have a diameter of approximately 5 to 20 nm as judged by transmission electron microscopy (TEM) images (S1A Fig). Oxygen is known to interfere with the ferrite precipitation reaction; therefore, the alkali solution used should be degassed and heated to greater than 80 °C. After synthesis, the core particles are extensively washed with deionised water. In order to prevent oxidation of the ferrite, we recommend coating the beads immediately after synthesis. However, it is also possible to stabilise them in the short term using detergents, sodium oleate, polyvinylpyrrolidone (PVP), or other chemicals (reviewed in [6,7]), and upon lyophilisation, they can be stored in an air-tight container under inert atmosphere.\n\nProtocol #2: Coating MNPs with silica\n\nIn a similar fashion to storing solutions inside glass bottles, encasing ferrite nanoparticles in silica prevents magnetic bead oxidation and leakage of iron ions. Silica coating also provides an inert surface for precipitation of nucleic acid without the risk of irreversible association. In order to coat ferrite nanoparticles with silica, we use a modified Stöber method [9], in which tetraethyl orthosilicate (TEOS) is hydrolysed in a basic environment, thus forming a SiO2 layer surrounding the magnetic core. The thickness of the silica coat (and therefore the size of the particle) can be controlled through the addition of an increasing amount of TEOS [10]. The provided standard coating protocol results in the silica-coated beads with a size of approximately 400 nm (S1B Fig), which perform well for a wide range of the nucleic acid purification and manipulation experiments (S1 Appendix, BOMB protocol 2.1).\n\nProtocol #3: Coating MNPs with methacrylic acid (carboxyl coating)\n\nAn alternative way to stabilise magnetic particles is to coat them with carboxyl-modified polymer (S1C Fig). Although potentially not providing the same stability as silica, carboxyl coating endows the ferrite core with a weak negative charge, thus altering its electrostatic interaction with nucleic acids and ultimately affecting bead functionality. Although other reaction schemes are possible, we polymerise methacrylic acid monomers on top of the MNPs, thus providing a negatively charged carboxyl coat. For this, the ferrite core particles are dispersed with a detergent (sodium dodecyl sulfate), and a layer of polymethacrylic acid (PMAA) is deposited on the surface of the beads by a free-radical retrograde precipitation polymerisation reaction [11] (S1 Appendix, BOMB protocol 3.1).\n\nFor those in a hurry: Buy commercially available beads\n\nAlthough making your own magnetic beads is by far the most economical way to make use of magnetic beads for nucleic acid handling, for many laboratories, bead-based systems can still be developed relatively cheaply from commercial sources (numerous beads are available; however, when used in protocols here, we purchased Sera-Mag SpeedBead Carboxylate Modified Magnetic Particles, Hydrophylic, 15 ml, cat., 45152105050250). A single bottle of carboxyl-functionalised beads can be purchased for approximately the same cost as a DNA extraction kit based on plastic silica columns for 50 to 100 samples. However, the purchased beads can provide purification of DNA, RNA, or TNA from up to 40,000 samples. Although there are advantages and disadvantages to either system, we find that our laboratory-made and commercially sourced beads show similar performance.\n\nImmobilisation racks for magnetic separation\n\nMNPs are so useful because they can be immobilised and resuspended easily by moving them in and out of a magnetic field. The simplest way to do this is using immobilisation racks consisting of magnet arrays, either in microtube or microplate format. Despite their simple construction and lack of moving parts, commercially available immobilisation racks are surprisingly expensive. However, they can be assembled in a laboratory setting relatively easily and cheaply. The most critical component of the rack is the magnet itself. In order to achieve rapid separation, it is best to use high-quality neodymium magnets, N42 grade or above. We have created a number of different racks that are suitable for specific vessel formats, using recycled materials or custom 3D-printed or laser-cut parts (Fig 1). For example, when using 8-strip PCR tubes, 96-well microplates, and deep-well plates, ring magnets can be fixed onto the top of old pipette tip box components using cyanoacrylate adhesive (e.g., “superglue”) or can be jammed in between wells of the plate. For those who have access to laser cutting or 3D printing, we have designed 96-well racks that are suitable for a range of deep-well plates and a 3D-printable plastic rack which can hold up to 8 microcentrifuge tubes (S1 Appendix, BOMB protocol A.1 and A.2, BOMB files 1–4).\n\nBOMB platform protocols\n\nOnce the essential BOMB tools (i.e., beads and magnetic racks) have been created or purchased, there is a broad variety of molecular biology experiments that can be performed with only basic chemical supplies. Many experiments in molecular biology laboratories start with purification of nucleic acid from source cells or tissues (Fig 2) and go on to perform some type of manipulation (often involving many intermediate purification steps) prior to final quantitation or introduction back into a biological system. Magnetic bead-based protocols can mediate each of these purification and manipulation steps in both a universal and modular fashion (Fig 3). This means that for almost any application, reliance upon purchased kits can be dramatically reduced or removed entirely. Here, we highlight some of the most commonly used protocols and their utility. Detailed protocols can be found in the Supporting Information.\n\nProtocol #4: Clean-up and size exclusion\n\nThe separation and purification of nucleic acids following enzymatic reactions is a necessary procedure in a variety of biochemical assays and was originally performed by precipitation with salts and alcohol [12–14]. However, these methods usually require long incubation steps of up to several hours for smaller molecules and therefore have been surpassed by rapid methods involving commercial silica columns or SPRI on magnetic beads [3]. A major advantage of SPRI bead methods is the ability to perform sequential enzymatic clean-ups in one tube in an efficient manner [15], thus greatly simplifying complex nucleic acid handling procedures such as DNA library construction for next-generation sequencing [4]. Moreover, because larger fragments precipitate to magnetic beads more efficiently than smaller ones in hydrophilic conditions, bead immobilisation can be used to select or exclude nucleic acids of particular sizes by varying the binding conditions.\n\nClean-up and size exclusion can be performed using self-synthesised BOMB beads, with either carboxyl or silica coating (S1 Appendix, BOMB protocol 4.1 and 4.2); however, their optimal binding conditions differ. Whereas DNA is bound to carboxyl beads via molecular crowding with high concentrations of PEG-8000 and NaCl [16], binding DNA to silica beads utilises the altered affinity of the negatively charged DNA backbone to the silica surface in the presence of chaotropic salts [17,18]. We most commonly use silica-coated beads and guanidinium hydrochloride for capture. In doing so, we can selectively isolate fragments between 100 bp and 3,000 bp (Fig 2A and S2 Fig), depending on the amount of binding buffer used while recovering up to 95% of the input DNA (S2C Fig). Furthermore, utilising the 96-well format and the earlier described BOMB microplate racks, approximately 200 samples can be processed within 45 minutes by a single person. Lastly, we developed a separate bead protocol to purify DNA directly from agarose gels (Fig 2B, S1 Appendix, BOMB protocol 4.3).\n\nProtocol #5: Bacterial plasmid extraction\n\nPlasmid extraction from cultured Escherichia coli strains is probably one of the most common laboratory practices. In the late 1960s, the first protocols for isolation of plasmid DNA were published [19–21], from which the alkaline lysis of bacterial cells in a slightly modified form became today’s primarily used method [17,22,23]. Numerous commercial kits are based on this technology, which employs either silica-packed columns or silica-coated magnetic beads. Both methods represent efficient and reliable techniques for DNA isolation with a reasonable cost of approximately 1.5 € per sample. However, for processing samples in a high-throughput scale, the price can become a significant factor. Furthermore, the column-based protocols are not suited to high-sample numbers because common bench-top centrifugesare limited to 24–30 tubes per run, whereas commercial high-throughput nucleic acid isolation kits are overly expensive and therefore not appropriate for smaller laboratories with limited budgets.\n\nWe have developed a high-throughput plasmid DNA isolation protocol using silica-coated magnetic beads. For this, bacterial colonies are grown in a 2.2 ml 96-well deep-well plate (S3A Fig), harvested, and lysed with a modified alkaline lysis protocol. The plasmid DNA is then captured and immobilised with silica beads, and remaining particles (cell debris, proteins, etc.) are washed out. Isolation of plasmid DNA (pUC19) with the optimised BOMB protocols (S1 Appendix, BOMB protocols 5.1 and 5.2) yielded approximately 6 μg DNA per sample (Fig 2C and 2D). Whereas BOMB protocol 5.1 uses a centrifugation step to separate cell debris and genomic DNA from plasmid DNA, BOMB protocol 5.2 replaces this step with a selective capture of the genomic DNA using silica-coated MNPs under low salt condition after the neutralisation step with potassium acetate. Upon addition of guanidinium-containing binding buffer, plasmid DNA can be immobilised on fresh magnetic beads and further purified.\n\nAmount, purity, and quality of the extracted plasmid DNA are comparable to commercial preparations, and the isolated DNA is suitable for both restriction digestion and Sanger sequencing (S3B and S3C Fig) or other common downstream applications. Using silica-coated BOMB beads, we routinely process up to 200 samples in 3 to 4 hours for approximately 0.14 € per sample (Table 1).\n\nProtocols #6, 7, and 8: Purification of TNA, genomic DNA, and total RNA\n\nThe isolation of TNA, genomic DNA, or total RNA from bacteria and eukaryotic cells is a basic wet-lab technique and is the starting point for many molecular biology experiments. Most purification kits and techniques are designed and marketed to isolate either genomic DNA or total RNA. A classical method for DNA involves lysis of cells in a low-salt buffer with Proteinase K and a detergent, followed by phenol-chloroform extraction and ethanol precipitation [24]. For RNA, various protocols have been developed over the years [25–27]; however, the most common involve guanidinium species as a strong denaturant that suppresses RNase activity [28] and facilitates binding of RNA to the silica bead. Many commercial kits are available for DNA and RNA as well, often utilising the addition of ethanol to bind the DNA or RNA to silica columns, with successive washes performed using a centrifuge. The commercial kits work well; however, the cost per sample exceeds 2 €, and the flow-through column system is not easily adapted to 96-well format. Therefore, experiments with a large number of samples are impossible for most laboratories.\n\nWe have found that for bacterial and mammalian cells without extensive extracellular protein, TNA can be efficiently purified using only a sarkosyl and guanidinium-isothiocyanate (GITC)-based buffer for protein denaturation and cellular lysis (Fig 2E–2H, S1 Appendix, BOMB protocols 6.1, 6.2, and 6.6). For some cell types such as sperm or spleen, addition of 2% β-mercaptoethanol may assist chromatin denaturation and inhibit RNA degradation, respectively. Following lysis, isopropanol is used to drive precipitation of the nucleic acid to the magnetic beads—BOMB silica beads work well for capture, as do carboxyl beads. The total volume is flexible; however, the relative amount of each component should always be 2:3:4, i.e., beads:lysate:isopropanol. Once the nucleic acid and beads are immobilised on a magnet, rapid isopropanol and 80% ethanol washes remove residual protein, GITC, and other salts, allowing subsequent elution of the purified TNA. Enzymatic DNase or RNase treatment can be performed either before initial bead purification (e.g., during lysis steps, Fig 2F), or afterwards and subsequently repurified on beads to produce solely RNA or DNA, respectively (S1 Appendix, BOMB protocols 7.1, 8.1, and 8.2). Compared to commercial kits, this protocol performs well with a comparable yield of around 20 μg of genomic DNA isolated from 500,000 HEK293 cells (Fig 2G and 2I) while being slightly faster than most kits (approximately 1.5 hours for 96 samples).\n\nCells derived directly from solid tissues and organs such as muscle and heart are not easily lysed in GITC without mechanical disruption. In this case, high-throughput lysis and protein digestion can be first performed in a low-salt buffer using Proteinase K, followed by further denaturation in a more concentrated (1.5×) GITC buffer. Although RNA is not well preserved using this high-throughput method, we have found that DNA purification works efficiently on a range of mammalian tissues (with either silica or carboxyl beads) compared to classical phenol-chloroform extraction (Fig 2L, S4 Fig, S1 Appendix, BOMB protocol 6.3). Further modifications to the initial lysis steps can be added in order to purify nucleic acid from a very broad range of sources. For example, with a small amount of prior mechanical disruption, TNA can be easily extracted from plants using just GITC lysis (Fig 2N and 2O, S5 Fig, S1 Appendix, BOMB protocol 6.4), or it can be combined with low-salt Proteinase K digestion. Lyticase pretreatment can be employed for isolation of TNA from Saccharomyces cerevisiae cells (Fig 2M, S1 Appendix, BOMB protocol 6.5). It is even possible to extract good quality TNA from environmentally derived sources, such as lake water (Fig 2P, S1 Appendix, BOMB protocol 6.7).\n\nAlthough TNA can be effectively purified using cells lysed in GITC buffer alone, some users may prefer the acid-GITC-phenol solution [28] (S1 Appendix, BOMB protocol B.1 or its commercial equivalent TRIzol) for initial denaturation. Using silica-coated BOMB beads and TRIzol solution, we have isolated an average of 7.2 μg of pure total RNA from 500,000 HEK293 cells (Fig 2H and 2J) in 96 samples simultaneously, for a total cost of approximately 0.30 € per sample. The isolated RNA is intact and suitable for delicate analysis techniques like quantitative PCR (Fig 2K) or RNA sequencing.\n\nProtocol #9: Bisulfite conversion\n\nMethylation of DNA at the fifth position of cytosines in the context of CG dinucleotides is probably the best studied epigenetic modification and likely plays a central role in defining vertebrate cellular identity [29–31]. Bisulfite sequencing is commonly used to study the distribution of 5-methylcytosine in genomes at single base resolution, and it is considered the gold standard in the field [32]. This method is widely used and can be employed to sequence a wide variety of samples, ranging from single amplicons to whole genomes. It was developed in the 1990s by Frommer and colleagues [33] and uses sodium bisulfite to sulfonate unmodified cytosines at the sixth position, followed by hydrolytic deamination and desulfonation in alkaline conditions, thereby converting unmodified cytosines to uracils. This reaction is far slower for methylated (or hydroxymethylated) cytosines at position 5, resulting in selective base conversion, which can be detected by sequencing, allowing site-specific analysis of the methylation status by comparison to the original sequence (S6A Fig). One major drawback of this procedure is that bisulfite treatment causes DNA degradation, especially at high incubation temperatures. Therefore, over the years, the original protocol has been improved to accelerate the conversion procedure [34,35]. Multiple companies offer commercial kits for bisulfite conversion, and some even use magnetic beads for high scalability, but they still cost more than 200 € per 96 sample plate.\n\nThe protocol we have developed (S1 Appendix, BOMB protocol 9.1) follows a fast, optimised bisulfite conversion chemistry [34]; however, for the separation of converted DNA and following desulfonation steps, silica-coated BOMB beads are employed instead of column-based purification, thus allowing treatment of many samples in parallel. We have tested and optimised this protocol using 500 to 750 ng of DNA as the substrate (S6B and S6C Fig), but it has also worked well with input amounts ranging from 10 ng to 2 μg. Sequencing of amplified converted DNA showed conversion rates comparable to commercial kits (approximately 99%). The whole procedure takes around 3 to 4 hours for 96 samples, with a hands-on time of less than 1.5 hours, and costs less than 0.20 € per sample.\n\nBenefits and costs associated with the BOMB platform\n\nPerhaps the most apparent benefit of the BOMB system is economic. Commercial column-based nucleic acid extraction kits are commonly used in laboratories. Depending on sample type, the nature of the nucleic acid to be purified, and the vendor, the price per sample ranges between 1 € and 14 € (Table 1). A single synthesis of silica BOMB beads is sufficient for more than 40,000 extractions of RNA, genomic DNA, or plasmid DNA, bringing the costs of nucleic acid extractions to less than 0.05 € (clean-up) to 0.32 € (total RNA extraction) per sample. These costs have been calculated using high-yield extractions based upon deep-well plates (1–2 ml); however, further significant cost savings can be made by scaling reaction volumes down to 0.2 ml PCR tubes and plates. Being at least 10 to 20 times cheaper than commercial column-based protocols, BOMB methods are suitable for large-scale experiments on a budget. Generally, the most expensive aspects of the BOMB platform are enzymes, like DNase I or RNase A; however, these costs can be greatly reduced if purification of a single nucleic acid species is not required. For example, routine PCR and even bisulfite sequencing can be performed on TNA without the need to remove RNA. Other significant costs associated with the BOMB platform include washing solvents such as ethanol and disposable tips and plates; however, these are usually not included in commercial kits and have to be supplied by the user. Most of the necessary chemicals required for creating the BOMB platform are readily available in standard molecular biology laboratories, and the rest can be purchased from a range of vendors. For the sake of rigour, our protocols list the suppliers we have used; however, we expect that good quality chemicals from an alternative source will show similar performance.\n\nWe have developed BOMB protocols as a consequence of an immediate need to process hundreds of samples on a tight budget and with limited workforce. By using magnets to immobilise nucleic acid captured on magnetic beads, centrifugation steps are eliminated. Because of this, these methods are highly scalable and allow easy processing of multiple batches of 96 samples in parallel by a single researcher with a multichannel pipette. Because of the 96-well format and the lack of dependence on a centrifuge, these protocols are also automation friendly and can be adapted to liquid handling robot systems if available. Compared to kits with single-spin columns, our protocols are much faster when processing many samples simultaneously. However, even when processing only 1 to 10 samples, most of our protocols are at least as fast as commercial alternatives while retaining the cost advantage, high yield, and quality of the isolated nucleic acids.\n\nSwitching to a bead-based lab\n\nWe have found that the time invested in switching to bead-based protocols is very quickly returned, and changing over to a primarily bead-based laboratory actually simplifies and accelerates many experimental processes. For example, a researcher may wish to undertake genome-wide methylation and expression analysis from the same cultured cell source. Here, a single TNA extraction can be performed—half of the material can be used directly for bisulfite conversion, whereas the rest can be DNase-treated and further purified to obtain pure RNA, which can then be processed into RNA-sequencing libraries.\n\nConverting to a low-cost bead-based system represents an opportunity to transform the research culture of any laboratory in a profound way. By having the capacity to do high-throughput experiments without extra cost, researchers may gain the ability to study entire populations instead of merely sampling, include extra control samples they otherwise would have to forego, or consider analysing separate cell populations rather than relying on averages generated from bulk tissue. Integration of next-generation sequencing with the BOMB platform provides additional synergy in these respects. Double-ended indexing allows pooling of potentially thousands of individual samples and amplicons in a single run, yet most laboratories are unable to capitalise on this empowering aspect because, until now, they were not equipped to process samples of this number.\n\nThe economic benefits of using the BOMB platform are not only relevant for professional scientists—educational institutions such as schools, universities, and community laboratories will also save precious resources by adopting cheap nucleic acid extraction protocols in their curricula. The reliable and easy to follow step-by-step protocols in combination with the lack of highly toxic chemicals or use of expensive equipment make the BOMB platform an ideal tool to introduce students to modern molecular biology techniques.\n\nA striking feature of the BOMB platform is its versatility and universality (Fig 3). Nucleic acid can be purified from a diverse set of biological and nonbiological sources and then passed on to any number of additional BOMB-based protocols, ranging from genotyping to bisulfite sequencing, library construction and clean-up, and/or size selection following PCR. Each step of these modular pipelines magnifies the benefits of the BOMB platform; we recently purified human cell line RNA, constructed cDNA, and then amplified and cloned over 100 human genes within 3 weeks using BOMB protocols (Oberacker and colleagues, in preparation). Because multiple rounds of plasmid DNA isolation, screening for positive clones, and subcloning were performed, the additive advantage of using BOMB protocols in a 96-well format over conventional targeted cloning approaches was immense.\n\nInitially, all that is required for a switch to the BOMB platform are beads and a magnetic rack, so getting started is easy. And although we are confident all laboratories can make their own beads, one barrier to starting with the BOMB platform can be removed by buying commercially available silica- or carboxyl-functionalised beads. To ease the transition to a BOMB-based lab we have included a forum section on our website (https://bomb.bio/) where researchers can ask questions and get help from other users, serving as a platform for further development of protocols, particularly for unique species and applications. Furthermore, the community can use this platform to expand the repertoire of procedures and sample types in a collaborative manner by discussing existing protocols as well as providing adaptations and completely new protocols.\n\nOutlook\n\nHere, we provide a set of simple, step-by-step protocols for extraction, purification, and manipulation of nucleic acids from various sources. These protocols can serve as a starting platform for further development of other functionalised MNPs as well as protocols tailored to the specific experimental needs of the users. Currently, our focus is on nucleic acids; however, we expect that further bead-based protocols will continue to be developed for more diverse applications. For example, both the carboxyl and silica coatings can be further chemically derivatised by attaching additional functional groups, like cofactors, proteins, or antibodies (e.g., coating with protein G), which will in turn allow additional functionalities of the beads. Our community-focussed website and forum will facilitate this development and allow troubleshooting, reagent sharing, and the distribution of new user-developed protocols. We envision that better access to magnetic bead technology will drive greater efficiency of research in the life sciences and further empower our collective quest for knowledge.\n\nSupporting information"
+}

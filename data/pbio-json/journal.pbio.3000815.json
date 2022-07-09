@@ -1,0 +1,128 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000815",
+  "doi": "10.1371/journal.pbio.3000815",
+  "externalIds": [
+    "pii:PBIOLOGY-D-20-01284",
+    "pmid:32760062",
+    "pmcid:PMC7433897"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Integrative illustration for coronavirus outreach",
+  "authors": [
+    {
+      "name": "David S. Goodsell",
+      "first": "David S.",
+      "last": "Goodsell",
+      "affiliation": "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, New Jersey, United States of America; Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, California, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-5932-2130"
+      ]
+    },
+    {
+      "name": "Maria Voigt",
+      "first": "Maria",
+      "last": "Voigt",
+      "affiliation": "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, New Jersey, United States of America; Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, New Jersey, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-3103-7781"
+      ]
+    },
+    {
+      "name": "Christine Zardecki",
+      "first": "Christine",
+      "last": "Zardecki",
+      "affiliation": "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, New Jersey, United States of America; Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, New Jersey, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4149-1745"
+      ]
+    },
+    {
+      "name": "Stephen K. Burley",
+      "first": "Stephen K.",
+      "last": "Burley",
+      "affiliation": "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, New Jersey, United States of America; Institute for Quantitative Biomedicine, Rutgers, The State University of New Jersey, Piscataway, New Jersey, United States of America; Research Collaboratory for Structural Bioinformatics Protein Data Bank, San Diego Supercomputer Center, University of California, San Diego, California, United States of America; Rutgers Cancer Institute of New Jersey, Rutgers, The State University of New Jersey, New Brunswick, New Jersey, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-2487-9713"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2020-08-06",
+  "volume": "18",
+  "number": "8",
+  "pages": "e3000815",
+  "tags": [
+    "COVID 19",
+    "Cell biology",
+    "Cell processes",
+    "Cellular structures and organelles",
+    "Coronaviruses",
+    "Developmental biology",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/COVID 19",
+    "Discipline-v3/Cell biology",
+    "Discipline-v3/Cell processes",
+    "Discipline-v3/Cellular structures and organelles",
+    "Discipline-v3/Coronaviruses",
+    "Discipline-v3/Developmental biology",
+    "Discipline-v3/Endoplasmic reticulum",
+    "Discipline-v3/Epidemiology",
+    "Discipline-v3/Infectious diseases",
+    "Discipline-v3/Life cycles",
+    "Discipline-v3/Medical conditions",
+    "Discipline-v3/Medical microbiology",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Microbial pathogens",
+    "Discipline-v3/Microbiology",
+    "Discipline-v3/Organisms",
+    "Discipline-v3/Pandemics",
+    "Discipline-v3/Pathogens",
+    "Discipline-v3/Pathology and laboratory medicine",
+    "Discipline-v3/RNA viruses",
+    "Discipline-v3/SARS",
+    "Discipline-v3/SARS CoV 2",
+    "Discipline-v3/SARS coronavirus",
+    "Discipline-v3/Secretory pathway",
+    "Discipline-v3/Vesicles",
+    "Discipline-v3/Viral diseases",
+    "Discipline-v3/Viral pathogens",
+    "Discipline-v3/Viral structure",
+    "Discipline-v3/Virions",
+    "Discipline-v3/Virology",
+    "Discipline-v3/Viruses",
+    "Endoplasmic reticulum",
+    "Epidemiology",
+    "Infectious diseases",
+    "Life cycles",
+    "Medical conditions",
+    "Medical microbiology",
+    "Microbial pathogens",
+    "Microbiology",
+    "Organisms",
+    "Pandemics",
+    "Pathogens",
+    "Pathology and laboratory medicine",
+    "RNA viruses",
+    "SARS",
+    "SARS CoV 2",
+    "SARS coronavirus",
+    "Secretory pathway",
+    "Type/Community Page",
+    "Vesicles",
+    "Viral diseases",
+    "Viral pathogens",
+    "Viral structure",
+    "Virions",
+    "Virology",
+    "Viruses"
+  ],
+  "abstract": "Two illustrations integrate current knowledge about severe acute respiratory syndrome (SARS) coronaviruses and their life cycle. They have been widely used in education and outreach through free distribution as part of a coronavirus-related resource at Protein Data Bank (PDB)-101, the education portal of the RCSB PDB. Scientific sources for creation of the illustrations and examples of dissemination and response are presented.",
+  "fullText": "In this era of rapid and widespread flow of information, there is a persistent need for accurate and accessible scientific imagery. This is particularly true for the current pandemic of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2), where we have been bombarded with conflicting information that we must each reconcile into a coherent course of action to protect our own health. Early in the pandemic, we set the goal of creating integrative illustrations of the virus and its interactions with the cells that it infects for use at PDB-101, the education and outreach portal of the RCSB Protein Data Bank [1],[2], as part of a growing body of coronavirus resources [3]. The idea is to create coherent and self-consistent materials that synthesize the state of knowledge at a given time. Our hope is that these illustrations will help to put a face on the virus, to help us see that it is something that may be understood and fought, and that they will help present the viral and cellular context of topics being discussed in professional and popular media.\n\nImages of viruses are ubiquitous in the scientific and popular media. For example, an internet image search of “HIV-1” will return all manner of illustrations, ranging from schematic cross-sections that show a parts list of components to highly rendered but often science-poor conceptual images for editorial venues. The US Centers for Disease Control and Prevention (CDC) released an exemplary computer graphics image of the SARS-CoV-2 virion early in the pandemic [4], with the forbidding white-and-red coloring scheme used in illustrations of HIV [5] and Ebola [6] from Visual Science. The CDC illustration, given its excellent provenance and close ties to primary data, has been widely used in the media and adapted in many derivative works.\n\nIn the virus imagery produced for PDB-101 [7], traditional methods of scientific illustration are used to create explanatory figures that reveal the inner structure of virions and explore their interactions with cells. These include educational features on HIV, Zika, Ebola, and others at PDB-101, as well as work on HIV and its life cycle with the HIV Interactions in Viral Evolution (HIVE) Center [8] and influenza with 3D Molecular Systems [9]. In this report, we present the scientific sources, integrative process, and public response for two illustrations of SARS coronaviruses distributed from PDB-101. As with other mesoscale landscape work, the illustrations depict cross-sections through the virus and cell, drawn at a consistent scale in orthographic projection, showing all macromolecules [10,11], and simplified shapes are used to represent biomolecular components to aid in recognition of molecules and comprehension of the scene as a whole. The illustrations integrate data that were available early in the coronavirus disease 2019 (COVID-19) pandemic, including atomic structures, if available, or molecular weights [12], and the ultrastructure is based on results from electron microscopy [13]. This information is provided in detail in S1 Text to assist with science communicators, educators, and students in their own work on SARS virus education and outreach.\n\nCoronavirus in Respiratory Mucosa (Fig 1) shows a mature coronavirus virion in a respiratory context to provide a visual touchstone for understanding the virus as an entity that may be understood and fought [14]. It depicts a cross-section through coronavirus just entering the lungs, surrounded by mucus secreted by respiratory cells, secreted antibodies, and several small proteins from the innate immune system. The illustration was produced and released at the RCSB PDB on Feb 6, 2020, early in the epidemic and when the scientific community, the news media, and the general public were looking for information to understand the virus and its implications for world health. Publication coincided with the release of the first SARS-CoV-2 structure in the PDB archive, the main protease (PDB 6lu7).\n\nThe goal of Coronavirus Life Cycle (Fig 2) is to show as many of the viral gene products as possible in action at a central moment in the viral life cycle to provide context as future drug design efforts begin reporting successes [15]. The illustration captures a time point when the virus is actively replicating in the cell. Reading from top to bottom, the overarching narrative includes synthesis of viral proteins at the endoplasmic reticulum (ER), replication of viral RNA by replicases on double membrane vesicles, and assembly and budding of virions into an endosome. In each of these three processes, many specific subprocesses are shown:\n\nat the top, viral RNA is directing the synthesis of viral spike proteins (Fig 3);\n\nin the middle, viral proteins have reorganized the ER membrane to form characteristic networks and double membrane vesicles;\n\nbound to these new membrane structures, several viral enzymes form replicase complexes that create new copies of the viral RNA genome (Fig 3);\n\nat the bottom, the viral nucleocapsid protein is condensing the RNA genome and interacting with the viral membrane protein to package the genome as the virus buds into an endosome.\n\nThe illustration is designed around one of the big mysteries of the coronavirus life cycle. The ER is extensively remodeled to form vesicles with two concentric membranes [16]. The outer membrane is thought to be connected to the ER, but the inner membrane is thought to be sealed shut. The vesicle is thought to include viral RNA, some of which may be in double-stranded form. The function of these vesicles is still a subject of study, with many questions to be answered. Is the RNA replicating inside? If so, how do the building blocks get into the vesicle, and how does the final product get out?\n\nBoth illustrations are available for free use under a Creative Commons CC-BY-4.0 license at PDB-101 [17] and are reaching a growing audience. As of the end of June 2020, the original coronavirus virion image had received &gt;35,000 views. A black and white outline version of this image was distributed online for “coloring” and has been accessed &gt;20,000 times. Other coronavirus-related materials offered at PDB-101 include a video demonstrating fighting coronavirus with soap at the molecular level (&gt;360,000 views on YouTube) and a Molecule of the Month feature on Coronavirus Proteases (&gt;68,000 views, [18]). The illustrations are also being used in research publications, for example, on the cover of the inaugural issue of The Lancet Microbe [19].\n\nIn addition to web usage statistics, social media and Twitter, in particular, provide a particularly useful glimpse into how the Coronavirus in Respiratory Mucosa illustration has been used by the general public, providing an anecdotal evaluation of its success. Unsolicited comments typically fall into several general categories. There was a disconnect for many viewers between the colorful approach of the illustration and the dangerous nature of the virus. Comments include:\n\n“This is beautiful and terrifying at the same time,”\n\n“Art is the work of transforming fear and pain into beauty,”\n\nbut also\n\n“Things seem a bit less scary when they’re colourful,”\n\n“So pretty that makes me forget how many lives it took…in one month!”\n\nArt critic Phillip Kennicott [20] explored this concept more deeply, positing that the menacing colors of the CDC illustration “clearly emphasizes the threat this virus poses to those who refuse to, or cannot, socially distance themselves,” whereas the colorful watercolor depicts the virus as “a thing apart, to be studied, anatomized and understood.” Design of the color scheme was a particularly tricky aspect of the illustration. One of the design goals was to allow users to discern host molecules from components encoded by the virus. A scheme was chosen that is consistent with past work, with host features in blues and greens and viral features in purples and pinks. This, unfortunately, causes visual dissonance in, for example, the double-membrane vesicles that include both host and viral proteins. Perhaps this can be treated as a feature, however, not a problem, because the depicted scene is not a harmonious process but rather the forced hijacking of the host cell.\n\nWe have also received numerous comments from people using the illustration, and the accompanying coloring-book version of the illustration (Fig 4), in home schooling during the shelter-at-home period of the pandemic. A few of the (truly inspiring) comments include:\n\n“My younger daughter was just asking me last night, ‘do they know what the virus looks like?’”\n\n“Kids and I were talking today about how it is NOT an invisible enemy, just requires the right tools to see.”\n\n“My 6 yo was making himself sick with worry, not understanding why he soon won’t be able to go school. So I told him all about viruses, what they are and what they do, and sent him to school today with copies of this for his whole class.”\n\nMany adults also made use of the coloring book version, as a “Relaxing and meditative evening activity—an appropriate ‘mandala’ for these days.”\n\nWe have garnered several insights from this study, building on the direct contact that has been available through social media and interaction with feature writers and editors. The first is really no surprise but always good to revisit: different people respond differently to particular stylistic choices, in this case, to our coloring schemes. The intuitive color approach used here was received well by some and caused disconnects in others, and a lively online dialog with users led to recoloring of the replication illustration. These types of choices could use more careful study and tuning in future, for example, to address the needs of colorblind viewers; the challenge and fun is always finding the best mix of utility and artistic integrity. Our second insight is that fairly simple repurposing can extend the utility and reach of these types of integrative visualization efforts. For example, the coloring activity inspired readers to share related creations, including science-driven computer visualizations and 3D models as well as artistic interpretations in a variety of media.\n\nAs we write this article, sheltering at home, the research community is early in the fight against the new SARS-CoV-2, and a flood of new information is appearing daily. The structural biology community has been particularly engaged; since the release of the first main protease in February, nearly 150 structures from SARS-CoV-2 have been made available in the PDB archive. These illustrations represent snapshots of the information that was initially available and represent a generic depiction of the many coronavirus-related atomic structures. As our understanding of SARS-CoV-2 deepens, detailed modeling and depictions of this specific virus will become more feasible to help us chart a path through understanding the virus and its impact on global health.\n\nSupporting information"
+}

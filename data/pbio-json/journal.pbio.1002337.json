@@ -1,0 +1,35 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1002337",
+  "doi": "10.1371/journal.pbio.1002337",
+  "externalIds": [
+    "pii:PBIOLOGY-D-15-03085",
+    "pmid:26742021",
+    "pmcid:PMC4711796"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "To Attract Others, Immune Cells Release a Packet Which Releases a Signal",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson",
+      "affiliation": "Freelance Science Writer, Sherborn, Massachusetts, United States of America"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2016-01-07",
+  "volume": "14",
+  "number": "1",
+  "pages": "e1002337",
+  "tags": [
+    "Type/Synopsis"
+  ],
+  "fullText": "When you cut your finger, molecules released by damaged cells (and later, by growing bacteria) are sensed by roving immune cells called neutrophils, which respond to the signal by moving directly and rapidly toward the site of damage. They also release their own set of chemicals, especially leukotriene B4 (LTB4), essentially signaling to other neutrophils, “Hey, follow me!” The release of LTB4 both amplifies the primary damage signal and casts it more widely, bringing in far more reinforcements than the damaged cells themselves could muster on their own.\n\nThe neutrophil knows which direction it should go by following the signal up its concentration gradient. However, it has been unclear how a diffusible secondary attractant such as LTB4 can be disseminated far from where it is released, and thereby amplify the diffusible primary attractants and recruit more neutrophils to the site of injury and inflammation. In a new study in PLOS Biology, Ritankar Majumdar, Aidin Tavakoli Tameh, and Carole Parent show that neutrophils release not the LTB4 itself but vesicles that contain it along with the enzymatic machinery to make it, allowing LTB4 to be dispersed over larger areas and for longer time periods than through direct release (Fig 1).\n\nNeutrophils release large amounts of LTB4 only upon activation by a primary chemoattractant, such as N-formylmethionyl-leucyl-phenylalanine (fMLP), released by both damaged cells and bacteria. The authors began by activating neutrophils and then separating their subcellular components by density. They found that LTB4 was not increased in the density fractions associated with the most common secretory pathways, but its distribution pattern did match that for a protein known to be packaged in multivesicular bodies (MVBs).\n\nAs their name implies, MVBs are membrane-bound structures that contain numerous smaller vesicles (called intraluminal vesicles). When an MVB fuses with the plasma membrane, its intraluminar vesicles are released into the extracellular space (at which point they are called exosomes). Using electron microscopy, the authors found that one of the enzymes that makes LTB4, called 5-lipoxygenase (5-LO), could be detected on MVBs, and activated neutrophils released exosomes containing 5-LO from their trailing edges.\n\nExosomes purified from activated neutrophils contained high levels of 5-LO and other LTB4-synthesizing enzymes, and activation of resting neutrophils with fMLP led to an increase in the LTB4 concentration in exosomes. The authors also showed that the purified exosomes could mobilize resting neutrophils, inducing their polarization and adhesion, two key properties of activated, chemotaxing cells. The neutrophils migrated toward the exosomes, an effect that could be reduced significantly by treating the neutrophils with an antagonist for the LTB4 receptor.\n\nThese results clearly showed that exposure to a primary chemoattractant induced release of exosomes that contained and released LTB4, and that release of LTB4 by one neutrophil could promote chemotaxis in another neutrophil, a “paracrine” effect. But the authors found that LTB4 also had an autocrine effect, inducing stronger chemotaxis in the releasing cell as well. Knocking down two proteins critical for exosome docking and secretion, thereby reducing the amount of LTB4 released, led to a reduction in the directional specificity of and distance covered by the neutrophils containing the knockdowns, without affecting their speed of movement.\n\nMore work remains to be done to understand how LTB4 is released from the exosomes, whether through diffusion or transport or vesicle lysis. But this study makes it clear that the rapid and dramatic swarming of neutrophils to the site of an injury is mediated by release of exosomes carrying both LTB4 and the enzymes needed to synthesize it. These findings are likely to be directly relevant to developing treatments for several chronic inflammatory diseases, including asthma, in which LTB4 signaling plays an important role. The authors also suggest that exosome-mediated signaling is likely to be at work in other cell types and other situations requiring extracellular gradients that might otherwise be difficult to establish or maintain."
+}

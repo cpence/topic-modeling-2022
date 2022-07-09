@@ -1,0 +1,129 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000344",
+  "doi": "10.1371/journal.pbio.3000344",
+  "externalIds": [
+    "pii:PBIOLOGY-D-18-00664",
+    "pmid:31260438",
+    "pmcid:PMC6625714"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "The Human Brain Project—Synergy between neuroscience, computing, informatics, and brain-inspired technologies",
+  "authors": [
+    {
+      "name": "Katrin Amunts",
+      "first": "Katrin",
+      "last": "Amunts",
+      "affiliation": "Institute for Neuroscience and Medicine (INM-1), Forschungszentrum Jülich, Germany; C. and O. Vogt Institute for Brain Research, University Hospital Düsseldorf, Heinrich Heine University Düsseldorf, Düsseldorf, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-5828-0867"
+      ]
+    },
+    {
+      "name": "Alois C. Knoll",
+      "first": "Alois C.",
+      "last": "Knoll",
+      "affiliation": "Institut für Informatik VI, Technische Universität München, Garching bei München, Germany"
+    },
+    {
+      "name": "Thomas Lippert",
+      "first": "Thomas",
+      "last": "Lippert",
+      "affiliation": "Jülich Supercomputing Centre, Institute for Advanced Simulation, Forschungszentrum Jülich, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9407-6043"
+      ]
+    },
+    {
+      "name": "Cyriel M. A. Pennartz",
+      "first": "Cyriel M. A.",
+      "last": "Pennartz",
+      "affiliation": "Swammerdam Institute for Life Sciences, Faculty of Science, University of Amsterdam, the Netherlands",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-8328-1175"
+      ]
+    },
+    {
+      "name": "Philippe Ryvlin",
+      "first": "Philippe",
+      "last": "Ryvlin",
+      "affiliation": "Department of Clinical Neurosciences, Centre Hospitalo-Universitaire Vaudois (CHUV) and University of Lausanne, Lausanne, Switzerland",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7775-6576"
+      ]
+    },
+    {
+      "name": "Alain Destexhe",
+      "first": "Alain",
+      "last": "Destexhe",
+      "affiliation": "Unité de Neurosciences, Information & Complexité (UNIC), Centre National de la Recherche Scientifique (CNRS), Gif-sur-Yvette, France",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7405-0455"
+      ]
+    },
+    {
+      "name": "Viktor K. Jirsa",
+      "first": "Viktor K.",
+      "last": "Jirsa",
+      "affiliation": "Institut de Neurosciences des Systèmes, Inserm UMR1106, Aix-Marseille Université, Faculté de Médecine, Marseille, France"
+    },
+    {
+      "name": "Egidio D’Angelo",
+      "first": "Egidio",
+      "last": "D’Angelo",
+      "affiliation": "Department of Brain and Behavioral Science, Unit of Neurophysiology, University of Pavia, Pavia, Italy"
+    },
+    {
+      "name": "Jan G. Bjaalie",
+      "first": "Jan G.",
+      "last": "Bjaalie",
+      "affiliation": "Institute of Basic Medical Sciences, University of Oslo, Oslo, Norway",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7899-906X"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2019-07-01",
+  "volume": "17",
+  "number": "7",
+  "pages": "e3000344",
+  "tags": [
+    "Behavioral neuroscience",
+    "Cognitive neuroscience",
+    "Cognitive science",
+    "Computational biology",
+    "Computational neuroscience",
+    "Data management",
+    "Database and informatics methods",
+    "Discipline-v3/Behavioral neuroscience",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Cognitive neuroscience",
+    "Discipline-v3/Cognitive science",
+    "Discipline-v3/Computational biology",
+    "Discipline-v3/Computational neuroscience",
+    "Discipline-v3/Computer and information sciences",
+    "Discipline-v3/Data management",
+    "Discipline-v3/Database and informatics methods",
+    "Discipline-v3/Health informatics",
+    "Discipline-v3/Metadata",
+    "Discipline-v3/Neural networks",
+    "Discipline-v3/Neuroscience",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Simulation and modeling",
+    "Health informatics",
+    "Metadata",
+    "Neural networks",
+    "Neuroscience",
+    "Simulation and modeling",
+    "Type/Community Page"
+  ],
+  "abstract": "The Human Brain Project (HBP) is a European flagship project with a 10-year horizon aiming to understand the human brain and to translate neuroscience knowledge into medicine and technology. To achieve such aims, the HBP explores the multilevel complexity of the brain in space and time; transfers the acquired knowledge to brain-derived applications in health, computing, and technology; and provides shared and open computing tools and data through the HBP European brain research infrastructure. We discuss how the HBP creates a transdisciplinary community of researchers united by the quest to understand the brain, with fascinating perspectives on societal benefits.",
+  "fullText": "Introduction\n\nTo decode the multilevel brain's complexity, the Human Brain Project (HBP) combines empirical neuroscience in the human brain and in animals with theory and modeling, relying on and developing advanced information and communication technology (ICT) including computing, big data analytics, artificial intelligence (AI), and simulation [1]. The project represents a large-scale, interdisciplinary approach and consists of 12 subprojects—i.e., mouse brain organization, human brain organization, systems and cognitive neuroscience, theory, neuroinformatics, brain simulation, medical informatics, high-performance analytics and computing, neuromorphic computing, neurorobotics, administrative support, and ethics and society. Knowledge and constraints in neuroscience are drivers for developing research platforms through a codesign process. This has proven to be a very successful approach for transdisciplinary work in the HBP. Through codesign, the HBP is developing and releasing a unique European brain research infrastructure. To enable neuroethical analysis and develop, broaden, and enhance responsible research and innovation, the HBP was one of the first initiatives worldwide to establish a dedicated subproject for ethics.\n\nNeuroscience: Understanding the brain at multiple scales\n\nThe multiscale approach of the HBP links experiments conducted at the molecular, subcellular, and cellular levels and at the level of neuronal populations and macroscopic regions, up to large-scale networks and behavior. Research on mouse brain organization primarily gathers structural and physiological data at the subcellular and cellular levels, which is critical for biophysically detailed modeling and simulations. For instance, novel data on microcircuits in the cerebellum shed new light on its function, including forward and feedback control [2].\n\nElectron microscopy, two-photon and light-sheet imaging, polarized light imaging (PLI), and diffusion MRI, along with advanced electrophysiological techniques including patch clamping and multielectrode array recordings in vitro and in vivo as well as electroencephalography (EEG), provide data on the connectome on the different spatial and temporal scales (Fig 1). These data, together with those on the cellular and molecular organization, functional and connectivity data, and many more, are integrated into the HBP Brain Atlases, which provides a basis for human and rodent brain research [3]. The atlases also establish the structural frame for modeling and simulation studies, which is a unique feature of the HBP approach. For example, simulations use patient-specific brain connectivity and imaging of malformations to personalize network models for seizure prediction and surgery [4].\n\nUnderstanding the brain at multiple scales requires the integration of anatomy and physiology with cognitive and systems neuroscience to flesh out the neural mechanisms underlying cognition—e.g., in object recognition, visuomotor control, episodic memory, sleep, wakefulness, and consciousness. To this end, researchers combine experimental studies in rodents and humans, integrate data in computational models and simulations of large-scale neuronal networks, and simplify and apply these models to control physical robots or simulated agents in order to capture essential features of animal and human behavior. Neuroscientists working on the cellular or molecular level exchange results with researchers working in cognitive and systems as well as theoretical neuroscience to cast neurobiological principles into new theories and formal models, which then prompt simulation studies and the development of neuromorphic computing systems. There is still no comprehensive theory describing information processing in the brain, but important building blocks can be won through these approaches and may constitute the basis for such a theory in the future.\n\nThe European brain research infrastructure\n\nThis infrastructure consists of different components—neuroinformatics, simulation, high-performance analytics and computing, neuromorphic computing, and neurorobotics. To enable interdisciplinary research, a seamless transition and integration of the different components and data is necessary. Collaborating with the neuroscience branches, the HBP is developing and providing workflows, from organizing and storing data and making them accessible according to the Findable Accessible Interoperable Reusable (FAIR) data principles [9] to data analysis, modeling, simulation, and brain-inspired technologies (Fig 2).\n\nIn addition, the voucher system of the HBP allows researchers outside the project to request innovation support or technical support for the modification of tools and workflows to meet their needs, thus facilitating broader uptake of the integrated platform services.\n\nThe High-Level Support Team (HLST) of the HBP is available for answering questions or resolving issues with the use of the tools and services and for adapting tools and workflows for specific use cases. Specifically, researchers outside HBP can make their data discoverable and accessible in the Knowledge Graph and Atlases by applying for access to curation services and data storage through the HLST. The HLST help desk and ticketing system is available at the following e-mail: support@humanbrainproject.eu.\n\nVarious types of neuroscience data are being generated, with differences in format, metadata, or level of precision. Through a curation process, metadata are assigned and stored in the HBP Knowledge Graph, an online graph database allowing advanced searches (Fig 2). Thereby, data and models become findable and interpretable. Data can be downloaded or used directly in workflows available through the computing infrastructure, with terms of use and licenses defined for all available data sets. Data are also being made available through the Knowledge Graph with integrated multilevel HBP Atlases, holding information about the brain in standard reference spaces. The Human Brain Atlas supports different reference spaces including the T1-weighted, single-subject template of the Montreal Neurological Institute (MNI) [10] and the BigBrain [11]. The atlases are more and more populated with data from the different fields to form fully interoperable, multimodal representations of the human and rodent brain. They are compatible with other resources [12] and capable of integrating data not only from healthy subjects but also from patients.\n\nThe Medical Informatics Platform (MIP) exploits new ICT in the context of clinical neurosciences [13]. It combines local components installed in every participating hospital and a web-based central node connecting the local components. Its architecture enables the extraction, processing, and analysis of medical data collected during either clinical practice or research. The MIP allows the automatic generation of brain regional volumes from T1 MRI data. The key is to enable General Data Protection Regulation (GDPR)-compliant federated analysis of distributed clinical datasets without moving the data out of the hospital, a crucial issue in the context of data privacy concerns and regulations. This unique feature opens the way for studies of unmatched scale, keeping in mind that 165 million European citizens suffer from brain diseases. A first proof-of-concept study in the field of dementia collected &gt;6,000 datasets from three hospitals and analyzed them together with data from Alzheimer’s Disease Neuroimaging Initiative (ADNI). The future MIP will include many more hospitals and consider data from patients with epilepsy, traumatic brain injury, and behavioral disorders. It offers an ideal infrastructure to implement AI-based diagnostic and patient management tools for clinical practice in conjunction with modeling and simulation efforts in personalized medicine.\n\nSome of the research data in brain science already reach the petabyte range. The HBP storage at high-performance computing centers in Europe, the FENIX infrastructure, enables researchers to upload their data and use high-end simulation and processing of big data in an easy and straightforward way from wherever they are. To bring neuroscientists to supercomputing is one of the aims of the HBP; it opens new ways to solve neuroscientific questions requiring significant compute resources. Computer specialists benefit from neuroscience use cases, which are instrumental to identify the characteristics of future, extreme-scale computers including modular supercomputers. Already, the integrated platform of the HBP is the first research infrastructure that is embedding two worldwide, unique neuromorphic computing machines with novel non–von Neumann computing architecture (SpiNNaker and BrainScaleS) into user workflows [14]. This powerful computing infrastructure will smoothly handle complex workflows, combining, for example, compute-intensive simulation with the analysis of data using deep learning.\n\nNeurorobotics is a brain-inspired technology; a novel interdisciplinary field of science at the confluence of neuroscience, robotics, and artificial intelligence; and part of the research infrastructure. It recognizes the fact that the brain is embedded into a body and that this body is itself embedded into a dynamic environment. This approach considers that environmental interactions cannot be ignored to faithfully simulate the brain and understand behavior. This embodiment (through either a simulated agent or a physical robot) provides neuroscientists with a new experimental paradigm to test their neural models [15]. Simulations implementing closed-loop experiments in neurorobotics encompass the full action–perception–cognition loop. Observation of brain activity and physical performance in the context of relevant behavioral tasks then enables researchers to either refute or support the theory behind their neural models, thus uniquely informing their scientific investigations. This line of research will eventually lead to a new paradigm, “closed-loop neuroscience,” for which the HBP intends to provide the necessary infrastructure. Such an example illustrates the synergistic relationship between neuroscience, ICT, and brain-like computing within HBP.\n\nThe brain research infrastructure will unify the individual components into one cloud-based superstructure, facilitating the exchange of knowledge, data, models, and algorithms within HBP as well as between the HBP and the “outside world.” Research infrastructures in other fields, such as particle physics, served as role models to create active, tangible interfaces between researchers and the infrastructure.\n\nConcluding remarks\n\nThe HBP is pursuing an open-science approach. Simulation engines, models, analysis tools, data, and the HBP Atlases are shared with the community through a web-based system as a common entry point. Multilevel brain complexity is a challenge that needs a sustainable and strong—but also flexible—research infrastructure at the interface of neuroscience and computing, which is developed by the project. It offers and develops services to the research community to solve scientific problems from various fields including FAIR data; atlasing; medical brain activity data; web-based, interactive supercomputing; closed-loop neuroscience; robotics and AI; and modeling and simulation workflows. The HBP approach has already led to a significant number of breakthroughs, among them the development of novel spike-based learning algorithms, which were implemented on neuromorphic computers with the aim of obtaining general-purpose tools for a new generation of AI applications; innovative theoretical models that made use of results from experimental neuroscience addressing the multiscale organization of the brain; and significant advances in understanding the neural basis of learning and perception [16], spatial memory [17], multisensory integration [18], and sleep and consciousness [19]. These are a few examples illustrating that the integration of neuroscience and ICT within a common framework opens new ways toward a better understanding of brain complexity. (For a regularly updated overview, see https://www.humanbrainproject.eu/en/science/highlights-and-achievements/.)\n\nA research culture of collaboration and data sharing, which is accompanied by activities addressing ethical and philosophical issues and their societal implications, has been key for the HBP from the very beginning. The HBP infrastructure provides a concrete basis to collaborate with the wider, international research community. It is linking the European project into an international context—e.g., through the International Brain Initiative (IBI). The IBI was created in 2017 with the Australian Brain Alliance, Japan Brain Mapping by Integrated Neurotechnologies for Disease Studies (Brain/MINDS) Project, Korea Brain Initiative, the European HBP, and the United States Brain Initiative as the initial members. It has the aim of coordinating efforts between the global initiatives to speed up progress on decoding the brain’s code."
+}

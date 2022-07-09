@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001061",
+  "doi": "10.1371/journal.pbio.1001061",
+  "externalIds": [
+    "pii:PBIOLOGY-D-11-01112",
+    "pmid:21572986",
+    "pmcid:PMC3091840"
+  ],
+  "license": "This is an open-access article distributed under the\n                terms of the Creative Commons Attribution License, which permits unrestricted use,\n                distribution, and reproduction in any medium, provided the original author and\n                source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "How Bacteria Shift Gears",
+  "authors": [
+    {
+      "name": "Robin Meadows",
+      "first": "Robin",
+      "last": "Meadows",
+      "affiliation": "Freelance Science Writer, Fairfield, California, United States of\n                    America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2011-05",
+  "volume": "9",
+  "number": "5",
+  "pages": "e1001061",
+  "tags": [
+    "Discipline-v2/Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "Bacteria can change course almost\n                instantaneously, zipping towards food or away from toxins. How do such simple\n                organisms do something so complex? It's all in the flagella, a tail-like\n                structure with rotating helical filaments. The flagella work in unison to propel the\n                cell forward by rotating counterclockwise and thus bundling together. When the\n                flagella reverse their rotation to clockwise, they disrupt the bundle and make the\n                cell tumble in place. When the flagella shift back to counterclockwise again, the\n                bacteria set off on a new course.\n\nThis description of bacterial locomotion is well known, but the mechanisms that allow\n                the flagella to shift gears from counterclockwise to clockwise have proven difficult\n                to identify. Now, in a new study in this issue of PLoS Biology,\n                Katsumi Imada, Tohru Minamino and colleagues bring us closer to answering this\n                fundamental question and propose a new model describing how flagella manage this\n                switch.\n\nFilaments in the flagella are powered by rotary motors that span the cell membrane.\n                Things of beauty, these motors are tooled so precisely that they are nearly\n                100% efficient, and their direction is set by a rotor that can turn thousands\n                of revolutions per minute. The rotor shifts from the forward-propelling\n                counterclockwise to the tumble-inducing clockwise when chemical gradients tell\n                bacteria they've gone astray, for example, away from food. This activates a\n                cytoplasmic signaling protein that binds proteins in the rotor switch, changing the\n                orientation of another switch protein called FliG and thereby reversing the\n                rotor's spin to clockwise.\n\nThe details of the switch mechanism had been hypothesized but were as yet unproven.\n                Previous X-ray crystallography studies of a FliG fragment had shown that two of its\n                domains (FliGM and FliGC) are connected by a helical linker\n                called helix E, and the 3-D structure of a FliG protein predicted from its DNA\n                sequence suggested that helix E might be flexible enough to make a good molecular\n                switch. This suggestion was further supported by a 2010 report that compared the\n                structure of a full-length FliG to the fragment: helix E was tightly packed in\n                closed conformation in the full-length structure, but was in open conformation and\n                dissociated from FliGM in the fragment.\n\nTo find out if helix E is indeed the molecular switch that sets the direction of\n                rotor spin, the researchers compared wild-type and mutant FliG fragments containing\n                the two domains linked by helix E. The wild-type motors were set to spin\n                counterclockwise by experimental conditions, and the mutant had a type of amino acid\n                deletion that sets the rotor spin to clockwise. As expected, X-ray crystallography\n                revealed that the wild-type (counterclockwise) and mutant (clockwise) FliG fragments\n                had different helix E conformations.\n\nThe difference was in the hinge between helix E and FliGM, reorienting the\n                former and exposing part of the latter in the mutant fragments, suggesting that this\n                hinge may be the molecular switch that shifts FliG's orientation between\n                counterclockwise and clockwise states. This conclusion was strengthened by the\n                finding that while the FliG proteins studied came from several bacteria species and\n                varied considerably, they shared a conserved FliGM-FliGC\n                element.\n\nBased on their discovery, the researchers propose a new model for rotational\n                switching in bacterial flagella. The rotor base has a ring of FliG subunits that\n                switch cooperatively between counterclockwise and clockwise states. The model holds\n                that besides affecting the orientation of its own subunit, the hinge between helix E\n                and FliGM also affects the orientation of the neighboring FliG subunit.\n                Thus, conformational change of this molecular switch rapidly spreads from subunit to\n                subunit, thus propagating it all around the ring.\n\nThis work provides the most direct evidence yet that helix E is the molecular switch\n                underlying the flagellar motor's gear shift from counterclockwise to clockwise,\n                as well as the most complete model of the cooperative flagellar switch. Besides\n                advancing our understanding of the flagellar motor, which is a marvel of nature,\n                this study could help lay the groundwork for developing drugs that target key motor\n                proteins and so immobilize harmful bacteria.\n\n                Minamino T, Imada K, Kinoshita M, Nakamura S, Morimoto YV, et al. (2011)\n                    Structural Insight into the Rotational Switching Mechanism of the Bacterial\n                    Flagellar Motor. doi:10.1371/journal.pbio.1000616"
+}

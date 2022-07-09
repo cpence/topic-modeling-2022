@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001036",
+  "doi": "10.1371/journal.pbio.1001036",
+  "externalIds": [
+    "pii:PBIOLOGY-D-11-00419",
+    "pmid:21445326",
+    "pmcid:PMC3062528"
+  ],
+  "license": "This is an open-access article distributed under\n                the terms of the Creative Commons Attribution License, which permits unrestricted\n                use, distribution, and reproduction in any medium, provided the original author and\n                source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "PezT: A Bacterial Suicide Gene",
+  "authors": [
+    {
+      "name": "Caitlin Sedwick",
+      "first": "Caitlin",
+      "last": "Sedwick",
+      "affiliation": "Freelance Science Writer, San Diego, California, United States of\n                    America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2011-03",
+  "volume": "9",
+  "number": "3",
+  "pages": "e1001036",
+  "tags": [
+    "Discipline-v2/Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "Bacteria are highly skilled at biological warfare. They have a range of weapons at\n                their disposal: everything from secreted toxins to camouflage. Many bacteria can\n                even make use of what's known as a toxin–antitoxin system to program\n                their own individual suicide in support of the population's survival. In this\n                system, a bacterial toxin lies dormant within the bacterium, wrapped up and\n                prevented from becoming active by an antitoxin protein. Under conditions of stress,\n                the antitoxin either stops being produced or is degraded, freeing the toxin to\n                perform its attacks. One such toxin–antitoxin system, PezAT (also known as the\n                epsilon/zeta system), is expressed in many pathogenic bacteria, but its mechanism of\n                action is not known. In this issue of PLoS Biology, Hannes\n                Mutschler, Anton Meinhart, and colleagues explain how this toxin–antitoxin\n                system operates.\n\nThe PezAT system has been difficult to study because the toxin half of the system,\n                PezT, is deadly when expressed in cells without its antitoxin counterpart, PezA.\n                However, Meinhart and his team observed that a mutant version of PezT—one\n                lacking the last 11 amino acids of its C-terminus—still kills the bacteria\n                that host it, but does so slowly enough to allow its mechanism of killing to be\n                studied. Because truncated PezT kills slowly, the researchers had time to observe\n                that it does so by distorting the shape of the bacteria and ultimately bursting the\n                cells. These observations suggested that it acts by impairing the integrity of the\n                bacterial cell wall.\n\nHow does PezT affect cell wall integrity? Other research had suggested that PezT is\n                toxic not only to bacteria but also to yeast. Meinhart's group therefore\n                suspected it might affect a conserved component that is important for both bacterial\n                and yeast survival. One such component is the bacterial cell wall precursor and\n                metabolite UDP-N-acetylglucosamine (UNAG).\n\nIn bacteria, UNAG is required for the formation of the peptidoglycans that make up\n                the backbone of the cell wall and give it its stiff structure. The researchers\n                theorized that PezT might act by phosphorylating UNAG because PezT structurally\n                resembles a phosphotransferase. Indeed, their biochemical experiments showed that\n                PezT directly phosphorylates a hydroxyl group on UNAG.\n\nThere appear to be many negative consequences of UNAG phosphorylation. For one thing,\n                UNAG is normally the substrate for an enzyme known as MurA. But PezT phosphorylates\n                UNAG at the exact site on which MurA normally acts, thereby preventing UNAG from\n                being processed correctly by MurA. When PezT phosphorylates UNAG, it therefore\n                blocks MurA from acting on an unphosphorylated pool of UNAG. As a result,\n                phosphorylated UNAG gradually accumulates within the cells, aggravating its own\n                blockading effects by a positive feedback loop. As the blockade takes effect, the\n                creation of new cell wall material is prevented, and the cell wall weakens until it\n                can no longer withstand the hydrostatic pressure of the bacterium's contents,\n                causing the bacterium to burst open.\n\nInterestingly, bacteria seem most vulnerable to the effects of PezT when they are\n                growing rapidly; bacteria are more resistant to PezT-mediated death when they are\n                growing slowly or are small in size. Therefore, activation of PezT seems to be a\n                method by which rapidly growing bacteria can instigate a suicide program.\n\nWhy would bacteria need to commit suicide? Meinhart and colleagues speculate that the\n                suicide of a few bacteria in a rapidly growing population may promote the release of\n                other toxins that can attack their host's cells or competing bacteria, thereby\n                protecting their own. But now that we know about this secret weapon and its modus\n                operandi, in the future it may be possible to deploy it against pathogenic bacteria\n                by designing drugs that subvert this process. PezT could turn out to be a bacterial\n                Achilles heel.\n\n        Mutschler H, Gebhardt M, Shoeman RL, Meinhart A (2011) A Novel Mechanism of\n                    Programmed Cell Death in Bacteria by Toxin–Antitoxin Systems Corrupts\n                    Peptidoglycan Synthesis. doi:10.1371/journal.pbio.1001033"
+}

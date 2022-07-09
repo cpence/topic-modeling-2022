@@ -1,0 +1,27 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0000043",
+  "doi": "10.1371/journal.pbio.0000043",
+  "license": "This is an open-access article distributed under the terms of the Public Library of Science Open-Access License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "slik Gene Controls Cell Growth and Survival",
+  "journal": "PLoS Biology",
+  "date": "2003-11",
+  "dateElectronic": "2003-11-17",
+  "volume": "1",
+  "number": "2",
+  "pages": "e43",
+  "tags": [
+    "Discipline/Developmental Biology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Oncology",
+    "System Taxonomy/Drosophila",
+    "Type/Synopsis"
+  ],
+  "fullText": "During animal development, cells gradually grow, multiply, and specialize to create the tissues and organs that shape and sustain multicellular organisms. The progression from a single cell to a thousand-, million-, or trillion-celled animal follows an exacting schedule and plan involving an elaborate network of genes and proteins. One of the primary mechanisms coordinating this process is cell-to-cell communication. Cellular signaling regulates two crucial development mechanisms, apoptosis (programmed cell death) and cell proliferation, which work like chisel and clay to sculpt multiplying masses of cells into, say, a fly wing or a human finger. Controlled by multiple signals operating at fixed intervals, the entwined pathways can be steered off-course by a single defect in the communication network, resulting in the death of a healthy cell, for example, or the survival of a damaged cell. Such disruptions can lead to physical abnormalities, such as webbed hands and feet, when cells that should die remain alive; degenerative nerve disease, when healthy cells are killed; and cancer, when damaged cells survive and evade normal growth limitations.\n\nResearchers have uncovered some of the mechanisms underlying these processes by studying genes involved in fruitfly (Drosophila) development. Following that tradition, Stephen Cohen and David Hipfner have identified a gene critical to Drosophila development that juggles cell growth and survival signals to help promote cell growth and prevent inappropriate apoptosis. They searched for genes associated with changes in tissue growth in fruitfly wings and identified some that can cause tissue “overgrowth”—abnormally large masses resulting either from cells growing faster than they divide or from cells escaping proliferation controls when they are overexpressed. Among these is a gene that encodes a newly identified kinase that contributes to the regulation of cell proliferation and survival (or death, depending on the circumstance) during Drosophila development. Cohen and Hipfner called the gene slik based on its similarity to two human kinase-coding genes (SLK and LOK). Little is known about these human proteins, though previous studies suggest they may affect cytoskeletal dynamics and cell adhesion. In this paper, the authors report preliminary evidence supporting the notion that slik may regulate the cytoskeleton, the “backbone” of the cell that confers structure and motility. Interestingly, disturbances to cell adhesion and cytoskeletal structure are known triggers of apoptosis and are being explored as potential anticancer agents.\n\nKinases make up one of the largest families of proteins and are important regulators of cell signaling. To investigate the function of slik in Drosophila, the researchers removed the gene and then studied the physical and cellular effects. They found striking delays in growth and developmental timing and showed that these effects result largely from the demise of the slik-deficient cells. While cells deprived of slik can grow, divide, and differentiate, most respond to the defect by killing themselves, even under conditions that normally promote survival. Thus, cells without slik appear to have an intrinsic survival defect, suggesting that slik prevents apoptosis. When slik is overexpressed, cell proliferation increases, but so does apoptosis. Only when apoptosis was blocked did the cells form tumor-like growths. This coupling of cell growth and cell death is characteristic of oncogenes (cancer-causing genes), and slik also seems to function in both pathways. The authors point out that the signal to proliferate may inherently sensitize cells to apoptosis, as has been shown previously for some cancer cells. This may keep an individual cell under the control of its neighbors, who collectively monitor the needs of the organism. For a cell to respond to a signal by dividing rather than dying, it must get the appropriate signs from its comrades. slik, the authors demonstrate, is a key factor in determining whether a cell lives or dies. Whether its mammalian counterparts play a similar role is yet to be determined."
+}

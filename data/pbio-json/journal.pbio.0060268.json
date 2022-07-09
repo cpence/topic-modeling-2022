@@ -1,0 +1,37 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0060268",
+  "doi": "10.1371/journal.pbio.0060268",
+  "externalIds": [
+    "pii:08-PLBI-S-4073",
+    "pmid:20076695",
+    "pmcid:PMC2567000"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A New View of Embryogenesis—Connective Fibers Join the Dance",
+  "authors": [
+    {
+      "name": "William Mair",
+      "first": "William",
+      "last": "Mair"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2008-10",
+  "dateElectronic": "2008-10-14",
+  "volume": "6",
+  "number": "10",
+  "pages": "e268",
+  "tags": [
+    "Discipline/Cell Biology",
+    "Discipline/Developmental Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "When you climb into bed tonight, you'll be hurtling through space at 18 miles per second (~30 km/s) around the sun. You don't notice this pace, of course, because everything around you moves at the same speed. Although Galileo recognized motion relativity as far back as the 17th century, new research suggests that it may have been overlooked by those seeking to explain one of the most fundamental of all processes in biology—how embryos develop.\n\nEarly in their development, animal embryos undergo a restructuring process called gastrulation, characterized by a coordinated movement of cells ultimately to form three distinct layers. These layers—the ectoderm, mesoderm, and endoderm—later give rise to tissues such as the nervous system, circulatory system, and intestine, respectively. A key feature of gastrulation in birds and mammals is the formation of the primitive streak, a structure that changes the embryo from a bundle of cells into something with a defined longitudinal axis around which other features can orientate. Scientists have shown that formation of the streak requires mass migration of cells in a uniform direction, but how this procession is regulated remains unclear.\n\nNew work by Evan Zamir, Brenda Rongish, and Charles Little sheds light on one aspect of this mass migration. Rather than actively migrating through a meshwork of collagen and fibronectin fibrils called the extracellular matrix, the cells move in concert with it. Conventional wisdom held that the extracellular matrix remained largely stationary while migrating cells passed it by during gastrulation. But these new findings show that the extracellular matrix moves right along with the migrating cells, challenging long-held theories of how cell migration is controlled.\n\nRecent advances in time-lapse imaging have allowed researchers to map the migration of cells with a high resolution, but until now, this technology has not been enlisted to study the movement of the matrix during development. Zamir et al. mapped the movement of migrating cells relative to that of the matrix in real time in developing quail embryos by fluorescently labeling both the cells themselves and antibodies that bind specifically to the fibronectin fibrils in the matrix. They then used both optical and computational methods to track the fluorescence and accurately compare the movement of the cells and the matrix.\n\nIf the cells actively move through the matrix, traction would cause the matrix to move in the opposite direction. Strikingly Zamir et al. show the opposite is true: rather than being pushed backward, the matrix is in fact moving at an almost identical speed and direction as the cells. Not only is the movement of the matrix far greater than expected, but also, like the cells, it appears to follow a pattern known as convergent extension, converging toward the midline of the streak and stretching to extend its length. Further analysis did reveal some autonomous motion of cells separate from the flow of the matrix, but these movements did not account for the overall direction of their migration.\n\nIf the cells aren't dragging themselves through the matrix, what propels them? It's possible that cells are attracted or repelled by chemotaxis through the action of distant chemical cues or “morphogens.” In particular, previous work has shown that the protein products of the Wnt signaling pathway control the movement of cells during gastrulation, since changing the levels of these morphogens impairs convergent extension. However, until now, models explaining how different morphogens combine to influence cell behavior have assumed that they existed as gradients operating within a static extracellular matrix. Because these results challenge that assumption, it is not clear how such gradients might be maintained in such a fluid environment.\n\nAlternately, cells may exert force on each other in a process known as cellular intercalation, where small movements of cells squeezing together at the center of the forming primitive streak cause distant cells to move away at a faster pace, perhaps dragging the matrix along with the cells. Zamir and colleagues, however, favor a more active role for the matrix in cell migration, whereby the fibril components themselves act to move the cells. Yet this interpretation remains speculative and further work is needed to support this model. What is certain is that the old model of an immobile matrix no longer holds. Future theories on gastrulation will have to account for a motile matrix, which moves in unison with the cells to guide the path of the developing embryo."
+}

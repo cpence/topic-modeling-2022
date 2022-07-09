@@ -1,0 +1,524 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001889",
+  "doi": "10.1371/journal.pbio.1001889",
+  "externalIds": [
+    "pii:PBIOLOGY-D-14-00511",
+    "pmid:24959919",
+    "pmcid:PMC4068987"
+  ],
+  "license": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "The Marine Microbial Eukaryote Transcriptome Sequencing Project (MMETSP): Illuminating the Functional Diversity of Eukaryotic Life in the Oceans through Transcriptome Sequencing",
+  "authors": [
+    {
+      "name": "Patrick J. Keeling",
+      "first": "Patrick J.",
+      "last": "Keeling",
+      "affiliation": "Department of Botany, University of British Columbia, Vancouver, British Columbia, Canada; Canadian Institute for Advanced Research, Integrated Microbial Biodiversity program, Canada"
+    },
+    {
+      "name": "Fabien Burki",
+      "first": "Fabien",
+      "last": "Burki",
+      "affiliation": "Department of Botany, University of British Columbia, Vancouver, British Columbia, Canada"
+    },
+    {
+      "name": "Heather M. Wilcox",
+      "first": "Heather M.",
+      "last": "Wilcox",
+      "affiliation": "Monterey Bay Aquarium Research Institute, Moss Landing, California, United States of America"
+    },
+    {
+      "name": "Bassem Allam",
+      "first": "Bassem",
+      "last": "Allam",
+      "affiliation": "School of Marine and Atmospheric Sciences, Stony Brook University, Stony Brook, New York, United States of America"
+    },
+    {
+      "name": "Eric E. Allen",
+      "first": "Eric E.",
+      "last": "Allen",
+      "affiliation": "Marine Biology Research Division, Scripps Institution of Oceanography, University of California, San Diego, La Jolla, California, United States of America"
+    },
+    {
+      "name": "Linda A. Amaral-Zettler",
+      "first": "Linda A.",
+      "last": "Amaral-Zettler",
+      "affiliation": "The Josephine Bay Paul Center for Comparative Molecular Biology and Evolution, Marine Biological Laboratory, Woods Hole, Massachusetts, United States of America; Department of Geological Sciences, Brown University, Providence, Rhode Island, United States of America"
+    },
+    {
+      "name": "E. Virginia Armbrust",
+      "first": "E. Virginia",
+      "last": "Armbrust",
+      "affiliation": "School of Oceanography, University of Washington, Seattle, Washington, United States of America"
+    },
+    {
+      "name": "John M. Archibald",
+      "first": "John M.",
+      "last": "Archibald",
+      "affiliation": "Canadian Institute for Advanced Research, Integrated Microbial Biodiversity program, Canada; Department of Biochemistry & Molecular Biology, Dalhousie University, Halifax, Nova Scotia, Canada"
+    },
+    {
+      "name": "Arvind K. Bharti",
+      "first": "Arvind K.",
+      "last": "Bharti",
+      "affiliation": "National Center for Genome Resources, Santa Fe, New Mexico, United States of America"
+    },
+    {
+      "name": "Callum J. Bell",
+      "first": "Callum J.",
+      "last": "Bell",
+      "affiliation": "National Center for Genome Resources, Santa Fe, New Mexico, United States of America"
+    },
+    {
+      "name": "Bank Beszteri",
+      "first": "Bank",
+      "last": "Beszteri",
+      "affiliation": "Alfred Wegener Institute Helmholtz Center for Polar and Marine Research, Bremerhaven, Germany"
+    },
+    {
+      "name": "Kay D. Bidle",
+      "first": "Kay D.",
+      "last": "Bidle",
+      "affiliation": "Institute of Marine and Coastal Science, Rutgers University, New Brunswick, New Jersey, United States of America"
+    },
+    {
+      "name": "Connor T. Cameron",
+      "first": "Connor T.",
+      "last": "Cameron",
+      "affiliation": "National Center for Genome Resources, Santa Fe, New Mexico, United States of America"
+    },
+    {
+      "name": "Lisa Campbell",
+      "first": "Lisa",
+      "last": "Campbell",
+      "affiliation": "Department of Oceanography, Department of Biology, Texas A&M University, College Station, Texas, United States of America"
+    },
+    {
+      "name": "David A. Caron",
+      "first": "David A.",
+      "last": "Caron",
+      "affiliation": "Department of Biology, University of Southern California, Los Angeles, California, United States of America"
+    },
+    {
+      "name": "Rose Ann Cattolico",
+      "first": "Rose Ann",
+      "last": "Cattolico",
+      "affiliation": "Department of Biology, University of Washington, Seattle, Washington, United States of America"
+    },
+    {
+      "name": "Jackie L. Collier",
+      "first": "Jackie L.",
+      "last": "Collier",
+      "affiliation": "School of Marine and Atmospheric Sciences, Stony Brook University, Stony Brook, New York, United States of America"
+    },
+    {
+      "name": "Kathryn Coyne",
+      "first": "Kathryn",
+      "last": "Coyne",
+      "affiliation": "University of Delaware, School of Marine Science and Policy, College of Earth, Ocean, and Environment, Lewes, Delaware, United States of America"
+    },
+    {
+      "name": "Simon K. Davy",
+      "first": "Simon K.",
+      "last": "Davy",
+      "affiliation": "School of Biological Sciences, Victoria University of Wellington, Wellington, New Zealand"
+    },
+    {
+      "name": "Phillipe Deschamps",
+      "first": "Phillipe",
+      "last": "Deschamps",
+      "affiliation": "Unité d'Ecologie, Systematique et Evolution, CNRS UMR8079, Université Paris-Sud, Orsay, France"
+    },
+    {
+      "name": "Sonya T. Dyhrman",
+      "first": "Sonya T.",
+      "last": "Dyhrman",
+      "affiliation": "Department of Earth and Environmental Sciences and the Lamont-Doherty Earth Observatory, Columbia University, New York, New York, United States of America"
+    },
+    {
+      "name": "Bente Edvardsen",
+      "first": "Bente",
+      "last": "Edvardsen",
+      "affiliation": "Department of Biosciences, University of Oslo, Oslo, Norway"
+    },
+    {
+      "name": "Ruth D. Gates",
+      "first": "Ruth D.",
+      "last": "Gates",
+      "affiliation": "Hawaii Institute of Marine Biology, University of Hawaii, Hawaii, United States of America"
+    },
+    {
+      "name": "Christopher J. Gobler",
+      "first": "Christopher J.",
+      "last": "Gobler",
+      "affiliation": "School of Marine and Atmospheric Sciences, Stony Brook University, Stony Brook, New York, United States of America"
+    },
+    {
+      "name": "Spencer J. Greenwood",
+      "first": "Spencer J.",
+      "last": "Greenwood",
+      "affiliation": "Department of Biomedical Sciences and AVC Lobster Science Centre, Atlantic Veterinary College, University of Prince Edward Island, Charlottetown, Prince Edward Island, Canada"
+    },
+    {
+      "name": "Stephanie M. Guida",
+      "first": "Stephanie M.",
+      "last": "Guida",
+      "affiliation": "National Center for Genome Resources, Santa Fe, New Mexico, United States of America"
+    },
+    {
+      "name": "Jennifer L. Jacobi",
+      "first": "Jennifer L.",
+      "last": "Jacobi",
+      "affiliation": "National Center for Genome Resources, Santa Fe, New Mexico, United States of America"
+    },
+    {
+      "name": "Kjetill S. Jakobsen",
+      "first": "Kjetill S.",
+      "last": "Jakobsen",
+      "affiliation": "Department of Biosciences, University of Oslo, Oslo, Norway"
+    },
+    {
+      "name": "Erick R. James",
+      "first": "Erick R.",
+      "last": "James",
+      "affiliation": "Department of Botany, University of British Columbia, Vancouver, British Columbia, Canada"
+    },
+    {
+      "name": "Bethany Jenkins",
+      "first": "Bethany",
+      "last": "Jenkins",
+      "affiliation": "Department of Cell and Molecular Biology, The University of Rhode Island, Kingston, Rhode Island, United States of America; Graduate School of Oceanography, University of Rhode Island, Narragansett, Rhode Island, United States of America"
+    },
+    {
+      "name": "Uwe John",
+      "first": "Uwe",
+      "last": "John",
+      "affiliation": "Alfred Wegener Institute Helmholtz Center for Polar and Marine Research, Bremerhaven, Germany"
+    },
+    {
+      "name": "Matthew D. Johnson",
+      "first": "Matthew D.",
+      "last": "Johnson",
+      "affiliation": "Woods Hole Oceanographic Institution, Woods Hole, Massachusetts, United States of America"
+    },
+    {
+      "name": "Andrew R. Juhl",
+      "first": "Andrew R.",
+      "last": "Juhl",
+      "affiliation": "Department of Earth and Environmental Sciences and the Lamont-Doherty Earth Observatory, Columbia University, New York, New York, United States of America"
+    },
+    {
+      "name": "Anja Kamp",
+      "first": "Anja",
+      "last": "Kamp",
+      "affiliation": "Max Planck Institute for Marine Microbiology, Bremen, Germany; Jacobs University Bremen, Molecular Life Science Research Center, Bremen, Germany"
+    },
+    {
+      "name": "Laura A. Katz",
+      "first": "Laura A.",
+      "last": "Katz",
+      "affiliation": "Department of Biological Sciences, Smith College, Northampton, Massachusetts, United States of America"
+    },
+    {
+      "name": "Ronald Kiene",
+      "first": "Ronald",
+      "last": "Kiene",
+      "affiliation": "University of South Alabama, Dauphin Island Sea Lab, Mobile, Alabama, United States of America"
+    },
+    {
+      "name": "Alexander Kudryavtsev",
+      "first": "Alexander",
+      "last": "Kudryavtsev",
+      "affiliation": "Department of Invertebrate Zoology, Saint-Petersburg State University, Saint-Petersburg, Russia; Department of Genetics and Evolution, University of Geneva, Geneva, Switzerland"
+    },
+    {
+      "name": "Brian S. Leander",
+      "first": "Brian S.",
+      "last": "Leander",
+      "affiliation": "Department of Botany, University of British Columbia, Vancouver, British Columbia, Canada"
+    },
+    {
+      "name": "Senjie Lin",
+      "first": "Senjie",
+      "last": "Lin",
+      "affiliation": "Department of Marine Sciences, University of Connecticut, Groton, Connecticut, United States of America"
+    },
+    {
+      "name": "Connie Lovejoy",
+      "first": "Connie",
+      "last": "Lovejoy",
+      "affiliation": "Département de Biologie, Université Laval, Québec, Canada"
+    },
+    {
+      "name": "Denis Lynn",
+      "first": "Denis",
+      "last": "Lynn",
+      "affiliation": "Department of Integrative Biology, University of Guelph, Guelph, Ontario, Canada; Department of Zoology, University of British Columbia, Vancouver, British Columbia, Canada"
+    },
+    {
+      "name": "Adrian Marchetti",
+      "first": "Adrian",
+      "last": "Marchetti",
+      "affiliation": "Department of Marine Sciences, University of North Carolina, Chapel Hill, North Carolina, United States of America"
+    },
+    {
+      "name": "George McManus",
+      "first": "George",
+      "last": "McManus",
+      "affiliation": "Department of Marine Sciences, University of Connecticut, Groton, Connecticut, United States of America"
+    },
+    {
+      "name": "Aurora M. Nedelcu",
+      "first": "Aurora M.",
+      "last": "Nedelcu",
+      "affiliation": "University of New Brunswick, Department of Biology, Fredericton, New Brusnswick, Canada"
+    },
+    {
+      "name": "Susanne Menden-Deuer",
+      "first": "Susanne",
+      "last": "Menden-Deuer",
+      "affiliation": "Graduate School of Oceanography, University of Rhode Island, Narragansett, Rhode Island, United States of America"
+    },
+    {
+      "name": "Cristina Miceli",
+      "first": "Cristina",
+      "last": "Miceli",
+      "affiliation": "School of Biosciences and Biotechnology, University of Camerino, Camerino, Italy"
+    },
+    {
+      "name": "Thomas Mock",
+      "first": "Thomas",
+      "last": "Mock",
+      "affiliation": "School of Environmental Sciences, University of East Anglia, Norwich, United Kingdom"
+    },
+    {
+      "name": "Marina Montresor",
+      "first": "Marina",
+      "last": "Montresor",
+      "affiliation": "Stazione Zoologica Anton Dohrn, Naples, Italy"
+    },
+    {
+      "name": "Mary Ann Moran",
+      "first": "Mary Ann",
+      "last": "Moran",
+      "affiliation": "Department of Marine Sciences, University of Georgia, Athens, Georgia, United States of America"
+    },
+    {
+      "name": "Shauna Murray",
+      "first": "Shauna",
+      "last": "Murray",
+      "affiliation": "Plant Functional Biology and Climate Change Cluster (C3), University of Technology, Sydney, Australia"
+    },
+    {
+      "name": "Govind Nadathur",
+      "first": "Govind",
+      "last": "Nadathur",
+      "affiliation": "Department of Marine Sciences, University of Puerto Rico, Mayaguez, Puerto Rico, United States of America"
+    },
+    {
+      "name": "Satoshi Nagai",
+      "first": "Satoshi",
+      "last": "Nagai",
+      "affiliation": "National Research Institute of Fisheries Science, Kanagawa, Japan"
+    },
+    {
+      "name": "Peter B. Ngam",
+      "first": "Peter B.",
+      "last": "Ngam",
+      "affiliation": "National Center for Genome Resources, Santa Fe, New Mexico, United States of America"
+    },
+    {
+      "name": "Brian Palenik",
+      "first": "Brian",
+      "last": "Palenik",
+      "affiliation": "Marine Biology Research Division, Scripps Institution of Oceanography, University of California, San Diego, La Jolla, California, United States of America"
+    },
+    {
+      "name": "Jan Pawlowski",
+      "first": "Jan",
+      "last": "Pawlowski",
+      "affiliation": "Department of Genetics and Evolution, University of Geneva, Geneva, Switzerland"
+    },
+    {
+      "name": "Giulio Petroni",
+      "first": "Giulio",
+      "last": "Petroni",
+      "affiliation": "Department of Biology, University of Pisa, Pisa, Italy"
+    },
+    {
+      "name": "Gwenael Piganeau",
+      "first": "Gwenael",
+      "last": "Piganeau",
+      "affiliation": "CNRS, UMR 7232, BIOM, Observatoire Océanologique, Banyuls-sur-Mer, France; Sorbonne Universités, UPMC Univ Paris 06, UMR 7232, BIOM, Banyuls-sur-Mer, France"
+    },
+    {
+      "name": "Matthew C. Posewitz",
+      "first": "Matthew C.",
+      "last": "Posewitz",
+      "affiliation": "Department of Chemistry and Geochemistry, Colorado School of Mines, Golden, Colorado, United States of America"
+    },
+    {
+      "name": "Karin Rengefors",
+      "first": "Karin",
+      "last": "Rengefors",
+      "affiliation": "Department of Biology, Lund University, Lund, Sweden"
+    },
+    {
+      "name": "Giovanna Romano",
+      "first": "Giovanna",
+      "last": "Romano",
+      "affiliation": "Stazione Zoologica Anton Dohrn, Naples, Italy"
+    },
+    {
+      "name": "Mary E. Rumpho",
+      "first": "Mary E.",
+      "last": "Rumpho",
+      "affiliation": "Department of Molecular and Cell Biology, University of Connecticut, Storrs, Connecticut, United States of America"
+    },
+    {
+      "name": "Tatiana Rynearson",
+      "first": "Tatiana",
+      "last": "Rynearson",
+      "affiliation": "Graduate School of Oceanography, University of Rhode Island, Narragansett, Rhode Island, United States of America"
+    },
+    {
+      "name": "Kelly B. Schilling",
+      "first": "Kelly B.",
+      "last": "Schilling",
+      "affiliation": "National Center for Genome Resources, Santa Fe, New Mexico, United States of America"
+    },
+    {
+      "name": "Declan C. Schroeder",
+      "first": "Declan C.",
+      "last": "Schroeder",
+      "affiliation": "The Marine Biological Association of the United Kingdom, Plymouth, United Kingdom"
+    },
+    {
+      "name": "Alastair G. B. Simpson",
+      "first": "Alastair G. B.",
+      "last": "Simpson",
+      "affiliation": "Canadian Institute for Advanced Research, Integrated Microbial Biodiversity program, Canada; Department of Biology, Dalhousie University, Halifax, Nova Scotia, Canada"
+    },
+    {
+      "name": "Claudio H. Slamovits",
+      "first": "Claudio H.",
+      "last": "Slamovits",
+      "affiliation": "Canadian Institute for Advanced Research, Integrated Microbial Biodiversity program, Canada; Department of Biochemistry & Molecular Biology, Dalhousie University, Halifax, Nova Scotia, Canada"
+    },
+    {
+      "name": "David R. Smith",
+      "first": "David R.",
+      "last": "Smith",
+      "affiliation": "University of Western Ontario, London, Ontario, Canada"
+    },
+    {
+      "name": "G. Jason Smith",
+      "first": "G. Jason",
+      "last": "Smith",
+      "affiliation": "Moss Landing Marine Laboratories, Moss Landing, California, United States of America"
+    },
+    {
+      "name": "Sarah R. Smith",
+      "first": "Sarah R.",
+      "last": "Smith",
+      "affiliation": "Marine Biology Research Division, Scripps Institution of Oceanography, University of California, San Diego, La Jolla, California, United States of America"
+    },
+    {
+      "name": "Heidi M. Sosik",
+      "first": "Heidi M.",
+      "last": "Sosik",
+      "affiliation": "Woods Hole Oceanographic Institution, Woods Hole, Massachusetts, United States of America"
+    },
+    {
+      "name": "Peter Stief",
+      "first": "Peter",
+      "last": "Stief",
+      "affiliation": "Max Planck Institute for Marine Microbiology, Bremen, Germany"
+    },
+    {
+      "name": "Edward Theriot",
+      "first": "Edward",
+      "last": "Theriot",
+      "affiliation": "Section of Integrative Biology, University of Texas, Austin, Texas, United States of America"
+    },
+    {
+      "name": "Scott N. Twary",
+      "first": "Scott N.",
+      "last": "Twary",
+      "affiliation": "Los Alamos National Laboratory, Biosciences, Los Alamos, New Mexico, United States of America"
+    },
+    {
+      "name": "Pooja E. Umale",
+      "first": "Pooja E.",
+      "last": "Umale",
+      "affiliation": "National Center for Genome Resources, Santa Fe, New Mexico, United States of America"
+    },
+    {
+      "name": "Daniel Vaulot",
+      "first": "Daniel",
+      "last": "Vaulot",
+      "affiliation": "UMR714, CNRS and UPMC (Paris-06), Station Biologique, Roscoff, France"
+    },
+    {
+      "name": "Boris Wawrik",
+      "first": "Boris",
+      "last": "Wawrik",
+      "affiliation": "Department of Microbiology and Plant Biology, University of Oklahoma, Norman, Oklahoma, United States of America"
+    },
+    {
+      "name": "Glen L. Wheeler",
+      "first": "Glen L.",
+      "last": "Wheeler",
+      "affiliation": "The Marine Biological Association of the United Kingdom, Plymouth, United Kingdom; Plymouth Marine Laboratory, Plymouth, United Kingdom"
+    },
+    {
+      "name": "William H. Wilson",
+      "first": "William H.",
+      "last": "Wilson",
+      "affiliation": "NCMA, Bigelow Laboratory for Ocean Sciences, East Boothbay, Maine, United States of America"
+    },
+    {
+      "name": "Yan Xu",
+      "first": "Yan",
+      "last": "Xu",
+      "affiliation": "Princeton University, Princeton, New Jersey, United States of America"
+    },
+    {
+      "name": "Adriana Zingone",
+      "first": "Adriana",
+      "last": "Zingone",
+      "affiliation": "Stazione Zoologica Anton Dohrn, Naples, Italy"
+    },
+    {
+      "name": "Alexandra Z. Worden",
+      "first": "Alexandra Z.",
+      "last": "Worden",
+      "affiliation": "Canadian Institute for Advanced Research, Integrated Microbial Biodiversity program, Canada; Monterey Bay Aquarium Research Institute, Moss Landing, California, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2014-06",
+  "volume": "12",
+  "number": "6",
+  "pages": "e1001889",
+  "tags": [
+    "Discipline-v2/Biology and life sciences",
+    "Discipline-v2/Ecology and environmental sciences",
+    "Discipline-v2/Evolutionary biology",
+    "Discipline-v2/Marine biology",
+    "Discipline-v2/Microbiology",
+    "Evolutionary biology",
+    "Marine biology",
+    "Microbiology",
+    "Type/Community Page"
+  ],
+  "abstract": "Current sampling of genomic sequence data from eukaryotes is relatively poor, biased, and inadequate to address important questions about their biology, evolution, and ecology; this Community Page describes a resource of 700 transcriptomes from marine microbial eukaryotes to help understand their role in the world's oceans.",
+  "fullText": "Microbial ecology is plagued by problems of an abstract nature. Cell sizes are so small and population sizes so large that both are virtually incomprehensible. Niches are so far from our everyday experience as to make their very definition elusive. Organisms that may be abundant and critical to our survival are little understood, seldom described and/or cultured, and sometimes yet to be even seen. One way to confront these problems is to use data of an even more abstract nature: molecular sequence data. Massive environmental nucleic acid sequencing, such as metagenomics or metatranscriptomics, promises functional analysis of microbial communities as a whole, without prior knowledge of which organisms are in the environment or exactly how they are interacting. But sequence-based ecological studies nearly always use a comparative approach, and that requires relevant reference sequences, which are an extremely limited resource when it comes to microbial eukaryotes [1].\n\nIn practice, this means sequence databases need to be populated with enormous quantities of data for which we have some certainties about the source. Most important is the taxonomic identity of the organism from which a sequence is derived and as much functional identification of the encoded proteins as possible. In an ideal world, such information would be available as a large set of complete, well-curated, and annotated genomes for all the major organisms from the environment in question. Reality substantially diverges from this ideal, but at least for bacterial molecular ecology, there is a database consisting of thousands of complete genomes from a wide range of taxa, supplemented by a phylogeny-driven approach to diversifying genomics [2]. For eukaryotes, the number of available genomes is far, far fewer, and we have relied much more heavily on random growth of sequence databases [3],[4], raising the question as to whether this is fit for purpose.\n\nThe Wrong Biases\n\nCompared with those of prokaryotes, nuclear genomes are large and disproportionately difficult to analyze, and this means that eukaryotic genomics have been even more strongly affected by “prioritization.” This results in acute taxonomic biases in the nuclear genomes chosen for sequencing, with a large proportion of them being derived from organisms of particular biomedical or biotechnological significance. Specifically, the great majority of nuclear genomes come from animals, fungi, and plants, and from parasites that infect animals [3],[4]. For marine systems, this makes for a weak reference database, because these organisms are collectively a poor representation of eukaryotic life in the seas. Indeed, the marine organisms that maintain Earth's atmosphere, fuel the world's fisheries, and sustain the historical (pre-anthropogenic) global carbon cycle, as well as major chemical and nutrient cycles in the ocean, fall outside these groups. The lack of appropriate reference sequences risks erroneous conclusions as we compare marine ecological sequence data to references too phylogenetically distant and, therefore, too biologically different.\n\nEach sequenced genome of an aquatic unicellular eukaryote has provided a bevy of new and unexpected insights (e.g., [5]–[13]). However, because nuclear genomes can be difficult to sequence and assemble, and gene modeling is not always straightforward, our immediate needs require an alternative way to generate a reference database, the most obvious being transcriptomics [1]. Large-scale sequencing of an organism's mRNA allows the rapid and efficient characterization of expressed genes without spending sequencing resources on the large intergenic regions, introns, and repetitive DNA so common to eukaryotes, while at the same time eliminating many problems with assembly as well as gene prediction and modeling. As a first step, transcriptomes from pure cultures are suitable building blocks to begin to assemble reference databases for eukaryotic microbial ecology. This approach generates a large number of coding sequences (in the form of assembled contigs) from a known organism.\n\nThe availability of transcriptomic data from an organism should not be viewed, however, as a substitute for sequencing its genome. The two approaches have different strengths and weaknesses and are better viewed as complementary rather than “either/or.” Indeed, nuclear genome sequencing generally requires substantial transcript sequencing to inform gene prediction algorithms. As sequencing and computational methods grow increasingly powerful, many of the challenges to genome sequencing are being reduced. Nevertheless, until more genomes are available, transcriptomes from a sufficient number of representative species from a given environment could provide a valuable benchmark against which environmental data can be analyzed.\n\nMMETSP—The Right Stuff\n\nThe Marine Microbial Eukaryotic Transcriptome Sequencing Project, or MMETSP, aims to provide a significant foothold for integrating microbial eukaryotes into marine ecology by creating over 650 assembled, functionally annotated, and publicly available transcriptomes. These transcriptomes largely come from some of the more abundant and ecologically significant microbial eukaryotes in the oceans. The choice of species, strain, and physiological condition was based on a grassroots nomination process, where researchers working in the field nominated projects based on phylogeny, environmental and ecological importance, physiological impact, and other diverse criteria. The data have been assembled and annotated by homology with existing databases (see Text S1), providing baseline information on gene function. Because the majority of transcriptomes were sequenced from cultured species, they are also taxonomically well defined. Most organisms are available from public culture collections and, therefore, can be further investigated based on hypotheses derived from the transcriptome data. The project as a whole will go a substantial distance towards fulfilling the two criteria for relevant reference sequences noted above. This is not to say these data solve all our problems: new biases have been introduced (see below), and Illumina-based transcriptomes can be challenging to assemble and work with. In addition, there is an apparently universal problem of low levels of contamination—some from other species living with the target organism in culture, others possibly from the process of library construction and sequencing. Importantly, however, the taxa from which these data are derived on aggregate conform much more closely to our understanding of marine eukaryotic diversity from sequence surveys than do the current reference databases, which are the result of ad hoc sequencing priorities that do not fit those of marine ecology (Figure 1A–1C). Indeed, digging deeper into the taxonomy of the more abundant and generally better-studied groups such as prasinophytes [14] and dinoflagellates [15],[16] shows this to be true at multiple levels (Figure 1D).\n\nFor the MMETSP data to achieve maximum impact, the transcriptomes have been made readily available through the CAMERA [17] Data Distribution Center (http://camera.crbs.ucsd.edu/mmetsp/), in which all MMETSP data have been automatically deposited. In addition, all data is in the Sequence Read Archive (SRA) under BioProject PRJNA231566, giving access to the raw trace data through GenBank. Given that library construction is not as robustly consistent as one might hope and that Illumina RNAseq assembly (in the absence of a sequenced genome) is not a completely solved problem, it is helpful that all of this work occurred at a single sequencing center where the protocols used for the &gt;650 transcriptomes were similar (see Text S1 for a full description of methods). This approach not only broadened the types of participating labs (i.e., not just those with experience in genomics) but also maximized comparability of the datasets without the user feeling obliged to reassemble contigs, or to re-predict protein sequences for consistency. At the same time, the availability through the SRA allows for re-analysis of particular datasets.\n\nMore Than a Reference Database\n\nThe more than 650 transcriptomes will have far-reaching impact beyond the field of marine science. The diversity of taxa represented in the database is impressive, even when held up to the enormous diversity of microbial eukaryotes as a whole (Figure 2). In some cases, these data provide the first glimpse of the genome of an important group of microbial eukaryotes, such as parasitic haplosporidia, several amoebozoans, and the enigmatic heterotrophic flagellate Palpitomonas. In other cases, they provide genomic data from a diverse selection of taxa within a lineage where only sparse genomic data previously existed from a few distant relatives (such as the ciliates [18]–[20]). Experience has shown that such data can transform our understanding of the basic biology and function of these organisms. In the past, we have described a protistan lineage for which there is a single genome sequence as being “well studied.” Thus, even for those that are comparatively “well studied,” the MMETSP data facilitates new directions. It opens the door to comparative genomics within lineages and between related lineages in major protistan groups, including foraminifera, cryptophytes, and several groups of red algae and stramenopiles. Digging further, other cases will allow us to ask population genomic-level questions by providing data from multiple strains of a single species (or even asking whether the “multiple strains” do indeed belong to the same species!). Examining the diversity between sister species or members of the same species can help identify functionally important genes, genes under selection, recent gene family expansions and contractions, or other significant changes like horizontal gene transfer—of course, with recognition that absence from a given transcriptome assembly does not necessarily represent absence from the genome. In other cases, the same isolate has been analyzed under different physiological conditions to develop testable hypotheses on environmental controls. For example, it should be possible to gain first molecular insights into how photosynthetic algae alter their immediate surroundings, the so-called phycosphere [21], by comparing sequences from the luminescent dinoflagellate Lingulodinium polyedrum that is co-cultured with different bacteria, or cultured on its own. Likewise, growth controls and aspects of niche differentiation should become clearer for many major phytoplankton groups.\n\nA Fast Start and a Long Way to Go\n\nThe MMETSP is a significant step in recognizing that purpose-built reference databases from ecologically key biomes are essential for all domains of life. Nevertheless, it is only the beginning, and important biases remain that should be addressed. The MMETSP relies primarily on cultured organisms, and this introduces a different set of biases, most obviously, favoring organisms that are photosynthetic. Eukaryotic heterotrophs have critical ecological roles but are under-represented. Indeed, the natural diversity of eukaryotic heterotrophs is huge in general (Figure 1A), and the four most commonly recovered sequences retrieved in environmental surveys of marine samples worldwide correspond to lineages for which most members are uncultivated (e.g.,Marine Stramenopiles (MAST) and Marine Alveolates (MALV) [22]–[24]). These are probably heterotrophs, but we lack a solid biological definition for most of these cells and have become adroit at ignoring heterotrophs in general. Similarly, organisms from the open ocean are underrepresented. Culture-independent methods for generating transcriptomes and genomes and, in some cases, transcriptomes and genomes from single cells will be essential to moving beyond this problem. Methodologies for population [25]–[27] and single-cell genomics and transcriptomics are advancing rapidly [4],[28]–[30], transitioning from technological feats to something we should expect to work routinely. This transition holds great promise for filling the rather substantial gap in our knowledge imposed by uncultivated protists, as well as allowing us to carry out condition-specific analyses of expressed genes in difficult-to-work-with systems. The MMETSP program foreshadows this development by sequencing a small set of culture-independent samples.\n\nThe MMETSP dataset serves as an example of how purpose-built reference databases focused on a particular niche or environment can be established relatively quickly and efficiently. This database will allow us to address eukaryotic sequences from nature in a robust manner for the first time. Because the strength of the MMETSP project is precisely its focus on the marine environment, it will not serve as a universal database of eukaryotic diversity that can be easily applied to other environments. While the taxonomic diversity included in the project is amazing (Figure 2), it is also immediately clear that many major groups of eukaryotes are not covered by MMETSP transcriptomes. In some cases, this is because these lineages are not abundant in the oceans (e.g., many excavates), but in others it is simply because members of the lineage are difficult to cultivate and are generally poorly represented in molecular data (e.g., most rhizarians), even if they are abundant and important in the ocean. For other major environments (e.g., freshwater, soil) similar databases could be developed in a focused manner, but all such efforts rely on a detailed knowledge of what lives in that environment, which is not always adequate. To remedy these gaps in our knowledge, we advocate a taxonomy-based approach similar to the Genomic Encyclopedia of Bacteria and Archaea (www.jgi.doe.gov/programs/GEBA/) [2],[4]. This undertaking will require a focus on developing the necessary tools for gaining access to the transcriptomes and genomes of uncultivated organisms and would represent a major advance for all aspects of the study of microbial eukaryotes. We look forward to the many creative analyses and results enabled by the MMETSP and the minds of the broader scientific community; the new insights to be gained in ecology, physiology, and evolution of unicellular eukaryotes will significantly advance understanding of marine ecosystems and eukaryotic microbial biology as a whole. The MMETSP illustrates the power behind such a community activity and bodes well for a future Genomic Encyclopedia of Microbial Eukaryotes.\n\nSupporting Information"
+}

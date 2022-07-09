@@ -1,0 +1,120 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.2007047",
+  "doi": "10.1371/journal.pbio.2007047",
+  "externalIds": [
+    "pii:pbio.2007047",
+    "pmid:30133435",
+    "pmcid:PMC6104910"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Response to Bode and colleagues: ‘Resilient reefs may exist, but can larval dispersal models find them?’",
+  "authors": [
+    {
+      "name": "Peter J. Mumby",
+      "first": "Peter J.",
+      "last": "Mumby",
+      "affiliation": "Marine Spatial Ecology Lab, School of Biological Sciences, The University of Queensland, Brisbane St Lucia, Australia"
+    },
+    {
+      "name": "Karlo Hock",
+      "first": "Karlo",
+      "last": "Hock",
+      "affiliation": "Marine Spatial Ecology Lab, School of Biological Sciences, The University of Queensland, Brisbane St Lucia, Australia",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7858-1130"
+      ]
+    },
+    {
+      "name": "Scott A. Condie",
+      "first": "Scott A.",
+      "last": "Condie",
+      "affiliation": "CSIRO Oceans & Atmosphere, Hobart, Australia"
+    },
+    {
+      "name": "Juan C. Ortiz",
+      "first": "Juan C.",
+      "last": "Ortiz",
+      "affiliation": "Marine Spatial Ecology Lab, School of Biological Sciences, The University of Queensland, Brisbane St Lucia, Australia; Australian Institute of Marine Science, Townsville, Australia"
+    },
+    {
+      "name": "Nicholas H. Wolff",
+      "first": "Nicholas H.",
+      "last": "Wolff",
+      "affiliation": "Marine Spatial Ecology Lab, School of Biological Sciences, The University of Queensland, Brisbane St Lucia, Australia; The Nature Conservancy, Brunswick, Maine, United States of America"
+    },
+    {
+      "name": "Kenneth R. N. Anthony",
+      "first": "Kenneth R. N.",
+      "last": "Anthony",
+      "affiliation": "Australian Institute of Marine Science, Townsville, Australia"
+    },
+    {
+      "name": "Paul G. Blackwell",
+      "first": "Paul G.",
+      "last": "Blackwell",
+      "affiliation": "School of Mathematics & Statistics, University of Sheffield, Sheffield, United Kingdom"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2018-08-22",
+  "dateAccepted": "2018-07-17",
+  "dateReceived": "2018-06-21",
+  "volume": "16",
+  "number": "8",
+  "pages": "e2007047",
+  "tags": [
+    "Classical mechanics",
+    "Continuum mechanics",
+    "Coral reefs",
+    "Corals",
+    "Developmental biology",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Classical mechanics",
+    "Discipline-v3/Continuum mechanics",
+    "Discipline-v3/Coral reefs",
+    "Discipline-v3/Corals",
+    "Discipline-v3/Developmental biology",
+    "Discipline-v3/Earth sciences",
+    "Discipline-v3/Ecology",
+    "Discipline-v3/Ecology and environmental sciences",
+    "Discipline-v3/Ecosystems",
+    "Discipline-v3/Fluid dynamics",
+    "Discipline-v3/Fluid mechanics",
+    "Discipline-v3/Hydrodynamics",
+    "Discipline-v3/Larvae",
+    "Discipline-v3/Life cycles",
+    "Discipline-v3/Marine and aquatic sciences",
+    "Discipline-v3/Marine biology",
+    "Discipline-v3/Modes of reproduction",
+    "Discipline-v3/Oceanography",
+    "Discipline-v3/Physical sciences",
+    "Discipline-v3/Physics",
+    "Discipline-v3/Reefs",
+    "Discipline-v3/Sexual reproduction",
+    "Discipline-v3/Spawning",
+    "Ecology",
+    "Ecosystems",
+    "Fluid dynamics",
+    "Fluid mechanics",
+    "Hydrodynamics",
+    "Larvae",
+    "Life cycles",
+    "Marine and aquatic sciences",
+    "Marine biology",
+    "Modes of reproduction",
+    "Oceanography",
+    "Physics",
+    "Reefs",
+    "Sexual reproduction",
+    "Spawning",
+    "Type/Formal Comment"
+  ],
+  "fullText": "Bode and colleagues’ response to our paper posits that the identification of specific reefs that drive recovery is unsafe because models of larval dispersal (‘connectivity’) are insufficiently accurate or consistent to make useful predictions at this scale [1]. They go on to argue that managers should not base decisions on reef-level predictions of connectivity. The evidence they provide for these assertions is that the results of their own modelling—with a different model but run with a ‘comparable parameterisation’—diverge considerably from ours.\n\nThe legitimacy of Bode and colleagues’ concern rests on the apparent disparity in behaviour between connectivity models. Unfortunately, Bode and colleagues’ study differs from ours in many more ways than simply the modelling of oceanography. In short, (1) their representation of the Great Barrier Reef (GBR) excludes approximately half the reefs we recognise (2,175 versus 3,806), so the network metrics of those reefs ‘in common’ are incomparable; (2) they represent different species by ignoring larvae with short settlement times (&lt;7–14 days) and allowing a continuous release of larvae, whereas we considered a wider range of competencies beginning at 12 hours and simulated punctuated spawning events that are more relevant to invertebrates; (3) their model was parameterised two decades ago (1996–2002), so their assessment makes the unlikely assumption that conditions had not changed by the recent period we represented (2008–2013); (4) their model is unable to capture an important dispersal process on the GBR because it takes a two-dimensional depth-integrated approach that ignores the shear flow captured in our 3D Connie model; and (5) they were unable to implement all of the connectivity criteria we applied. Specifically, their finding of a strongly connected network precluded use of graph theory to identify regionally connected sources as we did. The causes of such strong connections in Bode and colleagues’ analysis are unclear but likely include use of higher rates of larval release and a continuous release period of 156 days, though we consider this to be an inappropriate representation of coral spawning, and we elected to retain the temporal dynamics of multiple punctuated spawning events. Given these five fundamental differences, it is not surprising that their assessment of connectivity patterns differed from ours. However, this discrepancy does not imply that choice of hydrodynamic model alone is the cause. Nor does it constitute evidence that our identification of key source reefs is too uncertain to be useful.\n\nThe eReefs/Connie hydrodynamic model we adopted has been calibrated against data from tide gauges, wave-rider buoys, an extensive array of moorings and temperature loggers across the GBR, and Argo floats [2] as well as formal assimilation of satellite data. An additional, and probably even more stringent, constraint on the eReefs hydrodynamics was a requirement to drive biogeochemical (BGC) exchanges and generate realistic BGC fields. This entailed calibration and/or validation against an additional 15 long-term data sets (https://research.csiro.au/ereefs/models/). While this model is highly sophisticated, the processes it simulates are naturally variable in time and space. With this in mind, we took steps to identify only the most robust connections among reefs that consistently function as both local and regional sources to many reefs over multiple life-history strategies and seasons. This resulted in identifying 545 source reefs (14% of the GBR) and not &lt;1% as misrepresented by Bode and colleagues.\n\nOceanographic models differ in their resolution and complexity. We agree that an ensemble approach to modelling is potentially advantageous, but it depends wholly on the appropriateness of the models and on models having complementary skills. For example, we are currently developing a mixed model approach that pairs Connie, which has excellent boundary conditions and 3D stratification of hydrodynamic layers, with the Second-generation Louvain-la-Neuve Ice-Ocean Model (SLIM) [3], which, like Bode and colleagues’ model, is better able to resolve fine-scale larval retention than Connie but does so for the same time period and ecosystem representation as Connie.\n\nThe outputs of connectivity modelling can indeed be useful for ecosystem management [4], particularly when models have been tested extensively and steps taken to utilise only the more robust predictions. Yet scientists must convey model limitations and the appropriate context while also continuing to test assumptions and predictions. The use of connectivity models for management usually assumes—as we do—that larval supply is a demographically relevant process. Yet this is not always the case, particularly when post-settlement mortality is high, such as in degraded environments or areas where high adult density constrains juvenile survival [5]. Our study concerned the dual roles of connectivity that consider the recolonisation of corals after the mass mortality from so-called ‘coral bleaching’ and the spread of crown-of-thorns starfish (CoTS) epidemics [6]. In both cases, larval supply is likely to be an essential step of colonisation and recovery, and indeed, our field testing of the CoTS connectivity models was consistent with predictions [6]. Our study highlights the great heterogeneity in the ecological functioning of reefs, with some having far greater potential than others to stimulate regional recovery. Harnessing such heterogeneity to target management interventions should lead to better decisions, which will themselves improve as the usage of connectivity models continues to be refined and improved."
+}

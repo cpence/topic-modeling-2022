@@ -1,0 +1,40 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001522",
+  "doi": "10.1371/journal.pbio.1001522",
+  "externalIds": [
+    "pii:PBIOLOGY-D-13-00492",
+    "pmid:23555194",
+    "pmcid:PMC3608553"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Mating Type Determination in Tetrahymena: Last Man Standing",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson",
+      "affiliation": "Freelance Science Writer, Sherborn, Massachusetts, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2013-03",
+  "volume": "11",
+  "number": "3",
+  "pages": "e1001522",
+  "tags": [
+    "Discipline-v2/Biology",
+    "Discipline-v2/Microbiology",
+    "Discipline-v2/Model organisms",
+    "Microbiology",
+    "Model organisms",
+    "Type/Synopsis"
+  ],
+  "fullText": "Tetrahymena, a single-celled protist, is a eukaryote, just like you and me. But that's about where the similarity ends. Each Tetrahymena cell contains not one, but two nuclei. The diploid germline nucleus remains transcriptionally silent throughout asexual reproduction, while the somatic nucleus is transcriptionally active. Most especially, Tetrahymena do sex differently from us—there are not two, but seven mating types (I to VII), and any Tetrahymena cell can mate with a cell of any type but its own.\n\nThe existence of the seven mating types has been known since the 1950s, but the genetic basis of mating type determination has remained a mystery until now. In this issue of PLOS Biology, Marcella Cervantes, Wei Miao, Eduardo Orias, and colleagues show that incomplete gene pairs for each type are arranged in a linear array within the germline nucleus. During the mating process, completion of one gene pair by joining non-contiguous DNA segments, and stochastic elimination of all the others within the new somatic nucleus, fixes the mating type of the offspring.\n\nTo search for genes that might be involved in mating, the authors starved the cells, a necessary step before conjugation (sex). During conjugation, gamete nuclei fuse and then divide mitotically to form both germline and somatic nuclei; the old somatic nucleus from each parent is then destroyed. The new somatic nucleus undergoes wholesale genomic rearrangements that result in, among other things, determination of mating type.\n\nThe authors took RNA sequences from starved mating type V and VI cells and mapped them onto the Tetrahymena somatic genome. They found two adjacent genes that were not expressed during growth, and were expressed only in mating type VI (not V) during starvation, and showed that knocking out either one prevented conjugation, suggesting they were involved in mating. They called the genes MTA and MTB. In the somatic nucleus, MTA and MTB were arranged head to head, each containing an exon at its distal end that encodes a transmembrane domain. Since two Tetrahymena must contact each other to sense a mating type difference, it stood to reason they might employ membrane proteins to distinguish between self and non-self mating types, strengthening the case for the involvement of the two genes.\n\nNext, they searched the germline genome sequence for the type VI MTA and MTB sequences, and got a surprise. They found a 91-kilobase region of the genome in which the transmembrane portion of each gene had not one, but six separate matches, while the remaining portion matched only once. They tried MTA and MTB sequences from the remaining types, and found that the mating type–specific region of each gene matched a different site at the same locus (all but type I, known to be encoded by a different allele not tested here).\n\nThey concluded that the mating locus in the germline nucleus contained six gene pairs, one for each mating type, each comprising an MTA-like and MTB-like gene, and arranged in the following order: II–V–VI–IV–VII–III. Like MTA and MTB in the somatic nucleus, these genes were arranged head to head and contain distal transmembrane exons, but with a difference: most of these exons were incomplete, with only the outer two genes (i.e., the MTA gene of II and the MTB gene of III) having complete exons.\n\nHow does Tetrahymena create a single MTA/MTB pair, of a single mating type, in the somatic nucleus? As the somatic nucleus develops, the authors found, the mating type locus undergoes a series of random cleavage and joining events, ultimately leaving only one pair of genes corresponding to a single mating type at the locus, and deleting the others. But while the central mating type–specific portion of the gene pair remains unchanged by the rearrangements, the authors were able to show that the (incomplete) transmembrane domain-coding segments need to be completed by the generation of chimeric exons using segments from the complete outer genes (MTA type II and MTB type III).\n\nThere is still much to be discovered about this delightfully baroque system. Although exactly what the mating type proteins do is unknown, the discovery of their genetic basis will likely lead quickly to better understanding of their function. And determining how Tetrahymena retains the integrity of the mating system genes while subjecting them to such extensive rearrangements is likely to lead to better understanding of DNA editing and repair mechanisms.\n\n        Cervantes MD, Hamilton EP, Xiong J, Lawson MJ, Yuan D, et al. (2013) Selecting One of Several Mating Types through Gene Segment Joining and Deletion in \n        \n          Tetrahymena thermophila\n        \n        . doi:10.1371/journal.pbio.1001518"
+}

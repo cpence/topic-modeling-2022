@@ -1,0 +1,255 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000673",
+  "doi": "10.1371/journal.pbio.3000673",
+  "externalIds": [
+    "pii:PBIOLOGY-D-19-03563"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "“Frozen evolution” of an RNA virus suggests accidental release as a potential cause of arbovirus re-emergence",
+  "authors": [
+    {
+      "name": "David J. Pascall",
+      "first": "David J.",
+      "last": "Pascall",
+      "affiliation": "Institute of Biodiversity, Animal Health and Comparative Medicine, Boyd Orr Centre for Population and Ecosystem Health, University of Glasgow, Glasgow, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-7543-0860"
+      ]
+    },
+    {
+      "name": "Kyriaki Nomikou",
+      "first": "Kyriaki",
+      "last": "Nomikou",
+      "affiliation": "MRC-University of Glasgow Centre for Virus Research, Glasgow, United Kingdom; The School of Veterinary Medicine and Science, University of Nottingham, Sutton Bonington, Leicestershire, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-7013-1853"
+      ]
+    },
+    {
+      "name": "Emmanuel Bréard",
+      "first": "Emmanuel",
+      "last": "Bréard",
+      "affiliation": "UMR Virologie, INRA, École Nationale Vétérinaire d’Alfort, Laboratoire de Santé Animale d’Alfort, ANSES, Université Paris-Est, Maisons-Alfort, France"
+    },
+    {
+      "name": "Stephan Zientara",
+      "first": "Stephan",
+      "last": "Zientara",
+      "affiliation": "UMR Virologie, INRA, École Nationale Vétérinaire d’Alfort, Laboratoire de Santé Animale d’Alfort, ANSES, Université Paris-Est, Maisons-Alfort, France",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-6733-8503"
+      ]
+    },
+    {
+      "name": "Ana da Silva Filipe",
+      "first": "Ana da Silva",
+      "last": "Filipe",
+      "affiliation": "MRC-University of Glasgow Centre for Virus Research, Glasgow, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9442-2903"
+      ]
+    },
+    {
+      "name": "Bernd Hoffmann",
+      "first": "Bernd",
+      "last": "Hoffmann",
+      "affiliation": "Institute of Diagnostic Virology, Friedrich-Loeffler-Institut, Greifswald-Insel Riems, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-5358-6445"
+      ]
+    },
+    {
+      "name": "Maude Jacquot",
+      "first": "Maude",
+      "last": "Jacquot",
+      "affiliation": "Spatial Epidemiology Lab (SpELL), University of Brussels, Brussels, Belgium; INRAE-VetAgro Sup, UMR Epidemiology of Animal and Zoonotic Diseases, Saint Genès-Champanelle, France",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-5945-4689"
+      ]
+    },
+    {
+      "name": "Joshua B. Singer",
+      "first": "Joshua B.",
+      "last": "Singer",
+      "affiliation": "MRC-University of Glasgow Centre for Virus Research, Glasgow, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-6989-475X"
+      ]
+    },
+    {
+      "name": "Kris De Clercq",
+      "first": "Kris",
+      "last": "De Clercq",
+      "affiliation": "Infectious Diseases in Animals, Exotic and Particular Diseases, Sciensano, Brussels, Belgium",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-2928-3521"
+      ]
+    },
+    {
+      "name": "Anette Bøtner",
+      "first": "Anette",
+      "last": "Bøtner",
+      "affiliation": "Section for Veterinary Clinical Microbiology, Department of Veterinary and Animal Sciences, University of Copenhagen, Copenhagen, Denmark; Department of Virus and Microbiological Special Diagnostics, Statens Serum Institut, Copenhagen, Denmark"
+    },
+    {
+      "name": "Corinne Sailleau",
+      "first": "Corinne",
+      "last": "Sailleau",
+      "affiliation": "UMR Virologie, INRA, École Nationale Vétérinaire d’Alfort, Laboratoire de Santé Animale d’Alfort, ANSES, Université Paris-Est, Maisons-Alfort, France"
+    },
+    {
+      "name": "Cyril Viarouge",
+      "first": "Cyril",
+      "last": "Viarouge",
+      "affiliation": "UMR Virologie, INRA, École Nationale Vétérinaire d’Alfort, Laboratoire de Santé Animale d’Alfort, ANSES, Université Paris-Est, Maisons-Alfort, France"
+    },
+    {
+      "name": "Carrie Batten",
+      "first": "Carrie",
+      "last": "Batten",
+      "affiliation": "The Pirbright Institute, Pirbright, Woking, Surrey, United Kingdom"
+    },
+    {
+      "name": "Giantonella Puggioni",
+      "first": "Giantonella",
+      "last": "Puggioni",
+      "affiliation": "Istituto Zooprofilattico Sperimentale della Sardegna, Via Duca degli Abruzzi, Sassari, Italy",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-9013-8203"
+      ]
+    },
+    {
+      "name": "Ciriaco Ligios",
+      "first": "Ciriaco",
+      "last": "Ligios",
+      "affiliation": "Istituto Zooprofilattico Sperimentale della Sardegna, Via Duca degli Abruzzi, Sassari, Italy"
+    },
+    {
+      "name": "Giovanni Savini",
+      "first": "Giovanni",
+      "last": "Savini",
+      "affiliation": "Istituto Zooprofilattico Sperimentale dell’Abruzzo e del Molise (IZSAM), Teramo, Italy"
+    },
+    {
+      "name": "Piet A. van Rijn",
+      "first": "Piet A.",
+      "last": "van Rijn",
+      "affiliation": "Department of Virology, Wageningen Bioveterinary Research (WBVR), Lelystad, the Netherlands; Department of Biochemistry, Centre for Human Metabolomics, North-West University, Potchefstroom, South Africa",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-2594-1232"
+      ]
+    },
+    {
+      "name": "Peter P. C. Mertens",
+      "first": "Peter P. C.",
+      "last": "Mertens",
+      "affiliation": "The School of Veterinary Medicine and Science, University of Nottingham, Sutton Bonington, Leicestershire, United Kingdom; The Pirbright Institute, Pirbright, Woking, Surrey, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-3438-3738"
+      ]
+    },
+    {
+      "name": "Roman Biek",
+      "first": "Roman",
+      "last": "Biek",
+      "affiliation": "Institute of Biodiversity, Animal Health and Comparative Medicine, Boyd Orr Centre for Population and Ecosystem Health, University of Glasgow, Glasgow, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-3471-5357"
+      ]
+    },
+    {
+      "name": "Massimo Palmarini",
+      "first": "Massimo",
+      "last": "Palmarini",
+      "affiliation": "MRC-University of Glasgow Centre for Virus Research, Glasgow, United Kingdom",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7007-4070"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2020-04-28",
+  "dateAccepted": "2020-03-24",
+  "dateReceived": "2019-12-09",
+  "volume": "18",
+  "number": "4",
+  "pages": "e3000673",
+  "tags": [
+    "Agriculture",
+    "Bluetongue virus",
+    "Data management",
+    "Discipline-v3/Agriculture",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Bluetongue virus",
+    "Discipline-v3/Computer and information sciences",
+    "Discipline-v3/Data management",
+    "Discipline-v3/Epidemiology",
+    "Discipline-v3/Europe",
+    "Discipline-v3/European Union",
+    "Discipline-v3/Evolutionary biology",
+    "Discipline-v3/Evolutionary processes",
+    "Discipline-v3/Evolutionary rate",
+    "Discipline-v3/Evolutionary systematics",
+    "Discipline-v3/France",
+    "Discipline-v3/Geographical locations",
+    "Discipline-v3/Livestock",
+    "Discipline-v3/Medical microbiology",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Microbial evolution",
+    "Discipline-v3/Microbial pathogens",
+    "Discipline-v3/Microbiology",
+    "Discipline-v3/Organismal evolution",
+    "Discipline-v3/Organisms",
+    "Discipline-v3/Pathogens",
+    "Discipline-v3/Pathology and laboratory medicine",
+    "Discipline-v3/People and places",
+    "Discipline-v3/Phylogenetic analysis",
+    "Discipline-v3/Phylogenetics",
+    "Discipline-v3/RNA viruses",
+    "Discipline-v3/Reoviruses",
+    "Discipline-v3/Taxonomy",
+    "Discipline-v3/Viral evolution",
+    "Discipline-v3/Viral pathogens",
+    "Discipline-v3/Viral replication",
+    "Discipline-v3/Virology",
+    "Discipline-v3/Viruses",
+    "Epidemiology",
+    "Europe",
+    "European Union",
+    "Evolutionary biology",
+    "Evolutionary processes",
+    "Evolutionary rate",
+    "Evolutionary systematics",
+    "France",
+    "Geographical locations",
+    "Livestock",
+    "Medical microbiology",
+    "Microbial evolution",
+    "Microbial pathogens",
+    "Microbiology",
+    "Organismal evolution",
+    "Organisms",
+    "Pathogens",
+    "Pathology and laboratory medicine",
+    "Phylogenetic analysis",
+    "Phylogenetics",
+    "RNA viruses",
+    "Reoviruses",
+    "Taxonomy",
+    "Type/Short Reports",
+    "Viral evolution",
+    "Viral pathogens",
+    "Viral replication",
+    "Virology",
+    "Viruses"
+  ],
+  "abstract": "The mechanisms underlying virus emergence are rarely well understood, making the appearance of outbreaks largely unpredictable. Bluetongue virus serotype 8 (BTV-8), an arthropod-borne virus of ruminants, emerged in livestock in northern Europe in 2006, spreading to most European countries by 2009 and causing losses of billions of euros. Although the outbreak was successfully controlled through vaccination by early 2010, puzzlingly, a closely related BTV-8 strain re-emerged in France in 2015, triggering a second outbreak that is still ongoing. The origin of this virus and the mechanisms underlying its re-emergence are unknown. Here, we performed phylogenetic analyses of 164 whole BTV-8 genomes sampled throughout the two outbreaks. We demonstrate consistent clock-like virus evolution during both epizootics but found negligible evolutionary change between them. We estimate that the ancestor of the second outbreak dates from the height of the first outbreak in 2008. This implies that the virus had not been replicating for multiple years prior to its re-emergence in 2015. Given the absence of any known natural mechanism that could explain BTV-8 persistence over this long period without replication, we hypothesise that the second outbreak could have been initiated by accidental exposure of livestock to frozen material contaminated with virus from approximately 2008. Our work highlights new targets for pathogen surveillance programmes in livestock and illustrates the power of genomic epidemiology to identify pathways of infectious disease emergence.",
+  "fullText": "Introduction\n\nInfectious disease outbreaks are a major burden on human and animal health. They can dramatically reduce the productivity of entire countries due to direct losses, control measures, trade bans, or public fear [1]. Diseases caused by arthropod-borne viruses (arboviruses) in particular have increased substantially in recent decades [2–4], and there is an urgent need to better understand the causes of their emergence in order to devise better control and prevention strategies. The factors leading to disease emergence are often unclear, and case studies of intensely studied outbreaks can therefore provide important wider lessons.\n\nBluetongue is a major disease of domestic ruminants caused by the bluetongue virus (BTV); an arbovirus transmitted by Culicoides midges. BTV is the type species of the genus Orbivirus, within the family Reoviridae, and possesses 10 double-stranded RNA genome segments encoding for 7 structural and 4 or 5 nonstructural proteins [5–8]. BTV infection in sheep can induce a variety of clinical outcomes, which in the most extreme cases include a lethal haemorrhagic fever [9–11]. Infection in cows and goats results instead in milder and often subclinical signs [9,10]. BTV can also infect wild ruminants and, more rarely, other mammal species [12–16].\n\nLike many other arboviruses, the geographical spread of BTV has increased significantly in the last 20 years [17–19]. In August 2006, BTV serotype 8 (BTV-8) emerged for the first time in the Netherlands [20–25], leading to dramatic losses of sheep and causing extensive economic damage to farming communities, costing on the order of billions of euros [26–29]. The virus quickly spread across the continent, with confirmed infections in 16 countries by 2008 (Fig 1). The outbreak was ultimately controlled through a pan-European vaccination campaign, using inactivated vaccines, with a few last cases detected in Europe in 2010 [30]. However, after a five-year period with no BTV-8 cases recorded throughout Europe, the virus re-emerged in France [31] and has since continued to spread. France was declared enzootic in 2018 and recent cases reported in adjacent countries, including Germany, Switzerland, and Belgium [32].\n\nThe source and mechanism of BTV-8 re-emergence in France remains obscure. Initial genetic data from one isolate suggested the re-emerging virus in France to be a close relative of the lineage causing the 2006–2010 outbreak [31,33,34]. The prevailing theory was that the virus had continued to be transmitted subclinically but remained unrecorded in livestock or wild ruminants after it had been declared absent from Europe in 2011 [31]. However, there is currently little evidence to support this hypothesis. Based on serological evidence, wild ungulates do not appear to have sustained transmission [35,36]. Similarly, serological testing of cattle sampled in 2014 indicated a rapid decline of seropositivity after vaccination ceased in France in 2010, consistent with a new (re-)introduction of the virus in, or just before, 2015 [35,37,38].\n\nWe describe the use of phylogenetic and evolutionary analyses of BTV-8 virus samples, collected during the first and second European outbreaks, to gain insights into the mechanisms that allowed BTV-8 to re-emerge in France in 2015. For this, we generated a novel dataset of full genome sequences for more than 150 viruses sampled throughout both outbreaks.\n\nResults\n\nViruses from the first and second European BTV-8 outbreaks form a single monophyletic clade\n\nWe analysed newly sequenced full genomes of 153 BTV-8 samples collected from infected sheep and cattle throughout the BTV-8 outbreaks in Europe along with 11 BTV-8 isolates previously published. Samples from the first outbreak were collected from infected animals in 10 different countries between 2006 and 2009, while samples from the second outbreak were collected from France between 2015 and 2018 (S1 Table). To minimise or exclude the possibility of including genome mutations acquired during extensive passage of the virus in culture, we sequenced the great majority of samples directly from clinical samples (blood) of infected animals or from isolates kept in culture for a minimum number of passages (S1 Table).\n\nA maximum likelihood (ML) tree revealed considerable genetic diversity both within the first (2006–2010) and the second outbreak (2015–2018) (Fig 2 and S1 Fig). The tree showed that all sequences from the second European outbreak form a well-supported monophyletic clade that is nested within the virus lineages circulating during the first outbreak in 2006–2010 (Fig 2 and S1 Fig). Specifically, the clade of the second outbreak derives from a clade from the first outbreak including predominantly viruses from France and Germany collected in 2007 and 2008. The viruses from the second French outbreak can be distinguished into two further clades, one including viruses from 2015 and 2016, the other including samples spanning the entire outbreak (2015–2018). Interestingly, both clades were already present among the eight samples from the farm in France (in Auvergne-Allier) from which the first diagnosis of re-emerged BTV-8 was made in August/September of 2015. Surprisingly, the branch leading to the re-emerging virus appeared short, given the five-year period between the outbreaks, implying a low rate of evolution during this period (Fig 2 and S1 Fig).\n\nBTV-8 re-emergence associated with exceptionally slow evolution\n\nTo test if the lower amount of divergence along the branch separating the two outbreaks was unusual, we estimated the evolutionary rate of BTV-8 from the set of 164 genomes. For this, we applied a lognormal relaxed clock model that allows for branch-specific heterogeneity in clock rates, implemented in the Bayesian phylogenetic software BEAST (Fig 3 and S2 Fig). The mean evolutionary rate estimate was 4.04 × 10−4 substitutions per site per year (95% highest posterior density [HPD]: 3.37 × 10−4, 4.72 × 10−4), corresponding to an expected 7.76 substitutions per year (95% HPD: 6.47, 9.06) across the entire BTV-8 genome. In contrast, the emerging branch had an estimated mean evolutionary rate that was nearly an order of magnitude slower, at 8.24 × 10−5 substitutions per site per year (95% HPD: 3.93 × 10−5, 1.32 × 10−4). Indeed, of the branches within the presented maximum clade credibility tree, this branch had the lowest median rate across the posterior distribution of trees.\n\nUsing BEAST, we reconstructed the sequence of the most recent common ancestor of the viruses sequenced from the second outbreak. This ancestral sequence displayed only 7 nucleotide substitutions (of which 6 were synonymous or in the untranslated regions [UTRs] of the viral genome) compared to BTV-8FRA2007-3673, the genetically closest virus within the dataset, which was collected in France in August 2007 (Fig 4A). In comparison, BTV-8FRA2007-3673 displayed 23 nucleotide substitutions (of which 16 were synonymous or in the UTR) compared to the first sequence available from the first outbreak and collected in August 2006 in the Netherlands (BTV-8NET2006-04) (Fig 4A). The number of mutations of BTV-8FRA2007-3673 compared to the BTV-8 sequences in the dataset in 2006 (n = 23) ranges between 15 and 23, while those compared to the virus sequences collected in 2008 (n = 37) varies between 2 and 56. Hence, sequence variation between BTV-8 samples collected only a year apart during the first outbreak is, in general, far higher than that between the ancestor of the re-emerged BTV-8 strain and its closest relative in the first outbreak.\n\n“Frozen evolution”: Clock-like evolution of BTV-8 during, but not in between, outbreaks\n\nNext, we included the reconstructed ancestral sequence in our dataset and re-estimated the ML tree to get measures of genetic distance from the root of the tree. Consistent with clock-like evolution, the genetic distance between virus sample and the root increased linearly with time during both the first (TempEst: slope = 7.2708 × 10−4 subs/site/year, r2 = 0.8113) and the second outbreak (TempEst: slope = 6.9291 × 10−4, r2 = 0.9605). There was no evidence that the evolutionary rate of the virus differed between the two outbreaks (p-value for Date:Outbreak interaction = 0.194). However, there is a clear discontinuity in the accumulation of mutations between the two outbreaks, consistent with a period during which clock-like evolution had essentially ceased. Consequently, the reconstructed sequence of the ancestor of the second outbreak, when included in the ML tree, has an inferred distance from the tree root that is consistent with a virus from late March 2008, according to the root-to-tip regression (Fig 4B).\n\nDiscussion\n\nDiseases of livestock can be exceedingly interesting models to study virus emergence, given that harmonised international surveillance systems and regulatory frameworks provide opportunities to access field samples with associated metadata across national borders. Here, the BTV-8 European outbreaks provided us with the opportunity to investigate the mechanisms surrounding arbovirus emergence based on a uniquely rich dataset. Our results indicate that the re-emergence of BTV-8 in France in 2015 was caused by a virus that exhibits a lack of evolutionary changes since the first outbreak. This is inconsistent with the prevalent view of undetected low-level circulation of the virus in wild or domestic ruminants between 2010 and 2015, and instead points to another mechanism of emergence.\n\nWe showed a large discontinuity in the number of mutations accumulated by BTV-8 between 2010 and 2015, even though the evolutionary rates of the virus during the first and second outbreak were indistinguishable and of the same order as rates reported in previous BTV studies [39,40]. If the virus had been replicating consistently in an undetected population from 2010 to 2015, we would expect the genetic distance of the isolates from the second European outbreak to continue the trend of increased divergence after the first outbreak. However, the sequences from the second outbreak exhibit genetic divergences that fall considerably below what would be expected if the trend line from the first outbreak was extended, illustrating a paucity of mutations (Fig 4B). Indeed, the divergence of the reconstructed ancestor of the second bluetongue outbreak is consistent with the virus stopping replication in March 2008. The lack of divergence is also illustrated by the fact that the reconstructed ancestor of the BTV-8 outbreak has only 7 mutations separating it from its closest relative in the analysed dataset, a French sample collected in August 2007 (BTV-8FRA2007-3673), despite putatively having been replicating for at least half a decade after that sample’s collection. In comparison, BTV-8FRA2007-3673 showed 23 mutations compared to the genome of the earliest BTV-8 sample obtained from the Netherlands in August 2006, only a year earlier. The corresponding rate of evolution estimated for the emerging branch was almost an order of magnitude slower than the mean clock rate, highlighting it as exceptionally low (Fig 3). Moreover, we hypothesise that some or all of the estimated seven mutations on this branch might have accumulated during the first outbreak, given that the emerging branch connects to an internal node in the timescaled phylogeny with a date of early 2007, at the height of the first outbreak. The subsequent accumulation of seven mutations is consistent with the idea that this virus continued to circulate until early 2008 (the inferred date from the root-to-tip regression) and then ceased to change altogether until its re-emergence in 2015. While previous studies have found apparent evolutionary stasis to be the result of mislabelling [41], this can be ruled out in our case due to the discontinuity applying to all samples from the second outbreak, not just a single isolate. Another hypothetical scenario could be envisaged if BTV-8 was to remain “latent” in midges’ eggs for a number of years. However, there is no evidence of vertical transmission in BTV-infected Culicoides [42–45]. This, in conjunction with the need for infected midge eggs to survive for years, rather than a single overwintering season, makes this scenario highly unlikely.\n\nGiven the unexpectedly low number of mutations observed between the two outbreaks, our data indicate that the common ancestor of the second European outbreak either ceased or dramatically slowed its replication in early 2008. This is inconsistent with current knowledge and paradigms of the biology of BTV and RNA viruses in general. For example, a potential explanation could be that BTV persistently infected a host for several (5 to 8) years, with little or no replication, before being reactivated and starting the second outbreak. While this may be possible with DNA viruses, or RNA viruses with a DNA intermediate [46–51], a mechanism for this has never been described before for reoviruses such as BTV and in general for other RNA viruses.\n\nOur findings have interesting parallels to puzzling examples from other RNA viruses, such as two Ebola virus outbreaks in the Democratic Republic of Congo in 2014 and 2018 [52,53]. Isolates from both outbreaks were minimally divergent from isolates collected about a decade earlier, resulting in a far lower evolutionary rate than other known lineages. It has been suggested that such slow evolution may be caused by the maintenance of the virus in an animal reservoir, where infection might be associated with lower replication rates compared to human hosts [52,53]. Rabies virus may provide an additional peculiar example based on a handful of reports in human patients of virus reactivation after latency of several years [54], but it has not been documented whether these cases involved a lack of evolutionary changes. In other cases, such as foot-and-mouth disease, viral RNA and infectious virus have been shown to persist in reservoir hosts for multiple years. However, re-isolation of virus (as opposed to detection of viral RNA) indicates that the virus replicates during persistent infection and accumulates nucleotide substitutions at a rate comparable to actively replicating viruses [55,56]. Hepatitis C virus, for example, is also known to persist in a number of patients for a number of years but, again, with continuing viraemia and thus virus replication [57].\n\nOverall, we judge the possibility of persistence of BTV-8 in a mammalian or invertebrate host for longer than five years, in the absence of viral replication, followed by viral reactivation and subsequent onwards spread, to be unlikely given the current understanding of RNA virus biology. We hypothesise that accidental release of frozen material contaminated with BTV-8 could be the cause of the virus re-emergence in France in 2015. Anthropogenic causes of virus outbreaks have been described before. Accidental virus release is thought to have been responsible for the 1977 influenza A H1N1 outbreak, caused by a virus that closely matched a variant circulating in the 1950s [58,59]; likewise, the 1995 Venezuelan equine encephalitis subtype IC epidemic was caused by a virus closely related to a strain circulating in 1962–1964 [60]. For livestock pathogens, a localised outbreak of foot-and-mouth disease virus (FMDV) in the United Kingdom in 2007 was linked to virus escaped from research facilities [61].\n\nOur data cannot reveal the actual source from which BTV-8 was re-introduced in France in 2015. We speculate that laboratory escape of virus preparations, such as the case of FMDV in the UK in 2007, is unlikely, as BTV needs an insect vector for efficient transmission and we are unaware of any in vivo insect experiments in France with BTV during that period. However, due to specific animal husbandry procedures, there are important potential sources of frozen virus that apply to viruses of livestock and not viruses of most other animals, specifically the widespread use of bull semen for artificial insemination and embryo transfer in cows [62,63]. BTV has been detected in the semen of viraemic bulls and rams, can initiate infection in the mother, and can be transmitted vertically to the embryo [64,65]. Additionally, contaminated embryos can cause transmission on implantation [66]. As such, both semen and embryos may represent potential sources of BTV infection. Contaminated frozen colostrum may also be a potential source, considering that oral transmission has been shown to be possible with BTV-8 [67]. However, it is not normal practice to keep colostrum frozen for a number of years. Interestingly, while international regulations specify that bull donors and semen that are exported internationally must be screened for various pathogens including BTV [68], this does not apply to premises trading only locally and carrying out private insemination procedures [69]. Thus, semen from a BTV-8–infected bull could have been collected or an embryo generated from an infected but asymptomatic animal and used years later without detection.\n\nWe stress that the link between bull semen trade and embryo implantation in France and the BTV-8 re-emergence in 2015 is only speculative. However, we have shown that the re-emergence of BTV-8 in France in 2015 is unlikely to be due to cryptic continuing transmission, and we can exclude a reintroduction from another endemic country. Thus, our data are incompatible with the two current dominant theories for explaining the 2015 outbreak [31]. The lack of accumulated mutations in the virus implies that there was either an ongoing persistent infection in the absence of viral replication for several years, or the virus originated from material that had been frozen during the first outbreak. We argue the second of these explanations to be more likely. Our findings highlight new areas requiring thorough surveillance programmes for the control of infectious disease of livestock. In addition, our approach illustrates how unrecognised pathways of disease emergence can be revealed using pathogen genomic epidemiology.\n\nMethods\n\nSamples\n\nBlood samples from animals infected with BTV-8 were received from ten European countries during the bluetongue outbreaks from 2006 to 2018. In some instances, samples analysed were viruses isolated in tissue culture from blood of infected animals. S1 Table provides the metadata related to the dataset used in this study. These include virus strain names, animal species of origin, geographical location, and date of sampling. In addition, metadata include whether the viral genome sequence was obtained directly from clinical material (blood) or from an isolate in tissue culture, sequencing methods, and GenBank accession numbers.\n\nRNA extraction and Illumina library preparation\n\nTotal RNA was extracted from infected blood samples, and virus isolates using Trizol LS (Invitrogen, Carlsbad, CA) and purified using Direct-zol RNA MiniPrep (Zymo Research, Irvine, CA) as per the manufacturer’s protocol. RNA samples were treated with DNase I (Ambion, Austin, TX) and purified with 3× Agencourt RNAClean XP beads (Beckman Coulter, Brea, CA). Total RNA concentration was quantified using the Qubit Fluorometer (Life Technologies, Carlsbad, CA) and Qubit RNA HS Assay (Life Technologies, Carlsbad, CA), while RNA integrity was assessed using Agilent 4200 TapeStation System (Agilent, Santa Clara, CA). In order to avoid cross-contamination, RNA extractions from virus isolates were performed separately from those of infected blood samples. Similarly, RNA extractions were carried out separately on the basis of geographical origin and year of collection of the samples. In addition, library preparations, target enrichment, and sequencing runs (see below) were carried out also on separate days, following the same criteria as above. Libraries from low and without measurable RNA (low input) were also prepared separately from those with measurable RNA (high input). Libraries were prepared for Illumina sequencing using the Illumina TruSeq Stranded mRNA HT kit (Illumina, San Diego, CA) using 5 μL of sample RNA (up to 250 ng of total RNA) according to the manufacturer’s instructions. Briefly, after RNA was fragmented, it was reverse transcribed using SuperScript II Reverse Transcriptase (Invitrogen, Carlsbad, CA) and random hexamers. Single-stranded cDNA was immediately converted to double-stranded cDNA, cleaned up with Agencourt AMPure XP magnetic beads (Beckman Coulter, Brea, CA), quantified using Qubit Fluorometer and Qubit dsDNA HS Assay Kit (Life Technologies, Carlsbad, CA), and the size distribution was assessed using a 4200 TapeStation System with High Sensitivity D1000 Screen Tape assay (Agilent, Santa Clara, CA). A-tailing was performed, followed by indexed adapter ligation. After a purification step, dual indexed libraries were PCR amplified, and the purified PCR products were pooled in equimolar concentrations and sequenced using 150 paired-end sequencing on MiSeq or NextSeq500/550 sequencers (Illumina, San Diego, CA).\n\nTargeted enrichment sequencing\n\nWe carried out multiplexed viral targeted enrichment followed by Illumina sequencing using the NimbleGen SeqCap EZ system (Roche, Pleasanton, CA) for improved viral detection from clinical material. This approach was followed in order to increase the number of BTV-8 samples from which we could obtain a complete viral genome sequence directly from clinical material, including those with very low amounts of viral RNA. Libraries were prepared following the standard Illumina TruSeq Stranded mRNA protocol, described above. They were quantified using Qubit Fluorometer and Qubit dsDNA high sensitivity (HS) Assay Kit (Life Technologies, Carlsbad, CA). Quality and size distribution were validated using the High Sensitivity D1000 Screen Tape assay (Agilent, Santa Clara, CA) in a 4200 TapeStation System (Agilent, USA) and were normalised according to BTV viral load and mass. A 1-μg aliquot of the pooled library was enriched using a SeqCap EZ Developer Probe (Roche/NimbleGen) (see below), according to the manufacturer’s protocol. After a 14-cycle post-enrichment PCR amplification, the cleaned PCR products were pooled and were sequenced with a 151-base paired-end reads on a NexSeq500/550 cartridge (Illumina, San Diego, CA). Probes were designed using all BTV sequences available on NCBI Genbank, RefSeq, DNA Data Bank of Japan (DDBJ), and EMBL EBI databases (as accessed by October 2016). The resulting NimbleGen biotinylated soluble capture probe library (“BTV-Cap”) contains a probe set of more than 500,000 probes, designed to minimise capture of Culicoides sonorensis, Bos taurus, Ovis aries, Capra hircus, and Mesocricetus auratus genomes.\n\nConsensus calling\n\nAll consensus calling was performed on a cluster running Ubuntu v. 14.04.5 LTS. In all cases, BAM and SAM files were handled using samtools v. 1.3 [70]. The R packages ggplot2 v. 3.2.1 [71], seqinr v. 3.6–1 [72], stringr v.1.4.0 [73], and vcfR v. 1.8.0 [74] were all used in scripts at various points in the following section. Paired-end raw reads were trimmed with Trim Galore! v. 0.4.0 (http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/) with a quality cutoff of 30. Any reads below 50 bp were discarded. Following this, any reads that were unpaired were discarded if they were under 100 bp. Overlapping reads were combined using FLASH v. 1.2.11 [75]. Reads were mapped using bowtie2 v. 2.3.4.2 [76] to a reference database containing all the segments of all the described strains of BTV in order to manually check for mixed infections. Reads were allowed to have as many valid maps as could be found. Mapping statistics were generated with weeSAM v. 1.5 (https://github.com/centre-for-virus-research/weeSAM) and transcripts per million for each target were then generated using eXpress v. 1.5.1 [77]. Separately, for the consensus generation, reads were mapped using Tanoti v. 9 July 2018 (https://github.com/vbsreenu/Tanoti/tree/master/src) against a reference BTV-8 genome from the European BTV-8 outbreak (GenBank accession numbers: JX680447-JX680456). Different software was used for the quality control and consensus building steps, as bowtie2 generates metadata required for the downstream quality control steps that Tanoti does not.\n\nVariants from the BTV-8 reference were then called from the Tanoti alignment with lofreq* v. 2.1.2 [78], with the minimum coverage of the filtering step set to 5 and all other parameters at their default values. Any variants from the reference with an allele frequency of greater than 0.5 were replaced into their positions in the reference to build a new reference sequence. Reads were then remapped to this new reference. This process was then repeated either 5 times or until the reference generated after the process was identical to the reference at the start of the last round of mapping. Reads were then mapped again against this new reference, and ambiguities were called. A base was called unambiguously if the allele frequency of the dominant allele was greater than 0.75; otherwise, the base was called ambiguously over all alleles with a frequency of greater than 0.05 using a bespoke script in R (S1 Data). For both of these consensus sequences, positions were masked with “N”s if the coverage at the site was less than 5 separate paired-end reads.\n\nFinal sequences were processed and annotated for submission to GenBank using an extension to the BTV-GLUE resource (http://btv-glue.cvr.gla.ac.uk). GenBank accession numbers for each sample are in S1 Table.\n\nQuality control\n\nA sequence showing evidence of mixed infection or contamination was discarded. Potential contamination and/or mixed infection were detected by finding sequences that met the following two criteria: (i) visible numbers of reads mapping to serotypes other than BTV-8 or the closely related BTV-18 in segments 2 and 6; and (ii) the presence of regions that, when aligned, showed large numbers of unique SNPs and ambiguous nucleotides. In total, 8 samples were discarded due to mixed infection with different BTV strains and/or contamination (7 samples form the first outbreak and 1 from the second). During quality control, segment 7 from the sample FRA2008-28 was also removed, as it represented an obvious reassortment from a distinct BTV strain, but the rest of the sample was preserved. We used GiRaF v. 1.02 [79] and MrBayes v 3.2.7a [80] on all the samples to test for the presence of less obvious reassortments between serotypes. Within the GiRaF algorithm, per-segment trees were run for 1,000,000 iterations, with 500,000 iterations discarded as burn-in. All other parameters were left at their default values. No reassortment was detected, so we opted to use all segments in a single concatenated phylogenetic tree. However, it should be noted that, as there is little variation in many segments, our ability to detect reassortment between two distinct but phylogenetically related strains is correspondingly low.\n\nPhylogenetics\n\nTwo separate phylogenetic analyses were performed, a ML analysis performed in PhyML v. 20120412 [81] and a Bayesian analysis performed in BEAST v. 1.10 [82].\n\nML analysis\n\nTo explore the diversity of the outbreaks, we generated a ML tree. All segments were concatenated into a single sequence, and a phylogeny using the GTR+G+I nucleotide model was run in PhyML v. 20120412 [83]. All parameters were optimised by ML. The algorithm was the best of NNI and SPR moves with 10 random starts, with 1,000 bootstraps being performed on the best tree found. A ML tree containing all sequences was then run using the same settings as the first, and 1,000 bootstraps were performed on the best tree found in those 12 starts. Given the observed short branch between the first and second outbreaks, this tree was then rooted at the optimal root found from the tree containing only the sequences from the first outbreak, generated under the same settings, as calculated by TempEst v. 1.5.1 [84]. The TempEst rooting procedure also confirmed clock-like evolution for this dataset.\n\nBEAST analysis\n\nUsing known break points, the sequence for each segment was split into the UTR and the first, second, and third codon positions of the coding sequence. In the ninth and tenth segments, there are regions with overlapping open reading frames; these were also placed together in their own partition. Separate evolutionary models, linked across segments, were applied to each of these partitions. The segments shared a lognormal relaxed molecular clock [85]. Given the difficulty, caused by combinatorial explosion, of model selection when there are multiple partitions, we performed a pre-analysis model selection protocol. Each segment was concatenated and a model was chosen for each partition using jModelTest v 2.1.10 [86]. The best model that was implemented in BEAST v. 1.10 was selected based on Akaike’s Information Criterion corrected for small sample size (AICc). This was a GTR model for the first codon position, an HKY for the second, GTR+G with 4 gamma categories for the third, K80 for the UTR, and JC for the regions with overlapping ORFs. We used a GRMF skyride model for the tree prior [87]. When the sampling date was not exactly known, the age of the tip was estimated in the MCMC with a uniform prior over the period of uncertainty. This meant that the sampling date was correctly controlled for despite the observed discontinuity [88]. All priors were left at their default values except for the mean of the lognormal distribution for the relaxed molecular clock, which was given a lognormal (−7.6, 3) prior. In all cases, ambiguous nucleotides were used in the tree likelihood. Two trees were run, one containing only the sequences from the 2015 outbreak and one containing all sequences. The tree containing all sequences was used to reconstruct the sequence of the ancestor of all the viruses in the second outbreak. BEAST will reconstruct the sequence even in locations where the majority of sequences show gaps in the alignment. As such, there were three nucleotides that we removed from the final reconstructed sequence, corresponding to locations in the original multiple sequence alignment where all sequences but one had gaps. The BEAST XMLs for the two analyses described above are available as S2 Data.\n\nDownstream statistical analysis and figure generation\n\nObserved genetic distances from the full ML tree and sampling date were combined in R. When the exact sampling date was unknown, if the day within the sampling month was unknown, the date was fixed to the 16th of the month, and when the month was unknown, the date was fixed to the midpoint of the year. General linear models in base R (glm function) were fitted to test if the evolutionary rate of the virus was the same between two outbreaks. The models used a gamma distribution with an identity link. The regression equation for the first model was as follows: Genetic distance from root ~ Date + Outbreak. The regression equation for the second model was as follows: Genetic distance from root ~ Date + Outbreak + Date:Outbreak. After no evidence was found of differential rates between the two outbreaks, the general linear model without the interaction was run in brms v. 2.10.0 [89]. A normal (0, 10) prior was placed over the intercept, standard normal priors were placed over all regression coefficients, and a gamma (0.01, 0.01) prior was placed over the shape parameter. The normalised rank of the evolutionary rate of the long branch was calculated as follows: for each tree in the posterior, ranking the estimated evolutionary rate of each branch from slowest to fastest, extracting the rank for the long branch, subtracting 1 so that the minimum was 0, then dividing by the number of branches minus 1, so that a number between 0 and 1 was generated. Figures were generated using the following R packages: ggplot2 v. 3.2.1 [71], ggtree v. 1.16.6 [90], ggthemes v. 4.2.0 [91], cowplot v. 1.0.0 [92], ggmap v. 3.0.0 [93], viridis v. 0.5.1 [94], tidybayes v. 1.1.0 [95], lubridate v. 1.7.4 [96], sp v. 1.3–1 [97], raster v. 3.0–7 [98], maptools v. 0.9–8 [99], rgeos v. 0.5–2 [100], rgdal v. 1.4–6 [101], sf v. 0.8–0 [102], and PBSmapping v. 2.72.1 [103].\n\nSupporting information"
+}

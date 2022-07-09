@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001894",
+  "doi": "10.1371/journal.pbio.1001894",
+  "externalIds": [
+    "pii:PBIOLOGY-D-14-01668",
+    "pmid:24960466",
+    "pmcid:PMC4068988"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Stop Eating and Start Moving: One Switch Does Both",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson",
+      "affiliation": "Freelance Science Writer, Sherborn, Massachusetts, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2014-06",
+  "volume": "12",
+  "number": "6",
+  "pages": "e1001894",
+  "tags": [
+    "Discipline-v2/Biology and life sciences",
+    "Type/Synopsis"
+  ],
+  "fullText": "At its most elemental level, a behavior is a series of coordinated muscle contractions that accomplishes some goal. Those contractions are driven by motor neurons, whose firing is controlled by “central pattern generators,” suites of central nervous system neurons functionally linked to generate simple motor outputs, such as chewing, swallowing, or breathing.\n\nSwitching between behaviors requires suppression of one set of patterns and activation of another. The larva of the fruit fly, for instance, doesn't feed while it is in motion, and vice versa, and so must stop doing the one in order to engage in the other. How it does so, and more broadly, how organisms coordinate switching between motor patterns, is not well understood. In this issue of PLOS Biology, Andreas Schoofs, Michael J. Pankratz, and colleagues show that a single cluster of neurons in the fly central nervous system simultaneously suppresses feeding movements and induces food-seeking movements.\n\nFeeding behavior in the fly larva includes three motor patterns—head tilting movements, mouth hook movements, and pharyngeal pumping—that together allow the larva to find, ingest, and swallow food, such as yeast cells. The authors previously identified three nerves that together control this set of movements. To discover central neurons that modulate the activity of these nerves, they selectively activated neurons expressing different neurotransmitters or neuropeptides using an inducible genetic tool. By recording the output of the nerves as they turned on one or another gene, they found four classic neurotransmitters and one neuropeptide with significant effects on one or another feeding motor pattern. Acetylcholine, glutamic acid, and serotonin each increased activity for all patterns, while dopamine and the neuropeptide hugin selectively decreased pharyngeal pumping.\n\nWhile dopamine is widely expressed, hugin is limited to 20 neurons tightly clustered together at the base of the brain, just below the fly higher brain centers. Further investigation showed that, in addition to suppressing pharyngeal pumping, activation of hugin neurons induced wandering, a food-seeking behavior, and increased the frequency of contraction of abdominal muscles, which propel the larva through the medium (see Figure 1). When hugin expression was suppressed but the neurons were stimulated to fire nonetheless, pharyngeal pumping remained unsuppressed and wandering induction uninduced, indicating their reliance on hugin. Abdominal muscle contractions, however, were still increased, suggesting that hugin neurons also release another, as-yet-unidentified neurotransmitter.\n\nPrevious anatomic work had shown that of the 20 hugin neurons, four extend processes down the length of the nerve cord, suggesting they might play a role in controlling abdominal muscles. By selectively activating or ablating these cells or the 16 others in the cluster, the authors showed that these four indeed increased abdominal muscle contraction frequency, without hugin release. The other 16, in turn, whose targets include the pharynx, were shown to be responsible for suppressing feeding and induction of wandering in a hugin-dependent fashion.\n\nWhile increasing hugin release could suppress feeding and induce locomotion, the opposite was not true—reducing hugin release did not increase feeding or suppress locomotion, indicating that, like the brake and accelerator of a car, each of these actions is under the control of two independent regulatory systems exerting opposite effects.\n\nFurther work will be needed to understand these other systems and to determine how the hugin-dependent central pattern generator is itself regulated by higher centers. But the authors made important headway here, showing that a subset of the hugin neurons connect to the protocerebrum (part of the fly's brain), and that the protocerebrum contributes to control of the hugin neurons. While working out all the mutually interacting systems that contribute to even such simple behaviors remains a major challenge, these new discoveries have made the task more tractable.\n\nSchoofs A, Hückesfeld S, Schlegel P, Miroschnikow A, Peters M, et al. (2014) Selection of Motor Programs for Suppressing Food Intake and Inducing Locomotion in the Drosophila Brain. doi:10.1371/journal.pbio.1001893"
+}

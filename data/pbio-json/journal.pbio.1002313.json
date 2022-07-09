@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1002313",
+  "doi": "10.1371/journal.pbio.1002313",
+  "externalIds": [
+    "pii:PBIOLOGY-D-15-02986",
+    "pmid:26646076",
+    "pmcid:PMC4672876"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Motor Learning Unfolds over Different Timescales in Distinct Neural Systems",
+  "authors": [
+    {
+      "name": "Janelle Weaver",
+      "first": "Janelle",
+      "last": "Weaver",
+      "affiliation": "Freelance Science Writer, Carbondale, Colorado, United States of America"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2015-12-08",
+  "volume": "13",
+  "number": "12",
+  "pages": "e1002313",
+  "tags": [
+    "Type/Synopsis"
+  ],
+  "abstract": "A new study reveals the time-resolved brain map of activity involved in the formation of motor memories, from seconds to hours and from the frontal and parietal lobes to the cerebellum. Read the Research Article.",
+  "fullText": "Anyone who has learned how to play a musical instrument knows that translating notes on a sheet into finger movements is effortful at first, but gradually becomes more automatic over time. This widely appreciated feature of motor learning was described in 1967 by Paul Fitts and Michael Posner. In a book entitled Human Performance, the well-known psychologists proposed three stages of learning motor skills: a cognitive phase, an associative phase, and an autonomous phase.\n\nIn the first stage, movements are slow, inconsistent, and inefficient, and large parts of the movement are controlled consciously. In the second stage, movements become more fluid, reliable, and efficient, and some parts of the movement are controlled automatically. And in the third stage, movements are accurate, consistent, and efficient, and movement is largely controlled automatically. However, it has not been clear exactly how the different stages of motor learning map onto neural systems in the brain.\n\nIn a study published in this issue of PLOS Biology, Nicolas Schweighofer of the University of Southern California and Hiroshi Imamizu of the University of Tokyo combined computational modeling with behavioral and functional magnetic resonance imaging (fMRI) data to create a brain-wide map of motor memories with different timescales (Fig 1). According to the authors, the findings shed new light on a classical psychological theory and could potentially be used to improve strategies for the rehabilitation of motor skills after brain damage.\n\nIn the new study, 21 healthy volunteers performed visual-motor adaptation tasks while their brain activity was measured with fMRI. At the beginning of each trial, a white cross (cursor) appeared at the center of the screen, and subjects then manipulated a joystick to move the cursor to a red or blue circle that appeared at the top of the screen. But there was a visual-motor mismatch: The cursor was rotated by 40 degrees relative to the actual movement direction. Over time, the subjects learned to adapt to this rotation by adjusting the joystick movement in the opposite direction.\n\nThe behavioral data revealed multiple stages of motor learning, with fast adaptation occurring within blocks of nine trials and slow adaptation occurring across the blocks. The researchers then developed a model to determine which neural systems were involved in the different stages of motor learning. They found that fast learning taking place within five seconds was associated with activity in frontal and parietal brain regions. By contrast, intermediate learning between two minutes and about one and a half hours was associated with activity in the anterior region of the inferior parietal lobe. The slowest learning stage, which unfolded over hours, was associated with activity in the anterior to medial portions of the cerebellum—a brain region that plays an important role in motor control.\n\nThese findings are consistent with past research showing that frontal regions are involved in early learning stages of attention, arousal, visual motion analysis, spatial working memory, memory of hand movements, and movement planning. Similarly, parietal regions are known to play a role in early learning stages of mental and visual-motor rotation. Taken together, the findings suggest that the initial cognitive and associative phases of motor learning recruit frontal and parietal brain regions, whereas the late stage of autonomous learning depends on the anterior-medial cerebellum. Thus, by combining multiple complementary techniques, the researchers provided deeper insights into a classical and influential psychological theory proposed several decades ago."
+}

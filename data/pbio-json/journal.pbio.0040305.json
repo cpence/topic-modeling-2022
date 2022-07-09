@@ -1,0 +1,48 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0040305",
+  "doi": "10.1371/journal.pbio.0040305",
+  "externalIds": [
+    "pii:06-PLBI-S-1275",
+    "pmid:20076636",
+    "pmcid:PMC1551927"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Anatomy of a Fever",
+  "authors": [
+    {
+      "name": "Liza Gross",
+      "first": "Liza",
+      "last": "Gross"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2006-09",
+  "dateElectronic": "2006-08-22",
+  "volume": "4",
+  "number": "9",
+  "pages": "e305",
+  "tags": [
+    "Discipline/Computational Biology/Systems Biology",
+    "Discipline/Gastroenterology and Hepatology",
+    "Discipline/Hematology",
+    "Discipline/Immunology",
+    "Discipline/Immunology/Allergy and Hypersensitivity",
+    "Discipline/Infectious Diseases",
+    "Discipline/Neuroscience",
+    "Discipline/Physiology",
+    "Discipline/Public Health and Epidemiology",
+    "Discipline/Rheumatology",
+    "System Taxonomy/Animals",
+    "System Taxonomy/Mammals",
+    "System Taxonomy/Mus (mouse)",
+    "Type/Synopsis"
+  ],
+  "fullText": "Many parents experience fear and anxiety when their child comes down with a fever, unaware that fever is an ancient, often beneficial, response to infection. The fever response is conserved across all mammals and many vertebrate classes. (Even reptiles and other cold-blooded animals fare better against infection when they develop fever by soaking up the sun's heat.) Among other potential adaptive benefits, a higher temperature can inhibit the growth of bacterial strains that lack sophisticated mechanisms for coping with heat shock.\n\nFever, which is mediated by a lipid called prostaglandin E2 (PGE2), can pass through multiple temperature phases. While it's well established that PGE2 originating in brain cells causes the second and later phases, the initial phase of fever has proven difficult to characterize. Of particular interest is whether fever onset is triggered by PGE2 that originates inside or outside the brain a question that has dogged researchers for nearly three decades. Now, Alexandre Steiner, Andrej Romanovsky, and colleagues provide evidence that PGE2 synthesis doesn't begin in the brain as previously thought, but in the lungs and liver. They also describe the molecular mechanisms that produce PGE2 in these organs.\n\nMany of the mechanisms of fever have been established by exposing rodents to bacterial endotoxins called lipopolysaccharides (LPS). The first phase of LPS-induced fever starts within 30 minutes after exposure to the pyrogen. During the second and subsequent phases between 90 minutes and 12 hours after LPS administration brain cells increase production (called upregulation) of enzymes involved in PGE2 synthesis. Thus, fever starts about an hour before the PGE2-synthesizing enzymes cyclooxygenase-2 (COX-2) and microsomal PGE synthase-1 (mPGES-1) are upregulated in the brain, suggesting that fever must be triggered by PGE2 produced peripherally, outside the brain.\n\nTo test this hypothesis, Steiner et al. gave rats an intravenous (IV) solution of PGE2 bound to albumin, the primary transporter of PGE2 in the blood. Controls received an IV albumin solution. After confirming that the PGE2 infusion induced fever, the researchers collected venous and arterial blood from LPS-treated rats. (PGE2 synthesized in tissues amasses in venous blood; arterial blood delivers PGE2 to the brain.) At the onset of fever, PGE2 was significantly elevated both in the venous and arterial blood.\n\nTo investigate the origin of fever-inducing PGE2, Steiner et al. used an antibody-based technique. (Antibodies are too large to cross the blood–brain barrier.) Rats were pretreated with IV anti-PGE2 antibody serum (controls received normal serum) and then injected with IV LPS. The first phase of LPS fever was significantly attenuated by the antibody (but not the serum), which was found in the blood but not in the brain. These results show that LPS-induced fever is triggered by circulating PGE2.\n\nA previous study from the Romanovsky laboratory reported that onset of fever is accompanied by significantly increased transcription of COX-2 and mPGES-1 in the lung and liver, and a moderate increase of the COX-2 transcript in the hypothalamus (the body's “fever center”). In this study, they examined the protein distribution of these enzymes in all three tissues. After LPS exposure, the content of neither protein was increased in the hypothalamus. But the lung and liver did show increased COX-2 expression primarily in macrophages, which play a role in the inflammatory response along with activation of an enzyme (cytosolic phospholipase A2) involved in the early steps of PGE2 synthesis. These organs, but not the hypothalamus, also showed signs of inflammatory signaling. Interestingly, the researchers did not find increased levels of mPGES-1, which facilitates the final step of PGE2 synthesis, suggesting that the cell's normal supply of this enzyme manages the task.\n\nAltogether, these results provide a cellular and molecular portrait of the first phase of fever and show that it depends, at least in part, on PGE2 that originates in peripheral tissues."
+}

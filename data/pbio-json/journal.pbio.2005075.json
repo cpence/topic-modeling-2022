@@ -1,0 +1,1170 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.2005075",
+  "doi": "10.1371/journal.pbio.2005075",
+  "externalIds": [
+    "pii:pbio.2005075",
+    "pmid:29538381",
+    "pmcid:PMC5851535"
+  ],
+  "license": "This is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Taxonomy based on science is necessary for global conservation",
+  "authors": [
+    {
+      "name": "Scott A. Thomson",
+      "first": "Scott A.",
+      "last": "Thomson",
+      "affiliation": "Museu de Zoologia da Universidade de São Paulo, São Paulo, Brazil; Chelonian Research Institute, Oviedo, Florida, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1279-2722"
+      ]
+    },
+    {
+      "name": "Richard L. Pyle",
+      "first": "Richard L.",
+      "last": "Pyle",
+      "affiliation": "Bernice Pauahi Bishop Museum, Hawai‘i, United States of America; International Commission on Zoological Nomenclature, Singapore"
+    },
+    {
+      "name": "Shane T. Ahyong",
+      "first": "Shane T.",
+      "last": "Ahyong",
+      "affiliation": "Department of Marine Invertebrates, Australian Museum, New South Wales, Australia; School of Biological, Earth & Environmental Sciences, University of New South Wales, New South Wales, Australia"
+    },
+    {
+      "name": "Miguel Alonso-Zarazaga",
+      "first": "Miguel",
+      "last": "Alonso-Zarazaga",
+      "affiliation": "International Commission on Zoological Nomenclature, Singapore; Departamento de Biodiversidad y Biología Evolutiva, Museo Nacional de Ciencias Naturales (CSIC), Madrid, Spain"
+    },
+    {
+      "name": "Joe Ammirati",
+      "first": "Joe",
+      "last": "Ammirati",
+      "affiliation": "Department of Biology, University of Washington, Seattle, Washington, United States of America"
+    },
+    {
+      "name": "Juan Francisco Araya",
+      "first": "Juan Francisco",
+      "last": "Araya",
+      "affiliation": "Universidad de Atacama, Copiapó, Chile, and Programa de Doctorado en Sistemática y Biodiversidad, Facultad de Ciencias Naturales y Oceanográficas, Universidad de Concepción, Concepción, Chile"
+    },
+    {
+      "name": "John S. Ascher",
+      "first": "John S.",
+      "last": "Ascher",
+      "affiliation": "Department of Biological Sciences, National University of Singapore, Singapore"
+    },
+    {
+      "name": "Tracy Lynn Audisio",
+      "first": "Tracy Lynn",
+      "last": "Audisio",
+      "affiliation": "Biodiversity and Biocomplexity Unit, Okinawa Institute of Science and Technology, Kunigami District, Okinawa Prefecture, Japan"
+    },
+    {
+      "name": "Valter M. Azevedo-Santos",
+      "first": "Valter M.",
+      "last": "Azevedo-Santos",
+      "affiliation": "Laboratório de Ictiologia, Departamento de Zoologia, IBB-UNESP Campus de Botucatu, Botucatu, São Paulo, Brazil"
+    },
+    {
+      "name": "Nicolas Bailly",
+      "first": "Nicolas",
+      "last": "Bailly",
+      "affiliation": "FishBase Information and Research Group, IRRI Campus, Los Baños, Laguna, Philippines"
+    },
+    {
+      "name": "William J. Baker",
+      "first": "William J.",
+      "last": "Baker",
+      "affiliation": "Comparative Plant and Fungal Biology Department, Royal Botanic Gardens, Kew, London, United Kingdom"
+    },
+    {
+      "name": "Michael Balke",
+      "first": "Michael",
+      "last": "Balke",
+      "affiliation": "Zoologische Staatssammlung München, Staatliche Naturwissenschaftliche Sammlungen Bayerns, München, Germany"
+    },
+    {
+      "name": "Maxwell V. L. Barclay",
+      "first": "Maxwell V. L.",
+      "last": "Barclay",
+      "affiliation": "Department of Life Sciences, Natural History Museum, London, United Kingdom"
+    },
+    {
+      "name": "Russell L. Barrett",
+      "first": "Russell L.",
+      "last": "Barrett",
+      "affiliation": "Australian National Herbarium, Centre for Australian National Biodiversity Research, CSIRO National Research Collections Australia, Australian Capital Territory, Australia; College of Medicine, Biology and Environment, Research School of Biology, Australian National University, Australian Capital Territory, Australia"
+    },
+    {
+      "name": "Ricardo C. Benine",
+      "first": "Ricardo C.",
+      "last": "Benine",
+      "affiliation": "Laboratório de Ictiologia, Departamento de Zoologia, IBB-UNESP Campus de Botucatu, Botucatu, São Paulo, Brazil"
+    },
+    {
+      "name": "James R. M. Bickerstaff",
+      "first": "James R. M.",
+      "last": "Bickerstaff",
+      "affiliation": "Hawkesbury Institute for the Environment, Western Sydney University, Penrith, New South Wales, Australia"
+    },
+    {
+      "name": "Patrice Bouchard",
+      "first": "Patrice",
+      "last": "Bouchard",
+      "affiliation": "International Commission on Zoological Nomenclature, Singapore; Canadian National Collection of Insects, Arachnids and Nematodes, Agriculture and Agri-Food Canada, Ontario, Canada"
+    },
+    {
+      "name": "Roger Bour",
+      "first": "Roger",
+      "last": "Bour",
+      "affiliation": "Institut de Systématique, Evolution, Biodiversité, Muséum National d'Histoire Naturelle, Sorbonne Universités, Paris, France"
+    },
+    {
+      "name": "Thierry Bourgoin",
+      "first": "Thierry",
+      "last": "Bourgoin",
+      "affiliation": "International Commission on Zoological Nomenclature, Singapore; Institut de Systématique, Evolution, Biodiversité, Muséum National d'Histoire Naturelle, Sorbonne Universités, Paris, France"
+    },
+    {
+      "name": "Christopher B. Boyko",
+      "first": "Christopher B.",
+      "last": "Boyko",
+      "affiliation": "Division of Invertebrate Zoology, American Museum of Natural History, New York, United States of America; Department of Biology, Hofstra University, New York, United States of America"
+    },
+    {
+      "name": "Abraham S. H. Breure",
+      "first": "Abraham S. H.",
+      "last": "Breure",
+      "affiliation": "Naturalis Biodiversity Center, Leiden, the Netherlands; Royal Belgian Institute of Natural Sciences, Brussels, Belgium"
+    },
+    {
+      "name": "Denis J. Brothers",
+      "first": "Denis J.",
+      "last": "Brothers",
+      "affiliation": "School of Life Sciences, University of KwaZulu-Natal, Scottsville, South Africa"
+    },
+    {
+      "name": "James W. Byng",
+      "first": "James W.",
+      "last": "Byng",
+      "affiliation": "Naturalis Biodiversity Center, Leiden, the Netherlands; Plant Gateway Ltd., Yorkshire, United Kingdom"
+    },
+    {
+      "name": "David Campbell",
+      "first": "David",
+      "last": "Campbell",
+      "affiliation": "Department of Natural Sciences, Gardner-Webb University, North Carolina, United States of America"
+    },
+    {
+      "name": "Luis M. P. Ceríaco",
+      "first": "Luis M. P.",
+      "last": "Ceríaco",
+      "affiliation": "Department of Biology, Villanova University, Pennsylvania, United States of America"
+    },
+    {
+      "name": "István Cernák",
+      "first": "István",
+      "last": "Cernák",
+      "affiliation": "Potato Research Center, Georgikon Faculty, University of Pannonia, Keszthely, Hungary"
+    },
+    {
+      "name": "Pierfilippo Cerretti",
+      "first": "Pierfilippo",
+      "last": "Cerretti",
+      "affiliation": "Dipartimento di Biologia e Biotecnologia 'Charles Darwin', Sapienza Università di Roma, Rome, Italy"
+    },
+    {
+      "name": "Chih-Han Chang",
+      "first": "Chih-Han",
+      "last": "Chang",
+      "affiliation": "Department of Earth and Planetary Sciences, Johns Hopkins University, Maryland, United States of America; Department of Environmental Science and Technology, University of Maryland, Maryland, United States of America"
+    },
+    {
+      "name": "Soowon Cho",
+      "first": "Soowon",
+      "last": "Cho",
+      "affiliation": "Department of Plant Medicine, Chungbuk National University, Cheongju, Korea"
+    },
+    {
+      "name": "Joshua M. Copus",
+      "first": "Joshua M.",
+      "last": "Copus",
+      "affiliation": "Hawai‘i Institute of Marine Biology, University of Hawai‘i, Hawai‘i, United States of America"
+    },
+    {
+      "name": "Mark J. Costello",
+      "first": "Mark J.",
+      "last": "Costello",
+      "affiliation": "Institute of Marine Science, University of Auckland, Auckland, New Zealand"
+    },
+    {
+      "name": "Andras Cseh",
+      "first": "Andras",
+      "last": "Cseh",
+      "affiliation": "Centre for Agricultural Research, Hungarian Academy of Sciences, Martonvásár, Hungary"
+    },
+    {
+      "name": "Csaba Csuzdi",
+      "first": "Csaba",
+      "last": "Csuzdi",
+      "affiliation": "Department of Zoology, Eszterházy Károly University, Eger, Hungary"
+    },
+    {
+      "name": "Alastair Culham",
+      "first": "Alastair",
+      "last": "Culham",
+      "affiliation": "Herbarium, School of Biological Sciences, University of Reading, Reading, United Kingdom"
+    },
+    {
+      "name": "Guillermo D’Elía",
+      "first": "Guillermo",
+      "last": "D’Elía",
+      "affiliation": "Instituto de Ciencias Ambientales y Evolutivas, Facultad de Ciencias, Universidad Austral de Chile, Valdivia, Chile"
+    },
+    {
+      "name": "Cédric d’Udekem d’Acoz",
+      "first": "Cédric",
+      "last": "d’Udekem d’Acoz",
+      "affiliation": "Royal Belgian Institute of Natural Sciences, Brussels, Belgium"
+    },
+    {
+      "name": "Mikhail E. Daneliya",
+      "first": "Mikhail E.",
+      "last": "Daneliya",
+      "affiliation": "Department of Biosciences, University of Helsinki, Helsinki, Finland"
+    },
+    {
+      "name": "René Dekker",
+      "first": "René",
+      "last": "Dekker",
+      "affiliation": "Naturalis Biodiversity Center, Leiden, the Netherlands"
+    },
+    {
+      "name": "Edward C. Dickinson",
+      "first": "Edward C.",
+      "last": "Dickinson",
+      "affiliation": "Ornithological Nomenclature Expert"
+    },
+    {
+      "name": "Timothy A. Dickinson",
+      "first": "Timothy A.",
+      "last": "Dickinson",
+      "affiliation": "Green Plant Herbarium, Department of Natural History, Royal Ontario Museum, Toronto, Ontario, Canada"
+    },
+    {
+      "name": "Peter Paul van Dijk",
+      "first": "Peter Paul",
+      "last": "van Dijk",
+      "affiliation": "Nomenclature Specialist, CITES Animals Committee; Turtle Conservancy, New York, United States of America; Global Wildlife Conservation, Texas, United States of America"
+    },
+    {
+      "name": "Klaas-Douwe B. Dijkstra",
+      "first": "Klaas-Douwe B.",
+      "last": "Dijkstra",
+      "affiliation": "Naturalis Biodiversity Center, Leiden, the Netherlands"
+    },
+    {
+      "name": "Bálint Dima",
+      "first": "Bálint",
+      "last": "Dima",
+      "affiliation": "Department of Plant Anatomy, Institute of Biology, Eötvös Loránd University, Budapest, Hungary; Department of Biosciences (Plant Biology), Viikki Plant Science Centre, Helsinki, Finland"
+    },
+    {
+      "name": "Dmitry A. Dmitriev",
+      "first": "Dmitry A.",
+      "last": "Dmitriev",
+      "affiliation": "International Commission on Zoological Nomenclature, Singapore; Illinois Natural History Survey, Illinois, United States of America"
+    },
+    {
+      "name": "Leni Duistermaat",
+      "first": "Leni",
+      "last": "Duistermaat",
+      "affiliation": "Naturalis Biodiversity Center, Leiden, the Netherlands"
+    },
+    {
+      "name": "John P. Dumbacher",
+      "first": "John P.",
+      "last": "Dumbacher",
+      "affiliation": "Institute of Biodiversity Science and Sustainability, California Academy of Sciences, San Francisco, California, United States of America"
+    },
+    {
+      "name": "Wolf L. Eiserhardt",
+      "first": "Wolf L.",
+      "last": "Eiserhardt",
+      "affiliation": "Royal Botanic Gardens, Kew, London, United Kingdom"
+    },
+    {
+      "name": "Torbjørn Ekrem",
+      "first": "Torbjørn",
+      "last": "Ekrem",
+      "affiliation": "NTNU University Museum, Norwegian University of Science and Technology, Trondheim, Norway"
+    },
+    {
+      "name": "Neal L. Evenhuis",
+      "first": "Neal L.",
+      "last": "Evenhuis",
+      "affiliation": "Bernice Pauahi Bishop Museum, Hawai‘i, United States of America; International Commission on Zoological Nomenclature, Singapore"
+    },
+    {
+      "name": "Arnaud Faille",
+      "first": "Arnaud",
+      "last": "Faille",
+      "affiliation": "Institut de Biologia Evolutiva, Universitat Pompeu Fabra, Barcelona, Spain"
+    },
+    {
+      "name": "José L. Fernández-Triana",
+      "first": "José L.",
+      "last": "Fernández-Triana",
+      "affiliation": "Canadian National Collection of Insects, Arachnids and Nematodes, Agriculture and Agri-Food Canada, Ontario, Canada"
+    },
+    {
+      "name": "Emile Fiesler",
+      "first": "Emile",
+      "last": "Fiesler",
+      "affiliation": "Bioveyda Biodiversity Inventories and Research, California, United States of America"
+    },
+    {
+      "name": "Mark Fishbein",
+      "first": "Mark",
+      "last": "Fishbein",
+      "affiliation": "Department of Plant Biology, Ecology & Evolution and Herbarium, Oklahoma State University, Oklahoma, United States of America"
+    },
+    {
+      "name": "Barry G. Fordham",
+      "first": "Barry G.",
+      "last": "Fordham",
+      "affiliation": "Research School of Earth Sciences, Australian National University, Australian Capital Territory, Australia"
+    },
+    {
+      "name": "André V. L. Freitas",
+      "first": "André V. L.",
+      "last": "Freitas",
+      "affiliation": "Departamento de Biologia Animal, Instituto de Biologia, Universidade Estadual de Campinas, São Paulo, Brazil"
+    },
+    {
+      "name": "Natália R. Friol",
+      "first": "Natália R.",
+      "last": "Friol",
+      "affiliation": "Museu de Zoologia da Universidade de São Paulo, São Paulo, Brazil"
+    },
+    {
+      "name": "Uwe Fritz",
+      "first": "Uwe",
+      "last": "Fritz",
+      "affiliation": "Senckenberg Naturhistorische Sammlungen, Dresden, Germany"
+    },
+    {
+      "name": "Tobias Frøslev",
+      "first": "Tobias",
+      "last": "Frøslev",
+      "affiliation": "Department of Biology, University of Copenhagen, Copenhagen, Denmark"
+    },
+    {
+      "name": "Vicki A. Funk",
+      "first": "Vicki A.",
+      "last": "Funk",
+      "affiliation": "Department of Botany, Smithsonian Institution, National Museum of Natural History, Washington, DC, United States of America"
+    },
+    {
+      "name": "Stephen D. Gaimari",
+      "first": "Stephen D.",
+      "last": "Gaimari",
+      "affiliation": "Plant Pest Diagnostics Branch, California Department of Food and Agriculture, California, United States of America"
+    },
+    {
+      "name": "Guilherme S. T. Garbino",
+      "first": "Guilherme S. T.",
+      "last": "Garbino",
+      "affiliation": "PPG Zoologia, Departamento de Zoologia, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais, Minas Gerais, Brazil"
+    },
+    {
+      "name": "André R. S. Garraffoni",
+      "first": "André R. S.",
+      "last": "Garraffoni",
+      "affiliation": "Departamento de Biologia Animal, Instituto de Biologia, Universidade Estadual de Campinas, São Paulo, Brazil"
+    },
+    {
+      "name": "József Geml",
+      "first": "József",
+      "last": "Geml",
+      "affiliation": "Naturalis Biodiversity Center, Leiden, the Netherlands"
+    },
+    {
+      "name": "Anthony C. Gill",
+      "first": "Anthony C.",
+      "last": "Gill",
+      "affiliation": "Macleay Museum, University of Sydney, New South Wales, Australia"
+    },
+    {
+      "name": "Alan Gray",
+      "first": "Alan",
+      "last": "Gray",
+      "affiliation": "Centre for Ecology and Hydrology, Edinburgh Research Station, Scotland, United Kingdom"
+    },
+    {
+      "name": "Felipe G. Grazziotin",
+      "first": "Felipe G.",
+      "last": "Grazziotin",
+      "affiliation": "Laboratório de Coleções Zoológicas, Instituto Butantan, São Paulo, SP, Brazil"
+    },
+    {
+      "name": "Penelope Greenslade",
+      "first": "Penelope",
+      "last": "Greenslade",
+      "affiliation": "Environmental Management, School of Applied and Biomedical Science, Federation University, Victoria, Australia"
+    },
+    {
+      "name": "Eliécer E. Gutiérrez",
+      "first": "Eliécer E.",
+      "last": "Gutiérrez",
+      "affiliation": "PPG Biodiversidade Animal, Universidade Federal de Santa Maria, Rio Grande do Sul, Brazil; National Museum of Natural History, Smithsonian Institution, Washington, DC, United States of America"
+    },
+    {
+      "name": "Mark S. Harvey",
+      "first": "Mark S.",
+      "last": "Harvey",
+      "affiliation": "International Commission on Zoological Nomenclature, Singapore; Department of Terrestrial Zoology, Western Australian Museum, Western Australia, Australia"
+    },
+    {
+      "name": "Cornelis J. Hazevoet",
+      "first": "Cornelis J.",
+      "last": "Hazevoet",
+      "affiliation": "Museu Nacional da História Natural e da Ciência, Universidade de Lisboa, Lisboa, Portugal"
+    },
+    {
+      "name": "Kai He",
+      "first": "Kai",
+      "last": "He",
+      "affiliation": "The Kyoto University Museum, Kyoto University, Kyoto, Japan"
+    },
+    {
+      "name": "Xiaolan He",
+      "first": "Xiaolan",
+      "last": "He",
+      "affiliation": "Finnish Museum of Natural History (Botany), University of Helsinki, Helsinki, Finland"
+    },
+    {
+      "name": "Stephan Helfer",
+      "first": "Stephan",
+      "last": "Helfer",
+      "affiliation": "Royal Botanic Garden Edinburgh, Scotland, United Kingdom"
+    },
+    {
+      "name": "Kristofer M. Helgen",
+      "first": "Kristofer M.",
+      "last": "Helgen",
+      "affiliation": "School of Biological Sciences and Environment Institute, University of Adelaide, South Australia, Australia"
+    },
+    {
+      "name": "Anneke H. van Heteren",
+      "first": "Anneke H.",
+      "last": "van Heteren",
+      "affiliation": "Zoologische Staatssammlung München, Staatliche Naturwissenschaftliche Sammlungen Bayerns, München, Germany"
+    },
+    {
+      "name": "Francisco Hita Garcia",
+      "first": "Francisco",
+      "last": "Hita Garcia",
+      "affiliation": "Biodiversity and Biocomplexity Unit, Okinawa Institute of Science and Technology, Kunigami District, Okinawa Prefecture, Japan"
+    },
+    {
+      "name": "Norbert Holstein",
+      "first": "Norbert",
+      "last": "Holstein",
+      "affiliation": "Nees Institut für Biodiversität der Pflanzen, Universität Bonn, Bonn, Germany"
+    },
+    {
+      "name": "Margit K. Horváth",
+      "first": "Margit K.",
+      "last": "Horváth",
+      "affiliation": "Department of Plant Science and Biotechnology, University of Pannonia, Keszthely, Hungary"
+    },
+    {
+      "name": "Peter H. Hovenkamp",
+      "first": "Peter H.",
+      "last": "Hovenkamp",
+      "affiliation": "Naturalis Biodiversity Center, Leiden, the Netherlands"
+    },
+    {
+      "name": "Wei Song Hwang",
+      "first": "Wei Song",
+      "last": "Hwang",
+      "affiliation": "Lee Kong Chian Natural History Museum, National University of Singapore, Singapore"
+    },
+    {
+      "name": "Jaakko Hyvönen",
+      "first": "Jaakko",
+      "last": "Hyvönen",
+      "affiliation": "Department of Biosciences (Plant Biology), Viikki Plant Science Centre, Helsinki, Finland; Finnish Museum of Natural History (Botany), University of Helsinki, Helsinki, Finland"
+    },
+    {
+      "name": "Melissa B. Islam",
+      "first": "Melissa B.",
+      "last": "Islam",
+      "affiliation": "Denver Botanic Gardens, Denver, Colorado, United States of America"
+    },
+    {
+      "name": "John B. Iverson",
+      "first": "John B.",
+      "last": "Iverson",
+      "affiliation": "Department of Biology, Earlham College, Indiana, United States of America"
+    },
+    {
+      "name": "Michael A. Ivie",
+      "first": "Michael A.",
+      "last": "Ivie",
+      "affiliation": "Montana Entomology Collection, Montana State University, Montana, United States of America"
+    },
+    {
+      "name": "Zeehan Jaafar",
+      "first": "Zeehan",
+      "last": "Jaafar",
+      "affiliation": "Department of Biological Sciences, National University of Singapore, Singapore"
+    },
+    {
+      "name": "Morgan D. Jackson",
+      "first": "Morgan D.",
+      "last": "Jackson",
+      "affiliation": "School of Environmental Sciences, University of Guelph, Ontario, Canada"
+    },
+    {
+      "name": "J. Pablo Jayat",
+      "first": "J. Pablo",
+      "last": "Jayat",
+      "affiliation": "Instituto de Ambiente de Montaña y Regiones Áridas, Universidad Nacional de Chilecito, La Rioja, Argentina"
+    },
+    {
+      "name": "Norman F. Johnson",
+      "first": "Norman F.",
+      "last": "Johnson",
+      "affiliation": "Martha N. and John C. Moser Chair in Arthropod Systematics and Biological Diversity, The Ohio State University, Ohio, United States of America"
+    },
+    {
+      "name": "Hinrich Kaiser",
+      "first": "Hinrich",
+      "last": "Kaiser",
+      "affiliation": "Department of Biology, Victor Valley College, Victorville, California, United States of America"
+    },
+    {
+      "name": "Bente B. Klitgård",
+      "first": "Bente B.",
+      "last": "Klitgård",
+      "affiliation": "Identification and Naming Department, Royal Botanic Gardens, Kew, London, United Kingdom"
+    },
+    {
+      "name": "Dániel G. Knapp",
+      "first": "Dániel G.",
+      "last": "Knapp",
+      "affiliation": "Department of Plant Anatomy, Institute of Biology, Eötvös Loránd University, Budapest, Hungary"
+    },
+    {
+      "name": "Jun-ichi Kojima",
+      "first": "Jun-ichi",
+      "last": "Kojima",
+      "affiliation": "International Commission on Zoological Nomenclature, Singapore; Natural History Laboratory, Faculty of Science, Ibaraki University, Mito, Japan"
+    },
+    {
+      "name": "Urmas Kõljalg",
+      "first": "Urmas",
+      "last": "Kõljalg",
+      "affiliation": "Natural History Museum and Botanical Garden, University of Tartu, Tartu, Estonia"
+    },
+    {
+      "name": "Jenő Kontschán",
+      "first": "Jenő",
+      "last": "Kontschán",
+      "affiliation": "Plant Protection Institute, Centre for Agricultural Research, Hungarian Academy of Sciences, Budapest, Hungary"
+    },
+    {
+      "name": "Frank-Thorsten Krell",
+      "first": "Frank-Thorsten",
+      "last": "Krell",
+      "affiliation": "International Commission on Zoological Nomenclature, Singapore; Department of Zoology, Denver Museum of Nature & Science, Denver, Colorado, United States of America"
+    },
+    {
+      "name": "Irmgard Krisai-Greilhuber",
+      "first": "Irmgard",
+      "last": "Krisai-Greilhuber",
+      "affiliation": "Department of Systematic and Evolutionary Botany, Universität Wien, Wien, Austria"
+    },
+    {
+      "name": "Sven Kullander",
+      "first": "Sven",
+      "last": "Kullander",
+      "affiliation": "International Commission on Zoological Nomenclature, Singapore; FishBase, Department of Zoology, Swedish Museum of Natural History, Stockholm, Sweden"
+    },
+    {
+      "name": "Leonardo Latella",
+      "first": "Leonardo",
+      "last": "Latella",
+      "affiliation": "Department of Zoology, Museo Civico di Storia Naturale of Verona, Verona, Italy"
+    },
+    {
+      "name": "John E. Lattke",
+      "first": "John E.",
+      "last": "Lattke",
+      "affiliation": "Departamento de Zoologia, Universidade Federal do Paraná, Paraná, Brazil"
+    },
+    {
+      "name": "Valeria Lencioni",
+      "first": "Valeria",
+      "last": "Lencioni",
+      "affiliation": "Sezione di Zoologia degli Invertebrati e Idrobiologia, MUSE-Museo delle Scienze di Trento, Trento, Italy"
+    },
+    {
+      "name": "Gwilym P. Lewis",
+      "first": "Gwilym P.",
+      "last": "Lewis",
+      "affiliation": "Comparative Plant and Fungal Biology Department, Royal Botanic Gardens, Kew, London, United Kingdom"
+    },
+    {
+      "name": "Marcos G. Lhano",
+      "first": "Marcos G.",
+      "last": "Lhano",
+      "affiliation": "Centro de Ciências Agrárias, Ambientais e Biológicas, Universidade Federal do Recôncavo da Bahia, Bahia, Brazil"
+    },
+    {
+      "name": "Nathan K. Lujan",
+      "first": "Nathan K.",
+      "last": "Lujan",
+      "affiliation": "Department of Biological Sciences, University of Toronto Scarborough, Ontario, Canada"
+    },
+    {
+      "name": "Jolanda A. Luksenburg",
+      "first": "Jolanda A.",
+      "last": "Luksenburg",
+      "affiliation": "Department of Environmental Science and Policy, George Mason University, Virginia, United States of America"
+    },
+    {
+      "name": "Jean Mariaux",
+      "first": "Jean",
+      "last": "Mariaux",
+      "affiliation": "Natural History Museum of Geneva, Geneva, Switzerland; Department of Genetics and Evolution, University of Geneva, Geneva, Switzerland"
+    },
+    {
+      "name": "Jader Marinho-Filho",
+      "first": "Jader",
+      "last": "Marinho-Filho",
+      "affiliation": "Departamento de Zoologia, Universidade de Brasília, Distrito Federal, Brazil"
+    },
+    {
+      "name": "Christopher J. Marshall",
+      "first": "Christopher J.",
+      "last": "Marshall",
+      "affiliation": "Department of Integrative Biology, Oregon State Arthropod Collection, Oregon State University, Oregon, United States of America"
+    },
+    {
+      "name": "Jason F. Mate",
+      "first": "Jason F.",
+      "last": "Mate",
+      "affiliation": "Henares 16, Velilla de San Antonio, Madrid, Spain"
+    },
+    {
+      "name": "Molly M. McDonough",
+      "first": "Molly M.",
+      "last": "McDonough",
+      "affiliation": "Department of Vertebrate Zoology, National Museum of Natural History, Smithsonian Institution, Washington, DC, United States of America"
+    },
+    {
+      "name": "Ellinor Michel",
+      "first": "Ellinor",
+      "last": "Michel",
+      "affiliation": "Department of Life Sciences, Natural History Museum, London, United Kingdom; International Committee on Bionomenclature, Braunschweig, Germany"
+    },
+    {
+      "name": "Vitor F. O. Miranda",
+      "first": "Vitor F. O.",
+      "last": "Miranda",
+      "affiliation": "Universidade Estadual Paulista (Unesp), Faculdade de Ciências Agrárias e Veterinárias, Jaboticabal, Departamento de Biologia Aplicada à Agropecuária, São Paulo, Brazil"
+    },
+    {
+      "name": "Mircea-Dan Mitroiu",
+      "first": "Mircea-Dan",
+      "last": "Mitroiu",
+      "affiliation": "Faculty of Biology, Alexandru Ioan Cuza University of Iași, Iași, Romania"
+    },
+    {
+      "name": "Jesús Molinari",
+      "first": "Jesús",
+      "last": "Molinari",
+      "affiliation": "Departamento de Biología, Universidad de Los Andes, Mérida, Venezuela"
+    },
+    {
+      "name": "Scott Monks",
+      "first": "Scott",
+      "last": "Monks",
+      "affiliation": "Laboratorio de Morfología Animal, Universidad Autónoma del Estado de Hidalgo, Hidalgo, México; H.W. Manter Laboratory of Parasitology, University of Nebraska-Lincoln, Lincoln, Nebraska, United States of America"
+    },
+    {
+      "name": "Abigail J. Moore",
+      "first": "Abigail J.",
+      "last": "Moore",
+      "affiliation": "Robert Bebb Herbarium (OKL), University of Oklahoma, Oklahoma Biological Survey, Norman, Oklahoma, United States of America; Department of Microbiology and Plant Biology, Norman, Oklahoma, United States of America"
+    },
+    {
+      "name": "Ricardo Moratelli",
+      "first": "Ricardo",
+      "last": "Moratelli",
+      "affiliation": "Fiocruz Mata Atlântica, Fundação Oswaldo Cruz, Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "Dávid Murányi",
+      "first": "Dávid",
+      "last": "Murányi",
+      "affiliation": "Department of Civil and Environmental Engineering, Ehime University, Matsuyama, Japan; Department of Zoology, Hungarian Natural History Museum, Budapest, Hungary"
+    },
+    {
+      "name": "Takafumi Nakano",
+      "first": "Takafumi",
+      "last": "Nakano",
+      "affiliation": "Department of Science Education, Hiroshima University, Higashihiroshima, Japan"
+    },
+    {
+      "name": "Svetlana Nikolaeva",
+      "first": "Svetlana",
+      "last": "Nikolaeva",
+      "affiliation": "Department of Earth Sciences, Natural History Museum, London, United Kingdom; Kazan Federal University, Kremlyovskaya, Russia"
+    },
+    {
+      "name": "John Noyes",
+      "first": "John",
+      "last": "Noyes",
+      "affiliation": "Department of Life Sciences, Natural History Museum, London, United Kingdom"
+    },
+    {
+      "name": "Michael Ohl",
+      "first": "Michael",
+      "last": "Ohl",
+      "affiliation": "Museum für Naturkunde, Leibniz-Institut für Evolutions-und Biodiversitätsforschung, Berlin, Germany"
+    },
+    {
+      "name": "Nora H. Oleas",
+      "first": "Nora H.",
+      "last": "Oleas",
+      "affiliation": "Centro de Investigación de la Biodiversidad y Cambio Climático (BioCamb) e Ingeniería en Biodiversidad y Recursos Genéticos, Universidad Tecnológica Indoamérica, Quito, Ecuador"
+    },
+    {
+      "name": "Thomas Orrell",
+      "first": "Thomas",
+      "last": "Orrell",
+      "affiliation": "Integrated Taxonomic Information System, National Museum of Natural History, Smithsonian Institution, Washington, DC, United States of America"
+    },
+    {
+      "name": "Barna Páll-Gergely",
+      "first": "Barna",
+      "last": "Páll-Gergely",
+      "affiliation": "Centre for Agricultural Research, Hungarian Academy of Sciences, Martonvásár, Hungary"
+    },
+    {
+      "name": "Thomas Pape",
+      "first": "Thomas",
+      "last": "Pape",
+      "affiliation": "International Commission on Zoological Nomenclature, Singapore; Natural History Museum of Denmark, Copenhagen, Denmark"
+    },
+    {
+      "name": "Viktor Papp",
+      "first": "Viktor",
+      "last": "Papp",
+      "affiliation": "Department of Botany, Szent István University, Budapest, Hungary"
+    },
+    {
+      "name": "Lynne R. Parenti",
+      "first": "Lynne R.",
+      "last": "Parenti",
+      "affiliation": "Department of Vertebrate Zoology, National Museum of Natural History, Smithsonian Institution, Washington, DC, United States of America"
+    },
+    {
+      "name": "David Patterson",
+      "first": "David",
+      "last": "Patterson",
+      "affiliation": "University of Sydney, New South Wales, Australia"
+    },
+    {
+      "name": "Igor Ya. Pavlinov",
+      "first": "Igor Ya.",
+      "last": "Pavlinov",
+      "affiliation": "Zoological Museum of Lomonosov Moscow State University, Moscow, Russia"
+    },
+    {
+      "name": "Ronald H. Pine",
+      "first": "Ronald H.",
+      "last": "Pine",
+      "affiliation": "Biodiversity Institute, University of Kansas, Kansas, United States of America"
+    },
+    {
+      "name": "Péter Poczai",
+      "first": "Péter",
+      "last": "Poczai",
+      "affiliation": "CITES Scientific Authority, Finnish Museum of Natural History (Botany), University of Helsinki, Helsinki, Finland"
+    },
+    {
+      "name": "Jefferson Prado",
+      "first": "Jefferson",
+      "last": "Prado",
+      "affiliation": "Instituto de Botânica, São Paulo, Brazil"
+    },
+    {
+      "name": "Divakaran Prathapan",
+      "first": "Divakaran",
+      "last": "Prathapan",
+      "affiliation": "Department of Entomology, Kerala Agricultural University, Kerala, India"
+    },
+    {
+      "name": "Richard K. Rabeler",
+      "first": "Richard K.",
+      "last": "Rabeler",
+      "affiliation": "University of Michigan Herbarium EEB, Ann Arbor, Michigan, United States of America"
+    },
+    {
+      "name": "John E. Randall",
+      "first": "John E.",
+      "last": "Randall",
+      "affiliation": "Bernice Pauahi Bishop Museum, Hawai‘i, United States of America"
+    },
+    {
+      "name": "Frank E. Rheindt",
+      "first": "Frank E.",
+      "last": "Rheindt",
+      "affiliation": "International Commission on Zoological Nomenclature, Singapore; Department of Biological Sciences, National University of Singapore, Singapore"
+    },
+    {
+      "name": "Anders G. J. Rhodin",
+      "first": "Anders G. J.",
+      "last": "Rhodin",
+      "affiliation": "Chelonian Research Foundation, Massachusetts, United States of America; Turtle Conservancy, New York, United States of America"
+    },
+    {
+      "name": "Sara M. Rodríguez",
+      "first": "Sara M.",
+      "last": "Rodríguez",
+      "affiliation": "Instituto de Ciencias Marinas y Limnológicas, Facultad de Ciencias, Universidad Austral de Chile, Valdivia, Chile"
+    },
+    {
+      "name": "D. Christopher Rogers",
+      "first": "D. Christopher",
+      "last": "Rogers",
+      "affiliation": "Kansas Biological Survey and the Biodiversity Institute, University of Kansas, Kansas, United States of America"
+    },
+    {
+      "name": "Fabio de O. Roque",
+      "first": "Fabio de O.",
+      "last": "Roque",
+      "affiliation": "Laboratório de Ecologia e Conservação, Universidade Federal do Mato Grosso do Sul, Mato Grosso do Sul, Brazil"
+    },
+    {
+      "name": "Kevin C. Rowe",
+      "first": "Kevin C.",
+      "last": "Rowe",
+      "affiliation": "Sciences Department, Museums Victoria, Victoria, Australia"
+    },
+    {
+      "name": "Luis A. Ruedas",
+      "first": "Luis A.",
+      "last": "Ruedas",
+      "affiliation": "Department of Biology and Museum of Vertebrate Biology, Portland State University, Oregon, United States of America"
+    },
+    {
+      "name": "Jorge Salazar-Bravo",
+      "first": "Jorge",
+      "last": "Salazar-Bravo",
+      "affiliation": "Department of Biological Sciences, Texas Tech University, Texas, United States of America"
+    },
+    {
+      "name": "Rodrigo B. Salvador",
+      "first": "Rodrigo B.",
+      "last": "Salvador",
+      "affiliation": "Staatliches Museum für Naturkunde Stuttgart, Stuttgart, Germany"
+    },
+    {
+      "name": "George Sangster",
+      "first": "George",
+      "last": "Sangster",
+      "affiliation": "Department of Bioinformatics and Genetics, Swedish Museum of Natural History, Stockholm, Sweden"
+    },
+    {
+      "name": "Carlos E. Sarmiento",
+      "first": "Carlos E.",
+      "last": "Sarmiento",
+      "affiliation": "Laboratorio de Sistemática y Biología Comparada de Insectos, Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Bogotá, Colombia"
+    },
+    {
+      "name": "Dmitry S. Schigel",
+      "first": "Dmitry S.",
+      "last": "Schigel",
+      "affiliation": "Global Biodiversity Information Facility, Copenhagen, Denmark"
+    },
+    {
+      "name": "Stefan Schmidt",
+      "first": "Stefan",
+      "last": "Schmidt",
+      "affiliation": "Zoologische Staatssammlung München, Staatliche Naturwissenschaftliche Sammlungen Bayerns, München, Germany"
+    },
+    {
+      "name": "Frederick W. Schueler",
+      "first": "Frederick W.",
+      "last": "Schueler",
+      "affiliation": "Fragile Inheritance Natural History, Ontario, Canada"
+    },
+    {
+      "name": "Hendrik Segers",
+      "first": "Hendrik",
+      "last": "Segers",
+      "affiliation": "National Focal Point to the Convention on Biological Diversity, Royal Belgian Institute of Natural Sciences, Brussels, Belgium"
+    },
+    {
+      "name": "Neil Snow",
+      "first": "Neil",
+      "last": "Snow",
+      "affiliation": "Department of Biology, Pittsburg State University, Kansas, United States of America"
+    },
+    {
+      "name": "Pedro G. B. Souza-Dias",
+      "first": "Pedro G. B.",
+      "last": "Souza-Dias",
+      "affiliation": "Departamento de Zoologia, Instituto de Biociências, Universidade de São Paulo, São Paulo, Brazil"
+    },
+    {
+      "name": "Riaan Stals",
+      "first": "Riaan",
+      "last": "Stals",
+      "affiliation": "Agricultural Research Council, Plant Protection Research Institute, South African National Collection of Insects, Queenswood, South Africa"
+    },
+    {
+      "name": "Soili Stenroos",
+      "first": "Soili",
+      "last": "Stenroos",
+      "affiliation": "Finnish Museum of Natural History (Botany), University of Helsinki, Helsinki, Finland"
+    },
+    {
+      "name": "R. Douglas Stone",
+      "first": "R. Douglas",
+      "last": "Stone",
+      "affiliation": "School of Life Sciences, University of KwaZulu-Natal, Scottsville, South Africa"
+    },
+    {
+      "name": "Charles F. Sturm",
+      "first": "Charles F.",
+      "last": "Sturm",
+      "affiliation": "Section of Mollusks, Carnegie Museum of Natural History, Pennsylvania, United States of America"
+    },
+    {
+      "name": "Pavel Štys",
+      "first": "Pavel",
+      "last": "Štys",
+      "affiliation": "Department of Zoology, Faculty of Science, Charles University, Prague, Czech Republic"
+    },
+    {
+      "name": "Pablo Teta",
+      "first": "Pablo",
+      "last": "Teta",
+      "affiliation": "Museo Argentino de Ciencias Naturales 'Bernardino Rivadavia', Buenos Aires, Argentina"
+    },
+    {
+      "name": "Daniel C. Thomas",
+      "first": "Daniel C.",
+      "last": "Thomas",
+      "affiliation": "National Parks Board, Singapore Botanic Gardens, Singapore"
+    },
+    {
+      "name": "Robert M. Timm",
+      "first": "Robert M.",
+      "last": "Timm",
+      "affiliation": "Department of Ecology and Evolutionary Biology, University of Kansas, Kansas, United States of America"
+    },
+    {
+      "name": "Brian J. Tindall",
+      "first": "Brian J.",
+      "last": "Tindall",
+      "affiliation": "International Committee on Bionomenclature, Braunschweig, Germany; Judicial Commission on Prokaryote Nomenclature, London, United Kingdom"
+    },
+    {
+      "name": "Jonathan A. Todd",
+      "first": "Jonathan A.",
+      "last": "Todd",
+      "affiliation": "Department of Earth Sciences, Natural History Museum, London, United Kingdom"
+    },
+    {
+      "name": "Dagmar Triebel",
+      "first": "Dagmar",
+      "last": "Triebel",
+      "affiliation": "Botanische Staatssammlung München and SNSB IT Center, Staatliche Naturwissenschaftliche Sammlungen Bayerns, München, Germany; Permanent ICN Nomenclature Committee for Fungi, International Mycological Association"
+    },
+    {
+      "name": "Antonio G. Valdecasas",
+      "first": "Antonio G.",
+      "last": "Valdecasas",
+      "affiliation": "Museo Nacional de Ciencias Naturales (CSIC), Madrid, Spain"
+    },
+    {
+      "name": "Alfredo Vizzini",
+      "first": "Alfredo",
+      "last": "Vizzini",
+      "affiliation": "Dipartimento di Scienze della Vita e Biologia dei Sistemi, Università di Torino, Torino, Italy; Istituto per la Protezione Sostenibile delle Piante sez. di Torino, CNR, Torino, Italy"
+    },
+    {
+      "name": "Maria S. Vorontsova",
+      "first": "Maria S.",
+      "last": "Vorontsova",
+      "affiliation": "Comparative Plant and Fungal Biology Department, Royal Botanic Gardens, Kew, London, United Kingdom"
+    },
+    {
+      "name": "Jurriaan M. de Vos",
+      "first": "Jurriaan M.",
+      "last": "de Vos",
+      "affiliation": "Department of Environmental Sciences, University of Basel, Basel, Switzerland"
+    },
+    {
+      "name": "Philipp Wagner",
+      "first": "Philipp",
+      "last": "Wagner",
+      "affiliation": "Allwetterzoo Münster, Münster, Germany"
+    },
+    {
+      "name": "Les Watling",
+      "first": "Les",
+      "last": "Watling",
+      "affiliation": "Department of Biology, University of Hawai'i at Manoa, Hawai‘i, United States of America"
+    },
+    {
+      "name": "Alan Weakley",
+      "first": "Alan",
+      "last": "Weakley",
+      "affiliation": "UNC Herbarium (NCU), North Carolina Botanical Garden, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America"
+    },
+    {
+      "name": "Francisco Welter-Schultes",
+      "first": "Francisco",
+      "last": "Welter-Schultes",
+      "affiliation": "Abteilung Morphologie und Systematik der Tiere und Zoologisches Museum, Universität Göttingen, Göttingen, Germany; International Commission on Zoological Nomenclature, Singapore"
+    },
+    {
+      "name": "Daniel Whitmore",
+      "first": "Daniel",
+      "last": "Whitmore",
+      "affiliation": "Department of Life Sciences, Natural History Museum, London, United Kingdom"
+    },
+    {
+      "name": "Nicholas Wilding",
+      "first": "Nicholas",
+      "last": "Wilding",
+      "affiliation": "Unité Mixte de Recherche, Peuplements Végétaux et Bioaggresseurs en Milieu Tropical, Université de La Réunion, Ile de La Réunion, France"
+    },
+    {
+      "name": "Kipling Will",
+      "first": "Kipling",
+      "last": "Will",
+      "affiliation": "Essig Museum of Entomology, University of California, Berkeley, Berkeley, California, United States of America"
+    },
+    {
+      "name": "Jason Williams",
+      "first": "Jason",
+      "last": "Williams",
+      "affiliation": "Department of Biology, Hofstra University, New York, United States of America"
+    },
+    {
+      "name": "Karen Wilson",
+      "first": "Karen",
+      "last": "Wilson",
+      "affiliation": "General Committee for Nomenclature [for algae, fungi and plants], Royal Botanic Gardens and Domain Trust, New South Wales, Australia"
+    },
+    {
+      "name": "Judith E. Winston",
+      "first": "Judith E.",
+      "last": "Winston",
+      "affiliation": "International Commission on Zoological Nomenclature, Singapore; Smithsonian Marine Station, Florida, United States of America"
+    },
+    {
+      "name": "Wolfgang Wüster",
+      "first": "Wolfgang",
+      "last": "Wüster",
+      "affiliation": "Molecular Ecology and Fisheries Genetics Lab, School of Biological Sciences, Bangor University, Bangor, United Kingdom"
+    },
+    {
+      "name": "Douglas Yanega",
+      "first": "Douglas",
+      "last": "Yanega",
+      "affiliation": "International Commission on Zoological Nomenclature, Singapore; Department of Entomology, Entomology Research Museum, University of California, Riverside, California, United States of America"
+    },
+    {
+      "name": "David K. Yeates",
+      "first": "David K.",
+      "last": "Yeates",
+      "affiliation": "Australian National Insect Collection, CSIRO National Research Collections Australia, Australian Capital Territory, Australia"
+    },
+    {
+      "name": "Hussam Zaher",
+      "first": "Hussam",
+      "last": "Zaher",
+      "affiliation": "Museu de Zoologia da Universidade de São Paulo, São Paulo, Brazil"
+    },
+    {
+      "name": "Guanyang Zhang",
+      "first": "Guanyang",
+      "last": "Zhang",
+      "affiliation": "School of Life Sciences, Biodiversity Knowledge Integration Center, Hasbrouck Insect Collection, Arizona State University, Arizona, United States of America"
+    },
+    {
+      "name": "Zhi-Qiang Zhang",
+      "first": "Zhi-Qiang",
+      "last": "Zhang",
+      "affiliation": "Landcare Research, Auckland, New Zealand; School of Biological Sciences, University of Auckland, Auckland, New Zealand"
+    },
+    {
+      "name": "Hong-Zhang Zhou",
+      "first": "Hong-Zhang",
+      "last": "Zhou",
+      "affiliation": "International Commission on Zoological Nomenclature, Singapore; Institute of Zoology, Chinese Academy of Sciences, Chaoyang District, P. R. China"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2018-03-14",
+  "dateAccepted": "2018-02-08",
+  "dateReceived": "2017-09-26",
+  "volume": "16",
+  "number": "3",
+  "pages": "e2005075",
+  "tags": [
+    "Biodiversity",
+    "Conservation biology",
+    "Conservation science",
+    "Controlled vocabularies",
+    "Data management",
+    "Discipline-v3/Biodiversity",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Computer and information sciences",
+    "Discipline-v3/Conservation biology",
+    "Discipline-v3/Conservation science",
+    "Discipline-v3/Controlled vocabularies",
+    "Discipline-v3/Data management",
+    "Discipline-v3/Ecology",
+    "Discipline-v3/Ecology and environmental sciences",
+    "Discipline-v3/Endangered species",
+    "Discipline-v3/Evolutionary biology",
+    "Discipline-v3/Evolutionary processes",
+    "Discipline-v3/Law and legal sciences",
+    "Discipline-v3/Legislation",
+    "Discipline-v3/Social sciences",
+    "Discipline-v3/Speciation",
+    "Discipline-v3/Species delimitation",
+    "Discipline-v3/Taxonomy",
+    "Ecology",
+    "Endangered species",
+    "Evolutionary biology",
+    "Evolutionary processes",
+    "Law and legal sciences",
+    "Legislation",
+    "Speciation",
+    "Species delimitation",
+    "Taxonomy",
+    "Type/Formal Comment"
+  ],
+  "fullText": "Taxonomy is a scientific discipline that has provided the universal naming and classification system of biodiversity for centuries and continues effectively to accommodate new knowledge. A recent publication by Garnett and Christidis [1] expressed concerns regarding the difficulty that taxonomic changes represent for conservation efforts and proposed the establishment of a system to govern taxonomic changes. Their proposal to “restrict the freedom of taxonomic action” through governing subcommittees that would “review taxonomic papers for compliance” and their assertion that “the scientific community’s failure to govern taxonomy threatens the effectiveness of global efforts to halt biodiversity loss, damages the credibility of science, and is expensive to society” are flawed in many respects. They also assert that the lack of governance of taxonomy damages conservation efforts, harms the credibility of science, and is costly to society. Despite its fairly recent release, Garnett and Christidis' proposition has already been rejected by a number of colleagues [2,3,4,5,6,7,8]. Herein, we contribute to the conversation between taxonomists and conservation biologists aiming to clarify some misunderstandings and issues in the proposition by Garnett and Christidis.\n\nPlacing governance over the science of taxonomy blurs the distinction between taxonomy and nomenclature. Garnett and Christidis’s proposal is far-reaching but represents a narrow perspective of taxonomy, as utilized by conservation, and reflects an increasingly broad misunderstanding throughout biology of the scientific basis of taxonomy, formalized nomenclature, and the relationship between them. This trend may have resulted from the attenuation of instruction in taxonomic principles and, in particular, nomenclature at many universities, in part because of a shift in research priorities away from taxonomy.\n\nGarnett and Christidis assert that an “assumption that species are fixed entities underpins every international agreement on biodiversity conservation.” This assumption demonstrates a fundamental misunderstanding of taxonomy and the evolving view of what species represent. The essential features of science include documenting natural patterns and processes, developing and testing hypotheses, and refining existing ideas and descriptions of nature based on new data and insights. Taxonomy, the science of recognizing and delimiting species, adheres to these fundamental principles. Discoveries of new organisms together with advances in methodology continue unabated, leading to a constant reevaluation of the boundaries between taxonomic entities. Species (and higher taxa) comprise related organisms that may be clustered together differently depending on which sets of criteria are emphasized. Hey et al. [9] acknowledge “the inherent ambiguity of species in nature” but point out that “species-related research and conservation efforts can proceed without suffering from, and without fear of, the ambiguity of species.” Through taxonomic research, our understanding of biodiversity and classifications of living organisms will continue to progress. Any system that restricts such progress runs counter to basic scientific principles, which rely on peer review and subsequent acceptance or rejection by the community, rather than third-party regulation. Thiele and Yeates [10] cautioned that such a system “could lead to authoritarianism and a stifling of innovative taxonomic viewpoints. No other hypothesis-driven field of science would accept such a straitjacket”.\n\nTaxonomy and associated nomenclature are not without problems. Even with a common set of facts, alternative interpretations of how to classify organisms can lead to differing classifications. However, the science of taxonomy is increasingly rigorous, which can improve the foundation for targeted legislative action regarding species [11,12]. Taxonomic instability does not affect all taxonomic groups equally. Garnett and Christidis provide examples from mammals and birds, which collectively represent a small fraction (&lt;1%) of known biodiversity [13]. These groups tend to be the subject of greater levels of taxonomic “fine-tuning”—but less so in bats and rodents, groups in which basic species discoveries frequently take place—leading to disproportionately more lumping, splitting, and nomenclatural issues. In contrast, taxonomists working on most other groups of organisms, with vastly greater diversity, are focused on the basic tasks of discovering, delimiting, and describing species, rather than rearranging classifications of taxa already described. In extreme cases, taxonomic instability results in what has become known as “taxonomic vandalism” [14,15], which usually involves self-published or non–peer-reviewed taxonomic works that unnecessarily disrupt taxonomy without a solid scientific foundation. Academic freedom, needed for scientific progress, may yield undesirable results. However, over some 250 years of taxonomy, the number of authors that would be considered taxonomic vandals is very small, and further improvements to the Codes of nomenclature may reduce the harm they do without impinging on science. Scientists have long worked to achieve a universal species concept and an accompanying set of operational criteria that could serve to define species limits across most, if not all, groups of organisms; however, this task remains incomplete for a number of legitimate reasons [16,17,18,19]. Rather than promoting the establishment of a system that would arbitrarily bias community acceptance or rejections of species-level taxonomic hypotheses, many avenues of work seem more likely to improve taxonomy and the sciences that depend on it, including the following: efforts to improve our definitions of what a species is, incorporating more taxonomists into committees of conservation organizations, and providing aid in campaigns aiming to secure funding for education and research in taxonomy, among others.\n\nDoes taxonomy hamper conservation?\n\nGarnett and Christidis “contend that the scientific community's failure to govern taxonomy threatens the effectiveness of global efforts to halt biodiversity loss, damages the credibility of science, and is expensive to society.” We disagree.\n\nThe authors claim that species-splitting provides an incentive to trophy hunters to target small populations, affects biodiversity tallies in ways that negatively impact conservation, and results in inordinately higher funding to oversplit taxonomic groups; but they provide no evidence to support these claims. If hunters target endangered species, then such societal developments should be challenged, rather than used as justification for changing the way in which science is conducted. They cite data in Evans et al. [20] to imply that different taxonomic approaches between birds and mammals could lead to disproportionate funding relative to genetic diversity, when in fact those data (Figure 6 therein) show that the number of species in a group is not correlated with funding (e.g., fishes comprise 11% of species protected under the United States Endangered Species Act but receive 61% of government funding).\n\nHow does taxonomic instability affect conservation? Morrison et al. [21] “found that changes in taxonomy do not have consistent and predictable impacts on conservation”; they also found that “splitting taxa may tend to increase protection, and name changes may have the least effect where they concern charismatic organisms.” In African ungulates, Gippoliti et al. [22] describe cases where conservation management based on the Biological Species Concept overlooks evolutionarily significant units (recognized with the Phylogenetic Species Concept), with negative consequences. The splitting of legally protected taxa may result in species not being included by name in conservation legislation or regulations, thereby losing legal protection. However, well-crafted legislation includes mechanisms to extend protection despite taxonomic changes; initiatives such as Convention on International Trade in Endangered Species (CITES) and the International Union for Conservation of Nature (IUCN) specialist groups already link taxonomy and its changes with conservation [23]. Garnett and Christidis assert that taxonomic instability negatively affects conservation. However, artificial stability arising from insufficient taxonomic work can be particularly detrimental to conservation, causing mistargeting of conservation funding by misrepresentation of population size and distribution with the flow-on effects to conservation status [11,24,25].\n\nMore bureaucracy is not the answer\n\nThe proposal by Garnett and Christidis for the International Union of Biological Sciences (IUBS) to create a process that “restrict[s] the freedom of taxonomic action” is not only flawed in terms of scientific integrity (as outlined above) but is also untenable in practice. Nomenclature regulates how names are used to communicate taxonomic hypotheses and is governed by rules (Codes) to ensure the least possible degree of ambiguity in the application of names. The relationship between taxonomy and nomenclature is illustrated in Fig 1. These Codes have been and continue to be refined into complex and intricate legal systems (the International Code of Zoological Nomenclature consists of 90 articles with more than 600 subsections). A system that endeavors to impose similar controls over taxon concepts would likely be vastly more complex than, and in conflict with, the Codes. It is for good reason that the major Codes explicitly avoid interfering with taxonomic freedom.\n\nIn addition, such a system raises many questions. Would it limit the kinds of characters used to assert taxonomically important distinctions, or be biased in favor of one class of characters (e.g., molecular versus morphological), when these cannot be equated across different taxa? How would new knowledge be incorporated? Would it favor one particular species concept for all organisms (and if so, which one)? Would newly discovered species automatically be acknowledged as legitimate new taxa or would they need to be approved before being considered valid? How often would the approved species lists be updated? Taking into account the vanishing taxonomic expertise, who would do this, and who would fund it? Can we afford to draw limited resources away from vital efforts to describe and catalogue biodiversity? There is already a scientific process to deal with updating taxonomy; “taxonomic revisions” carefully review all knowledge on a taxonomic group and may propose alternative classifications and relationships to accommodate new knowledge. These are peer-reviewed, published, and up to the community to accept or reject with further research. Furthermore, given that hundreds of thousands of species remain to be discovered, and that about 18,000 new species are described and named every year [26], adding layers of bureaucracy to this process would be both impractical and expensive. The governing structure proposed by Garnett and Christidis would need to include this peer review, consultation, and publication process regularly to reflect new knowledge. Therefore, it would add, and possibly duplicate, existing practice.\n\nThe products of taxonomic research underpin all biological research, but the proposal by Garnett and Christidis would regulate taxonomy primarily in the context of conservation. This has important potential ramifications because any supervisory body would implicitly have the power to direct, through its actions and judgments, the lumping or splitting of taxa according to conservation, economic significance, or political agendas to affect resource streams directed to those taxa. The process would also be vulnerable to conflicting pressures from advocacy groups in many areas, including conservation, trade, bioprospecting, and particularly politics. Even within birds, one of the groups that exemplify the problem that the proposal seeks to solve, taxonomic committees for managing taxa have had a mixed track record [27].\n\nCertainly, there are many ways taxonomists can improve the value and impact of their research to conservation biology and other biological disciplines, such as explicitly citing the species concept employed in new taxonomic descriptions and including information on distributions, ecology, conservation status, and potential threats. Better and more modern approaches to organizing scientific names of organisms could also be expanded. In addition to overseeing the Codes of nomenclature, IUBS supports the International Committee on Bionomenclature (ICB) to promote harmony among the different Codes as nomenclature becomes increasingly digital. The development of online nomenclatural registration and indexing systems (e.g., the International Plant Names Index, ZooBank, various mycological registries, List of Prokaryotic Names with Standing in Nomenclature) offer improved access to nomenclatural information. These help avoid perpetuation of errors in the literature and thus increase stability and decrease ambiguity of taxon names.\n\nImprovements are not limited to the Codes. Efforts such as the Catalogue of Life, with its numerous contributors and broad spectrum of users, already provide a valuable service for many taxonomic groups in asserting a reference classification and set of species concepts covering all life. This illustrates the potential for building a robust framework for a stable taxonomy to serve those initiatives that benefit from such stability, including conservation. These efforts can be improved by filling the existing gaps in taxa, training new taxonomists, improving the quality of information included for certain groups (e.g., distribution, conservation status), and by incorporating systems that track changes in both taxon names and circumscriptions through mapping of taxonomic concepts [28].\n\nDynamic taxonomy reflects the scientific nature and progress of the discipline. Artificially and arbitrarily constraining taxonomy through the system proposed by Garnett and Christidis would damage scientific credibility far more severely than misperceptions about the taxonomic process. “Absolute stability of taxonomic concepts—and nomenclature—would hinder scientific progress rather than promote it” [29].\n\nConservation is crucial\n\nThe dynamic nature of taxonomic progress may be at odds with some aspects of conservation legislation, resulting, in part, from a mutual misunderstanding of the fundamental processes involved with both taxonomy and conservation. We advocate a solution that allows input, collaboration, and cooperation, from both conservation biologists and taxonomists, with a multidisciplinary approach towards a new framework for legislation that does not rely on the false premise that species are “fixed entities”. The development of “best practices” by both conservation biologists and taxonomists working together could avoid many unnecessary problems when using taxon names to represent vulnerable biological units in nature, thereby improving the effectiveness of their protection without impeding scientific progress.\n\nRather than redefine how one of the core disciplines of biological sciences is conducted, a more effective approach is to redefine how conservation legislation is enacted and implemented. The process of changing legislation requires acts of governments, which can take years to accomplish. However, fundamentally altering a system of classifying nature that has successfully endured more than two and a half centuries would have many detrimental consequences. Most of the problems for conservation resulting from the dynamic taxonomic process could be avoided entirely if future conservation legislation followed the lead of existing international conventions by explicitly referencing the specific taxon concept implied by a name, that is, by citing the original species description or a recent scholarly taxonomic treatment. Taxonomists and conservation biologists should join forces to promote effective legislative mechanisms to deal with a changing taxonomy rather than engage in infighting about the proper way to do taxonomy. This is exemplified by CITES, which adopts standard nomenclatural references [23] to define species or taxonomic groups and which periodically revises the adopted standards in response to evolving taxonomic consensus.\n\nMany have argued that conservation legislation should focus on protecting entire ecosystems rather than rely on enumerated lists of species (e.g., [30]). While this approach requires a solid taxonomic foundation to characterize the ecosystems in question, the legislation itself would be insulated from specific changes to taxon names and concepts. In cases in which legislation includes specific taxa by name, such as harvesting or endangered species regulations, it should make the intended taxonomic concepts clear with reference to published treatments. That will allow unambiguous understanding even if the nomenclature and classification change because of taxonomic advances.\n\nThe critical importance of taxonomy and the taxonomic process in the global quest to mitigate biodiversity loss cannot be overemphasized. Without a robust taxonomic paradigm that is based on science and unconstrained by unnecessary and counterproductive bureaucracy, conservation efforts will ultimately suffer, potentially leading to devastating and irreversible impacts on global biodiversity."
+}

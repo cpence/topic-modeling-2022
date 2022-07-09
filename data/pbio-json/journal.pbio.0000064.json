@@ -1,0 +1,25 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0000064",
+  "doi": "10.1371/journal.pbio.0000064",
+  "license": "This is an open-access article distributed under the terms of the Public Library of Science Open-Access License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Computer Model Predicts How the Brain Controls Limb Dynamics",
+  "journal": "PLoS Biology",
+  "date": "2003-11",
+  "dateElectronic": "2003-11-17",
+  "volume": "1",
+  "number": "2",
+  "pages": "e64",
+  "tags": [
+    "Discipline/Biophysics",
+    "System Taxonomy/Homo (human)",
+    "Type/Synopsis"
+  ],
+  "fullText": "If you have ever spent an evening hoisting brews with your pals at the corner pub, chances are you never stopped to think—gee, how do I lift my glass now that it's only half full? It seems like a simple task—you raise that glass reflexively, whether it is empty or full—yet the neural calculations that determine the force needed to lift your arm smoothly to your lips in each case are anything but simple.\n\nThe brain, it seems, operates like a computer to process variable cues—such as the weight of a glass and the position of your arm—to generate an appropriate response: lifting the glass. Neuroscientists believe the brain builds a kind of internal software program based on past experience to transform such variable cues into motor commands. The brain's software, or internal model, depends on specialized sets of instructions, or “computational elements,” in the brain. But exactly how the brain organizes these elements to process sensory variables that affect arm movements is far from clear.\n\nEun Jung Hwang and colleagues predict that these computational elements are based on a multiplicative mechanism, called a gain field, through which sensory signals to the brain are amplified by signals from the eye, head, or limbs. In this way, the brain can rely on past experience of one kind of sensory cues to predict how to respond to new but similar situations. While previous studies had established that some visual cues are combined through a gain field, this study shows that motor commands may also be processed via gain fields. This finding, the researchers demonstrate, accounts for a range of behaviors.\n\nBased on previous studies showing that when people reach to various directions in a small space, they can extrapolate what they learn about the forces in one starting position to a significantly different position, it has been proposed that the way the brain computes movement is not terribly sensitive to limb position. Citing other research with seemingly contrary conclusions—that the brain can be highly sensitive to limb position in calculating force and movement—Hwang et al. set out to investigate whether—and how—the brain creates a template to translate sensory variables (limb position and velocity) into motor commands (force). They created a computer model to mimic the reaching behaviors observed by people in their experiments and found that the most accurate model used computational elements that are indeed sensitive to both limb position and velocity. If the brain processes these two independent variables through a gain field, it can use the relationship of the two variables—that is, the strength of the gain field—to adapt information about the force needed to move or lift something in one situation to accomplish a wide range of similar movements. When the researchers compared their model to previously published results, they found their model accounted for seemingly disparate findings. They explain that the brain's sensitivity to limb position can be either low or high after a task has been learned because the gain field itself is adjustable.\n\nThe authors note that neurophysiological experiments suggest that the motor cortex may be one of the crucial components of the brain's internal models of limb dynamics. The next step will be to track the motor cortex neurons to see whether their activity supports this model. Hwang et al. predict they will."
+}

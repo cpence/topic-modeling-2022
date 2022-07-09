@@ -1,0 +1,44 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0040171",
+  "doi": "10.1371/journal.pbio.0040171",
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A New Test Detects Selection for Early Flowering in a Much-Studied Weed",
+  "authors": [
+    {
+      "name": "Liza Gross",
+      "first": "Liza",
+      "last": "Gross"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2006-05",
+  "dateElectronic": "2006-04-25",
+  "volume": "4",
+  "number": "5",
+  "pages": "e171",
+  "tags": [
+    "Discipline/Computational Biology",
+    "Discipline/Computational Biology/Systems Biology",
+    "Discipline/Ecology",
+    "Discipline/Evolutionary Biology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Molecular Biology",
+    "Discipline/Plant Biology",
+    "System Taxonomy/Arabidopsis (thale cress)",
+    "System Taxonomy/Eukaryotes",
+    "System Taxonomy/Plants",
+    "Type/Synopsis"
+  ],
+  "fullText": "Plants use a wide range of reproductive strategies to get around the fact that they can't pull up stakes when conditions deteriorate. The life cycle of flowering plants precisely tracks local daylight and temperature cycles to optimize flowering and boost reproductive success. The timing of flowering is crucial. As any temperate-gardener knows, a delicate plant that flowers too early in the season is doomed to perish with the next frost.\n\nMuch has been learned about the genes plants use to synchronize flowering with favorable environmental conditions by studying \n\t\t\t\tArabidopsis thaliana. This slight mustard weed grows throughout the Northern Hemisphere. Reflecting adaptations to local environments, plants from different locations flower at different times when grown under the same light and temperature conditions. In particular, many plants take a very long time to flower unless induced to do so by prolonged exposure to cold in a process known as vernalization (the same process that forces spring bulbs into early bloom). This requirement for vernalization has been linked to the \n\t\t\t\tFRIGIDA (FRI) gene, based on observations that plants with nonfunctional \n\t\t\t\tFRI variants, or alleles, flower early without forcing. Two of these loss-of-function alleles—\n\t\t\t\tfriCol and \n\t\t\t\tfriLer—are linked to many of the early-flowering plants found in Europe.\n\nThere's a good chance that a gene associated with a trait directly related to reproductive success would show signs of selective pressure—and that's just what a new study shows. Christopher Toomajian, Magnus Nordborg, and their colleagues developed a novel genomics-based approach to detect selection and provide evidence that the two \n\t\t\t\tFRI alleles are under selection for rapid flowering in \n\t\t\t\tArabidopsis.\n\nA standard approach for detecting selection on a particular genomic region relies on the theoretical predictions of the neutral theory of molecular evolution. The problem with this approach, Toomajian et al. argue, is that many other forces besides selection can cause a deviation in the data from what is expected under simple neutral models. And with the plethora of genomic polymorphism data, they explain, it's possible to forgo the models and compare genome-wide patterns of variation instead. If the pattern at a region of interest differs radically from the genomic pattern, the region may be under selection.\n\nA 2002 study of polymorphism around the \n\t\t\t\tFRI locus found that plants carrying one of the early flowering alleles also shared long blocks of identical chromosomal regions, or haplotypes. Building on those results, the researchers looked for patterns of haplotype sharing in genomic data from 96 \n\t\t\t\tArabidopsis plants to see if the length of these haplotypes was typical, in which case the region probably wasn't under selection, or unusual, in which case it probably was.\n\nTo compare haplotype sharing around the \n\t\t\t\tFRI alleles with sharing at thousands of other loci, the researchers developed a new test, called the pairwise haplotype sharing (PHS) score. This score includes a function that controls for population structure: since pairs of individuals from the same population are more closely related than those from different populations, they're more likely to share long haplotypes and could bias the results.\n\nPHS scores were calculated for all alleles found in the dataset, including the two \n\t\t\t\tFRI alleles, which had abnormally high haplotype sharing scores compared with the “vast majority” of alleles. Thirty-one other alleles also showed higher-than-average PHS scores, which the researchers plan to investigate as possible selection candidates in a future study. They also measured haplotype sharing using another test developed by Pardis Sabeti and colleagues, called extended haplotype homozygosity, which relies on the relationship between an allele's population frequency and its linkage to surrounding loci to determine its likelihood of being under selection given its age. This measure, they show, identifies multiple alleles from very similar sets of individuals that tend to come from the same population. This property can erroneously attribute haplotype sharing caused by population structure to selection. But this potential drawback shouldn't be a problem for organisms with a less complex population structure, like humans.\n\nThe researchers acknowledge that scanning the genome for haplotype sharing can't pinpoint the target of selection, but these results strongly suggest an adaptive role for the \n\t\t\t\tFRI alleles. While the evidence for selection is stronger for \n\t\t\t\tfriCol than for \n\t\t\t\tfrILer, it may be that selection on \n\t\t\t\tfrILer happened much earlier, since both alleles have similar effects on the plant. This possibility is supported by the estimated age of the alleles, which the researchers place at 800 generations ago for \n\t\t\t\tfriCol and 3,200 generations ago for \n\t\t\t\tfrILer. Thus, if one assumes at least one generation per year, the loss-of-function \n\t\t\t\tFRI alleles emerged on the heels of the last glacial retreat, some 13,000 years ago. The researchers speculate that the evolution of these early flowering alleles, which turn an annual weed into a rapid reproducer, reflects selection for “weediness” in response to agriculture—an intriguing possibility that future studies can explore.",
+  "externalIds": [
+    "pmid:20076577",
+    "pmcid:PMC1440935"
+  ]
+}

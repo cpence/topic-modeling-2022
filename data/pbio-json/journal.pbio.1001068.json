@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001068",
+  "doi": "10.1371/journal.pbio.1001068",
+  "externalIds": [
+    "pii:PBIOLOGY-D-11-00763",
+    "pmid:21629733",
+    "pmcid:PMC3101193"
+  ],
+  "license": "This is an open-access article distributed under\n                the terms of the Creative Commons Attribution License, which permits unrestricted\n                use, distribution, and reproduction in any medium, provided the original author and\n                source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Playing TAG with a Bacterial Stress Response",
+  "authors": [
+    {
+      "name": "Caitlin Sedwick",
+      "first": "Caitlin",
+      "last": "Sedwick",
+      "affiliation": "Freelance Science Writer, San Diego, California, United States of\n                    America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2011-05",
+  "volume": "9",
+  "number": "5",
+  "pages": "e1001068",
+  "tags": [
+    "Discipline-v2/Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "Tuberculosis is an age-old scourge of\n                mankind. This chronic disease is caused by a bacterium, Mycobacterium\n                    tuberculosis, which sets up an initial infection in its victims'\n                lungs. Although the infection can spread to other organs, its most common symptoms\n                are a painful and debilitating cough combined with difficulty breathing.\n                Tuberculosis remains a major public health threat because even the best antibiotics\n                currently available take a long time to clear the infection, and noncompliance with\n                protracted antibiotic regimens can lead to the evolution and spread of\n                drug-resistant strains.\n\nIn order to better treat the disease, it will be important to understand how\n                    M. tuberculosis resists even the most powerful antibiotics for\n                so long. One clue is that most antibiotics work best on rapidly growing populations\n                of bacteria, but it's been observed that once M. tuberculosis\n                has established its initial infection, it is capable of dramatically slowing its\n                metabolism and rate of cell division. This has led to the suggestion that the\n                bacterium's retreat into a hibernation-like state underlies its remarkable\n                resistance to antibiotic therapy. How does the bacterium execute this strategy?\n                That's the question that Seung-Hun Baek, Alice Li, and Christopher Sassetti\n                tackled in work published in this issue of PLoS Biology.\n\nIn order to identify pathways that regulate bacterial growth, Sassetti's group\n                subjected the bacteria to mutagenesis, hoping to disrupt genes that govern growth.\n                They then examined the mutated cells to find ones that failed to arrest their growth\n                in vitro in the presence of low oxygen, which normally causes growth arrest. Next,\n                they used a method called transposon site hybridization to identify all of the\n                mutations that give rise to this altered phenotype. Using this technique, Baek et\n                al. observed that proteins involved in the production of the lipid triacylglycerol\n                (TAG), in particular a protein called Tgs1, were required if bacterial cells were to\n                arrest their growth in a low-oxygen environment.\n\nTgs1 synthesizes TAG from a precursor molecule called acetyl CoA. But in addition to\n                its role in TAG synthesis, acetyl CoA is also a major substrate of the citric acid\n                cycle, the central metabolic pathway that fuels growth. Sassetti's group\n                therefore wondered whether, under conditions of stress, the bacteria use TAG\n                synthesis to deliberately divert acetyl CoA away from growth-promoting metabolic\n                pathways. Indeed, they found that adding a downstream metabolite of the citric acid\n                cycle prevents bacteria from entering growth arrest after exposure to low oxygen or\n                other stressors (for example, iron deprivation and low pH). Likewise, increasing the\n                level of the citric acid cycle enzyme that competes with Tgs1 for access to acetyl\n                CoA also short-circuits growth arrest. Consistent with the idea that bacteria are\n                diverting acetyl CoA away from the citric acid cycle, the authors' data also\n                show that when Tgs1 is present, more acetyl CoA ends up incorporated into\n                triacylglycerides than is used for energy metabolism.\n\nBecause bacteria lacking Tgs1 grow more rapidly than wild-type bacteria, the authors\n                suspected that Tgs1-deficient bacteria might also be more susceptible to\n                antibiotics. To test this idea, they compared the survival of antibiotic-treated\n                wild-type and Tgs1-deficient bacteria in low-oxygen conditions in vitro, and in\n                infected mice. In fact, several different antibiotics killed wild-type bacteria much\n                more slowly than they killed Tgs1-deficient bacteria, indicating that bacterial\n                ability to slow growth through TAG synthesis is an important determinant of\n                antibiotic resistance.\n\nTogether, these findings help to illuminate a major pathway that M.\n                    tuberculosis uses to alter its metabolism in response to environmental\n                stress. This response, argues, could help M. tuberculosis prevent\n                overutilization of necessary nutrients, allowing the bacteria to continue living in\n                a hostile host environment. It also, incidentally, helps clarify the contribution of\n                metabolic rate (and TAG synthesis) to the bacteria's ability to resist the best\n                antibiotic weapons humans have yet been able to marshal against them. Now that this\n                relationship is better understood, it may be possible to design a way to\n                deliberately disrupt the bacterial stress response and so improve antibiotic\n                efficacy.\n\n                Baek S-H, Li AH, Sassetti CM (2011) Metabolic Regulation of Mycobacterial\n                    Growth and Antibiotic Sensitivity. doi:10.1371/journal.pbio.1001065"
+}

@@ -1,0 +1,27 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0000063",
+  "doi": "10.1371/journal.pbio.0000063",
+  "license": "This is an open-access article distributed under the terms of the Public Library of Science Open-Access License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Basal Signaling Suppresses RAG Genes during T Cell Development",
+  "journal": "PLoS Biology",
+  "date": "2003-11",
+  "dateElectronic": "2003-11-17",
+  "volume": "1",
+  "number": "2",
+  "pages": "e63",
+  "tags": [
+    "Discipline/Cell Biology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Immunology",
+    "System Taxonomy/Mus (mouse)",
+    "Type/Synopsis"
+  ],
+  "fullText": "Faced with all manner of potential threats in the form of billions of different viral, bacterial, and chemical pathogens, the mammalian immune system relies on a “safety in diversity” strategy for protection. With two distinct subsystems—one innate, the other adaptive—the immune system can recognize some 100 trillion antigens. The innate system deploys cells programmed to quickly recognize microbes with a particular set of conserved molecular structures. The adaptive system relies on billions of uniquely outfitted lymphocytes (white blood cells) to identify just as many pathogens through their protein fragments, or antigens. A human being grinds out billions of these cells every day. In the absence of threats, the immune system maintains a quiescent state and many of these cells are discarded. But for the immune system, doing nothing takes a concerted effort.\n\nLymphocytes originate in the bone marrow, though not all differentiate there. One class of lymphocytes, called T cells, develops in the thymus, where every T cell acquires a one-of-a-kind receptor, called a T cell receptor (TCR), designed to recognize a different antigen. When an antigen gets bound by a TCR (a bound molecule is called a ligand), the antigen triggers a signaling cascade that tells the T cell either to attack the infected cell or to alert other immune cells of the infiltrator. But as Jeroen Roose, Arthur Weiss, and colleagues report, signaling pathways activated by bound TCRs appear to influence gene expression even in the absence of antigen or other receptor ligands, a process called ligand-independent signaling. These findings lend support to the notion that cellular signaling pathways regulated by surface receptors, like TCRs, exhibit a continuous low-level signaling (known as basal signaling) in the absence of a stimulus and that this continuous signaling, by influencing gene expression, has significant influence on cellular differentiation.\n\nRoose, Weiss, et al. focused on the TCR signaling pathway that regulates the expression of a group of genes, including RAG-1 and RAG-2, that are activated in two distinct waves during T cell development. RAG genes play a crucial role in T cell development, a highly complex, multistage process that involves a reshuffling, or recombination, of TCR genes and the activation of different proteins and genes at different stages. RAG genes regulate the genetic recombination and ultimate cell surface expression of TCRs. Using chemical inhibitors and mutant human T cell lines deficient in critical signaling components involved in antigen receptor-dependent pathways, the researchers found that the loss of specific functions or specific proteins affected an unexpected set of target genes. Notably, when downstream components (the protein kinases Erk and Abl) were disabled in the basal signaling pathway, the researchers saw a resurgence of RAG gene expression. While Erk was already known to play a prominent role in signaling pathways downstream of the TCR, it now appears that Abl may also be regulated in TCR pathways. Most importantly, these findings suggest that signaling pathways thought to be triggered only by ligated receptors can influence gene expression on their own. And it may be through this type of signaling that TCR pathways help regulate T cell development by repressing RAG gene activity.\n\nThese basal signals, the researchers postulate, may in effect save the RAG expression machinery until recombination is called for. If RAG genes were expressed at the wrong time, they could cause inappropriate genetic recombination and create T cells that either lack function or attack healthy cells, as happens in immunodeficiency and autoimmune diseases. Elucidating the mechanisms and components of this basal pathway will contribute important insights into the development and function of the immune system. But these studies also establish a model for investigating other signaling systems, to determine whether biologically functional basal signaling is a rare phenomenon or whether it is a fundamental cell process needed to control the profile of gene expression in the quiescent state."
+}

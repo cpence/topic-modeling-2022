@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001484",
+  "doi": "10.1371/journal.pbio.1001484",
+  "externalIds": [
+    "pii:PBIOLOGY-D-12-05081",
+    "pmid:23431265",
+    "pmcid:PMC3576411"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Which Came First, the Head or the Brain?",
+  "authors": [
+    {
+      "name": "Robin Mejia",
+      "first": "Robin",
+      "last": "Mejia",
+      "affiliation": "Freelance Science Writer, Albany, California, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2013-02",
+  "volume": "11",
+  "number": "2",
+  "pages": "e1001484",
+  "tags": [
+    "Discipline-v2/Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "The sea anemone, a cnidarian, has no brain. It does have a nervous system, and its body has a clear axis, with a mouth on one side and a basal disk on the other. However, there is no organized collection of neurons comparable to the kind of brain found in bilaterians, animals that have both a bilateral symmetry and a top and bottom. (Most animals except sponges, cnidarians, and a few other phyla are bilaterians.) So an interesting evolutionary question is, which came first, the head or the brain? Do animals such as sea anemones, which lack a brain, have something akin to a head?\n\nIn this issue of PLOS Biology, Chiara Sinigaglia and colleagues report that at least some developmental pathways seen in cnidarians share a common lineage with head and brain development in bilaterians. It might seem intuitive to expect to find genes involved in brain development around the mouth of the anemone, and previous work has suggested that the oral region in cnidarians corresponds to the head region of bilaterians. However, there has been debate over whether the oral or aboral pole of cnidarians is analogous to the anterior pole of bilaterians. At the start of its life cycle a sea anemone exists as a free swimming planula, which then attaches to a surface and becomes a sea anemone. That free-swimming phase contains an apical tuft, a sensory structure at the front of the swimming animal's body. The apical tuft is the part that attaches and becomes the aboral pole (the part distal from the mouth) of the adult anemone.\n\nTo test whether genetic expression in the aboral pole of cnidarians does in fact resemble the head patterning seen in bilaterians, the researchers analyzed gene expression in Nematostella vectensis, a sea anemone found in estuaries and bays. They focused on the six3 and FoxQ2 transcription factors, as these genes are known to regulate development of the anterior-posterior axis in bilaterian species. (six3 knockout mice, for example, fail to develop a forebrain, and in humans, six3 is known to regulate the development of forebrain and eyes.)\n\nThe N. vectensis genome contains one gene from the six3/6 group and four foxQ2 genes. Sinigaglia and colleagues found that Nvsix3/6 and one of the foxQ2 genes, NvFoxQ2a, were expressed predominantly on the aboral pole of the developing cnidarian but, after gastrulation, were excluded from a small spot in that region (NvSix3/6 was also expressed in a small number of other cells of the planula that resembled neurons). Because of this, the authors call NvSix3/6 and NvFoQ2a “ring genes”, and genes that are then expressed in that spot “spot genes.” The spot then develops into the apical tuft.\n\nThrough knockdown and rescue experiments, the researchers demonstrate that NvSix3/6 is required for the development of the aboral region; without it, the expression of spot genes is reduced or eliminated and the apical tuft of the planula doesn't form. This suggests that development of the region distal from the cnidarian mouth appears to parallel the development of the bilaterian head.\n\nThis research demonstrates that at least a subset of the genes that cause head and brain formation in bilaterians are also differentially expressed in the aboral region of the sea urchin. The expression patterns are not identical to those in all bilaterians; however, the similarities suggest that the patterns of gene expression arose in an ancestor common to bilaterians and cnidarians, and that the process was then modified in bilaterians to produce a brain. So to answer the evolutionary question posed above, it seems that the developmental module that produces a head came first.\n\n        Sinigaglia C, Busengdal H, Leclère L, Technau U, Rentzsch F (2013) The Bilaterian Head Patterning Gene \n        \n          six3/6\n        \n         controls Aboral Domain Development in a Cnidarian. doi:10.1371/journal.pbio.1001488"
+}

@@ -1,0 +1,38 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0040177",
+  "doi": "10.1371/journal.pbio.0040177",
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Polycombing \n\t\t\t\t\tDrosophila for Dynamic Developmental Footprints",
+  "authors": [
+    {
+      "name": "Emma Hill",
+      "first": "Emma",
+      "last": "Hill"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2006-06",
+  "dateElectronic": "2006-04-20",
+  "volume": "4",
+  "number": "6",
+  "pages": "e177",
+  "tags": [
+    "Discipline/Developmental Biology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Molecular Biology",
+    "System Taxonomy/Drosophila",
+    "Type/Synopsis"
+  ],
+  "fullText": "In some ways, the developmental passage of a fruit fly from a ball of cells through discrete morphological stages—embryo, pupa, and larva—to a fully formed organism really showcases the potential of biology. Organism development (in this case of a fly) requires a temporally synchronized regulation of a myriad of genes and pathways across the \n\t\t\t\tDrosophila genome.\n\nNo single component of these developmental processes can be considered more important than another—a mistake anywhere can prove fatal. One set of participants in \n\t\t\t\tDrosophila development are the Polycomb group (PcG) proteins, which bind to regions of chromatin (the genomic DNA twisted around histone proteins that helps structure the chromosomes) and silence the transcription of nearby genes. A handful of PcG response elements (PREs—the regions of the genome where PcGs bind) have been characterized to date, but until now not much was known about their broader distribution across the genome. Nicolas Nègre, Giacomo Cavalli, and colleagues provide just such a map of PcG binding locations across chromosomes X and 2 of \n\t\t\t\tDrosophila melanogaster. They observe a wide distribution that varies from one developmental stage to the next.\n\nPcG proteins actually form multiprotein complexes, one of which—the PRC1 complex—contains two specific proteins, PC and PH. PC and PH have in the past been seen to co-localize with another protein called the \n\t\t\t\tGAGA-factor, or GAF. Nègre and colleagues mapped the binding locations of individual PC, PH, and GAF proteins (separately) to DNA from embryos, pupae, and adult male and female flies. They did this with a technique called “ChIP on chip,” which identifies matches between the region of chromatin where the protein of interest has bound (via chromatin immunoprecipitation, or ChIP) and the corresponding genomic region on a tiled microarray (or chip).\n\nTo double-check that their matches were sensible, some known PREs were placed on the microarrays (acting as positive controls), along with some randomly selected DNA fragments unrelated to any known PREs (negative controls). To confirm that the chromosomal locations of the ChIP-on-chip matches corresponded with the correct region of the \n\t\t\t\tDrosophila genome, the authors also undertook some fluorescence mapping experiments and, reassuringly, observed perfect co-localization of sites mapped by ChIP on chip with sites mapped on the chromosomes by cytology (observing the band on the chromosome that fluoresces).\n\nSo how do these proteins distribute over the genome? As expected, PC and PH showed almost identical distribution, which confirms their presence together in the PRC1 complex. GAF binding did not overlap perfectly with the PRC1 proteins and actually bound to more sites in total. GAF also tended to bind to narrower chromatin regions, while PC and PH were more often spread over larger regions. These results indicate that PC and PH binding interactions do not depend on GAF.\n\nInterestingly, the PRC1 proteins frequently bound in clusters, and so it seems that in some genomic regions, more than one PRE must exist in proximate locations. The genes nearest to the PREs, as expected, are most frequently biased toward regulatory and developmental functions. Their distances from the PREs, however, are variable, and it is likely that the PcGs must use a variety of mechanisms to turn off transcription of these nearby genes (perhaps by binding on top of the genes' promoter region, or maybe by linking multiple PREs to interfere with more distant promoters).\n\nHow did the binding of these proteins differ across the different developmental time points? While the positions of GAF localization remained quite constant, the PcG protein binding sites did not. Although some PREs were maintained at all times, other PcG protein locations varied considerably, implying that PcGs employ dynamic regulation over time. In fact, adult male flies had the most divergent profile of PREs, suggesting that some male-specific development might be regulated by these PcG proteins.\n\nNègre, Cavalli, and colleagues show that these PcG proteins do indeed constitute a critical component of \n\t\t\t\tDrosophila development and are likely to instruct a variety of developmental processes through their regulation of genes across the genome. The next exciting steps in better understanding the molecular construction of a fly will be to extend this analysis to the remaining \n\t\t\t\tDrosophila chromosomes, across other developmental stages, and in different tissue types. From there, scientists can similarly probe what makes a mammal, and the extent to which these mechanisms are conserved across distant species.",
+  "externalIds": [
+    "pmid:20076582",
+    "pmcid:PMC1440716"
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.2001414",
+  "doi": "10.1371/journal.pbio.2001414",
+  "externalIds": [
+    "pii:pbio.2001414",
+    "pmid:28662064",
+    "pmcid:PMC5490878"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Identifiers for the 21st century: How to design, provision, and reuse persistent identifiers to maximize utility and impact of life science data",
+  "authors": [
+    {
+      "name": "Julie A. McMurry",
+      "first": "Julie A.",
+      "last": "McMurry",
+      "affiliation": "Department of Medical Informatics and Epidemiology and OHSU Library, Oregon Health & Science University, Portland, Oregon, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9353-5498"
+      ]
+    },
+    {
+      "name": "Nick Juty",
+      "first": "Nick",
+      "last": "Juty",
+      "affiliation": "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Niklas Blomberg",
+      "first": "Niklas",
+      "last": "Blomberg",
+      "affiliation": "ELIXIR Hub, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Tony Burdett",
+      "first": "Tony",
+      "last": "Burdett",
+      "affiliation": "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Tom Conlin",
+      "first": "Tom",
+      "last": "Conlin",
+      "affiliation": "Department of Medical Informatics and Epidemiology and OHSU Library, Oregon Health & Science University, Portland, Oregon, United States of America"
+    },
+    {
+      "name": "Nathalie Conte",
+      "first": "Nathalie",
+      "last": "Conte",
+      "affiliation": "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Mélanie Courtot",
+      "first": "Mélanie",
+      "last": "Courtot",
+      "affiliation": "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "John Deck",
+      "first": "John",
+      "last": "Deck",
+      "affiliation": "Berkeley Natural History Museums, University of California at Berkeley, Berkely, California, United States of America"
+    },
+    {
+      "name": "Michel Dumontier",
+      "first": "Michel",
+      "last": "Dumontier",
+      "affiliation": "Institute of Data Science, Maastricht University, Maastricht, the Netherlands"
+    },
+    {
+      "name": "Donal K. Fellows",
+      "first": "Donal K.",
+      "last": "Fellows",
+      "affiliation": "School of Computer Science, The University of Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Alejandra Gonzalez-Beltran",
+      "first": "Alejandra",
+      "last": "Gonzalez-Beltran",
+      "affiliation": "Oxford e-Research Centre, University of Oxford, Oxford, United Kingdom"
+    },
+    {
+      "name": "Philipp Gormanns",
+      "first": "Philipp",
+      "last": "Gormanns",
+      "affiliation": "Institute of Experimental Genetics, Helmholtz Centre Munich, German Research Center for Environmental Health, Neuherberg, Germany"
+    },
+    {
+      "name": "Jeffrey Grethe",
+      "first": "Jeffrey",
+      "last": "Grethe",
+      "affiliation": "Center for Research in Biological Systems, University of California San Diego, La Jolla, California, United States of America"
+    },
+    {
+      "name": "Janna Hastings",
+      "first": "Janna",
+      "last": "Hastings",
+      "affiliation": "Babraham Institute, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Jean-Karim Hériché",
+      "first": "Jean-Karim",
+      "last": "Hériché",
+      "affiliation": "European Molecular Biology Laboratory, Heidelberg, Germany"
+    },
+    {
+      "name": "Henning Hermjakob",
+      "first": "Henning",
+      "last": "Hermjakob",
+      "affiliation": "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Jon C. Ison",
+      "first": "Jon C.",
+      "last": "Ison",
+      "affiliation": "Center for Biological Sequence Analysis, Department of Systems Biology, Technical University of Denmark, Lyngby, Denmark"
+    },
+    {
+      "name": "Rafael C. Jimenez",
+      "first": "Rafael C.",
+      "last": "Jimenez",
+      "affiliation": "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Simon Jupp",
+      "first": "Simon",
+      "last": "Jupp",
+      "affiliation": "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "John Kunze",
+      "first": "John",
+      "last": "Kunze",
+      "affiliation": "California Digital Library, Oakland, California, United States of America"
+    },
+    {
+      "name": "Camille Laibe",
+      "first": "Camille",
+      "last": "Laibe",
+      "affiliation": "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Nicolas Le Novère",
+      "first": "Nicolas",
+      "last": "Le Novère",
+      "affiliation": "Babraham Institute, Cambridge, United Kingdom"
+    },
+    {
+      "name": "James Malone",
+      "first": "James",
+      "last": "Malone",
+      "affiliation": "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Maria Jesus Martin",
+      "first": "Maria Jesus",
+      "last": "Martin",
+      "affiliation": "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Johanna R. McEntyre",
+      "first": "Johanna R.",
+      "last": "McEntyre",
+      "affiliation": "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Chris Morris",
+      "first": "Chris",
+      "last": "Morris",
+      "affiliation": "Science and Technology Facilities Council, Daresbury Laboratory, Warrington, United Kingdom"
+    },
+    {
+      "name": "Juha Muilu",
+      "first": "Juha",
+      "last": "Muilu",
+      "affiliation": "Genomics Coordination Center, Department of Genetics, University Medical Center Groningen and Groningen Bioinformatics Center, University of Groningen, Groningen, the Netherlands"
+    },
+    {
+      "name": "Wolfgang Müller",
+      "first": "Wolfgang",
+      "last": "Müller",
+      "affiliation": "Scientific Databases and Visualization at Heidelberg Institute for Theoretical Studies, Heidelberg, Germany"
+    },
+    {
+      "name": "Philippe Rocca-Serra",
+      "first": "Philippe",
+      "last": "Rocca-Serra",
+      "affiliation": "Oxford e-Research Centre, University of Oxford, Oxford, United Kingdom"
+    },
+    {
+      "name": "Susanna-Assunta Sansone",
+      "first": "Susanna-Assunta",
+      "last": "Sansone",
+      "affiliation": "Oxford e-Research Centre, University of Oxford, Oxford, United Kingdom"
+    },
+    {
+      "name": "Murat Sariyar",
+      "first": "Murat",
+      "last": "Sariyar",
+      "affiliation": "Institute for Medical Informatics, Bern University of Applied Sciences, Engineering and Information Technology, Bern, Switzerland"
+    },
+    {
+      "name": "Jacky L. Snoep",
+      "first": "Jacky L.",
+      "last": "Snoep",
+      "affiliation": "Manchester Institute of Biology, University of Manchester, Manchester, United Kingdom; Department of Biochemistry, Stellenbosch University, Stellenbosch, South Africa"
+    },
+    {
+      "name": "Stian Soiland-Reyes",
+      "first": "Stian",
+      "last": "Soiland-Reyes",
+      "affiliation": "School of Computer Science, The University of Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Natalie J. Stanford",
+      "first": "Natalie J.",
+      "last": "Stanford",
+      "affiliation": "School of Computer Science, The University of Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Neil Swainston",
+      "first": "Neil",
+      "last": "Swainston",
+      "affiliation": "Manchester Centre for Synthetic Biology of Fine and Speciality Chemicals, University of Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Nicole Washington",
+      "first": "Nicole",
+      "last": "Washington",
+      "affiliation": "Environmental Genomics and Systems Biology, Lawrence Berkeley National Laboratory, Berkeley, California, United States of America"
+    },
+    {
+      "name": "Alan R. Williams",
+      "first": "Alan R.",
+      "last": "Williams",
+      "affiliation": "School of Computer Science, The University of Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Sarala M. Wimalaratne",
+      "first": "Sarala M.",
+      "last": "Wimalaratne",
+      "affiliation": "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Lilly M. Winfree",
+      "first": "Lilly M.",
+      "last": "Winfree",
+      "affiliation": "Department of Medical Informatics and Epidemiology and OHSU Library, Oregon Health & Science University, Portland, Oregon, United States of America"
+    },
+    {
+      "name": "Katherine Wolstencroft",
+      "first": "Katherine",
+      "last": "Wolstencroft",
+      "affiliation": "Leiden Institute of Advanced Computer Science, Leiden University, Leiden, the Netherlands"
+    },
+    {
+      "name": "Carole Goble",
+      "first": "Carole",
+      "last": "Goble",
+      "affiliation": "School of Computer Science, The University of Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Christopher J. Mungall",
+      "first": "Christopher J.",
+      "last": "Mungall",
+      "affiliation": "Environmental Genomics and Systems Biology, Lawrence Berkeley National Laboratory, Berkeley, California, United States of America"
+    },
+    {
+      "name": "Melissa A. Haendel",
+      "first": "Melissa A.",
+      "last": "Haendel",
+      "affiliation": "Department of Medical Informatics and Epidemiology and OHSU Library, Oregon Health & Science University, Portland, Oregon, United States of America"
+    },
+    {
+      "name": "Helen Parkinson",
+      "first": "Helen",
+      "last": "Parkinson",
+      "affiliation": "European Bioinformatics Institute, European Molecular Biology Laboratory, Wellcome Genome Campus, Hinxton, Cambridge, United Kingdom"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2017-06-29",
+  "volume": "15",
+  "number": "6",
+  "pages": "e2001414",
+  "tags": [
+    "Anatomy",
+    "Animal genomics",
+    "Archives",
+    "Biodiversity",
+    "Bioinformatics",
+    "Biological databases",
+    "Colon",
+    "Computer networks",
+    "Data management",
+    "Database and informatics methods",
+    "Digestive system",
+    "Discipline-v3/Anatomy",
+    "Discipline-v3/Animal genomics",
+    "Discipline-v3/Archives",
+    "Discipline-v3/Biodiversity",
+    "Discipline-v3/Bioinformatics",
+    "Discipline-v3/Biological databases",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Colon",
+    "Discipline-v3/Computer and information sciences",
+    "Discipline-v3/Computer networks",
+    "Discipline-v3/Data management",
+    "Discipline-v3/Database and informatics methods",
+    "Discipline-v3/Digestive system",
+    "Discipline-v3/Ecology",
+    "Discipline-v3/Ecology and environmental sciences",
+    "Discipline-v3/Gastrointestinal tract",
+    "Discipline-v3/Genetics",
+    "Discipline-v3/Genomics",
+    "Discipline-v3/Information centers",
+    "Discipline-v3/Internet",
+    "Discipline-v3/Linguistics",
+    "Discipline-v3/Mammalian genomics",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Ontologies",
+    "Discipline-v3/Phonology",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Research facilities",
+    "Discipline-v3/Sequence analysis",
+    "Discipline-v3/Sequence databases",
+    "Discipline-v3/Social sciences",
+    "Discipline-v3/Syntax",
+    "Ecology",
+    "Gastrointestinal tract",
+    "Genetics",
+    "Genomics",
+    "Information centers",
+    "Internet",
+    "Linguistics",
+    "Mammalian genomics",
+    "Ontologies",
+    "Phonology",
+    "Research facilities",
+    "Sequence analysis",
+    "Sequence databases",
+    "Syntax",
+    "Type/Perspective"
+  ],
+  "abstract": "In many disciplines, data are highly decentralized across thousands of online databases (repositories, registries, and knowledgebases). Wringing value from such databases depends on the discipline of data science and on the humble bricks and mortar that make integration possible; identifiers are a core component of this integration infrastructure. Drawing on our experience and on work by other groups, we outline 10 lessons we have learned about the identifier qualities and best practices that facilitate large-scale data integration. Specifically, we propose actions that identifier practitioners (database providers) should take in the design, provision and reuse of identifiers. We also outline the important considerations for those referencing identifiers in various circumstances, including by authors and data generators. While the importance and relevance of each lesson will vary by context, there is a need for increased awareness about how to avoid and manage common identifier problems, especially those related to persistence and web-accessibility/resolvability. We focus strongly on web-based identifiers in the life sciences; however, the principles are broadly relevant to other disciplines.",
+  "fullText": "Introduction\n\nThe issue is as old as scholarship itself: readers have always required persistent identifiers in order to efficiently and reliably retrieve cited works. “Desultory citation practices” have been thwarting scholarship for millennia [1] whether because reliable identifiers were unavailable or because authors failed to use them. While the internet has revolutionized the efficiency of retrieving sources, the same cannot be said for reliability: it is well established that a significant percentage of cited web addresses go &quot;dead&quot; [2]. This process is commonly referred to as link rot because availability of cited works decays with time [3,4]. Although link rot threatens to erode the utility and reproducibility of scholarship [5], it is not inevitable: link persistence has been the recognized solution since the dawn of the internet [6]. However, this problem, as we will discuss, is not at all limited to referencing journal articles. The life sciences have changed a lot over the past decade as the data have evolved to be ever larger, more distributed, more interdependent, and more natively web-based. This transformation has fundamentally altered what it even means to “reference” a resource; it has diversified both the actors doing the referencing and the entities being referenced. Moreover, the challenges are compounded by a lack of shared terminology about what an “identifier” even is. Fig 1 delineates the key components of an identifier used throughout this paper; all technical terms are in fixed-width font and defined in the glossary (S1 Table).\n\nAn identifier is a sequence of characters that identifies an entity. The term “persistent identifier” is usually used in the context of digital objects that are accessible over the Internet. Typically, such an identifier is not only persistent but also actionable [7]: it is a Uniform Resource Identifier (URI)[8], of type hypertext transfer protocols (http/s), that, at a minimum, you can paste in a web browser address bar and be taken to the identified source. Formally breaking down a URI into these two components (URI pattern and local identifier [local ID], as shown Fig 1) makes it possible for meta resolvers to “resolve” entities to their source. This practice also facilitates the representation of a URI as a compact URI (CURIE), an identifier comprised of &lt;Prefix&gt;:&lt;Local ID&gt; wherein prefix is deterministically convertible to a URI pattern and vice-versa. For instance, the above URI could be represented as uniprot:A0A022YWF9. This deterministic conversion makes it easy for meta resolvers as well, (e.g., http://identifiers.org/uniprot:A0A022YWF9).\n\nSuboptimal identifier practice is artificially constraining what can and cannot be done with the underlying data: it not only hampers findability, accessibility, interoperability, and reuse (FAIR principles) [9,10], but also compromises mechanisms for credit and attribution. This article seeks to provide pragmatic guidance and examples for how actors in life science research should handle identifiers. Optimizing web-based persistent identifiers is harder than it appears. There are a number of approaches that may be used for this purpose, but no single one is perfect. Identifiers are reused in different ways for different reasons, by different consumers. Moreover, digital entities (e.g., files, such as an article), physical entities (e.g., tissue specimens), living entities (e.g., Dolly the sheep), and descriptive entities (e.g., “mitosis”) have different requirements for identifiers [11].\n\nThe problem of identifier management is hardly unique to the life sciences; it afflicts every discipline from astronomy [3] to law [12]. Towards this end, several groups (S1 Text) have been converging on identifier standards that are broadly applicable [9,13–15]. Building on these efforts and drawing on our experience in integrating and accessing data from a large number of sources, we outline the identifier qualities and the best practices that we consider to be particularly important in the context of large-scale data integration in the life sciences. In Lessons 1 through 9 (Fig 2), we propose actions for data providers when designing new identifiers, maintaining existing identifiers, as well as when reusing and referencing identifiers from other datasets. In Lesson 10, we conclude with guidance for data integrators and redistributors on how best to reference multiple identifiers from diverse sources. More often than not, life science data providers often invent or organically grow their own identifier systems without a firm grasp of the lasting implications. Data providers are urged to take a long-term view of the scope and lifecycle of data and the identifiers that they issue, and to consider using existing identifier platforms and services [14] where appropriate.\n\nThroughout this document, the word “must” is reserved for practices that ensure against the collision, ambiguity, or inaccessibility of items referenced by identifiers; instances of “must” are also often specific to particular design choices. We use the word “should” to convey that the trade-offs must be understood and carefully weighed before choosing a different course (e.g., consistent with IETF RFC2119 [16]).\n\nThere is no one in science that is unaffected by identifiers. Fig 2 details 3 basic roles one might play in the scholarly landscape and how identifiers are relevant in these contexts. Who are designers and creators? These are databases, but also those that submit supplemental data to archives, and anyone creating structured data. Who are the providers and maintainers? These are databases as well, but also services and indices that support web resolution and data validation. Who are the reusers and referencers? These are the “research data parasites” [17], but also your average author: while authors may specify an identifier for a resource (e.g., a gene or antibody), more often identifiers are contextually inferred by the journals or curators, whether pre- or postpublication.\n\nMany of the following recommendations are applicable during the planning and identifier conceptualization phase, i.e., before any identifiers are created. The retrofitting (especially Lessons 1, 4, 5, and 6) of existing identifiers can sometimes be too difficult or may even make matters worse: for instance, changing existing identifiers introduces the need for systems that can recognize the variations for what they are; such overhead can outweigh potential benefits. Each of the lessons is relevant to the basic classes of identifier actions (design, provision, reuse (Fig 2) within the ecosystem of diverse data providers and integrators. Even if we largely agree on what makes for a good persistent identifier (Table 1), actual implementation often falls short. No provider is perfect and no two are alike, hence the objective is to learn from each other’s diverse experiences. All of the negative examples herein are anonymized variations of real-world identifiers that we have had to work with.\n\nLesson 1. Credit any derived content using its original identifier\n\nIf you manage an online database (repository, registry, or knowledgebase), consider its role in identifying and referencing the knowledge that it publishes. We advise that you only create your own identifiers for new knowledge (Fig 3). Wherever you are referring to existing knowledge, do so by using existing identifiers (Lesson 10); otherwise, wherever the 1 to 1 relationship of identifier to entity breaks down, costly mapping problems arise. Whether or not you create a new identifier, it is vital to credit any derived content in a way that includes its indigenous identifiers [11]; to facilitate data integration, all such identifiers should be machine processable and transparently mapped.\n\nLesson 2. Help local IDs travel well: Document prefix and patterns\n\nIf you reference others’ data or anticipate your data being referenced by others, consider how you document your identifiers. Note that you may not know a priori how your data may be used. Data do not thrive in silos: they are most useful when reused, broken into parts, and integrated with other data, for instance in database cross references (“db xrefs”). In spite of how important identifiers are to this process, the confusion with identifiers often starts with the basics, including what the “identifier” even is. A local ID (Fig 1) is an identifier guaranteed only to be unique in a given local context (e.g., a single provider, a single collection, etc.), and sometimes only within a specific version; as such, it is poorly suited to facilitate data integration because it can collide when considered in a more global landscape of many such identifiers. For instance, the local ID “9606” corresponds to numerous entities whose local accessions are based on simple digits, including a Pubmed article, a CGNC gene, a PubChem chemical, as well as an NCBI taxon, a BOLD taxon, and a GRIN taxon. Local IDs therefore need to be contextualized in order to be understood and accessed (resolved) on the web. This is often accomplished through the use of a prefix, which should be documented. If this is overwhelming, don’t forget that there are meta resolvers and services built to help for exactly this reason (see Lesson 3).\n\nURIs are identifiers that resolve on the web. “Cool URIs don’t change” [6] because when they do change (or disappear) all existing references break. In the context of academia alone, “reference rot” impacts 1 in 5 publications [4]. Despite vulnerability to link rot, the global http/s URI (Fig 1) is the best available identifier form for machine-driven global data integration because (a) the http URI is a widely adopted Internet Engineering Task Force (IETF) standard and (b) the http URI’s uniqueness is ensured by a single well-established name–granting process (DNS). However, the length of URIs can make them unwieldy for tasks involving human readability even within structured machine-parsable documents. CURIEs [18] (Fig 1) are a mature world wide web consortium (W3C) standard that is well established in some contexts (e.g., JSON-LD and RDFa) as they enable URIs to be understood and conveniently expressed. We, the authors, are not absolutist about anyone using CURIEs; however, we agree that the features that make for good URIs also happen to make CURIEs possible (for those who wish to use them; S2 Text).\n\nThus, if you are a database provider, it is in your best interests to document and preferably register (a) the prefix (Fig 1) that you would like others to use and (b) its binding to a URI pattern (Fig 1). Your chosen prefix should be unique, at least among datasets that are likely to be used in the same context; choose the registry/registries that is appropriate for your data type and discipline; a list of such registries is available in S2 Table together with their corresponding registration uniform resource locators (URLs). PrefixCommons [19] is a platform designed to (a) aggregate prefix mappings from primary registries to enable these registries to make more informed decisions about which new prefixes to issue and (b) for any given integrator to publish the set of mappings that they happen to use. In the context the life sciences, Identifiers.org [20] is the most important location to register a prefix for digital/data objects not already resolved by doi.org; similarly OBOfoundry [21] and Bioportal [22] are the most important for ontology prefixes. These authorities guarantee prefix uniqueness within their respective remit, are beginning to better coordinate, and are setting the standards for how prefixed identifiers are referenced in the literature.\n\nLesson 3. Opt for simple, durable web resolution\n\nA core component of persistent identification is redirection, the absence of which makes it extremely difficult to provide stable identifiers. When designing (or refining) your http URI strategy:\n\nConsider a resolution provider before doing it yourself. If you are a database provider, you must implement an http URI pattern (Fig 3B) for local IDs to be resolvable to a web page. If you choose to outsource to a resolver service, use an approach that adheres to best practice [14] (e.g., digital object identifier ([DOI] DataCite, CrossRef), Identifiers.org, Handle.net, PURL (now via InternetArchive), EPIC, ARK) and be mindful of your constraints regarding cost, metadata ownership, turnaround time, versioning support, etc (see S3 Text for a more comprehensive list of considerations). Some of these resolver services can even provide content negotiation for different encodings of your data [14] and make it easier to provide direct access to data, metadata, and persistence statements [23]. If you have the resources to support your own persistent URIs, design these to be “cool” [6]; this is most easily achieved by keeping URIs simple.\n\nAvoid inclusion of anything that is likely to change or lapse, including administrative details (e.g., grant name) or implementation details such as file extensions (“resource.html”), query strings (“param = value”), and technology choices (“.php”). Never embed the local ID in the query part of a URI e.g., http://example.com/explore?record=A123456.\n\nOmit trailing characters after the local ID. In all cases, the URI pattern must include the protocol (e.g., https://) and, if applicable, trailing slash or other delimiters. Trailing characters after the local ID are strongly discouraged as they unnecessarily increase the variability with which the identifier is represented and also complicate straightforward appending of the local ID (requiring that tokens such as $id hold the place of the local ID in the URI pattern e.g., http://example.com/$id/view.do).\n\nAvoid unnecessary detail. Detail in “persistent” identifiers creates complexity that must be managed in perpetuity. Make every attempt to limit the degree of path nestedness (e.g., do http://example.com/A123456 rather than http://example.com/vertebrates/mammals/rodents/rat/white-rat/A123456); see also Lesson 5 regarding types and meaning. The CURIE approach can work with any resolver(s): see for instance examples 4 and 5 in Fig 4. By choosing a single URI pattern, you make it possible for others to resolve your identifiers simply (Fig 4A) without their having to know the type and its syntax in http URI. See also Lesson 4 regarding omission of semantics.\n\nDespite their differences, the examples in Fig 4 share the most important features above.\n\nLesson 4. Avoid embedding meaning or relying on it for uniqueness\n\nWhen designing new local IDs or http URIs, avoid embedding meaning or relying on it for identifier uniqueness. Instead, favor opaque identifiers and convey meaning in the entity’s metadata; some metadata (such as resource type) can and should be conveyed in the HTTP header where possible [24]. The structure and scope of collections evolve, as does scientific understanding; minimizing the meaning embedded in identifiers makes them less vulnerable to obsoletion. In human genetics, many genes were initially identified based on disease association; later the identification, nomenclature, and function of genes were separated into different activities. Meaning should only be embedded if it is indisputable, unchangeable and also useful to the data consumer (e.g., computer-processable). For instance, the type of entity imparts meaning to users and may fulfil these 3 criteria. When encountered, typing may be embedded, either within the local ID (ENSMUSG…), or within the http URI path (…/gene/12345), or both. In any case, if you opt to include type in the identifiers you issue, avoid relying on type for uniqueness: that is to say, once a local ID (e.g., 12345) is assigned it should never be recycled for another entity, even an entity of a different type (e.g., …/gene/12345 and …/patient/12345).\n\nIf you need the ability to convey meaning in a dense character space, you don’t need to do so in the identifier itself; consider instead implementing an entity label, for instance as is done in model organism nomenclature such as by Mouse Genome Informatics (MGI; label: KitW/KitW-v, id: MGI:2171276). Labels are for human readability only; even if they are deemed durable, labels should not be treated as identifiers, nor should they appear within http URIs. URI patterns, if type-specific, require a corresponding type-specific prefix. For example, the Library of Integrated Network-based Cellular Signatures (LINCS) contains entities of several types including cells and proteins. Cell records are resolved using the pattern http://lincs.hms.harvard.edu/db/cells/, whereas protein records are resolved using the pattern http://lincs.hms.harvard.edu/db/proteins/; thus, if more than one lincs type is referenced/integrated in the same context, it requires the use of two different prefixes, e.g., such that lincs.cells:50001 → http://lincs.hms.harvard.edu/db/cells/50001 and lincs.protein:200001 → http://lincs.hms.harvard.edu/db/proteins/200001, respectively. By contrast, MGI implements a single prefix for all types of entities in their corpus (genes, markers, alleles, etc); accordingly, this prefix “MGI” corresponds to a single URI pattern (http://www.informatics.jax.org/accession/). Thus the single MGI resolver works for all accessions, regardless of type, and redirects them to their corresponding type-specific destination (e.g., MGI:2442292 → http://www.informatics.jax.org/accession/MGI:2442292 which redirects to http://www.informatics.jax.org/marker/MGI:2442292) all without the user needing to know the type beforehand. Dual approaches like MGI’s can be helpful to different kinds of consumers: type-agnostic resolution is useful in cases such as data citation in the literature where (a) the type of the identified entity is not of primary importance, or (b) the type of the entity is already conveyed contextually, and/or (c) where resolution is done systematically at scale and/or involves many and varied or volunteer contributors that may be difficult to coordinate. Type-specific resolution is useful in cases like bioinformatic research pipelines where embedded type may facilitate the human-led debugging process. If you support both kinds of resolution, it is best to document (a) whether you intend for both to be treated as persistent and (b) what mapping support you provide. Note that while type-agnostic resolution has important advantages, it must only be undertaken if all local IDs of any type, past and future, can be guaranteed to never collide.\n\nWhether or not your URIs or your local IDs include type, you should provide other ways for humans and machines to determine the type of entity that is being identified; this is most often achieved via web services (e.g., as done in the Monarch Initiative), but ideally also within metadata landing pages [23,25], if provided.\n\nLesson 5. Design new identifiers for diverse uses by others\n\nPreexisting identifiers should be referenced without modifications (see Lesson 10). However, if you create new local IDs, there are some design decisions that can facilitate their use in diverse contexts (spreadsheets, other databases, web applications, publications, etc.).\n\nAvoid problematic characters. Local IDs should, wherever possible, comprise only letters, numbers, and URL-safe delimiters. Omission of other special characters guards against corruption and mistranscription in many contexts; however, it is acceptable that the local ID be in CURIE format because modern browsers resolve colons without having to encode them. Although characters “/” and “?” are technically URL-safe, they are very problematic when used within the local ID, as these characters are assumed to have special meaning and can complicate parsing of the identifiers, whatever forms they take. For the same reason, local IDs should ideally not contain the dot character (“.”) except to denote version where appropriate (see Lesson 7).\n\nDefine a formal pattern and stick to it. Local IDs must adhere to a formal pattern (regular expression); this facilitates the validation of URIs and improves the accuracy of mining identifiers from scientific text. Consider a fixed length of 8–16 characters (according to the anticipated number of required local IDs). A pattern may be extended if all available identifiers are issued, but existing identifiers should not be changed. To minimize local ID collisions at a global scale, it is considerate to tightly specify your pattern (e.g., by using one or more fixed letters). The regular expression should include a fixed, documented case convention. In most cases, it is advised that identifiers not rely on case for their uniqueness: if you assign ab-12345 to one entity and AB-12345 to a different entity, collisions due to mistranscription are more likely. Case-sensitive patterns are best reserved for when brevity is a constraint, and hand transcription is not (e.g., millions of IDs are required and each ID has to be short enough to be printed on a vial label).\n\nAvoid problematic patterns. Consider using both letters and numbers in the local ID, but if you do use both consider omitting characters that can be mistranscribed [26] This avoids misinterpretation as numeric data (e.g., the truncation of leading zeros or conversion to exponents in spreadsheets). Some patterns can result in misinterpretation and/or corruption whether as dates (e.g., “may-15”), exponents (e.g., “5e1234”) [27], or as unintended words (e.g., “bad-12”). Such issues in gene names alone have been shown to impact 19% of life sciences papers [28]. A historically common, if thorny, identifier pattern is that of “_” and “:” are often interconverted and it has come to be understood as compact notation, delimiting the prefix from the rest of the identifier. Therefore “_” or “:” should (a) occur no more than once per identifier, and (b) should only be used if local IDs are intended to be deterministically expanded to a resolvable http URI. For instance, if your intended prefix is “MyDB”, then either MyDB:gene-6622 or MyDB_gene-6622 are acceptable patterns, but MyDB_gene_6622 is problematic, as it could result in three possible conversions by others, even if these are not intended: MyDB_gene:6622, MyDB:gene_6622, MyDB:gene:6622. Whatever pattern you adopt, document which variations you support resolution of, if any.\n\nLesson 6. Implement a version-management policy\n\nWhether you produce original data, or reference data from others, consider the impact of data changes. The nature, extent, and speed of data changes impact how data can be referenced and used. Document your chosen version management practice: if you issue identifiers, the change history for the entity should be either documented or retrievable with a URL-based query. Alternatively, the identifier itself can be versioned whether or not change history is also supported.\n\nEmbedding versioning in identifiers is recommended if the prevailing use of an unversioned identifier results in “breaking changes” (e.g., a change in the hypothesized cause of a disease). However, if new information about the entity emerges slowly and the changes are “nonbreaking”, it is reasonable to instead maintain a machine-actionable change history in the entity’s metadata. The history should be a list of changes categorized in such a way that users can assess the impact on their work. Versioning and change history work well together, especially when multiple types of changes overlap. Even where previous records are entirely removed, the URI should continue to resolve, but to a “tombstone” page (Lesson 7). A resource should communicate clearly what a version change refers to. UniProt and RefSeq use versions to reflect changes in sequence. Ensembl uses versions to reflect changes in sequence and splicing for transcript records but sequence alone for protein records. In each of these examples, the changes in the annotations that are attached to a record does not alter the version.\n\nThere are two approaches to versioning: record-level (Fig 5A) and release-level (Fig 5B); the latter is more common in the life sciences. Release-level versioning is usually performed for defined data releases. However, use cases vary; some user communities need to resolve individual archived entities via a deterministically-versioned URI pattern, for example as is done in Ensembl (e.g., http://e85.ensembl.org/id/ENSMUSG00000033577). If you do not have the ability (or common use case) to maintain individually resolvable-archived records, we strongly recommend that you (a) support export to files so that users can archive the records they need, and (b) make snapshots available for the database, whether in whole or in parts [29].\n\nIf you version identifiers at the level of the individual record, the most common approach in the life sciences is to version in the local ID after the “dot”, as per UniProt in Fig 5A1 and Table 2. Maintaining version information solely in metadata (e.g., without suffixing) is possible; this approach is truer to Lesson 4 (“Avoid embedding meaning”) but is also so technically difficult that few providers do it well. To our knowledge thus far, Zenodo.org is the only provider that comprehensively supports the metadata-only versioning (shown in Fig 5A2); moreover, they introduced this feature in 2017, four years after their launch and, for prospectively-collected records only. In metadata-only versioning, a completely new Local ID is used for each new version; ideally there is also a single base identifier to which each version is directly linked. While there is yet no standard for how version metadata should be structured, there must be some mechanism for machines to obtain the identifier that corresponds to the most recent version of the record. We strongly recommend providing a transparent and machine-readable mapping between identifiers, together with a deterministic mechanism for machines to obtain the latest version of the record (e.g., via respresentational state transfer [REST] application programming interface [API] or by inserting “/latest/” in the URI path). Although the topic of when and how to version data is of great interest, use cases vary and consensus is elusive. Other groups have discussed change management consideration and “content drift” in more depth [2,30,31].\n\nLesson 7. Do not reassign or delete identifiers\n\nIdentifiers that you have exposed publicly, whether as http URIs or via APIs, may be deprecated but must never be deleted or reassigned to another record. If you issue identifiers, consider their full life cycle: there is a fundamental difference between identifiers which point to experimental datasets (GenBank/ENA/DDBJ, PRIDE, etc.) and identifiers which point to a current understanding of a biological concept (Ensembl Gene, UniProt record, etc.). While experimental records are less likely to change, concept descriptions may evolve rapidly; even the nature and number of the relevant metadata fields change over time. Moreover, the very notion of identity is often strongly impacted by relationships (e.g., between concepts or processes).\n\nExtensive changes cannot be captured with numerical suffixing alone. For instance, taxonomists may split or merge species, pathologists may split or merge diseases, or hypothesized entities may be proven not to exist (e.g., vaccine-induced autism). Global initiatives (S1 Text) are actively exploring identifier strategies for such use cases. In the meantime, consider Table 3 recommendations.\n\nLesson 8. Make URIs clear and findable\n\nPersistent URIs almost always differ from the ephemeral URLs to which users are ultimately directed (Fig 4). Therefore, whether you produce original data, or reference others’ data, make persistent URIs obvious to users so that they are less inclined to copy the link that appears in the browser address bar. As a group, the best practitioners of this lesson are currently academic journals; they prominently advertise the DOI corresponding to each article. In situations where the version of a data record matters, advertise the corresponding permanent link (permalink) together with a statement about persistence. E.g.:\n\n“The permanent link to this page, which will not change with the next release of Ensembl is: http://e85.ensembl.org/id/ENSMUSG00000033577 We aim to maintain all archives for at least five years; some key releases may be maintained for longer”\n\nFor archived records that are out of date, make this clear to the user and provide a link to the updated version (see http://www.uniprot.org/uniprot/P12345.1, for instance). Although it is good practice for each database website to include general citation guidance for users [32], it is increasingly important to provide a prepopulated citation at the level of each record. When it comes to making record-level citation clear on every page, eagle-i [33] provides the best example of a primary data source that we know of (outside of providers that issue DOIs; Fig 6). Additional features that are useful in such widgets are that full references should be copy-pastable, integrated with reference managers, and pre-populated with the version information and access date.\n\nLesson 9. Document the identifiers you issue and use\n\nThe global-scale identification cycle is a shared responsibility and provider and/or consumer roles often overlap in the context of data integration. Whether you issue your own identifiers or just reference those of others, you should document your identifier policies. S3 Table provides a set of questions that data providers and redistributors can use to develop such documentation. Documentation should be published alongside and/or included together in a dataset description, for instance, as outlined in the recommendations for Dataset Descriptions developed by the W3C Semantic Web in the Health Care and Life Sciences Interest Group [34]. For examples of such documentation see ChEMBL [35] and Monarch [36]; the format may vary.\n\nLesson 10. Reference and display responsibly\n\nThe final lesson describes referencing recommendations for data redistributors: data aggregators, who collect information from different sources and redisplay it; data publishers, who disseminate scientific knowledge through publications; and online reference material such as WikiData [37].\n\nWhen external entities are referenced in narrative online text, they should be hyperlinked where possible, either to their URIs or to a destination that documents their URIs. Access URLs are volatile (see Lesson 4) and must not be used for referencing or linking in any context intended to persist.\n\nBroader issues associated with citation of data and software in the traditional literature are outside of the scope of this paper, but S1 Text lists relevant complementary efforts. Our recommendations regarding data citation in the literature are circumscribed: within static documents of record (e.g., in portable document formats [PDFs]), or in situations where link updates are costly and/or difficult, we strongly advocate always using the URLs of well-established third-party resolvers, whether they be primary resolvers such as doi.org or hdl.net or meta-resolvers such as Identifiers.org, or n2t.net (S2 Table). Each provider has a corresponding URI pattern; however, those URIs can and do change over time. Third-party resolvers are not immune to change; the fact that the PURL.org resolver recently nearly sunset into “read-only” mode illustrates (a) the importance of sustained community buy-in and governance, and (b) that reliance on third parties for resolution is not without its risks. Nevertheless, the risk that URIs will break because of resolver change is modest and easier to mitigate compared to the risk that any single referenced collection will move or disappear. It is incumbent on meta-resolvers to be vigilant about detecting and updating their redirection rules in the face of provider changes. Identifiers.org is able to redirect to one of a few potential provider destinations based on an algorithm that considers (a) provider uptime and (b) whether a given provider is a “primary” source of the data in that collection. N2T.net and Identifiers.org recently joined forces [38] to harmonize identifiers in the same way by using the same prefixes. As part of this partnership, they have both have adopted simple syntax that gives users finer grained control, to request to be directed to a specific source of the data; for instance, specifying the primary source of the data whether or not it has the best record of up-time.\n\nRedistributors of data should monitor their references to other sources; any “dead” links should be reported to the original data provider. If the original provider does not fix the broken link, your reference to it should be marked obsolete both visibly (for user interaction and/or interpretation), and within any accompanying metadata (for computational interaction and/or propagation). Differentiate the identifiers that are internally linked within your application from those identifiers linked outside your application. One way to do this is by using the linkout icon; consider opening all external links in a new browser window or tab in order to avoid confusion.\n\nConclusion\n\nBetter identifier design, provisioning, documentation, and referencing can address many of the identifier problems encountered in the life science data cycle—leading to more efficient and effective science. However, best practices will not be adopted on the basis of their community benefit alone; the practices must be both easy and rewarding to the groups that do the implementing. In the broader context of scholarly publishing, this is just what DOIs afford; DOIs succeeded because they were well aligned with journals’ business goals (tracking citations) and because the cost was worth it to them. However, in the current world where everyone is a data provider, alignment with business goals is still being explored: meta resolvers can provide a use case for journals and websites seeking easier access to content, while software applications leverage these identifier links to mine for knowledge.\n\nWe recognize that improvements to the quality, diversity, and uptake of identifier tooling would lower barriers to adoption of the lessons presented here (S4 Text). Those that issue data identifiers face different challenges than do those referencing data identifiers. We understand there are ecosystem-wide challenges and we will undertake to address these gaps in the relevant initiatives (S1 Text). We also recognize the need for formal software-engineering specifications of identifier formats and/or alignment between existing specifications. Here, we implore all participants in the scholarly ecosystem—authors, data creators, data integrators, publishers, software developers, resolvers—to aid in the dream of identifier harmony and hope that this paper can catalyze such efforts.\n\nSupporting information"
+}

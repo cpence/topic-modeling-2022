@@ -1,0 +1,40 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0060089",
+  "doi": "10.1371/journal.pbio.0060089",
+  "externalIds": [
+    "pii:08-PLBI-S-0837",
+    "pmid:20076707",
+    "pmcid:PMC2270334"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Structural Insight into a Biofilm Signaling Molecule",
+  "authors": [
+    {
+      "name": "Liza Gross",
+      "first": "Liza",
+      "last": "Gross"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2008-03",
+  "dateElectronic": "2008-03-25",
+  "volume": "6",
+  "number": "3",
+  "pages": "e89",
+  "tags": [
+    "Discipline/Biochemistry",
+    "Discipline/Biophysics",
+    "Discipline/Cell Biology",
+    "Discipline/Infectious Diseases",
+    "Discipline/Microbiology",
+    "Type/Synopsis"
+  ],
+  "fullText": "Life as a bacterium presents special challenges—primary among them the need to sense and respond to the environment—which for an organism just 3 micrometers long, like Pseudomonas aeruginosa, might seem a daunting prospect. One way Pseudomonas and other bacteria cope with the rigors of existence is by forming highly organized communities called biofilms. As members of a biofilm, microbes gain access to nutrients, genetic traits, and metabolic processes that are unavailable to them as individuals. They also find protection from the elements in the sticky extracellular matrix that holds the cells together.\n\nUnfortunately, when biofilms underlie chronic infections, as P. aeruginosa does in the lungs of patients with cystic fibrosis, the matrix also protects its bacterial inhabitants from host immune defenses and antibiotic therapies. In a new study, Holger Sondermann and his colleagues reveal a novel mode of regulation in bacterial biofilm colonization by solving the structure of an enzyme bound to a “second messenger” that triggers the cell responses necessary for biofilm formation.\n\nIn bacteria, increased levels of a small signaling molecule with the ungainly name of bis-(3′-5′)-cyclic dimeric guanosine monophosphate (c-di-GMP) induce cells to abandon the single life in favor of multicellular, “social” living as a biofilm colony. Proteins that make c-di-GMP—a so-called second messenger that triggers cellular responses by accumulating in the cell—from GTP have a highly conserved module containing the amino acid motif GGDEF and are called diguanylate cyclases. Nabanita De et al. first solved the structure of the diguanylate cyclase WspR, a potent regulator of biofilm formation, bound to c-di-GMP and then used a series of biochemical experiments to shed light on the mechanism that WspR uses to regulate its own activity along with the production of the second messenger.\n\nBacteria sense and respond to signals in their environment, including cues from other bacteria, to form biofilms through “two-component signaling” systems. The first component, a membrane-bound sensor, receives the signal and transmits it to the second component, the response regulator protein, which triggers a cellular response, such as gene expression. These messages are transferred via a chemical reaction called phosphorylation, which involve the transfer of phosphates between the proteins.\n\nResponse regulators can also change cell behavior by controlling the second messenger c-di-GMP. Low concentrations of c-di-GMP are found in motile cells, while high c-di-GMP concentrations lead to the production of extracellular and adhesive matrix components, multicellular behavior, and aggregation into a biofilm. In addition to the most common regulation through phosphorylation, this new study shows that the response regulator WspR exists in at least three different states that determine its activity: an active and an inactive state, bridged by an intermediate form.\n\nPrevious studies had identified another response regulator, PleD, that binds to c-di-GMP and controls the switch from a free-swimming to stationary lifestyle in marine bacteria. PleD has a similar domain organization to WspR, containing a diguanylate cyclase module and a response regulator domain that is regulated by phosphorylation. PleD is also regulated by c-di-GMP, the product of the enzymatic reaction. c-di-GMP binds to regions at the diguanylate cyclase and regulatory domains to inhibit its activity. While both domains occur in WspR, which formed a four-unit complex (or tetramer) in the solved structure, they were in a different configuration, leading the researchers to suspect that WspR might be regulated through a different mechanism.\n\nTo understand what this mechanism might be, the researchers subjected the enzyme to a number of biochemical analyses. They show that WspR exists in different configurations depending on its c-di-GMP binding state. Both nucleotide-tethered and nucleotide-free WspR existed as bound pairs (called dimers), though with different conformations: the nucleotide-bound enzyme appeared elongated, while the free species appeared more compact. The tetramer state emerged spontaneously over time from the compact dimer.\n\nBy analyzing the catalytic capacities of the enzyme's different states, the researchers demonstrate that the compact configuration is most active while the elongated c-di-GMP–bound state shows the least activity. They go on to propose a model through which WspR modulates its own activity, with a feedback mechanism in which the tetramer assembles from the active compact species and provides a platform for disbanding into the inactive elongated species, which is inhibited by the bound c-di-GMP. The removal of c-di-GMP (by phosphodiesterases that degrade it) leads to WspR reactivation as the enzyme switches to the compact state.\n\nBy elucidating a novel regulatory mechanism for an enzyme that controls the synthesis and degradation of a key player in biofilm formation, these findings suggest new approaches to controlling the behavior of bacteria that are responsible for chronic infections. Given that bacteria commonly found in cystic fibrosis patients with lung infections carry a WspR mutation in a critical site for c-di-GMP binding, the researchers suspect that this mutation might underlie the virulence of these pathogenic strains. Future studies can test this possibility. Since c-di-GMP signaling is found only in bacteria and is unknown in eukaryotic organisms like humans, the prospect of developing therapies aimed at disrupting this second messenger to fight biofilm-mediated infections appears particularly promising."
+}

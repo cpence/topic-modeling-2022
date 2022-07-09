@@ -1,0 +1,261 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000811",
+  "doi": "10.1371/journal.pbio.3000811",
+  "externalIds": [
+    "pii:PBIOLOGY-D-19-03005",
+    "pmid:32735558",
+    "pmcid:PMC7423145"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Zinc protection of fertilized eggs is an ancient feature of sexual reproduction in animals",
+  "authors": [
+    {
+      "name": "Katherine L. Wozniak",
+      "first": "Katherine L.",
+      "last": "Wozniak",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-3797-2116"
+      ]
+    },
+    {
+      "name": "Rachel E. Bainbridge",
+      "first": "Rachel E.",
+      "last": "Bainbridge",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-6014-2030"
+      ]
+    },
+    {
+      "name": "Dominique W. Summerville",
+      "first": "Dominique W.",
+      "last": "Summerville",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1399-6508"
+      ]
+    },
+    {
+      "name": "Maiwase Tembo",
+      "first": "Maiwase",
+      "last": "Tembo",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7562-3606"
+      ]
+    },
+    {
+      "name": "Wesley A. Phelps",
+      "first": "Wesley A.",
+      "last": "Phelps",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-4056-2345"
+      ]
+    },
+    {
+      "name": "Monica L. Sauer",
+      "first": "Monica L.",
+      "last": "Sauer",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-2928-1048"
+      ]
+    },
+    {
+      "name": "Bennett W. Wisner",
+      "first": "Bennett W.",
+      "last": "Wisner",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-7475-0934"
+      ]
+    },
+    {
+      "name": "Madelyn E. Czekalski",
+      "first": "Madelyn E.",
+      "last": "Czekalski",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America"
+    },
+    {
+      "name": "Srikavya Pasumarthy",
+      "first": "Srikavya",
+      "last": "Pasumarthy",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-7678-0566"
+      ]
+    },
+    {
+      "name": "Meghan L. Hanson",
+      "first": "Meghan L.",
+      "last": "Hanson",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America"
+    },
+    {
+      "name": "Melania B. Linderman",
+      "first": "Melania B.",
+      "last": "Linderman",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-9494-5974"
+      ]
+    },
+    {
+      "name": "Catherine H. Luu",
+      "first": "Catherine H.",
+      "last": "Luu",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-5717-4202"
+      ]
+    },
+    {
+      "name": "Madison E. Boehm",
+      "first": "Madison E.",
+      "last": "Boehm",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America"
+    },
+    {
+      "name": "Steven M. Sanders",
+      "first": "Steven M.",
+      "last": "Sanders",
+      "affiliation": "Department of Surgery and Immunology, Thomas E. Starzl Transplantation Institute, and Center for Evolutionary Biology and Medicine, University of Pittsburgh School of Medicine, Pittsburgh Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-5334-4785"
+      ]
+    },
+    {
+      "name": "Katherine M. Buckley",
+      "first": "Katherine M.",
+      "last": "Buckley",
+      "affiliation": "Department of Biological Sciences, Auburn University, Auburn, Alabama, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-6585-8943"
+      ]
+    },
+    {
+      "name": "Daniel J. Bain",
+      "first": "Daniel J.",
+      "last": "Bain",
+      "affiliation": "Department of Geology and Environmental Science, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1979-7016"
+      ]
+    },
+    {
+      "name": "Matthew L. Nicotra",
+      "first": "Matthew L.",
+      "last": "Nicotra",
+      "affiliation": "Department of Surgery and Immunology, Thomas E. Starzl Transplantation Institute, and Center for Evolutionary Biology and Medicine, University of Pittsburgh School of Medicine, Pittsburgh Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0001-5361-8398"
+      ]
+    },
+    {
+      "name": "Miler T. Lee",
+      "first": "Miler T.",
+      "last": "Lee",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-0933-0551"
+      ]
+    },
+    {
+      "name": "Anne E. Carlson",
+      "first": "Anne E.",
+      "last": "Carlson",
+      "affiliation": "Department of Biological Sciences, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-2724-1325"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2020-07-31",
+  "dateAccepted": "2020-07-10",
+  "dateReceived": "2019-10-14",
+  "volume": "18",
+  "number": "7",
+  "pages": "e3000811",
+  "tags": [
+    "Agriculture",
+    "Agrochemicals",
+    "Amphibians",
+    "Animal cells",
+    "Animal models",
+    "Animal studies",
+    "Animals",
+    "Cell biology",
+    "Cellular types",
+    "Chemical elements",
+    "Chemistry",
+    "Developmental biology",
+    "Discipline-v3/Agriculture",
+    "Discipline-v3/Agrochemicals",
+    "Discipline-v3/Amphibians",
+    "Discipline-v3/Animal cells",
+    "Discipline-v3/Animal models",
+    "Discipline-v3/Animal studies",
+    "Discipline-v3/Animals",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Cell biology",
+    "Discipline-v3/Cellular types",
+    "Discipline-v3/Chemical elements",
+    "Discipline-v3/Chemistry",
+    "Discipline-v3/Developmental biology",
+    "Discipline-v3/Eggs",
+    "Discipline-v3/Eukaryota",
+    "Discipline-v3/Experimental organism systems",
+    "Discipline-v3/Fertilization",
+    "Discipline-v3/Fertilizers",
+    "Discipline-v3/Fish",
+    "Discipline-v3/Frogs",
+    "Discipline-v3/Germ cells",
+    "Discipline-v3/Model organisms",
+    "Discipline-v3/Organisms",
+    "Discipline-v3/Osteichthyes",
+    "Discipline-v3/Ova",
+    "Discipline-v3/Physical sciences",
+    "Discipline-v3/Physiology",
+    "Discipline-v3/Reproductive physiology",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Sperm",
+    "Discipline-v3/Vertebrates",
+    "Discipline-v3/Xenopus",
+    "Discipline-v3/Zebrafish",
+    "Discipline-v3/Zinc",
+    "Discipline-v3/Zoology",
+    "Eggs",
+    "Eukaryota",
+    "Experimental organism systems",
+    "Fertilization",
+    "Fertilizers",
+    "Fish",
+    "Frogs",
+    "Germ cells",
+    "Model organisms",
+    "Organisms",
+    "Osteichthyes",
+    "Ova",
+    "Physiology",
+    "Reproductive physiology",
+    "Sperm",
+    "Type/Short Reports",
+    "Vertebrates",
+    "Xenopus",
+    "Zebrafish",
+    "Zinc",
+    "Zoology"
+  ],
+  "abstract": "One of the earliest and most prevalent barriers to successful reproduction is polyspermy, or fertilization of an egg by multiple sperm. To prevent these supernumerary fertilizations, eggs have evolved multiple mechanisms. It has recently been proposed that zinc released by mammalian eggs at fertilization may block additional sperm from entering. Here, we demonstrate that eggs from amphibia and teleost fish also release zinc. Using Xenopus laevis as a model, we document that zinc reversibly blocks fertilization. Finally, we demonstrate that extracellular zinc similarly disrupts early embryonic development in eggs from diverse phyla, including Cnidaria, Echinodermata, and Chordata. Our study reveals that a fundamental strategy protecting human eggs from fertilization by multiple sperm may have evolved more than 650 million years ago.",
+  "fullText": "Introduction\n\nFertilization of an egg by more than one sperm, a condition known as polyspermy, is lethal for most animals. Consequently, eggs use several strategies to shield nascent zygotes from penetration by additional sperm [1]; the two most common are referred to as the fast and slow blocks to polyspermy. In the fast block, fertilization immediately changes the electrical charge of the egg’s membrane [2–4]. This shift to a positive potential is sufficient to prevent sperm entry [5], but it is only used by externally fertilized eggs. By contrast, eggs from most sexual reproducers, including mammals, use the slow block [1,6]. During the slow block to polyspermy, an increase of intracellular calcium causes eggs to release materials that form an extracellular barrier impenetrable to sperm [7,8]. The slow block initiates at least three processes that prevent future fertilizations: a membrane modification that stops sperm binding [7,9] and two changes to the extracellular matrix (called the zona pellucida in mammals) that block sperm binding and penetration [8,10]. We are just beginning to understand how the released materials cause these transformations to protect the nascent zygote.\n\nRecently, extracellular zinc has been proposed to protect fertilized eggs from polyspermy as part of the slow block [11,12]. Zinc release during the slow block has been documented in mammalian eggs from humans [13], mice [14], and cows [15]. Zinc release has also been linked to gamete maturation, cell cycle resumption, and initiation of embryonic development [14,16–18]. We sought to determine the conservation of this zinc release in diverse species with varied fertilization strategies and more directly probe whether extracellular zinc protects eggs from additional fertilizations. We assayed for a role of zinc release from eggs of the African clawed frog Xenopus laevis, which are external fertilizers; both the fast and slow polyspermy blocks have been extensively characterized in this model organism [1]. We also used a salamander, the axolotl (Ambystoma mexicanum). Salamanders and frogs are both amphibians with eggs that employ the slow polyspermy block, yet salamanders are internal fertilizers whose eggs do not depolarize with sperm entry [19]. Zinc release was also observed from zebrafish (Danio rerio) eggs; unlike mammalian and amphibian eggs, zebrafish eggs activate upon hydration in a fertilization-independent process [20]. Finally, we used two invertebrate species with highly tractable fertilization from distantly related phyla and show that zinc impairs embryo development: the purple sea urchin Strongylocentrotus purpuratus (Echinodermata) and the hydroid Hydractinia symbiolongicarpus (Cnideria). Probing fertilization and activation in eggs from these five species, we now demonstrate that the zinc release from activated eggs is shared by distantly related animals and that extracellular zinc protection of egg from supernumerary fertilizations is an ancient phenomenon.\n\nResults and discussion\n\nTo determine whether X. laevis eggs release zinc upon fertilization, we used confocal microscopy with the cell-impermeant fluorescent zinc indicator FluoZin-3 before and after insemination. We observed that X. laevis eggs were enveloped by a singular wave of extracellular zinc within minutes of sperm addition (Fig 1A and 1B, S1A Fig, S1 Movie). This zinc spark was observed in 16 of 20 imaged eggs. In mammalian eggs, zinc is exocytosed from cortical granules during the slow block to polyspermy [21,22]. If zinc release also occurred during the slow block in X. laevis eggs, we predicted that the appearance of extracellular zinc would share characteristics, and coincide, with markers of the slow block. The observed appearance of a single zinc wave was expected because X. laevis eggs have one intracellular calcium transient responsible for a singular cortical granule exocytosis [23]. Following sperm entry, the envelope separates from the egg when proteases from the cortical granules cleave contacts between these two structures [1,24]. Appearance and localization of extracellular zinc was in sync with the lifting of the envelope (Fig 1A, red arrows). Cortical contraction was observed in all imaged eggs (Fig 1C), indicating successful fertilization and activation [25]. Zinc release was not synchronous between proximal eggs; when two eggs were simultaneously imaged (S1 Movie), the second egg began zinc release 105 seconds after the first. We expect that this is due to a difference in fertilization timing.\n\nWe explored whether signaling the slow block without fertilization would initiate zinc release from X. laevis eggs. Extracellular zinc was imaged before and after application of the calcium ionophore ionomycin [26], which increases cytosolic calcium to evoke cortical granule release. In both eggs and in vitro matured oocytes, a zinc release appeared with ionomycin application (S1A–S1E Fig) and also coincided with lifting of the envelope (S2 Movie). Envelope lifting and cortical contraction verified successful activation (Fig 1C).\n\nTo confirm that the change in FluoZin-3 fluorescence was due to increased extracellular zinc, we fertilized X. laevis eggs in the zinc chelator N,N,N′,N′-tetrakis(2-pyridinylmethyl)-1,2-ethanediamine (TPEN) [27]. Under these conditions, fertilization did not evoke increased FluoZin-3 fluorescence (S1F Fig, S3 Movie). Yet envelope lifting was observed in TPEN, as the chelation of zinc did not affect the cortical granule exocytosis that leads to envelope lifting.\n\nZinc released into the surrounding solution was quantified with FluoZin-3 fluorometry. Fertilization and activation with ionomycin induced an average release of 5.5 ± 2.7 × 1013 and 1.9 ± 1.0 × 1013 zinc ions per egg, respectively (Fig 1D, Table 1). FluoZin-3 will not detect tightly bound zinc. Therefore, we also used inductively coupled plasma mass spectrometry (ICP-MS), which substantiated an average release of 8.7 ± 5.2 × 1012 zinc ions per ionomycin-treated egg (Table 1). Notably, there was an order of magnitude difference between released zinc quantified fluorometry and ICP-MS. Based on atomic absorption spectroscopy, X. laevis eggs have an average of 6 × 1014 zinc ions [28], thereby revealing that each egg loses approximately 1%–10% of its total zinc during the slow block.\n\nWe next explored a possible role for zinc in the slow polyspermy block by inseminating X. laevis eggs in varying concentrations of extracellular zinc and monitoring for an indicator of early embryonic development, the appearance of cleavage furrows. If extracellular zinc protects eggs from sperm entry, we predicted that embryonic development would only occur in eggs inseminated in minimal zinc solution. We found that ZnSO4 inhibited the appearance of cleavage furrows in a concentration-dependent manner (Fig 1E, S1 Table); no development was observed in eggs inseminated in ≥300 μM ZnSO4. A sigmoidal fit of the incidence of development versus ZnSO4 concentration showed that half the eggs developed cleavage furrows at a zinc concentration (half-maximal inhibitory concentration [IC50]) of 31 ± 10 μM (Fig 1E). To confirm that zinc (Zn2+), and not sulfate (SO42−), was responsible for disrupting fertilization and embryonic development, X. laevis eggs were fertilized in varying concentrations of ZnCl2 or MgSO4 (Fig 1F and 1G). Whereas ZnCl2 inhibited development with a nearly identical concentration response to ZnSO4 (30 ± 8 μM), MgSO4 had no effect (S1 Table). To test whether the effect of zinc was reversible, eggs were incubated in zinc and then transferred to and inseminated in a solution with TPEN. Nearly all eggs pretreated with zinc and subsequently inseminated in TPEN underwent cleavage (Fig 1H), thereby revealing that extracellular zinc effects on X. laevis eggs are reversible. In control experiments, we assayed for egg rolling, cortical contraction, or appearance of cleavage furrows to determine whether TPEN treatment without sperm was sufficient to activate X. laevis eggs. No signs of TPEN-induced activation were observed in any eggs (N = 82 eggs in 6 independent trials).\n\nSeveral critical events occur during the 90 minutes between fertilization and the appearance of cleavage furrows. If extracellular zinc prevented fertilization to thereby inhibit the appearance of cleavage furrows, we reasoned that transferring zinc-inseminated eggs to a nonzinc solution should not rescue development. Indeed, we found that X. laevis eggs inseminated in zinc failed to develop cleavage furrows regardless of their treatment 30 minutes after sperm addition (Fig 1I). By contrast, eggs inseminated without added zinc developed normally, even when treated with zinc 30 minutes after sperm addition (Fig 1I). This latter finding suggests that after fertilization, zinc treatment is not sufficient to halt embryonic development. Together, these results reveal that extracellular zinc interferes with development within 30 minutes of insemination.\n\nTo further ensure that extracellular zinc blocked fertilization, we examined how rapidly TPEN application recovered cleavage furrow appearance from the zinc-induced block of embryonic development. Eggs were fertilized with or without zinc; then, 30 minutes following sperm addition, they were transferred to different solutions with or without TPEN. We predicted that if zinc blocked fertilization, the appearance of cleavage furrows in eggs inseminated in zinc would be shifted by the time of TPEN addition (30 minutes for these experiments). If zinc blocked another event in early embryonic development, the appearance of cleavage furrows would appear by an intermediate time. We found that under control conditions, approximately half of the eggs developed cleavage furrows 79 minutes after sperm addition (±0.3 minutes, Fig 1J). By contrast, half of the eggs inseminated in zinc and then transferred to TPEN developed cleavage furrows 111 minutes after sperm addition (± 0.9 minutes) or 81 minutes following transfer to TPEN. In the presence of zinc, sperm are evidently unable to penetrate the egg. We hypothesize that sperm embedded in the jelly coat of zinc-treated eggs likely fertilized upon transfer to the TPEN solution. These results indicate that zinc released from X. laevis eggs following fertilization can protect the zygote from fertilization by additional sperm.\n\nWe next tested for zinc release from gametes of another amphibian with a different fertilization strategy: the axolotl, A. mexicanum. We therefore probed for zinc release during activation of immature oocytes, which are more readily isolated from this internal fertilizer. Using confocal microscopy of A. mexicanum oocytes in FluoZin-3, we observed zinc release with ionomycin application from five of six oocytes (Fig 2A). Application of higher concentrations of ionomycin were required to activate zinc release from immature A. mexicanum and X. laevis oocytes (S2 Fig).\n\nNext, we expand our analyses to the more distantly related zebrafish, D. rerio, in which both activation of embryonic development and release of cortical granules from the egg are independent of fertilization. D. rerio eggs are activated during spawning in water, which typically coincides with mating but is independent of sperm entry [20,29]. In the presence of FluoZin-3, we observed zinc release from D. rerio eggs upon hydration in six of seven eggs (Fig 2B, S4 Movie). Successful activation of cohort eggs was confirmed by blastodisc formation and the appearance of abortive cleavages in all eggs assayed (Fig 2C). FluoZin-3 fluorometry revealed that D. rerio eggs release an average of 1.1 ± 0.4 × 1012 zinc molecules upon activation (Fig 2D, Table 1). Together, these results suggest that zinc release upon activation may be conserved among vertebrate eggs.\n\nTo explore whether zinc inhibition of fertilization and early embryonic development is shared with invertebrates, we fertilized eggs from the sea urchin S. purpuratus and the cnidarian H. symbiolongicarpus in varying concentration of ZnSO4. For both species, embryonic development was blocked in a concentration-dependent manner, as assessed by the appearance of cleavage furrows (Fig 2E–2H, S1 Table). To demonstrate that zinc effects on fertilization were not due to toxicity in embryos, fertilized H. symbiolongicarpus eggs were treated with 50 μM ZnSO4. We found that with zinc treatment 30 minutes after insemination, nearly all fertilized eggs developed to the larval stage. Although whether these species release zinc upon fertilization is yet to be determined, these results are consistent with the hypothesis that zinc can inhibit fertilization and development in both vertebrate and invertebrate eggs.\n\nTo uncover the mechanisms by which zinc disrupts fertilization, we returned to the X. laevis model to discriminate whether zinc targets eggs or sperm. To do so, we assessed whether pretreating eggs before fertilization with zinc was sufficient to block fertilization. For these experiments, X. laevis eggs were incubated with or without added zinc and then transferred to different solutions for insemination and embryonic development. Eggs pretreated with zinc failed to develop cleavage furrows, even when inseminated in a solution with no added zinc (Fig 3A). By contrast, eggs never exposed to zinc developed normally. Evidently, zinc altered the egg to interfere with fertilization and the earliest events of embryonic development. However, these data do not exclude the possibility that zinc also targets sperm to block fertilization.\n\nWe then focused on the matrices surrounding the egg to probe how zinc disrupted fertilization. X. laevis eggs are surrounded by two distinct structures: the jelly coat and the envelope. The envelope is immediately outside of the plasma membrane and comprises five glycoproteins homologous to zona pellucida proteins that surround mammalian eggs [30–32]. Outside of the envelope is the jelly coat (Fig 3B), comprising glycoproteins and enriched with salts [33–39].\n\nTo test whether the zinc-mediated disruption of fertilization required the jelly, we removed the jelly layer from X. laevis eggs and assayed for the appearance of cleavage furrows after insemination in varying concentrations of zinc. Even without the jelly, zinc prevented the appearance of cleavage furrows with a similar concentration–response relationship to eggs with an intact jelly layer (Figs 1E and 3C).\n\nAlthough not required, the jelly may still play an important role in the zinc block of X. laevis fertilization. The jelly is known to bind to and buffer other metals [38] and may trap zinc near the egg. We assayed for the appearance of cleavage furrows in jelly-free X. laevis eggs pretreated with or without zinc and then inseminated in a second condition with or without zinc (Fig 3D). We predicted that if the jelly buffers zinc, then jelly-free eggs would develop cleavage furrows when inseminated after zinc pretreatment. Indeed, one-third of the jelly-free eggs pretreated with zinc developed cleavage furrows following insemination with no added zinc. These results support a zinc-buffering role for the jelly, maintaining a high local zinc concentration, following the slow block.\n\nThe zinc disruption of X. laevis fertilization is reversible by chelation (Fig 1H), consistent with the hypothesis that zinc acts by binding to a protein or receptor and not by mediating a chemical reaction (e.g., reduction or oxidation). If extracellular zinc prevented fertilization through protein coordination, we would expect that other transition metals would act similarly. Metal–protein interactions become more potent in a predictable pattern called the Irving–Williams series, which depicts the strength of divalent transition metal–protein complexes: Co &lt; Ni &lt; Cu &gt; Zn [40]. To uncover how other transition metals in this series altered X. laevis fertilization, we inseminated in varying concentrations of extracellular copper, cobalt, or nickel. Development was blocked in a concentration-dependent manner in the presence of all transition metals tested (Fig 3E and 3F). Using the half-maximal concentration of each metal that blocks embryonic development, we determined that the potency of the transition metals indeed followed the Irving–Williams series [40]: copper acted with the highest affinity, and cobalt with the lowest (Fig 3E, S1 Table). In follow-up experiments probing for possible toxic effects of these metals, we observed similar proportions of cleavage furrow development between eggs inseminated under control conditions and transferred to solutions with 0 or 100 μM CuCl2 30 minutes following sperm addition (Fig 3G). We propose that release of zinc from the cortical granules upon fertilization modifies extracellular proteins to block entry by additional sperm (Fig 3H).\n\nIn conclusion, we report that zinc release upon fertilization or activation is shared among eggs from diverse vertebrates, including mammals, amphibians, and teleost fish. Moreover, zinc is released by eggs from internal and external fertilizers from diverse phyla, as well as in species with varied mechanisms of fertilization and egg activation. We have also shown that early development is blocked in the presence of zinc in species from the phyla Cnidaria, Echinodermata, and Chordata. However, it has not yet been shown whether zinc release at fertilization occurs in invertebrate eggs. Our observations are consistent with the hypothesis that zinc is derived from cortical granules released during the slow block to polyspermy and suggest that this extracellular zinc transforms the egg to prevent multiple fertilizations. Although the details on how zinc prevents sperm entry are yet to be determined, we speculate that extracellular zinc may modify the envelope to stop sperm entry or target sperm to interfere with fertilization, or a combination of the two. Taken together, these data suggest that extracellular zinc protection of eggs from multiple fertilizations is shared by diverse species separated by hundreds of millions of years of evolution.\n\nMethods\n\nEthics statement\n\nAll vertebrate animal studies conformed to the regulatory standards adopted by the Institutional Animal Care and Use Committee at the University of Pittsburgh, which approved this study under protocols 20026806 and 19024564. Animal care and use protocols adhered to the guidelines established by the National Institutes of Health (United States).\n\nAnimals\n\nX. laevis (frog) adults were obtained commercially (NASCO, Fort Atkinson, WI), as were A. mexicanum (axolotl) adults (Ambystoma Genetic Stock Center, Lexington, KY), and were housed separately at 18°C with a 12/12-hour light/dark cycle. D. rerio (zebrafish) adults (5–17 months) were a laboratory-bred TU-AB strain and were housed at 27°C with a 14/10-hour light/dark cycle.\n\nSome S. purpuratus (purple sea urchin) gametes were a generous gift from Veronica Hinman, and some were obtained from commercially purchased adults (Marinus Scientific, Long Beach, CA) and were housed at 15°C with a 12/12-hour light/dark cycle. H. symbiolongicarpus (Cnidaria) were sexually mature, laboratory-bred colonies (MN291-10 and MN295-8, male and female, respectively) grown on glass microscope slides and housed at 22–23°C with an 8/16-hour light/dark cycle.\n\nReagents\n\nA 1 M MgSO4 solution and 0.1 M ZnCl2 solution were purchased from Sigma-Aldrich (St. Louis, MO). TPEN was purchased from Tocris (Bristol, United Kingdom), and human chorionic gonadotropin (hCG) was purchased from Henry Schien (Melville, NY). Unless noted otherwise, all materials were purchased from Thermo Fisher Scientific (Waltham, MA).\n\nSolutions\n\nModified Ringer’s (MR) solution was used for X. laevis fertilization experiments. MR contains (in mM) 100 NaCl, 1.8 KCl, 2.0 CaCl2, 1.0 MgCl2, and 5.0 HEPES (pH 7.8) and is filtered using a sterile 0.2-μm polystyrene filter [41]. Embryonic development assays were performed in 33% MR diluted in DDH2O (MR/3). Various chemicals were added to MR/3, which contained final concentrations of &lt;0.5% DMSO or ethanol.\n\nOocyte Ringer’s 2 (OR2) solution was used to rinse X. laevis and A. mexicanum oocytes after collagenase treatment. OR2 comprises (in mM) 82.5 NaCl, 2.5 KCl, 1 MgCl2, and 5 mM HEPES (pH 7.6) and is filtered using a sterile 0.2-μm polystyrene filter [42].\n\nND96 was used to store X. laevis and A. mexicanum oocytes. ND96 comprises (in mM) 96 NaCl, 2 KCl, 1 MgCl2, 10 HEPES, pyruvic acid, and 10 mg/L gentamycin (pH 7.6) and is filtered with a sterile 0.2-μm polystyrene filter.\n\nOocyte culture medium (OCM) was used for in vitro maturation of X. laevis oocytes. OCM comprises 40% water, 60% L-15 media, 60 μg/mL gentamycin, and 0.4 mg/mL BSA [43].\n\nLaboratory-made artificial sea water (spASW) was used for S. purpuratus development assays. The spASW comprises (in mM) 470 NaCl, 10 KCl, 11 CaCl2, 29 MgSO4, 27 MgCl2, and 2.5 NaHCO3 (pH 8) and is filtered using a sterile 0.2-μm polystyrene filter [44].\n\nCommercial artificial sea water (hsASW) was used for H. symbiolongicarpus development assays. The hsASW comprises solubilized Instant Ocean Reef Crystals (Instant Ocean Spectrum Brands) at 28 parts per thousand.\n\nCollection of gametes\n\nX. laevis and A. mexicanum oocytes\n\nOocytes were collected from ovarian sacs obtained from X. laevis females anesthetized with a 30-minute immersion in 1.0 g/L tricaine-S (MS-222), pH 7.4, or from A. mexicanum females euthanized by a 30-minute immersion in 3.6 g/L tricaine-S at pH 7.4. Following excision, ovarian sacs were manually pulled apart and then dispersed by a 90-minute incubation in ND96 supplemented with 1 mg/ml collagenase. Collagenase was removed by repeated washes with OR2, and healthy oocytes were sorted and stored at 14°C in ND96 with sodium pyruvate and gentamycin.\n\nX. laevis sperm and eggs\n\nEggs were collected from sexually mature females. Egg laying was stimulated by injection with 1,000 IU of hCG into their dorsal lymph sac. Following injection, females were housed overnight for 12–16 hours at 14–16°C. Typically, egg laying began within 2 hours of moving to room temperature. Eggs were collected on dry petri dishes and used within 10 minutes of being laid.\n\nSperm were obtained from testes harvested from sexually mature X. laevis males [3,4,38]. Following euthanasia by a 30-minute immersion in 3.6 g/L tricaine-S (pH 7.4), testes were dissected and cleaned by manual removal of residual fat and vasculature. Cleaned testes were stored at 4°C in MR for use on the day of dissection or in L-15 medium for use up to 1 week later. Sperm were extracted by mincing 1/10 of a testis in 200–500 μL of MR and were used within 1 hour of collection.\n\nFor experiments sequentially treating eggs with different conditions, eggs were incubated in an initial experimental solution, washed three times by moving between petri dishes containing the final treatment using plastic transfer pipettes, and then placed in the final treatment for experimental observation. Two types of these sequential treatment assays are reported here: transfer before insemination (e.g., Fig 1H) and transfer after insemination (e.g., Fig 1I). When transferred between treatments before fertilization, eggs were incubated in the starting solution for 15 minutes and inseminated in the transfer solution. When transferred after insemination, eggs and sperm were incubated together in the starting solution for 30 minutes and then transferred.\n\nD. rerio\n\nD. rerio gametes were obtained from mating pairs selected at random. To stimulate spawning, mating pairs were housed in the same tank overnight and separated by a divider [20,45]. In the morning, the females were anesthetized in 0.25 mg/mL MS-222 (pH 7.2), rinsed in DDH2O, and patted dry. Cohorts of eggs were retrieved from anesthetized females by applying pressure to their abdomens [20]. Dry eggs were collected with a 200-μL pipette tip and moved to a dry imaging slide.\n\nS. purpuratus\n\nGametes were collected from spawning S. purpuratus adults. Spawning was induced by manual agitation or injection with 100–500 μL of 0.5 M KCl followed by agitation [44]. Sperm were collected directly from the animal using a 10-μL pipette and then transferred into a 1.7-ml capped tube. Eggs were collected following release into a beaker containing spASW and then filtered through a 100-μm filter.\n\nH. symbiolongicarpus\n\nH. symbiolongicarpus gametes were collected from spawning adults. Upon the first light exposure for the day, spawning was induced following separation of male and female colonies [46]. Gametes were released within 60–90 minutes of light exposure. Eggs were collected from the water surrounding spawning females, filtered through a 20-μm strainer, and maintained in hsASW. Sperm were collected from the water surrounding spawning males using a 1-mL pipette and maintained in hsASW.\n\nConfocal microscopy of extracellular zinc during fertilization or activation\n\nZinc release from X. laevis, D. rerio, and A. mexicanum gametes was imaged using FluoZin-3 and a TCS SP5 confocal microscope (Leica Microsystems, Wetzlar, Germany) equipped with a Leica 506224 5× objective. FluoZin-3 was excited with a 488-nm visible laser, and the emission between 500–600 nm was collected. Using a galvo scanner with unidirectional (600 Hz) scanning, FluoZin-3 and bright-field images were taken every 3–5 seconds for up to 25 minutes with a depth of 3 μM, the laser strength at 30%, and gain at 10%. Images were analyzed using LAS AF (version 3.0.0 build 834) and ImageJ [47] software packages.\n\nX. laevis\n\nTo image extracellular zinc during X. laevis fertilization, sperm were added to dejellied eggs bathed in MR/3 with 50 μM FluoZin-3. Sperm prepared in MR/3 was pipetted near the eggs 1 minute after image acquisition had begun. Control experiments used the same experimental design with 1.5 mM TPEN. A similar experimental design was employed to image extracellular zinc during activation in which X. laevis eggs or oocytes were activated with 10 or 200 μM ionomycin treatment, respectively, in MR/3 with no sperm addition.\n\nA. Mexicanum\n\nExtracellular zinc was imaged during A. mexicanum oocyte activation by incubating these cells with 50 μM FluoZin-3 in MR/3. These oocytes were activated with 300 μM ionomycin application 1 minute after imaging began.\n\nD. rerio\n\nTo image extracellular zinc during D. rerio egg activation, dry eggs were placed on a microscope slide. Eggs were activated by application of 50 μM FluoZin-3 in DDH2O 1 minute after image acquisition had begun.\n\nBright-field microscopy\n\nX. laevis\n\nA stereoscope (Leica Microsystems, Wetzlar, Germany) equipped with a Leica 10447157 1× objective and DFC310 FX camera was used to image X. laevis eggs and embryos. Images were analyzed using LAS (version 3.6.0 build 488) software and Photoshop (Adobe). For the jelly removal assay, X. laevis eggs were imaged using an Edmund Optics stereomicroscope with a 10× objective fitted with a pixiLINK digital camera and the μScope Essential 64× software pixiLINK, Canada). The diameter of the egg and the surrounding jelly coat were determined in Adobe Illustrator (San Jose, CA).\n\nD. rerio egg and S. purpuratus\n\nEggs and embryos from D. rerio and S. purpuratus were imaged on an inverted Olympus IX73 stereoscope equipped with an Olympus UPlanFL N 10× objective, Olympus TL4 light source, and Olympus U-LS30-3 camera. Images were analyzed using Photoshop (Adobe).\n\nH. symbiolongicarpus\n\nEggs and embryos were imaged using Zeiss Discovery.V20 stereoscope equipped with a Lumenera Infinity3s camera and Zeiss KL1500 LCD light source. Images were analyzed using Photoshop (Adobe).\n\nIn vitro maturation of X. laevis oocytes\n\nX. laevis oocytes arrested in prophase I were matured into metaphase II arrested oocytes by incubating immature oocytes in OCM supplemented with 8 μM progesterone at 18°C for 12–14 hours. Maturation was visually confirmed by the appearance of a maturation spot.\n\nFertilization and embryonic development assays\n\nX. laevis\n\nFor each experimental trial, development of X. laevis embryos was assessed from approximately 20–40 eggs in each experimental condition. In total, 20–90 μL of the sperm suspension was used to fertilize eggs depending on the volume of the dish. Approximately 90–120 minutes after insemination, the appearance of cleavage furrows was used to assess the initiation of embryonic development. In the case of the TPEN timing assay, eggs were imaged every 10 minutes beginning at 60 minutes postinsemination to assess for development to the two-cell stage. Each assay was repeated at least three times with gametes from different males and females and on different experiment days.\n\nS. purpuratus\n\nS. purpuratus sperm were activated by 5:1,000 dilution into spASW. In total, 30 μL of activated sperm were added to a 4-ml suspension of eggs in spASW supplemented with varying concentration of ZnSO4. Successful fertilization was visually confirmed 2 minutes after sperm addition by the raising of the fertilization envelope. Development was assayed 90–120 minutes postfertilization based on the appearance of cleavage furrows.\n\nH. symbiolongicarpus\n\nFor development assays, equal volumes of H. symbiolongicarpus sperm and egg solutions were mixed together with varying concentrations of ZnSO4 in hASW. Development was assayed at 60 minutes postfertilization based on the appearance of cleavage furrows.\n\nH. symbiolongicarpus viability assay\n\nTo assay for possible toxic side effects of zinc on H. symbiolongicarpus embryos, equal volumes of H. symbiolongicarpus sperm and egg solutions were mixed together in an hsASW solution lacking zinc. At 30 minutes following insemination, eggs were transferred with a plastic transfer pipette to a 50-mL Falcon tube. Approximately 20 mL of hsASW with 10 μM ZnSO4 was added. Eggs were placed in a petri dish, and the process was repeated until 50 mL of hsASW + ZnSO4 was used. Eggs were finally placed in a petri dish in the hsASW + ZnSO4 solution and incubated 2–3 days at room temperature. A proportion of living larvae was assessed the following day.\n\nRemoving the jelly coat surrounding X. laevis eggs\n\nIn some experiments, the jelly coat surrounding X. laevis eggs was removed prior to fertilization [38,41]. To do so, eggs were agitated in 45 mM β-mercaptoethanol in MR/3 (pH 8.5) for 2–3 minutes. Once removal of the jelly coat was confirmed by visual observation, eggs were neutralized in MR/3 (pH 6.5), followed by three washes in MR/3 (pH 7.8).\n\nParthenogenic egg activation\n\nX. laevis. For development assays following parthenogenic activation, eggs were placed in 10 μM ionomycin for 7 minutes, washed in MR/3 three times, and incubated in MR/3 for 120–150 minutes before developmental assessment.\n\nA. mexicanum\n\nActivation was induced by incubation of A. mexicanum eggs in MR/3 and incrementally adding 3 mM ionomycin to the solution, accumulating to a final concentration of approximately 300 μM ionomycin.\n\nD. rerio\n\nActivation was induced by hydrating the eggs with DDH2O [20]. Successful egg activation was assayed based on the appearance of a blastodisc and abortive cleavages, occurring 90 and 120 minutes posthydration, respectively.\n\nFluoZin-3 fluorometry\n\nX. laevis\n\nTo quantify extracellular zinc released during fertilization or parthenogenic activation, jelly was removed from batches of 30–100 freshly ovulated eggs. Jelly-free eggs were then inseminated with sperm or activated with 10 μM ionomycin. The solution (MR/3) surrounding the eggs was collected 45 minutes after sperm addition or 30 minutes after ionomycin addition. The fertilization solutions were then sedimented at 3,000 rpm for 5 minutes to pellet sperm, and the supernatant was transferred to a new tube.\n\nD. rerio\n\nTo quantify extracellular zinc released during activation of D. rerio eggs, batches of 40–120 freshly ovulated eggs were parthenogenically activated in DDH2O. At 45 minutes following DDH2O hydration, the solution surrounding the eggs was collected and mixed with equal parts DDH2O and MR to create an MR/3 solution. The zinc content of each MR/3 sample was quantified using FluoZin-3 photometry.\n\nX. laevis and D. rerio\n\nFluoZin-3 tetrapotassium salt was dispensed from a 1 mM stock in water for a final experimental concentration of 60 nM. Fluorescence intensity measurements were recorded in a 1-mm quartz cuvette in a Fluorolog3 spectrophotometer with FluoEssence software (both from HORIBA, Jobin Yovon). FluoZin-3–containing samples were excited with 492-nm light, and emission was recorded at 514 nm with 3-nm slit widths. The raw photometric signals were corrected for by subtracting the FluoZin-3–free background, collected prior to adding FluoZin-3 to each sample. The zinc was quantified using a standard curve [38,48,49] calculated with the following equation:\n\nwhere the constants Rmin (1 nM), Rmax (100 nM), and K* were obtained from MR/3 supplemented with known amounts of ZnSO4 ranging from 100 pM to 1 μM fitted to a Hill equation [38,48]. Although there was little variability between experiments, standard curves were generated for each experimental trial using the exact solution used for fertilization or activation. The following negative controls were assayed, each with no substantial zinc signal: MR/3 alone, MR/3 with sperm alone (sperm were removed by sedimentation prior to sample measurements), eggs alone (no sperm or ionomycin added), and MR/3 with ionomycin but no cells.\n\nTo determine the number of zinc ions released with fertilization or parthenogenic activation, the total zinc concentration measured by FluoZin-3 photometry was multiplied by the dilution factor for that sample and Avogadro’s number and divided by the total volume of solution in which eggs were inseminated from each trial and the number of eggs per trial.\n\nX. laevis eggs reportedly contain 65.8 ± 4 ng per egg of zinc [28]. The number of zinc ions contained by each X. laevis egg was calculated by dividing the zinc mass by the atomic mass of zinc (65.38) and then multiplying by Avogadro’s number.\n\nICP-MS\n\nEggs were dejellied and transferred to a clean 35-mm petri dish containing MR/3. All transfers were performed with disposable glass transfer pipettes. Eggs were activated with 100 nM to 10 μM ionomycin (free acid) application and incubated at room temperature for 30 minutes. The incubation solution was then collected and transferred to 15-mL conical tubes for storage at −20°C with up to 2.5% nitric acid prior to analysis by ICP-MS. Eggs were transferred to fresh MR/3 to assess activation 60–90 minutes after ionomycin addition. Biological controls included eggs in MR/3 (no ionomycin added), MR/3 alone, and MR/3 with 100 nM ionomycin.\n\nReleased zinc was quantified with a PerkinElmer NexION 300X ICP-MS. On each experimental day, the instrument was calibrated with a five-point calibration curve. A blank consisting of 2% sub-boil–distilled trace metal–grade nitric acid was run every 7–10 samples to rule out signal memory effects. Reported values reflect the zinc concentration from the number of activated eggs, following subtraction of the solution background (obtained from the egg-free MR/3 with ionomycin control).\n\nSupporting information"
+}

@@ -1,0 +1,187 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000562",
+  "doi": "10.1371/journal.pbio.3000562",
+  "externalIds": [
+    "pii:PBIOLOGY-D-19-03082",
+    "pmid:32730280",
+    "pmcid:PMC7392214"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Should a viral genome stay in the host cell or leave? A quantitative dynamics study of how hepatitis C virus deals with this dilemma",
+  "authors": [
+    {
+      "name": "Shoya Iwanami",
+      "first": "Shoya",
+      "last": "Iwanami",
+      "affiliation": "Graduate School of Systems Life Sciences, Kyushu University, Fukuoka, Japan",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-1474-5348"
+      ]
+    },
+    {
+      "name": "Kosaku Kitagawa",
+      "first": "Kosaku",
+      "last": "Kitagawa",
+      "affiliation": "Graduate School of Systems Life Sciences, Kyushu University, Fukuoka, Japan",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-3108-2152"
+      ]
+    },
+    {
+      "name": "Hirofumi Ohashi",
+      "first": "Hirofumi",
+      "last": "Ohashi",
+      "affiliation": "Department of Virology II, National Institute of Infectious Diseases, Tokyo, Japan; Department of Applied Biological Science, Tokyo University of Science, Noda, Japan"
+    },
+    {
+      "name": "Yusuke Asai",
+      "first": "Yusuke",
+      "last": "Asai",
+      "affiliation": "Disease Control and Prevention Center, National Center for Global Health and Medicine, Tokyo, Japan"
+    },
+    {
+      "name": "Kaho Shionoya",
+      "first": "Kaho",
+      "last": "Shionoya",
+      "affiliation": "Department of Virology II, National Institute of Infectious Diseases, Tokyo, Japan; Department of Applied Biological Science, Tokyo University of Science, Noda, Japan"
+    },
+    {
+      "name": "Wakana Saso",
+      "first": "Wakana",
+      "last": "Saso",
+      "affiliation": "Department of Virology II, National Institute of Infectious Diseases, Tokyo, Japan; The Institute of Medical Science, The University of Tokyo, Tokyo, Japan"
+    },
+    {
+      "name": "Kazane Nishioka",
+      "first": "Kazane",
+      "last": "Nishioka",
+      "affiliation": "Department of Virology II, National Institute of Infectious Diseases, Tokyo, Japan; Department of Applied Biological Science, Tokyo University of Science, Noda, Japan"
+    },
+    {
+      "name": "Hisashi Inaba",
+      "first": "Hisashi",
+      "last": "Inaba",
+      "affiliation": "Graduate School of Mathematical Sciences, The University of Tokyo, Tokyo, Japan"
+    },
+    {
+      "name": "Shinji Nakaoka",
+      "first": "Shinji",
+      "last": "Nakaoka",
+      "affiliation": "Faculty of Advanced Life Science, Hokkaido University, Sapporo, Japan; PRESTO, Japan Science and Technology Agency, Saitama, Japan",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-3277-9552"
+      ]
+    },
+    {
+      "name": "Takaji Wakita",
+      "first": "Takaji",
+      "last": "Wakita",
+      "affiliation": "Department of Virology II, National Institute of Infectious Diseases, Tokyo, Japan"
+    },
+    {
+      "name": "Odo Diekmann",
+      "first": "Odo",
+      "last": "Diekmann",
+      "affiliation": "Mathematisch Institute, Universiteit Utrecht, Utrecht, the Netherlands",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-4695-7601"
+      ]
+    },
+    {
+      "name": "Shingo Iwami",
+      "first": "Shingo",
+      "last": "Iwami",
+      "affiliation": "Department of Biology, Faculty of Sciences, Kyushu University, Fukuoka, Japan; MIRAI, JST, Saitama, Japan; Institute for the Advanced Study of Human Biology (ASHBi), Kyoto University, Kyoto, Japan; NEXT-Ganken Program, Japanese Foundation for Cancer Research (JFCR), Tokyo, Japan; Science Groove, Inc., Fukuoka, Japan",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-1780-350X"
+      ]
+    },
+    {
+      "name": "Koichi Watashi",
+      "first": "Koichi",
+      "last": "Watashi",
+      "affiliation": "Department of Virology II, National Institute of Infectious Diseases, Tokyo, Japan; Department of Applied Biological Science, Tokyo University of Science, Noda, Japan; MIRAI, JST, Saitama, Japan; Institute for Frontier Life and Medical Sciences, Kyoto University, Kyoto, Japan"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2020-07-30",
+  "dateAccepted": "2020-06-26",
+  "dateReceived": "2019-10-22",
+  "volume": "18",
+  "number": "7",
+  "pages": "e3000562",
+  "tags": [
+    "Biological cultures",
+    "Cell cultures",
+    "Differential equations",
+    "Discipline-v3/Biological cultures",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Cell cultures",
+    "Discipline-v3/Differential equations",
+    "Discipline-v3/Flaviviruses",
+    "Discipline-v3/Genetics",
+    "Discipline-v3/Genomics",
+    "Discipline-v3/Hepacivirus",
+    "Discipline-v3/Hepatitis C virus",
+    "Discipline-v3/Hepatitis viruses",
+    "Discipline-v3/Intracellular pathogens",
+    "Discipline-v3/Mathematical and statistical techniques",
+    "Discipline-v3/Mathematical models",
+    "Discipline-v3/Mathematics",
+    "Discipline-v3/Medical microbiology",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Microbial genomics",
+    "Discipline-v3/Microbial pathogens",
+    "Discipline-v3/Microbiology",
+    "Discipline-v3/Organisms",
+    "Discipline-v3/Partial differential equations",
+    "Discipline-v3/Pathogens",
+    "Discipline-v3/Pathology and laboratory medicine",
+    "Discipline-v3/Physical sciences",
+    "Discipline-v3/RNA viruses",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Viral genomics",
+    "Discipline-v3/Viral pathogens",
+    "Discipline-v3/Viral replication",
+    "Discipline-v3/Viral structure",
+    "Discipline-v3/Virions",
+    "Discipline-v3/Virology",
+    "Discipline-v3/Viruses",
+    "Flaviviruses",
+    "Genetics",
+    "Genomics",
+    "Hepacivirus",
+    "Hepatitis C virus",
+    "Hepatitis viruses",
+    "Intracellular pathogens",
+    "Mathematical and statistical techniques",
+    "Mathematical models",
+    "Mathematics",
+    "Medical microbiology",
+    "Microbial genomics",
+    "Microbial pathogens",
+    "Microbiology",
+    "Organisms",
+    "Partial differential equations",
+    "Pathogens",
+    "Pathology and laboratory medicine",
+    "RNA viruses",
+    "Type/Research Article",
+    "Viral genomics",
+    "Viral pathogens",
+    "Viral replication",
+    "Viral structure",
+    "Virions",
+    "Virology",
+    "Viruses"
+  ],
+  "abstract": "Virus proliferation involves gene replication inside infected cells and transmission to new target cells. Once positive-strand RNA virus has infected a cell, the viral genome serves as a template for copying (“stay-strategy”) or is packaged into a progeny virion that will be released extracellularly (“leave-strategy”). The balance between genome replication and virion release determines virus production and transmission efficacy. The ensuing trade-off has not yet been well characterized. In this study, we use hepatitis C virus (HCV) as a model system to study the balance of the two strategies. Combining viral infection cell culture assays with mathematical modeling, we characterize the dynamics of two different HCV strains (JFH-1, a clinical isolate, and Jc1-n, a laboratory strain), which have different viral release characteristics. We found that 0.63% and 1.70% of JFH-1 and Jc1-n intracellular viral RNAs, respectively, are used for producing and releasing progeny virions. Analysis of the Malthusian parameter of the HCV genome (i.e., initial proliferation rate) and the number of de novo infections (i.e., initial transmissibility) suggests that the leave-strategy provides a higher level of initial transmission for Jc1-n, whereas, in contrast, the stay-strategy provides a higher initial proliferation rate for JFH-1. Thus, theoretical-experimental analysis of viral dynamics enables us to better understand the proliferation strategies of viruses, which contributes to the efficient control of virus transmission. Ours is the first study to analyze the stay-leave trade-off during the viral life cycle and the significance of the replication-release switching mechanism for viral proliferation.",
+  "fullText": "Introduction\n\nHepatitis C virus (HCV) is an RNA virus specifically infecting liver cells. HCV produces progeny viruses rapidly, with approximately 1012 copies sometimes observed in patients [1]. Following virus entry into target cells, viral genomic RNA produces structural proteins (S proteins) and nonstructural proteins (NS proteins) (Fig 1A). Using the genomic RNA as a template, the viral NS proteins amplify HCV RNA (“RNA replication”). Genomic RNA can also be assembled with viral S proteins into progeny virions to be egressed outside of cells, creating the opportunity for transmission (in this study, we call the process including particle assembly and egress “release”). Thus, a single HCV genomic RNA molecule can be used either for RNA replication or for release, and the balance between these processes governs viral proliferation. The molecular mechanisms underlying each event in the viral life cycle have been extensively investigated [2,3], yet the replication-release trade-off and its significance for viral proliferation remain poorly understood.\n\nHCV JFH-1 is a genotype 2a strain isolated by our group from a patient with fulminant hepatitis [4]. JFH-1 has been a standard strain used for experiments to characterize HCV infection, virus-host interactions, and immune responses against HCV [4]. In addition, Jc1 or J6/JFH (a chimeric strain in which a region of the JFH-1 genome from the core to NS2 was replaced by sequences from another genotype 2a virus, the J6 strain) was developed as a laboratory strain to improve virus production. Jc1 is used for development of antiviral agents and vaccines, which requires large amounts of virus [5,6]. In spite of their high sequence similarity (97% identity over the whole genome), these two viruses have different virological characteristics especially in terms of the release process: whereas JFH-1 particles assemble on lipid droplet membranes, particle assembly of J6/JFH-1-chimeric laboratory strains is associated with endoplasmic reticulum–derived membranes [2,3]. Thus, these two related strains are a useful reference set to compare the dynamics of release and RNA replication.\n\nIn this study, we used a cell culture model of infection with these two HCV reference strains and measured the time course of viral production (including HCV RNA inside cells and virions produced outside of the cells), infectivity of progeny HCV, and infected cell numbers. We also developed a multiscale mathematical model to describe intra- and intercellular HCV dynamics. This interdisciplinary approach suggests that different strategies exist for viral proliferation: the stay-at-home strategy (JFH-1) and the leaving-home strategy (Jc1-n, a J6/JFH-1-chimeric strain). We discuss the relevance of these strategies for viral proliferation, while referring to [7] for wider evolutionary context.\n\nResults\n\nAge-structured multiscale modeling of HCV infection\n\nTo describe the intracellular replication dynamics of HCV viral RNA, we used the following mathematical model:\n\nwhere R(a) is the amount of intracellular viral RNA in cells that have been infected for time a. The intracellular viral RNA replicates at rate k per day, degrades at rate μ per day, and is released to extracellular space at rate ρ per day (Fig 1B). Note that if viruses have small or large ρ, then they tend to stay inside or leave the cell, respectively (see later). In our virus experiments (see Methods), the released viruses could infect other target cells. To describe multiround virus transmission (i.e., de novo infection), we needed to couple intracellular viral replication with a standard mathematical model for intercellular virus infection in cell culture [8,9] (Fig 1C). In S1 Text, we derived the following multiscale ordinary differential equation (ODE) model for HCV infection from the corresponding age-structured partial differential equation (PDE) model [10,11]:\n\nHere, the intercellular variables T(t) and I(t) represent the numbers of uninfected and infected target cells (cells/well), respectively, and V(t) and Vθ(t) represent the total amount of extracellular viral RNA (copies/well) and the extracellular viral infectious titer expressed (focus formation unit [ffu]/well), respectively. The intracellular variable A(t) represents the total amount of intracellular viral RNA. The parameters g and K represent the growth rate (per day) and the carrying capacity of target cells, respectively, and βθ and fθ are the converted infection rate constant ([ffu/well・day]-1) and the fraction of infectious virus (RNA copies・ffu-1), respectively. Note that we assume no cellular loss induced by infection because HCV is a noncytopathic virus [4]. We assumed that progeny viruses were cleared at rate c per day via degradation at rate cRNA per day and washing at rate cw per day (i.e., c = cRNA+cw), and that infectious virions lose infectivity at rate r. Because of the different RNA sequence and the resulting different RNA modification status as well as the different physical property of virions, specific stability/degradation rate of each virus strain is expected. Separately, we directly estimated g, K, c, μ, and r for both HCV JFH-1 and Jc1-n in S1 Fig. Detailed explanations of Eqs 2–6 are given in S1 Text.\n\nTo assess the variability of kinetic parameters and model predictions, we performed Bayesian estimation for the whole dataset using Markov chain Monte Carlo (MCMC) sampling (see Methods). Simultaneously, we fitted Eqs 2–6 to the experimentally determined numbers of uninfected and infected cells (cells/well), extracellular viral RNA (copies/well) and infectious titer (ffu/well), and intracellular viral RNA (copies/well). These figures were derived from infection experiments using different numbers of plated cells for either HCV JFH-1 or Jc1-n as described previously [8,9,12,13]. The remaining free model parameters (i.e., βθ, k, ρ, fθ) along with initial values for variables (i.e., T(0), I(0), A(0), Vθ(t), V(0)) were estimated from the MCMC sampling. Experimental measurements below the detection limit were excluded in the fitting. The estimated parameters and initial values are listed in Table 1 and S1 Table. The typical behavior of the model using these best-fit parameter estimates is shown together with the data in Fig 2 for HCV JFH-1 (orange) and Jc1-n (green) (see Methods for HCV strains) and indicated that Eqs 2–6 described the in vitro data very well. The shadowed regions corresponded to 95% posterior predictive intervals, the solid and dashed lines gave the best-fit solution (mean) for Eqs 2–6, and the orange circles and green triangles showed the experimental datasets.\n\nUsing the estimated parameters shared between the original PDE model in S1 Text and the transformed ODE model (i.e., Eqs 2–6), we successfully reconstructed age information for intracellular viral RNA in infected cells of infection age a, which cannot be obtained through conventional experiments alone (S2A Fig). S2B Fig shows the differences in intracellular JFH-1 and Jc1-n viral RNA levels in cells of infection age a. At the beginning of the experiment, intracellular viral RNA increased faster under Jc1-n infection than under JFH-1 infection (shown in green). However, intracellular JFH-1 viral RNA gradually accumulated to higher levels than Jc1-n at later time points after infection (shown in yellow to brown). These data illustrated the different dynamics of these two strains and the impact of these dynamics on intracellular viral RNA production, all resulting from different strategies to transmit the viral genome (see below).\n\nDynamics of HCV JFH-1 and Jc1-n strain replication\n\nOur model (Eqs 2–6) applied to time-course experimental data allowed us to extract the following kinetic parameters: the distribution of the rate constant for infection, βθ; the release rate of intracellular viral RNA, ρ; the converted fraction of infectious viral RNA, fθ; and the replication rate of intracellular viral RNA, k (Fig 3 and Table 1). Comparing these parameters for JFH-1 and Jc1-n showed a significant difference between the rate constant for infections, βθ, of JFH-1 (1.26×10−4 [ffu/well・day]-1, 95% CI 0.788–1.89×10−4 [ffu/well・day]-1) and Jc1-n (2.29×10−4 [ffu/well・day]-1, 95% CI 1.32–3.64×10−4 [ffu/well・day]-1) (p = 1.48×10−4 by repeated bootstrap t test) (Fig 3A). In addition, the release rates of intracellular viral RNA, ρ, for JFH-1 and Jc1-n were 2.36×10−2 per day (95% CI 1.73–3.15×10−2) and 6.38×10−2 per day (95% CI 4.20–9.34×10−2), respectively (p&lt;0.01 by repeated bootstrap t test) (Fig 3B). These estimates indicated that Jc1-n infects cells 1.82 times faster and produces progeny viruses from infected cells 2.70 times faster than JFH-1. The estimate was further validated by independent experiments, in which Jc1-n entry and virus production were indeed significantly higher than those of JFH-1, although early replication was similar for the two strains (S2 Text and S3A–S3C Fig). The cell line used in our in vitro model was deficient in interferon induction by HCV infection (S3D Fig), as reported previously [14]. No significant difference was apparent in the converted fraction of infectious virus, fθ (Fig 3C). Because JFH-1 and Jc1-n have identical nonstructural regions essential for RNA replication (NS3–NS5B), we estimated the same viral RNA replication rate, k, for these two viruses (Fig 3D). Hence, our parameter estimation captured the characteristics of the two strains well and was able to quantitatively describe viral infection dynamics.\n\nIn our multiscale model (Eqs 2–6), the accumulation rate of intracellular viral RNA was defined as the difference between the replication rate and the sum of the degradation rate and the release rate (i.e., k−μ−ρ). The distributions of calculated intracellular RNA accumulation rates for JFH-1 (1.19 per day, 95% CI 1.07–1.30) and Jc1-n (0.936 per day, 95% CI 0.819–1.05) are shown in Fig 3E (p = 8×10−6 by bootstrap t test) (Table 1). The preferential accumulation of JFH-1 RNA inside cells was consistent with its tendency toward gradual increased levels of intracellular RNA at later time points (S2B Fig). The difference in the site of virion assembly and the trafficking pathway as well as in the viral genome RNA stability may explain the higher accumulation of JFH-1 RNA in the cells. To further evaluate the total viral RNA level considering multiround virus transmission, the Malthusian parameter, M, was used as an indicator of the initial growth rate of intracellular viral RNA for each HCV strain [8,12,15]. Here, the Malthusian parameter was given by\n\n(see S3 Text for derivation of the Malthusian parameter). The Malthusian parameters for JFH-1 and Jc1-n were calculated as 1.19 (95% CI 1.07–1.30) and 0.936 (95% CI 0.819–1.05), respectively, and were significantly different from one another (p = 8×10−6 by bootstrap t test) (Fig 3F and Table 1). Interestingly, even if Jc1-n had a larger infection rate, βθ, and release rate, ρ, compared with JFH-1, the initial growth rate of total JFH-1 RNA was higher than that of Jc1-n. This result demonstrated that the capacity to accumulate viral RNA inside cells predominantly determines the initial growth rate rather than release of progeny viruses.\n\nStay-at-home strategy or leaving-home strategy for “optimizing” HCV proliferation\n\nWe investigated how differences between the two strains, JFH-1 and Jc1-n, might be interpreted in an evolutionary perspective. As mentioned above, we considered two opposing strategies: the “stay-at-home strategy” and the “leaving-home strategy”: if viruses have smaller ρ, they preferentially stay inside the cell, but if they have larger ρ, they leave the cell. To quantitatively characterize these different strategies, we defined the fraction of viral RNA remaining in the cells ((k−μ−ρ)/k), released from the cells (ρ/k), and degraded in the cells (μ/k) within the total intracellular viral RNA produced (Fig 4A). Using all accepted MCMC parameter estimates from the time-course experimental datasets, we calculated that the fractions of viral RNA remaining were 31.6% and 25.0%, the fractions of viral RNA degraded were 67.7% and 73.3%, and the fractions of viral RNA released were 0.629% and 1.70% for JFH-1 and Jc1-n, respectively (Fig 4B). Comparing the lattermost fractions, Jc1-n used intracellular viral RNA 2.70 times more for virus release than JFH-1, explaining the rapid transmission of Jc1-n (S2B Fig). These results indicate the preferential “leaving-home” strategy of Jc1-n as compared with JFH-1, which adopts a “stay-at-home” strategy.\n\nTo further investigate these two opposing strategies, we addressed the relevance of viral RNA release rates for viral proliferation using in silico analysis. With various values of the release rate of intracellular viral RNA, ρ, we calculated the Malthusian parameter (Eq 7) for each strain as an indicator of viral fitness (Fig 4C). Each curve shows Malthusian parameters calculated using 100 parameter sets sampled from MCMC parameter estimates as functions of ρ, and each gray vertical line is the corresponding estimated release rate. Interestingly, the smaller the release rate, the larger the Malthusian parameter HCV achieves. This is because intracellular viral RNAs can be amplified faster compared with viral RNAs outside of cells that are degraded or enter new cells. This result showed that the JFH-1 strain is more optimized in terms of its Malthusian parameter compared with Jc1-n because of the smaller estimated values of ρ. That is, HCV JFH-1 adopts the stay-at-home strategy for acquiring a higher initial growth rate.\n\nNext, we defined the cumulative number of newly infected cells at time t to evaluate viral transmissibility:\n\nWe also calculated the cumulative number of newly infected cells for each strain using the means of the estimated parameters as functions of ρ (Fig 4D). Each curve shows the calculated cumulative numbers of infected cells until 3, 5, 7, 9, and 11 days post infection, and the gray vertical line represents the mean release rate estimated from the infection experiment. The value of the release rate, which maximized the cumulative number of newly infected cells, was between 0.1 and 0.5. This is because an intermediate release rate effectively increases extracellular viral RNA for new infection: lower release rates do not effectively produce new infections, whereas higher release rates decrease intracellular viral RNA levels and thus diminish future new infections. Thus, it appears that Jc1-n is more optimized for producing newly infected cells. This implies that HCV Jc1-n adopts the leaving-home strategy to acquire an advantage in producing newly infected cells.\n\nTaken together, our theoretical investigation based on viral infection experiments revealed that the JFH-1 strain optimizes its initial growth rate, but the Jc1-n strain optimizes de novo infection. Ours is the first report to quantitatively evaluate these opposing evolutionary strategies and to show their significance for virus proliferation at the intracellular and intercellular levels.\n\nDiscussion\n\nTo understand the replication mechanisms of HCV and to develop effective drugs for the treatment of HCV, many mathematical modeling studies have been conducted. A mathematical model describing the intracellular dynamics of HCV replication in detail provided a framework to investigate HCV replication dynamics using the well-established HCV replicon system [16]. Another study combined data obtained from the HCV replicon system with an expanded mathematical model and revealed that the replication compartment and unknown host factors played important roles in the maintenance and control of viral RNAs in cells [17]. Another expanded and modified model using data from an HCV cell culture system enabled predictions of the dynamics of HCV infection and viral protein mechanisms [18]. A multiscale model was applied to data from patients treated with several drugs, based on a basic mathematical model of viral dynamics with age structures of HCV replication; this work provided new insights into viral decay dynamics and the mechanisms of action of anti-HCV drugs [19,20]. Other multiscale models, combining the detailed intracellular replication dynamics and basic infection dynamics, also explained the dynamics of viral loads in vivo [21].\n\nIn this study, through a combined experimental-theoretical approach, we analyzed the dynamics of the HCV life cycle using two related HCV strains, JFH-1 and Jc1-n, employing different particle assembly/release strategies. We quantified the intra- and intercellular viral dynamics of these strains by applying an age-structured multiscale model to time-course experimental data from an HCV infection cell culture assay (Fig 2 and Table 1): as in [10,11], we transformed the multiscale model formulated by PDEs to an identical multiscale ODE model (i.e., Eqs 2–6), and we estimated parameters shared between the PDE and ODE models. It is technically challenging to obtain experimental measurements with age information, but thanks to the estimated values of these common parameters, we managed to reconstruct age information for intracellular viral RNA (S2 Fig). We also derived values for standard parameters as previously reported. For example, the numbers of viruses produced per cell per day in our multiscale model, which correspond to ρA(t)/I(t) in Eqs 2–6, were 102–103 and 103–104 for JFH-1 and Jc1-n, respectively. These values are relatively high compared with previously estimated values [1], potentially because of the high efficiency of viral replication in our Huh7.5.1 cell culture system. Note that values of ρ for JFH-1 and Jc1-n were both estimated as small compared with previous estimates [19], although we confirmed these estimated viral release rates using independent single-cycle infection experiments. This discrepancy is likely due to differences among experimental systems or mathematical models of intracellular viral replication dynamics. Interestingly, comparing the calculated Malthusian parameters (i.e., Eq 7) and the cumulative number of newly infected cells (i.e., Eq 8) between the two strains (Fig 3E and 3F), we found that the JFH-1 strain had a higher initial growth rate but that Jc1 produced more de novo infections.\n\nBased on our results, we propose two opposing strategies for viral proliferation: the “stay-at-home strategy” and the “leaving-home strategy.” From an evolutionary perspective, JFH-1 adopts a stay-at-home strategy and preferentially uses viral genomic RNA for increasing intracellular replication. In contrast, adopting a leaving-home strategy, Jc1-n uses more viral genomic RNA for producing progeny virions capable of new transmission events to increase the number of infected cells (Fig 4). Thus, Jc1-n infects cells 1.82 times faster and produces viral RNA from infected cells 2.70 times faster than JFH-1. In the context of the replication-release trade-off, a previous theoretical study indicated that allocation and reallocation of intracellular viral RNA toward translation and replication rather than virus release induced higher viral production [22]. Although our model did not describe intracellular dynamics in detail, the “stay-at-home strategy” of JFH-1, resulting in more efficient accumulation of viruses by remaining in cells, was partially consistent with the results of previous work. Our group and others reported that JFH-1 assembled progeny virions on the membranes of hepatic lipid droplets, whereas J6/JFH-1 chimeric strains mainly used endoplasmic reticulum–derived membranes for particle production [2,3]. Although the molecular aspects of this difference have been analyzed, its significance for viral proliferation and dynamics is not completely understood. Our results raise the possibility that different subcellular locations for particle assembly and subsequent differential intracellular trafficking impact the rates of particle assembly and release, which in turn determine virus proliferation. Further analysis might shed light on why one HCV strain has to be assembled on the lipid droplet membrane whereas another assembles in association with the endoplasmic reticulum.\n\nWe confirmed that the replication rate and release rate can be approximated as constant regardless of infection age using independent single-cycle experiments. Thus, we assumed the kinetic parameters of intracellular replication were constant, which is a potential limitation of our study. To further validate this assumption, we confirmed that the numerical solution of the multiscale model with time-dependent intracellular kinetic parameters coincided well with that of our multiscale model (i.e., constant kinetic parameters). In addition, by comparison with previous models describing the HCV replicon, HCV cell culture systems, or in vivo data [16–18,21], we excluded the detailed biological processes of HCV replication to enable simple and robust parameter estimation. Thus, our tightly designed multicycle infection experiments and multiscale mathematical model enabled us to evaluate intracellular strategies of HCV strains on the basis of various aspects such as viral fitness and transmissibility, which together reflected the entire infection process.\n\nThe choice of replication strategy not only determines virus proliferation but also affects the pathogenic features of the virus: JFH-1, which preferentially amplifies intracellular RNA, caused fulminant hepatitis with rapid viral replication and severe inflammation. By contrast, J6, the original strain encoding the Jc1-n structural region, was isolated from a patient with chronic hepatitis and generally replicates more moderately, with robust spread of infected cells used as a longer-term strategy to establish persistent infection. Characterization of the proliferation strategies of viruses is of significant importance when trying to understand their clinical as well as evolutionary properties.\n\nMethods\n\nCell culture and HCV infection\n\nHuh-7.5.1 (kindly provided by Dr. Francis Chisari, The Scripps Research Institute) and Huh7-25 cells were cultured in Dulbecco’s Modified Eagle’s Medium (Invitrogen) supplemented with 10% fetal bovine serum (Sigma), 10 units/mL penicillin, 10 mg/mL streptomycin, 0.1 mM nonessential amino acids (Invitrogen), 1 mM sodium pyruvate, and 10 mM HEPES (pH 7.4) at 37°C under a humidified atmosphere containing 5% CO2. We used HCV strains JFH-1, a genotype 2a clinical isolate from a patient with fulminant hepatitis [4], and Jc1-n, a J6/JFH-1 chimeric laboratory strain [13]. JFH-1 and Jc1-n have 96.7% amino acid identity over the whole genome. HCV inoculum for infection experiments was recovered from the culture supernatants of Huh-7.5.1 cells transfected with the corresponding HCV RNA as described [4]. Huh-7.5.1 cells were inoculated with JFH-1 or Jc1-n at a multiplicity of infection (MOI) of 0.05 for 4 hours and then passaged to seed a new 96-well plate at different cell densities (1,000, 2,000, or 4,000 cells/well). Under these conditions, the starting number of HCV-infected cells varied. At days 0, 1, 2, 3, and 4 post seeding, culture supernatants and cell lysates were recovered to quantify HCV RNA by real-time RT-PCR as previously described [13]. The infectivity of HCV in culture supernatants was measured using a focus-forming assay as described [13]. To quantify the number of uninfected and infected cells, cells were fixed and stained with anti-HCV core antibody by immunofluorescence assay as described [13]. We prepared three replicate samples for these experiments and used the average values of replicates for analysis.\n\nData fitting and parameter estimation\n\nThe parameters g and K were separately estimated (see S4 Text) and fixed at 0.670 per day and 4.12×104 cells, respectively, for the JFH-1 strain and 0.665 per day and 3.75×104 cells, respectively, for the Jc1-n strain. A statistical model adopted from Bayesian inference assumed that measurement error followed a normal distribution with mean zero and constant variance (error variance). The noninformative prior distributions with upper and lower limits were used as the prior distributions of parameters. The posterior predictive parameter distribution as an output of MCMC computation represented parameter variability. Distributions of model parameters (i.e., βθ, k, ρ, fθ) and initial values (i.e., T(0), I(0), A(0), Vθ(t), V(0)) in Eqs 2–6 were inferred directly by MCMC computations. We also tested structural identifiability for all parameter estimates by calculating profile likelihood [23,24] using package dMod [25] in R Statistical Software [26]. All parameter estimates were confirmed to be structural identifiable (see S4 Fig). Distributions of derived quantities were calculated from the inferred parameter sets (Fig 3E and 3F for graphical representation). A set of computations for Eqs 2–6 with estimated parameter sets gives a distribution of outputs (the number of cells and the intra- and extracellular viral loads) as model predictions. To investigate variation in model predictions, global sensitivity analyses were performed. The ranges of possible variation are shown in Fig 2 as 95% posterior predictive intervals. Technical details of MCMC computations are summarized below.\n\nStatistical analysis\n\nPackage FME [27] in R Statistical Software [26] was used to infer posterior predictive parameter distributions. The delayed rejection and Metropolis method [28] was used as a default computation scheme for FME to perform MCMC computations. MCMC computations for parameter inference were implemented using the predefined function modMCMC() in package FME as introduced in Methods. Convergence of Markov chains to a stationary distribution was required to ensure parameter sets were sampled from a posterior distribution. Only the last 90,000 of 100,000 chains were used as burn-in. The convergence of the last 90,000 chains was manually checked with figures produced by package coda [29], a collection of diagnostic tools for MCMC computation. The 95% posterior predictive intervals shown as a shadowed region in each panel of Fig 2 were produced from 100 randomly chosen inferred parameter sets and corresponding model predictions. We employed a bootstrap t test [30] to quantitatively characterize differences in parameters and derived quantities between HCV JFH-1 and Jc1-n. In total, 100,000 parameter sets were sampled with replacement from the posterior predictive distributions to calculate the bootstrap t-statistics. To avoid potential sampling bias, the bootstrap t test was performed 100 times repeatedly. The averages of the computed p-values were used as indicators of differences.\n\nSupporting information"
+}

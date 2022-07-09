@@ -1,0 +1,39 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3001151",
+  "doi": "10.1371/journal.pbio.3001151",
+  "externalIds": [
+    "pii:PBIOLOGY-D-21-00520",
+    "pmid:33667221",
+    "pmcid:PMC7935231"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Correction: Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature",
+  "authors": [
+    {
+      "name": "Denes Szucs",
+      "first": "Denes",
+      "last": "Szucs"
+    },
+    {
+      "name": "John P. A. Ioannidis",
+      "first": "John P. A.",
+      "last": "Ioannidis"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2021-03-05",
+  "volume": "19",
+  "number": "3",
+  "pages": "e3001151",
+  "tags": [
+    "Type/Correction"
+  ],
+  "fullText": "Following a re-analysis and validation of all analyses in this article, a very minor discrepancy in few numbers was uncovered, because in a power calculation for two-sample t-tests, (df+2)/2 was used in a formula instead of df+2.\n\nThe third sentence of the abstract should read: “Median power to detect small, medium, and large effects was 0.12, 0.46, and 0.78, reflecting no improvement through the past half-century.”\n\nIn the sixth paragraph of the results section, the third sentence should read: “For example, to detect a small true effect (d = 0.2), 90% of cognitive neuroscience records had power &lt; 0.242.\n\nThe first sentence of the tenth paragraph of the Results section should read: “The somewhat higher power in the journals we classified as more medically oriented was driven by the Journal of Psychiatry Research (JPR in Fig 4; median power to detect small, medium and large effects: 0.24, 0.79, 0.94), which includes more behavioral studies than the other two journals we classified as ‘medical.’”\n\nIn the 14th paragraph of the Results section, the fourth sentence on should read: “In the best case of having H0:H1 odds = 1:1 = 1 and zero bias, FRP is 13.0%. A 10% bias pushes this to 22%. Staying in the optimistic zone when every second to every sixth of hypotheses work out (1 ≤ H0:H1 odds ≥ 5) and with relatively modest 10%–30% experimenter bias, FRP is 22%–70% (median = 50%). That is, between one- to three-quarters of statistically significant results will be false positives. If we now move into the domain of slightly more exploratory research where even more experimental ideas are likely to be false (5 &lt; H0:H1 odds &lt; 20; bias = 10%–30%), then FRP grows to at least 59%–90% (median = 75%).”\n\nSimilarly, corrected power estimates in Table 1 are 0.11, 0.15, 0.42, 0.46, 0.75, and 0.71 in the first row; 0.16, 0.24, 0.64, 0.63, 0.88, 0.84 in the second row; 0.16, 0.24, 0.62, 0.60, 0.87, 0.82 in the third row; and 0.12, 0.18, 0.46, 0.52, 0.78, 0.76 in the fourth row. All other rows and columns remain unchanged.\n\nPlease see corrected Table 1.\n\nSupporting information"
+}

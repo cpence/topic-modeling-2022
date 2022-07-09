@@ -1,0 +1,59 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000753",
+  "doi": "10.1371/journal.pbio.3000753",
+  "externalIds": [
+    "pii:PBIOLOGY-D-20-01272",
+    "pmid:32428044",
+    "pmcid:PMC7236971"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Correction: Representation of abstract semantic knowledge in populations of human single neurons in the medial temporal lobe",
+  "authors": [
+    {
+      "name": "Thomas P. Reber",
+      "first": "Thomas P.",
+      "last": "Reber"
+    },
+    {
+      "name": "Marcel Bausch",
+      "first": "Marcel",
+      "last": "Bausch"
+    },
+    {
+      "name": "Sina Mackay",
+      "first": "Sina",
+      "last": "Mackay"
+    },
+    {
+      "name": "Jan Boström",
+      "first": "Jan",
+      "last": "Boström"
+    },
+    {
+      "name": "Christian E. Elger",
+      "first": "Christian E.",
+      "last": "Elger"
+    },
+    {
+      "name": "Florian Mormann",
+      "first": "Florian",
+      "last": "Mormann"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2020-05-19",
+  "volume": "18",
+  "number": "5",
+  "pages": "e3000753",
+  "tags": [
+    "Type/Correction"
+  ],
+  "fullText": "The response window used to calculate Z-scored firing rates was incorrectly indicated as ranging from 0 ms to 1000 ms after stimulus onset. The correct range is 100 ms to 1000 ms post-stimulus. The response window definition for one analysis, namely the decoding analysis on individual trials, however, was performed using the incorrect definition of the response window. This analysis was re-run using the same response window definition as in the analysis with the averaged firing rates across trials of a stimulus, which resulted in minimal changes to Fig 4F–4K. Statistical analyses and the conclusions drawn from these analyses remain unchanged. The new data frames have been uploaded to the public repository with the data accompanying the paper (https://github.com/rebrowski/abstractRepresentationsInMTL)"
+}

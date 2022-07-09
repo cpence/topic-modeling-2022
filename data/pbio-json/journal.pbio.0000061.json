@@ -1,0 +1,25 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0000061",
+  "doi": "10.1371/journal.pbio.0000061",
+  "license": "This is an open-access article distributed under the terms of the Public Library of Science Open-Access License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "New Screen Identifies Elusive MicroRNA Targets",
+  "journal": "PLoS Biology",
+  "date": "2003-12",
+  "dateElectronic": "2003-12-22",
+  "volume": "1",
+  "number": "3",
+  "pages": "e61",
+  "tags": [
+    "Discipline/Genetics and Genomics",
+    "Discipline/Molecular Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "Biology has come a long way since the days of DNA makes RNA makes protein. This “central dogma of molecular biology” does not tell the whole story, but then it was not meant to. Francis Crick proposed the term in 1958 to describe the unidirectional transfer of information from a genetic alphabet to an amino acid alphabet and saw it as a useful model for guiding investigations of protein synthesis, at a time when little was known about molecular biology. Twelve years later, the discovery of reverse transcription—the transfer of genetic information from RNA to DNA, which is how retroviruses invade their hosts—was an unexpected change in the paradigm. But today the study of RNA is a burgeoning field, growing along with new discoveries of the molecule's diversity of form and function.\n\nAmong the most recently recognized RNAs are the “small RNAs.” They do not code for proteins, but regulate how and whether coding RNA, called messenger RNA (mRNA), functions. Unknown before 1993, the 21- to 23-nucleotide transcripts known as microRNAs (miRNAs) are thought to regulate gene expression by binding to mRNAs and inducing their cleavage or blocking their translation into proteins. Hundreds of miRNAs have been identified in plants, worms, flies, and humans, but function has been attributed to only four animal miRNAs. Now Alexander Stark, Julius Brennecke, Robert Russell, and Stephen Cohen have developed a computational model to predict miRNA targets in Drosophila, the first step in understanding the functions of miRNAs.\n\nProgress in identifying the targets and associated functions of animal miRNAs has been slow, partly because traditional genetics methods—which investigate gene function by inducing mutations and observing what happens when a gene is disabled—are less efficient since the genes that code for miRNAs are small. The small size of the miRNA sequence also hampers computer-based predictions of targets. Further complicating matters, miRNA/mRNA pairings in animals tend to be “imperfect”—the miRNA sequence and the mRNA sequence are not entirely complementary—making them harder to detect.\n\nStark, Brennecke, et al. have overcome these problems by combining a computational genome screen customized to identify potential miRNA targets with an RNA-folding program that evaluates the structural and thermodynamic plausibility of the predicted pairs and distinguishes real from random matches. The functional sites for the few validated miRNA/mRNA pairs are all located in the 3′ untranslated region (UTR) of mRNA and are conserved in the same region of homologous genes from related species. (Many regulatory elements are thought to reside in noncoding regions of the genome. Two such elements, the 3′ UTR and 5′ UTR of mRNAs, are known to harbor sequences essential for gene expression and regulation.) To create a database of such conserved UTRs, Stark, Brennecke et al. compared the UTRs of functionally equivalent genes in the fruitfly species Drosophila melanogaster and Drosophila pseudoobscura. Then they searched these conserved genetic elements for potential target sequences by requiring partial complementarity to the known miRNAs. Going a step further, the researchers also searched the genome of the mosquito Anopheles gambiae—which diverged from Drosophila some 250 million years ago—to see whether the predicted targets were conserved there as well. They found that requiring conservation in Anopheles was more useful in confirming predicted Drosophila targets rather than identifying them.\n\nEfforts to find more animal miRNA targets should get easier, the researchers suggest, as more is learned about the fly and mosquito genomes and as more is understood about the structural and biochemical nature of miRNA/mRNA pairing—for example, which regions and structures are essential for pairings. Until then, the targets predicted in this new screen will help scientists validate more miRNA targets and ultimately reveal just how large a role these small RNAs play in regulating the genome."
+}

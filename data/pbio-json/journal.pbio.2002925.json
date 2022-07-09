@@ -1,0 +1,119 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.2002925",
+  "doi": "10.1371/journal.pbio.2002925",
+  "externalIds": [
+    "pii:pbio.2002925",
+    "pmid:28771471",
+    "pmcid:PMC5542426"
+  ],
+  "license": "This is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "The Genomic Observatories Metadatabase (GeOMe): A new repository for field and sampling event metadata associated with genetic samples",
+  "authors": [
+    {
+      "name": "John Deck",
+      "first": "John",
+      "last": "Deck",
+      "affiliation": "Berkeley Natural History Museums, University of California, Berkeley, California, United States of America"
+    },
+    {
+      "name": "Michelle R. Gaither",
+      "first": "Michelle R.",
+      "last": "Gaither",
+      "affiliation": "Hawaii Institute of Marine Biology, University of Hawaii, Kaneohe, Hawaii, United States of America"
+    },
+    {
+      "name": "Rodney Ewing",
+      "first": "Rodney",
+      "last": "Ewing",
+      "affiliation": "Biocode, LLC, Junction City, Oregon, United States of America"
+    },
+    {
+      "name": "Christopher E. Bird",
+      "first": "Christopher E.",
+      "last": "Bird",
+      "affiliation": "Hawaii Institute of Marine Biology, University of Hawaii, Kaneohe, Hawaii, United States of America; Texas A&M University, Corpus Christi, Texas, United States of America"
+    },
+    {
+      "name": "Neil Davies",
+      "first": "Neil",
+      "last": "Davies",
+      "affiliation": "Gump South Pacific Research Station, University of California, Moorea, French Polynesia; Berkeley Institute for Data Science, University of California, Berkeley, California, United States of America"
+    },
+    {
+      "name": "Christopher Meyer",
+      "first": "Christopher",
+      "last": "Meyer",
+      "affiliation": "National Museum of Natural History, Smithsonian Institution, Washington, DC, United States of America"
+    },
+    {
+      "name": "Cynthia Riginos",
+      "first": "Cynthia",
+      "last": "Riginos",
+      "affiliation": "University of Queensland, St Lucia, Queensland, Australia"
+    },
+    {
+      "name": "Robert J. Toonen",
+      "first": "Robert J.",
+      "last": "Toonen",
+      "affiliation": "Hawaii Institute of Marine Biology, University of Hawaii, Kaneohe, Hawaii, United States of America"
+    },
+    {
+      "name": "Eric D. Crandall",
+      "first": "Eric D.",
+      "last": "Crandall",
+      "affiliation": "School of Natural Sciences, California State University, Monterey Bay, Marina, California, United States of America"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2017-08-03",
+  "volume": "15",
+  "number": "8",
+  "pages": "e2002925",
+  "tags": [
+    "Biodiversity",
+    "Bioinformatics",
+    "Biological databases",
+    "Computational biology",
+    "Database and informatics methods",
+    "Database searching",
+    "Discipline-v3/Biodiversity",
+    "Discipline-v3/Bioinformatics",
+    "Discipline-v3/Biological databases",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Computational biology",
+    "Discipline-v3/Database and informatics methods",
+    "Discipline-v3/Database searching",
+    "Discipline-v3/Ecology",
+    "Discipline-v3/Ecology and environmental sciences",
+    "Discipline-v3/Evolutionary biology",
+    "Discipline-v3/Evolutionary genetics",
+    "Discipline-v3/Genetics",
+    "Discipline-v3/Genome analysis",
+    "Discipline-v3/Genomic databases",
+    "Discipline-v3/Genomics",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Sequence alignment",
+    "Discipline-v3/Sequence analysis",
+    "Discipline-v3/Sequence databases",
+    "Ecology",
+    "Evolutionary biology",
+    "Evolutionary genetics",
+    "Genetics",
+    "Genome analysis",
+    "Genomic databases",
+    "Genomics",
+    "Sequence alignment",
+    "Sequence analysis",
+    "Sequence databases",
+    "Type/Community Page"
+  ],
+  "abstract": "The Genomic Observatories Metadatabase (GeOMe, http://www.geome-db.org/) is an open access repository for geographic and ecological metadata associated with biosamples and genetic data. Whereas public databases have served as vital repositories for nucleotide sequences, they do not accession all the metadata required for ecological or evolutionary analyses. GeOMe fills this need, providing a user-friendly, web-based interface for both data contributors and data recipients. The interface allows data contributors to create a customized yet standard-compliant spreadsheet that captures the temporal and geospatial context of each biosample. These metadata are then validated and permanently linked to archived genetic data stored in the National Center for Biotechnology Information’s (NCBI’s) Sequence Read Archive (SRA) via unique persistent identifiers. By linking ecologically and evolutionarily relevant metadata with publicly archived sequence data in a structured manner, GeOMe sets a gold standard for data management in biodiversity science.",
+  "fullText": "The missing metadata\n\nDocumenting patterns of global biodiversity and understanding how that diversity is generated and maintained are important steps towards mitigating the effects of anthropogenic stressors [1–3], whether local or global. Genetic data are key to this effort as these data can be used to: (a) identify cryptic diversity, (b) define population structure and associated management units, (c) identify hot spots of genetic diversity for the conservation of adaptive potential, (d) study the mechanisms driving patterns of biodiversity to identify regions of high evolutionary potential [4,5], and (e) monitor the flux of both intra- and interspecific genetic diversity at a particular site or within a particular region [6]. Whereas there have been several coordinated efforts to document patterns of species diversity (e.g., Global Biodiversity Information Facility [GBIF, http://www.gbif.org/; see Table 1 for acronym definitions], Ocean Biogeographic Information System [http://www.iobis.org/]), there have been fewer attempts to document and archive global patterns of genetic diversity. Notable efforts in this direction, however, include the Earth Microbiome Project [7,8] and Ocean Sampling Day [9], focusing on microbes, the Genomic Observatories Network (GO Network) of research sites focusing on entire ecosystems [10,11], and analyses of data archived in public repositories [12].\n\nWhile granting agencies and publishers enforce data accessibility and open access requirements for genetic data, they do not always require standardized metadata [13–15]. The public genetic repositories, such as NCBI and the European Bioinformatics Institute (EMBL-EBI), were established to store large volumes of sequence data. With vast capacity for storage and curation of genetic data, their role as repositories for the growing volume of genetic data is crucial; however, NCBI, for example, encourages but does not require the standardized metadata needed for ecological- or evolutionary-level analyses. Yet standards do exist for such metadata, notably thanks to the efforts of the Genomic Standards Consortium (GSC) [16] and the Biodiversity Information Standards Organization (known as “TDWG,” http://www.tdwg.org/). The GSC’s Minimum Information about any (x) marker Sequence (MIxS) standard [17] specifies a set of metadata standards for genetic data. Likewise, TDWG’s Darwin Core is a body of standards for describing and sharing biodiversity information [18]. However, neither NCBI nor EMBL-EBI currently enforces these standards or offers a portal for searching MIxS-compliant data. The problem is not only with the genetic repositories. The Dryad Digital Repository is an important resource that links data to their associated scientific publications and makes those data citable, yet Dryad does not enforce set standards or metadata requirements.\n\nNew databases and repositories that accommodate specific disciplines and subfields are coming online, e.g., http://reefgenomics.org/ [19], but there remains no central cross-disciplinary repository that enforces MIxS standards for sequence data and requires submission of the associated metadata describing the ecological and geographic context of source tissues. This “metadata gap” means that vital information about sampling events, such as sampling location, date, habitat, and organism life history, are rarely reported. Instead, most of this information is left unpublished, greatly diminishing the potential value (reuse) of the data [13,14,20].\n\nFilling the metadata gap: GeOMe\n\nTo fill the metadata gap for genetic sequence data, we have developed a web-based database and infrastructure to aid collaboration and the cross dissemination of published genetic data (http://geome-db.org/). GeOMe can be easily expanded as necessary to accommodate an increasing diversity of data from various research communities. Early development began as part of the Moorea Biocode Project (http://biocode.berkeley.edu/, Moore Foundation) and subsequently the National Science Foundation (NSF) Biological Science Collections Tracker project (http://biscicol.blogspot.com/). Development continued under a NSF Research Coordination Network (RCN) grant [16], which led to the establishment of the GO Network [10,11] as a joint initiative of GSC and the Group on Earth Observations Biodiversity Observation Network [21]. The resulting informatics stack (Biocode Commons) reached its current level of development under the auspices of another NSF RCN (the Diversity of the Indo-Pacific Network, http://diversityindopacific.net/) and is now being expanded for the broader scientific community as GeOMe.\n\nThe suite of tools provided through GeOMe provides a platform for investigators to publish standardized metadata that captures the temporal, environmental, geospatial, and even scholarly context for each sample and its derivative genetic data. GeOMe’s user-friendly, web-based interface allows users, from student and single investigator–driven projects to large scientific consortia, to customize metadata templates using the Biocode Field Information Management System (FIMS) [22]. Users select from a set of fields constructed from standard Darwin Core terms (http://rs.tdwg.org/dwc/) to create a metadata template that best reflects their needs and can be reused across multiple projects within or between labs (Fig 1). Data field options include hypotheses about the taxon (if an individual organism) or taxa in the sample (e.g., bacteria) and information on sampling habitat, life history (if an individual organism), details of sampling location and time, and publications deriving from the data. GeOMe provides a set of customizable project-level metadata validation rules, which ensures that metadata are compliant with both Darwin Core and MIxS standards (i.e., each sample has a unique identifier and required fields are provided). Thus, research communities can easily design their own templates and validation rules to describe, for example, an environmental sample used in metagenomics, tissues associated with transcriptomics, or an individual organism’s genomic sequence. Once the metadata template has been created, no internet connection is required for template editing until the data are uploaded, and therefore the system can be used in remote locations and with any personal computer that employs spreadsheet software (e.g., Microsoft Excel or comma-separated value [CSV] formats are supported).\n\nThe FIMS architecture (https://github.com/biocodellc) draws on community vocabularies (Darwin Core and MIxS) with terms stored internally as Uniform Resource Identifiers (URIs) and as specified by the Resource Description Framework (RDF) model. Most user-supplied data are stored as attributes of a core “sample” and are joined to either Sanger-based sequence data (including the marker name and actual sequence) or high throughput sequence data (storing metadata associated with sequence data stored on NCBI’s SRA). RDF-based attributes and class names for samples and sequences are then indexed in a document-store database (ElasticSearch, http://www.elastic.co/) for fast retrieval.\n\nTo submit data to GeOMe (Fig 1), contributors upload a tab-delimited text file together with a Fast Alignment Search Tool-All (FASTA) file (for Sanger sequence data) or a list of Fast Alignment Search Tool-Quality (FASTQ) file names (for high throughput sequence data, in which FASTQ files contain data from an individual sample). GeOMe then validates the dataset, checking to ensure that a set of minimum required fields are complete (following project-specific rules) and that sequence identifiers match metadata identifiers. When rules are violated, an informative and easy-to-interpret error message appears, prompting the user to fix the issue before proceeding. The contributor is also presented with a map of sampling localities to allow them to verify the geospatial information. Once validated, GeOMe assigns persistent, universally unique identifiers to each sample (EZID: California Digital Library; http://ezid.cdlib.org/), which are used for linking samples between GeOMe, NCBI, and other repositories. Sanger sequence data are stored as a text field within the database. For high throughput sequence data, GeOMe provides the data contributor with a completed batch metadata file for NCBI’s SRA and a SRA BioSample file to facilitate submission of the data to the NCBI SRA. Once the data are uploaded to the SRA, GeOMe harvests the NCBI accession numbers, thereby creating a direct link between the genetic data, the sample EZID, and associated metadata. To maximize open access, metadata are available under a Creative Commons Zero license (CC0) and are automatically pushed to GBIF using a dedicated Integrated Publishing Toolkit (IPT, http://www.gbif.org/ipt) installation [23]. Finally, users can choose to embargo their uploaded datasets from public view for a period of up to 2 years from the date of submission. While we encourage all users to make their data immediately public and CC0 on upload, we recognize that GeOMe is useful in preparing and processing research outputs and, consequently, data may not be ready for public release.\n\nGeOMe is designed for flexibility and persistence using representational state transfer (REST) web services for communication between the database and the interface, while enabling potential third party applications to interact with services, as well. GeOMe’s web interface enables flexible searches based on any field and/or a geospatial bounding box (Fig 2). The GeOMe database may also be queried with a dedicated R package (geomedb; https://github.com/DIPnet/fimsR-access). GeOMe has also been designed so that it can be used in conjunction with the Biocode Laboratory Information Management System (LIMS; http://software.mooreabiocode.org) for the Geneious software platform (Biomatters, Incorporated). Sanger sequence data are available for download in FASTA format, while high throughput sequence data are provided as a list of SRA accession numbers. Associated metadata can then be downloaded in CSV and keyhole markup language (KML) formats. Already, the database contains metadata for &gt;35,000 Sanger sequences across 233 species supplied from &gt;50 participating laboratories. It has recently begun accepting metadata for high throughput FASTQ datasets. By using the FIMS architecture for metadata but continuing to store genetic sequence data at NCBI, we are helping to ensure long-term persistence of links between sequence data and its associated metadata while keeping the data searchable with NCBI’s Basic Local Alignment Search Tool (BLAST). We believe that this flexibility enables maximum integration with similar regional or discipline-specific data archival initiatives.\n\nConclusion\n\nA major challenge for biodiversity genomics research is the need to carry out physical sampling in the field (nucleotide sequences cannot be obtained remotely) and then to link biologically and ecologically important metadata with downstream data products, notably, published genetic sequences. No existing federated database provides this functionality. Yet, maintaining linkages among these data types is vital for data integration and analysis. Publicly archiving these metadata is essential to ensure scientific reproducibility and synthesis as well as to maximize potential reuse of sequence data as new techniques develop. Here, we provide a solution to the metadata gap: GeOMe. A bottom-up effort with buy-in from over 50 laboratories, our database is growing and adding new capacity while also setting the industry standard for metadata publication."
+}

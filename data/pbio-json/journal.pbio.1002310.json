@@ -1,0 +1,163 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1002310",
+  "doi": "10.1371/journal.pbio.1002310",
+  "externalIds": [
+    "pii:PBIOLOGY-D-15-00897",
+    "pmid:26633141",
+    "pmcid:PMC4669170"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "SBOL Visual: A Graphical Language for Genetic Designs",
+  "authors": [
+    {
+      "name": "Jacqueline Y. Quinn",
+      "first": "Jacqueline Y.",
+      "last": "Quinn",
+      "affiliation": "Autodesk Research, Autodesk Inc., San Francisco, California, United States of America"
+    },
+    {
+      "name": "Robert Sidney Cox III",
+      "first": "Robert Sidney",
+      "last": "Cox",
+      "suffix": "III",
+      "affiliation": "Chemical Science and Engineering, Kobe University, Kobe, Japan"
+    },
+    {
+      "name": "Aaron Adler",
+      "first": "Aaron",
+      "last": "Adler",
+      "affiliation": "Information and Knowledge Technologies, Raytheon BBN Technologies, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Jacob Beal",
+      "first": "Jacob",
+      "last": "Beal",
+      "affiliation": "Information and Knowledge Technologies, Raytheon BBN Technologies, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Swapnil Bhatia",
+      "first": "Swapnil",
+      "last": "Bhatia",
+      "affiliation": "Electrical and Computer Engineering, Boston University, Boston, Massachusetts, United States of America"
+    },
+    {
+      "name": "Yizhi Cai",
+      "first": "Yizhi",
+      "last": "Cai",
+      "affiliation": "School of Biological Sciences, University of Edinburgh, Edinburgh, United Kingdom"
+    },
+    {
+      "name": "Joanna Chen",
+      "first": "Joanna",
+      "last": "Chen",
+      "affiliation": "Fuels Synthesis and Technologies Divisions, Joint BioEnergy Institute, Emeryville, California, United States of America; Lawrence Berkeley National Lab, Berkeley, California, United States of America"
+    },
+    {
+      "name": "Kevin Clancy",
+      "first": "Kevin",
+      "last": "Clancy",
+      "affiliation": "Synthetic Biology Unit, ThermoFisher Scientific, Carlsbad, California, United States of America"
+    },
+    {
+      "name": "Michal Galdzicki",
+      "first": "Michal",
+      "last": "Galdzicki",
+      "affiliation": "Arzeda Corp, Seattle, Washington, United States of America"
+    },
+    {
+      "name": "Nathan J. Hillson",
+      "first": "Nathan J.",
+      "last": "Hillson",
+      "affiliation": "Fuels Synthesis and Technologies Divisions, Joint BioEnergy Institute, Emeryville, California, United States of America; Lawrence Berkeley National Lab, Berkeley, California, United States of America"
+    },
+    {
+      "name": "Nicolas Le Novère",
+      "first": "Nicolas",
+      "last": "Le Novère",
+      "affiliation": "Babraham Institute, Cambridge, United Kingdom"
+    },
+    {
+      "name": "Akshay J. Maheshwari",
+      "first": "Akshay J.",
+      "last": "Maheshwari",
+      "affiliation": "Stanford University School of Medicine, Stanford, California, United States of America"
+    },
+    {
+      "name": "James Alastair McLaughlin",
+      "first": "James Alastair",
+      "last": "McLaughlin",
+      "affiliation": "School of Computing Science, Newcastle University, Newcastle upon Tyne, United Kingdom"
+    },
+    {
+      "name": "Chris J. Myers",
+      "first": "Chris J.",
+      "last": "Myers",
+      "affiliation": "Department of Electrical and Computer Engineering, University of Utah, Salt Lake City, Utah, United States of America"
+    },
+    {
+      "name": "Umesh P",
+      "first": "Umesh",
+      "last": "P",
+      "affiliation": "Department of Computational Biology & Bioinformatics, University of Kerala, Kerala, India"
+    },
+    {
+      "name": "Matthew Pocock",
+      "first": "Matthew",
+      "last": "Pocock",
+      "affiliation": "School of Computing Science, Newcastle University, Newcastle upon Tyne, United Kingdom; Turing Ate My Hamster LTD, Newcastle upon Tyne, United Kingdom"
+    },
+    {
+      "name": "Cesar Rodriguez",
+      "first": "Cesar",
+      "last": "Rodriguez",
+      "affiliation": "Department of Biomedical Sciences, College of Medicine, Florida State University, Tallahassee, Florida, United States of America"
+    },
+    {
+      "name": "Larisa Soldatova",
+      "first": "Larisa",
+      "last": "Soldatova",
+      "affiliation": "Computer Science, Brunel University, London, United Kingdom"
+    },
+    {
+      "name": "Guy-Bart V. Stan",
+      "first": "Guy-Bart V.",
+      "last": "Stan",
+      "affiliation": "Department of Bioengineering, Centre for Synthetic Biology and Innovation, Imperial College London, South Kensington Campus, London, United Kingdom"
+    },
+    {
+      "name": "Neil Swainston",
+      "first": "Neil",
+      "last": "Swainston",
+      "affiliation": "Centre for Synthetic Biology of Fine and Specialty Chemicals (SYNBIOCHEM), University of Manchester, Manchester, United Kingdom"
+    },
+    {
+      "name": "Anil Wipat",
+      "first": "Anil",
+      "last": "Wipat",
+      "affiliation": "School of Computing Science, Newcastle University, Newcastle upon Tyne, United Kingdom"
+    },
+    {
+      "name": "Herbert M. Sauro",
+      "first": "Herbert M.",
+      "last": "Sauro",
+      "affiliation": "Bioengineering, University of Washington, Seattle, Washington, United States of America"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2015-12-03",
+  "volume": "13",
+  "number": "12",
+  "pages": "e1002310",
+  "tags": [
+    "Type/Community Page"
+  ],
+  "abstract": "Synthetic Biology Open Language (SBOL) Visual is a graphical standard for genetic engineering. It consists of symbols representing DNA subsequences, including regulatory elements and DNA assembly features. These symbols can be used to draw illustrations for communication and instruction, and as image assets for computer-aided design. SBOL Visual is a community standard, freely available for personal, academic, and commercial use (Creative Commons CC0 license). We provide prototypical symbol images that have been used in scientific publications and software tools. We encourage users to use and modify them freely, and to join the SBOL Visual community: http://www.sbolstandard.org/visual.",
+  "fullText": "Background\n\nBy the 1970s, molecular biologists had already developed many variations in the language used to describe functional regions of DNA, or genetic sequence features, with different terms used to describe similar features in different organisms. A protein-coding DNA sequence might be called a coding sequence (CDS), an open reading frame, an exon, or simply a gene, depending on the organism and method of study. To address such concerns, the Sequence Ontology [1] maintains a standard set of terms for describing different genetic features. This effort helped unify annotation efforts during the rise of high-throughput genome sequencing in the last decade.\n\nAcross that same decade, synthetic biology has advanced capabilities for forward engineering of complex genetic systems with multiple sequence features. This has increased the need for consistent terminology and representations of genetic designs. A visual representation of genetic sequence elements and their arrangement can quickly communicate adjacency, contiguity, repetition, and uniqueness. These properties become relevant as genetic designs become more complex, with multiple promoters, CDSs, etc. This is especially true for genetic designs expressed heterologously and when a system is engineered first in one organism (e.g., [2]), then moved to a different host (e.g., [3,4]).\n\nStandards are enabling technologies for communication: standard symbols have had a profound impact in other engineering disciplines, such as the Institute of Electrical and Electronics Engineers (IEEE) standards for representing electronic components and circuits [5,6], or computer-aided design (CAD) standards for representing architecture and mechanical engineering [7,8]. Standard symbols simplify figures and user interfaces, enhance familiarity, and streamline the design process. SBOL Visual aims to have a similar salutary effect for the engineering of biological systems.\n\nSBOL Visual Specification\n\nSynthetic Biology Open Language (SBOL) Visual is the product of an ongoing community effort to develop and standardize a graphical language for synthetic biology and biological engineering, focusing initially on symbols for commonly used sequence features [9]. In its current form, SBOL Visual is a set of symbols that correspond to sequence features encoded by a DNA molecule. The meaning of each symbol is established by association with terms in the Sequence Ontology (S1 and S2 Tables). SBOL Visual builds on the Sequence Ontology’s ten years of work on standardizing precise definitions of genetic sequence features, and the success of this work ensures that SBOL Visual symbols are well aligned with established scientific vocabulary. The mapping to Sequence Ontology terms also connects SBOL Visual to the SBOL data exchange standard, enabling automatic mapping from data to a graphical representation [9].\n\nThough SBOL Visual makes use of Sequence Ontology terms, the two projects address objectives of differing scope. The Sequence Ontology provides a controlled vocabulary for all functional genetic features, while SBOL Visual focuses on facilitating the communication of engineered genetic designs. One driving need for SBOL Visual is to abstract and simplify the full complexity of sequence features that may be represented with a single symbol, e.g., the promoter, which is composed of many functional subsequences [10]. For example, the “bent arrow” symbol used by SBOL Visual for a promoter (SO:0000167) could also be used to denote the transcription start (SO:0000315) when describing the substructure of the same promoter. Such usage is common in the scientific literature, and unambiguous since the descriptions are at different levels of detail. As such, each SBOL Visual symbol can map to one or more terms in the Sequence Ontology. For features common in engineered systems but not yet in the Sequence Ontology, SBOL Visual has contributed back to the ongoing development of Sequence Ontology by contributing several new terms (e.g., restriction_enzyme_assembly_scar, SO:0001953).\n\nIn developing these symbols, the community initially selected a set of commonly used genetic parts and a set of features relevant for the assembly of DNA molecules. The symbols were chosen based on common depiction of genetic designs in molecular, systems, and synthetic biology publications. The 12 core features (S1 Table) include typical sequences needed for the proper functioning of a gene: such as signals for DNA replication, RNA transcription, and protein translation. We specify the simple rectangle symbol to be a “user-defined” catchall for special genetic features not currently part of SBOL Visual. We also include nine symbols to describe common methods of DNA assembly, such as restriction sites (S2 Table). Together these 21 symbols were proposed and ratified as SBOL Visual 1.0 Specification.\n\nSBOL Visual was designed to serve a range of formats, including whiteboard discussions, slide presentations, scientific publications, and computer-aided design [11]. Some symbols were adjusted to account for communication goals, particularly to increase visual distinctiveness, to decrease feature orientation ambiguity, and to facilitate rapid design. The SBOL Visual symbols can thus be drawn quickly by hand, used as stencil art with computer illustration software, rendered in a web browser, used as image primitives for building software tools, or applied as a formal symbology for communication and instruction. Inspired by the clarity, simplicity, and usefulness of electronic symbols, stylistic features such as scaling, line-width, color, and use of text labels are left explicitly unspecified in SBOL Visual. This built-in flexibility facilitates variation in style for functional or aesthetic purposes, which allows genetic designers and software developers to differentiate their images and interfaces to express additional information (e.g., module structure, protein type, origin of components) or artistic style while still benefiting from the standard. Thus, SBOL Visual provides a set of readily distinguishable basic shapes, which can be refined for individual applications.\n\nCurrent Use in Publications and Software\n\nSeveral scientific publications have already adopted SBOL Visual (e.g., [12–16]). To illustrate the potential benefits of SBOL Visual in publication, consider the development of the multicolor genetic reporter system shown in Fig 1. This system was initially built with three fluorescent protein genes to measure genetic regulation and noise in Escherichia coli [17], and it was later modified to use as a test bed for measuring combinations of promoters and ribosome binding sites [18], the effect of codon bias on the initiation of translation [19], and to analyze the effects of carbon and nitrogen metabolism on synthetic circuit performance [20]. When originally published, each of these publications used modified forms of the genetic system and slightly different symbols to depict the genetic features (Fig 1A–1C left-side images). Unifying such variant genetic visual depictions with a common symbology (Fig 1A–1C right-side images) makes their relationship much more immediately apparent, and clearly communicates their structural differences. We expect the use of SBOL Visual to disseminate new results, inspire new genetic designs, and communicate ideas across human language barriers.\n\nAdoption of SBOL Visual by software tools (see Box 1) has further helped to drive use of SBOL Visual in publication. For example, early versions of the SBOL Visual symbols in Clotho Spectacles [22] were used to produce schematics for a genetic system able to convert ambient nitrogen to ammonia (nitrogen fixation) (S1 Fig) [13]. The SBOL Visual symbols have also been used to represent software-generated combinatorial designs of transcriptional cascades and feed-forward circuits [23], and in layered transcriptional circuit devices derived from CRISPR for use in mammalian cells [15]. In sum, SBOL Visual is becoming an accepted standard for communicating genetic designs, both in software and in the scientific literature.\n\nBox 1. SBOL Visual Adoption in Academic and Commercial Software Tools Enables Clear Design Specification and Accurate Sequence Annotation\n\nPigeon [24] is a synthetic biology design visualizer that generates SBOL Visual figures from terse strings similar to classical genotype notation with a great deal of flexibility, including the ability to color-code, invert, and add text descriptions to the symbols.\n\nThe ICE genetic design repository software platform [25] includes an SBOL Visual view (created automatically using Pigeon) with DNA component types (CDS, terminator, etc.), encouraging more accurate sequence annotation. This view is automatically generated from the uploaded annotated sequence file.\n\nThe GraphViz graph visualization package [26] includes SBOL visual symbols, which can be used to visualize genetic constructs and include them as components in arbitrary graph diagrams.\n\nSBOL Visual Web Widgets (see Table 1) allow for dynamically rendering the symbols in Scalable Vector Graphics (SVG) and their styling using Cascading Style Sheets (CSS). The current set of available widgets include CDS, promoter, terminator, and restriction site.\n\nThe VisBOL Web-based design visualizer (see Table 1) is an open-source tool enabling the dynamic, automated generation of SBOL Visual designs from SBOL documents in the browser, while DasBOL (see Table 1) provides a web service for querying relationships between SBOL Visual and Sequence Ontology terms.\n\nSBOL Visual symbols are used as interactive abstractions of genetic parts in a number of genetic design applications, including BioCompiler [16], Clotho [22], DeviceEditor [27], GenoCAD [28], SBOL Designer [29] and its Geneious extension [30], TeselaGen Design Editor [31], Tinkercell [32], and VectorNTI Express Designer [33].\n\nNew Symbol Adoption and Symbol Variations Process\n\nAlthough SBOL Visual can express many useful features of genetic designs, it is not complete. SBOL Visual is developed through an open and ongoing community process, and any synthetic biology practitioner is encouraged to propose new symbols and modifications to existing symbols. This is done by submitting a proposal to the SBOL Visual working group by email, containing the proposed name, symbol, associated Sequence Ontology term, and motivation for addition of the symbol. In cases in which no appropriate Sequence Ontology term exists, the SBOL Visual working group requests one; we have so far submitted ten such terms to the Sequence Ontology. The proposed symbol then goes through an endorsement process, a trial period, and finally adoption by open community vote.\n\nUsing the same process, a symbol may be proposed as a variant of an existing symbol. Symbol variants share the same Sequence Ontology term, but may be more useful in different contexts. For example, an asymmetric variant of the symbol for transcriptional terminator has been proposed in order to better capture the often directional behavior of these genetic parts. While a more complex shape, it allows for more explicit specification of directionality when significant. Variant symbols may also be proposed by software tools, to allow for style differences between user interfaces. Variants also provide a path for improvement of symbols and deprecation of obsolete versions over time, and they allow contextual details and styles to be recognized by the SBOL Visual standard.\n\nCollaboration and Future Work\n\nSBOL Visual can be combined with other graphical languages, such as symbols from the Systems Biology Graphical Notation (SBGN), a standard for depiction of biological regulatory networks and molecular interactions [34]. SBOL and SBGN are both core standards of the COMBINE community project [35]. The SBGN Activity Flow language has codified the common use of network interactions diagrams between biological components, and can display regulatory interactions between genetic parts represented by SBOL Visual (S1A Fig). The SBOL Visual and SBGN development groups are collaborating with the aim of enabling seamless and unambiguous use of both standards. With such collaborations and the development of further SBOL Visual symbols, we hope to enable better depiction at the various levels of organization required to represent engineered biological systems.\n\nParallel efforts are underway to extend the language with higher-level concepts like genetic devices, genetic systems, and cellular chassis. At the sequence level, many genetic features become strongly dependent on the host organism. We envision that several of the 12 core design SBOL Visual symbols could be expanded in detail to more detailed visual languages.\n\nFor example, the CDS symbol could display more detailed information about the protein it encodes. For rational protein engineering, a common design task is to fuse two different protein functional domains into a single molecule, such as the repressor-YFP fusion depicted Fig 1B. Often, designs use a flexible linker sequence in between two functional domains. One future goal is to develop a systematic visual representation of protein coding sequences that can display the design choices in making such fusions. This protein design language could also include distinctive symbols representing design elements such as cellular localization signals, protein degradation signals, phosphorylation sites, protein cleavage sites, and purification tags. Many functional protein domains have been annotated by SwissProt and UniProtKB [36] and provide a rich source of sequences for rational protein design. For example, an inducible eukaryotic transcription factor was rationally designed by fusing domains for DNA binding, estrogen response, and promoter activation [37]. We hope to extend SBOL Visual to be able to visually depict such feats of engineering at the sequence design level.\n\nThe SBOL Visual Website and Data Distribution\n\nThe SBOL Visual website hosts prototypical symbol images in several formats, including vector files, an Omnigraffle stencil set, a set of web widgets, and a TrueType SBOL Visual font for word processors. The website also provides human-readable mappings between our terms and the Sequence Ontology terms, descriptions of how these terms are being used in CAD tools, and instructions for submitting new symbols and symbol variants. A machine-readable mapping of SBOL Visual symbols to common GenBank feature keys, Sequence Ontology terms, and Pigeon and Graphviz codes are provided as S1 Data and are also available via the SBOL Visual website. The SBOL Visual specification is published as a BioBrick Foundation Request for Comments (BBF RFC) upon approval by the SBOL Developers Group. SBOL Visual version 1.0.0, was published as BBF RFC 93 [38]. To make suggestions, ask questions, or join the SBOL Visual working group, visit the SBOL Visual website or email visual@sbolstandard.org.\n\nSupporting Information"
+}

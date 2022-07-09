@@ -1,0 +1,37 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0060281",
+  "doi": "10.1371/journal.pbio.0060281",
+  "externalIds": [
+    "pii:08-PLBI-S-4245",
+    "pmid:20076696",
+    "pmcid:PMC2581626"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Undercover Agents Fight Autoimmunity",
+  "authors": [
+    {
+      "name": "Caitlin Sedwick",
+      "first": "Caitlin",
+      "last": "Sedwick"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2008-11",
+  "dateElectronic": "2008-11-11",
+  "volume": "6",
+  "number": "11",
+  "pages": "e281",
+  "tags": [
+    "Discipline/Immunology",
+    "Discipline/Rheumatology",
+    "Type/Synopsis"
+  ],
+  "fullText": "Under normal circumstances, the cells of the immune system (T cells, B cells, and other lymphocytes) cooperate to police our bodies for evidence of disease, mounting highly coordinated attacks against foreign invaders and cancerous cells. However, the immune system can occasionally become deranged, directing its arsenal against friend not foe, to attack healthy body tissues—a condition called autoimmunity. Fortunately, autoimmunity is rare, because the regulatory arm of the immune system works to suppress inappropriate inflammatory flare-ups before they evolve into full-blown conflagrations.\n\nOne crucial component of the regulatory immune system is a subset of T cells called “regulatory T cells.” Deficiencies in this population of cells can cause or exacerbate autoimmunity; therefore, scientists are trying to bolster the numbers or functional capacity of regulatory T cells to help prevent or treat autoimmunity. In a new study, Kristian Andersen, Tracey Butcher, and Alexander Betz report on their technique for generating regulatory T cells that can suppress disease in an animal model of autoimmune arthritis. Importantly, this approach may prove to be generally applicable to other autoimmune diseases.\n\nRegulatory T cells and autoimmune pro-inflammatory T cells respond to the same kinds of stimuli, but regulatory T cells act to suppress inflammation. This difference in activity is conferred in part by the expression of the transcription factor Foxp3, which is thought to control expression of the anti-inflammatory phenotype—scientists have found that forcing expression of Foxp3 can convert a pro-inflammatory T cell into a regulatory T cell. Therefore, one experimental strategy to treat autoimmune diseases involves extracting bulk populations of T cells, modifying them by forcing Foxp3 expression, and then readministering them to the animal—where they should, in theory, suppress disease progression. Unfortunately, researchers have had mixed success using this approach to treat animal models of autoimmune diseases; it worked for autoimmune colitis, but not for other disease models such as collagen-induced arthritis.\n\nAndersen et al. wondered whether the failure of this method to suppress autoimmune arthritis could be attributed to alterations in the behavior of the modified T cells. To test this theory, they used a fluorescent dye to track the movements of the cells after they are returned to the mice. Whereas unmodified T cells migrated throughout the body, the Foxp3-modified cells congregated in the liver. The authors explain that forcing Foxp3 expression causes impaired expression of another T cell protein, l-selectin. l-selectin allows T cells to access many body tissues and is one of several tissue homing receptors that are expressed on T cells. It's possible that forcing Foxp3 expression changes the patterns of expression of other homing receptors on T cells; if this is the case, the cells may be forced to go to the liver, unable to provide systemic relief.\n\nBecause forcing Foxp3 expression prevented the cells from reaching the tissues where autoimmune reactions occur, Andersen et al. reasoned that a method was needed to turn on Foxp3 expression in the cells only when it is needed. They therefore took T cells from mice and inserted a genetic construct that produces a modified inducible version of Foxp3 protein that is only active in the presence of the drug tamoxifen. These cells behaved like unmodified T cells and spread throughout the body when returned to the animals. In fact, some of them even participated in autoimmune inflammatory processes when the authors experimentally induced autoimmune arthritis. But, as soon as Foxp3 function was turned on by tamoxifen treatment, the cells that had been participating in the inflammation switched sides and started suppressing the disease.\n\nAndersen et al. have figured out how to infiltrate rogue groups of T cells with undercover agents and then signal them to when it's time to act. Importantly, these undercover regulatory cells do not suppress immune responses that are initiated after their Foxp3 expression has been turned on. This means they likely won't cause systemic immunosuppression, because they only dampen autoattacks they helped launch. However, as an additional safety measure, these cells could be engineered to express suicide genes. This would ensure that they are eliminated after they have served their purpose in suppressing an autoimmune flare-up.\n\nA major advantage of the authors' innovation is that it allows for the generation of disease-specific regulatory T cells without pre-existing knowledge of the factors that trigger an immune response for a given disease. This approach could not only drastically simplify therapeutic options for autoimmune diseases, but additionally figure in efforts to treat transplant rejection, which also results from undesired immune responses."
+}

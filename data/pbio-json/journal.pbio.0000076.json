@@ -1,0 +1,27 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0000076",
+  "doi": "10.1371/journal.pbio.0000076",
+  "license": "This is an open-access article distributed under the terms of the Public Library of Science Open-Access License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "New Microarray Detects Antigen-Specific T Cells and Immune Responses",
+  "journal": "PLoS Biology",
+  "date": "2003-12",
+  "dateElectronic": "2003-12-22",
+  "volume": "1",
+  "number": "3",
+  "pages": "e76",
+  "tags": [
+    "Discipline/Biotechnology",
+    "Discipline/Cell Biology",
+    "Discipline/Immunology",
+    "Discipline/Molecular Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "When a pathogen slips into your body, its chances of escaping detection are slim, thanks to the highly specialized surveillance team of the immune system. If a virus, for example, succeeds in duping a cell's molecular machinery into manufacturing new copies of itself, the cell responds by breaking a few of the pathogen's proteins into fragments and displaying some of these peptides (or antigens) on its surface. There, held in the grips of cell surface proteins called MHC (major histocompatibility complex) proteins, antigens can be recognized as foreign to circulating T lymphocytes. The body produces billions of these white blood cells every day, each outfitted with specialized T cell receptors and MHC proteins outfitted to recognize a unique antigen. This exquisitely specific recognition of antigens—displayed on the cell surface by an MHC protein—is the critical step leading to the proliferation, activation, and differentiation of T cell clones specially equipped to destroy that pathogen.\n\nThe detection of “antigen-specific” T cell populations can provide insight into the physiology of the immune system and how it responds appropriately to disease or inappropriately to host proteins in autoimmune disorders. Scientists have linked different T cell responses to specific antigens associated with microbes, autoimmune diseases, allergens, and cancer cells. Understanding how the immune system responds to such pathogens—and how it functions in the absence of disease—depends on being able to detect and evaluate these responses. But since different populations of T cells can interact with diverse antigens simultaneously, identifying and characterizing these populations has presented a huge challenge. Yoav Soen, Daniel Chen, Daniel Kraft, Mark Davis, and Pat Brown have developed a high-volume screen that not only sorts and identifies multiple antigen-specific T cell populations from a diverse sample, but also determines which populations are active, even when the response is weak.\n\nFaced with the challenge of identifying huge numbers of antigen-specific cells with a wide range of peptide-MHC complexes, Soen et al. turned to the high-throughput technology of microarrays. But instead of using bits of DNA as probes to latch on to active genes in cell samples, the researchers used arrays of peptide-MHC complexes to capture antigen-specific T cells. They printed tiny spots of different peptide-MHC complexes on glass slides and then layered populations of T cells onto the slides, where the T cells could interact with each of the printed peptide-MHC complexes. The rare cells that recognize each specific peptide-MHC complex are captured at the corresponding spot on the microarray, where they can be counted and assayed. With this new microarray, immunology researchers—traditionally restricted to identifying and quantifying only a few lymphocyte populations at a time—can now characterize hundreds or thousands at a time.\n\nTo test the reliability of the microarray, the researchers labeled different populations of T lymphocytes based on their antigen-binding specificities and found that the array accurately detected each population. The ability to sort out and assay rare cells that recognize specific antigens will be useful for a wide range of applications, including vaccine development. The researchers also demonstrated the array's sensitivity by successfully detecting a weak, specific immune response in cells extracted from vaccinated mice. Such an application would be a valuable tool for monitoring the global population of T cells in a living organism—including human patients—in response to vaccination, infection, autoimmunity, and other diseases."
+}

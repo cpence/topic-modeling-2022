@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001035",
+  "doi": "10.1371/journal.pbio.1001035",
+  "externalIds": [
+    "pii:PBIOLOGY-D-11-00487",
+    "pmid:21445331",
+    "pmcid:PMC3062533"
+  ],
+  "license": "This is an open-access article distributed under the\n                terms of the Creative.Commons Attribution License, which permits unrestricted use,\n                distribution, and reproduction in any medium, provided the original author and\n                source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Finding Balance in Cortical Networks",
+  "authors": [
+    {
+      "name": "Robin Meadows",
+      "first": "Robin",
+      "last": "Meadows",
+      "affiliation": "Freelance Science Writer, Fairfield, California, United States of\n                    America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2011-03",
+  "volume": "9",
+  "number": "3",
+  "pages": "e1001035",
+  "tags": [
+    "Discipline-v2/Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "No matter what you're doing at any given moment, from walking to talking or even\n                sleeping, your brain is doing its own thing. Networks of neurons constantly and\n                often spontaneously generate rhythmic electrical activity in the cortex, the\n                brain's outermost layer and the seat of judgment, decision making, and other\n                higher order functions. These cortical networks contain pyramidal cells that can\n                excite inhibitory interneurons, which can in turn decrease the activity of pyramidal\n                cells. This interplay of excitation and inhibition generates specific activity\n                patterns that are critical to various cortical functions, like working memory and\n                attention. However, it is not clear what cellular mechanisms maintain the proper\n                balance between these two opposing inputs.\n\nNow, in this issue of PLoS Biology, Yousheng Shu and colleagues\n                report that small changes in the electrical properties of pyramidal cells help\n                maintain the excitation–inhibition balance that keeps these cortical networks\n                humming along. In addition to exciting other neurons via “all or none”\n                events (also known as digital mode) called action potentials, pyramidal cells may\n                also have another way of communicating within a network. The researchers had\n                previously found that pyramidal cells can use a “graded” method (analog\n                mode) of exciting their targets via small changes in their membrane potential.\n                Because pyramidal cells activate inhibitory interneurons and thus generate recurrent\n                inhibition, the researchers asked whether this analog control of membrane potential\n                could fine-tune the balance between excitation and inhibition in the cortex.\n\nThe researchers began investigating recurrent network activity by recording activity\n                between pairs of nearby pyramidal cells that presumably had an inhibitory\n                interneuron between them. They first established that electrically stimulating one\n                pyramidal cell in this microcircuit resulted in a late-onset, “slow”\n                recurrent inhibition in the second pyramidal cell. They next made a positive\n                (depolarizing) shift of the membrane potential by injecting current into the first\n                pyramidal cell, and found that this increased the slow recurrent inhibition in the\n                second cell. This modulation was sensitive to membrane potential shifts as small as\n                5 to 10 mV, considerably less than the shifts required to generate an all-or-none\n                action potential.\n\nWhat about the other connections in this microcircuit? Knowing that low-threshold\n                spiking (LTS) interneurons can mediate slow recurrent inhibition, the authors next\n                asked whether modulation of pyramidal cells can directly influence these inhibitory\n                cells. Indeed, they found that small membrane potential shifts in pyramidal cells\n                can modulate LTS interneuron activity. Importantly, they also observed these analog\n                effects for fast spiking interneurons, which mediate “fast” recurrent\n                inhibition. Taken together, these findings demonstrate that the membrane potential\n                of pyramidal cells modulates recurrent inhibition, which helps balance the\n                excitation and inhibition that lend stability to cortical network rhythms.\n\nFinally, the researchers examined the possible mechanisms of this membrane potential\n                effect, and found a role for a type of potassium current called the D-current that\n                helps control the duration of axonal action potentials. Blocking the D-current with\n                drugs increased the inhibitory effect between pairs of pyramidal cells as well as\n                the excitatory effect of pyramidal cells on LTS interneurons. Based on these\n                findings, the researchers proposed the following model: depolarization in the first\n                pyramidal cell inactivates D-current and so prolongs axonal action potentials,\n                thereby enhancing synaptic transmission to the interneuron that then causes more\n                inhibition to the second pyramidal cell.\n\nBy showing that membrane potential helps balance excitation and inhibition in\n                microcircuits, this work suggests a key role of analog communication in the rhythmic\n                activity of cortical networks. Notably, recent work has implicated disruptions in\n                the balance of excitation–inhibition in neurological disorders such as\n                epilepsy and schizophrenia. Whether analog modulation may prove relevant to such\n                diseases, however, is unknown. Many questions must be investigated before such\n                possibilities can be addressed, including whether analog modulation applies to all\n                cortical circuits, and whether it occurs during behaviorally relevant processes.\n\n                Zhu J, Jiang M, Yang M, Hou H, Shu Y (2011) Membrane Potential-Dependent\n                    Modulation of Recurrent Inhibition in Rat Neocortex.\n                    doi:10.1371/journal.pbio.1001032"
+}

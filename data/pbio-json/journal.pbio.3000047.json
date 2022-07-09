@@ -1,0 +1,171 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000047",
+  "doi": "10.1371/journal.pbio.3000047",
+  "externalIds": [
+    "pii:PBIOLOGY-D-18-00453",
+    "pmid:30388107",
+    "pmcid:PMC6235378"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Gasdermin D mediates the pathogenesis of neonatal-onset multisystem inflammatory disease in mice",
+  "authors": [
+    {
+      "name": "Jianqiu Xiao",
+      "first": "Jianqiu",
+      "last": "Xiao",
+      "affiliation": "Division of Bone and Mineral Diseases, Washington University School of Medicine, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Chun Wang",
+      "first": "Chun",
+      "last": "Wang",
+      "affiliation": "Division of Bone and Mineral Diseases, Washington University School of Medicine, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Juo-Chin Yao",
+      "first": "Juo-Chin",
+      "last": "Yao",
+      "affiliation": "Division of Oncology, Washington University School of Medicine, St. Louis, Missouri, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-2041-9867"
+      ]
+    },
+    {
+      "name": "Yael Alippe",
+      "first": "Yael",
+      "last": "Alippe",
+      "affiliation": "Division of Bone and Mineral Diseases, Washington University School of Medicine, St. Louis, Missouri, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-2760-7155"
+      ]
+    },
+    {
+      "name": "Canxin Xu",
+      "first": "Canxin",
+      "last": "Xu",
+      "affiliation": "Confluence Discovery Technologies, Inc., St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Dustin Kress",
+      "first": "Dustin",
+      "last": "Kress",
+      "affiliation": "Division of Bone and Mineral Diseases, Washington University School of Medicine, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Roberto Civitelli",
+      "first": "Roberto",
+      "last": "Civitelli",
+      "affiliation": "Division of Bone and Mineral Diseases, Washington University School of Medicine, St. Louis, Missouri, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-4076-4315"
+      ]
+    },
+    {
+      "name": "Yousef Abu-Amer",
+      "first": "Yousef",
+      "last": "Abu-Amer",
+      "affiliation": "Department of Orthopedic Surgery, Washington University School of Medicine and Shriners Hospital for Children, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Thirumala-Devi Kanneganti",
+      "first": "Thirumala-Devi",
+      "last": "Kanneganti",
+      "affiliation": "Department of Immunology, St. Jude Children’s Research Hospital, Memphis, Tennessee, United States of America"
+    },
+    {
+      "name": "Daniel C. Link",
+      "first": "Daniel C.",
+      "last": "Link",
+      "affiliation": "Division of Oncology, Washington University School of Medicine, St. Louis, Missouri, United States of America"
+    },
+    {
+      "name": "Gabriel Mbalaviele",
+      "first": "Gabriel",
+      "last": "Mbalaviele",
+      "affiliation": "Division of Bone and Mineral Diseases, Washington University School of Medicine, St. Louis, Missouri, United States of America",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0003-4660-0952"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2018-11-02",
+  "dateAccepted": "2018-10-17",
+  "dateReceived": "2018-08-14",
+  "volume": "16",
+  "number": "11",
+  "pages": "e3000047",
+  "tags": [
+    "Animal cells",
+    "Animal models",
+    "Animal studies",
+    "Biochemistry",
+    "Bone marrow cells",
+    "Cell biology",
+    "Cellular types",
+    "Cytokines",
+    "Cytophotometry",
+    "Developmental biology",
+    "Discipline-v3/Animal cells",
+    "Discipline-v3/Animal models",
+    "Discipline-v3/Animal studies",
+    "Discipline-v3/Biochemistry",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Bone marrow cells",
+    "Discipline-v3/Cell biology",
+    "Discipline-v3/Cellular types",
+    "Discipline-v3/Cytokines",
+    "Discipline-v3/Cytophotometry",
+    "Discipline-v3/Developmental biology",
+    "Discipline-v3/Experimental organism systems",
+    "Discipline-v3/Flow cytometry",
+    "Discipline-v3/Immune physiology",
+    "Discipline-v3/Immune system",
+    "Discipline-v3/Immune system proteins",
+    "Discipline-v3/Immunology",
+    "Discipline-v3/Inflammasomes",
+    "Discipline-v3/Inflammatory diseases",
+    "Discipline-v3/Innate immune system",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Model organisms",
+    "Discipline-v3/Molecular development",
+    "Discipline-v3/Mouse models",
+    "Discipline-v3/Pathogenesis",
+    "Discipline-v3/Pathology and laboratory medicine",
+    "Discipline-v3/Physiology",
+    "Discipline-v3/Proteins",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Spectrophotometry",
+    "Discipline-v3/Spectrum analysis techniques",
+    "Discipline-v3/Spleen",
+    "Experimental organism systems",
+    "Flow cytometry",
+    "Immune physiology",
+    "Immune system",
+    "Immune system proteins",
+    "Immunology",
+    "Inflammasomes",
+    "Inflammatory diseases",
+    "Innate immune system",
+    "Model organisms",
+    "Molecular development",
+    "Mouse models",
+    "Pathogenesis",
+    "Pathology and laboratory medicine",
+    "Physiology",
+    "Proteins",
+    "Spectrophotometry",
+    "Spectrum analysis techniques",
+    "Spleen",
+    "Type/Short Reports"
+  ],
+  "abstract": "Mutated NLRP3 assembles a hyperactive inflammasome, which causes excessive secretion of interleukin (IL)-1β and IL-18 and, ultimately, a spectrum of autoinflammatory disorders known as cryopyrinopathies of which neonatal-onset multisystem inflammatory disease (NOMID) is the most severe phenotype. NOMID mice phenocopy several features of the human disease as they develop severe systemic inflammation driven by IL-1β and IL-18 overproduction associated with damage to multiple organs, including spleen, skin, liver, and skeleton. Secretion of IL-1β and IL-18 requires gasdermin D (GSDMD), which—upon activation by the inflammasomes—translocates to the plasma membrane where it forms pores through which these cytokines are released. However, excessive pore formation resulting from sustained activation of GSDMD compromises membrane integrity and ultimately causes a pro-inflammatory form of cell death, termed pyroptosis. In this study, we first established a strong correlation between NLRP3 inflammasome activation and GSDMD processing and pyroptosis in vitro. Next, we used NOMID mice to determine the extent to which GSDMD-driven pyroptosis influences the pathogenesis of this disorder. Remarkably, all NOMID-associated inflammatory symptoms are prevented upon ablation of GSDMD. Thus, GSDMD-dependent actions are required for the pathogenesis of NOMID in mice.",
+  "fullText": "Introduction\n\nNLRP3, also called cryopyrin, assembles an inflammasome complex upon sensing danger signals triggered by structurally different exogenous and endogenous molecular entities [1–3]. Failure to clear the insults or restore homeostasis leads to chronic activation of this inflammasome, a response that underlies various inflammatory and metabolic diseases, including gout, diabetes, and atherosclerosis [4]. Activating mutations in the NLRP3 gene also cause constitutive activation of the NLRP3 inflammasome in patients with a spectrum of autoinflammatory disorders known as cryopyrinopathies or cryopyrin-associated periodic syndromes (CAPS), which include neonatal-onset multisystem inflammatory disease (NOMID), Muckle-Wells syndrome (MWS), and familial cold autoinflammatory syndrome (FCAS) [5, 6]. CAPS are monogenic disorders with some degree of genotype-phenotype correlation, with NOMID exhibiting the most severe manifestations [5, 6]. Each of the CAPS phenotypes displays multiple symptoms, including systemic inflammation, recurrent or chronic fever, and urticaria-like rash [5, 6].\n\nConsistent with the NLRP3 inflammasome role in interleukin (IL)-1β and IL-18 maturation, cryopyrinopathies are associated with excessive production of these cytokines. Accordingly, IL-1-blocking drugs are widely used in the management of these disorders. However, it appears that some CAPS patients only partially respond to IL-1 biologics [7–9]. In addition, skeletal lesions, the hallmark of NOMID, are refractory to IL-1 blockade [10–13]. These clinical observations underscore the complexity of cryopyrinopathies by suggesting that other actions of the inflammasomes beyond maturation of cytokines also contribute to the pathogenesis of these disorders. Indeed, the NLRP3 inflammasome also processes gasdermin D (GSDMD) into GSDMD-N (N-terminal domain) and GSDMD-C (C-terminal domain) [14–16]. GSDMD-N translocates to the plasma membrane, where it binds phospholipids and forms pores at the plasma membrane through which IL-1β and IL-18 are secreted by living cells [17–19]. Sustained activity of the inflammasomes causes excessive maturation of GSDMD and pore formation; this leads to membrane perforation and, ultimately, pyroptosis [17, 20–23]. This form of cell death provokes the uncontrolled release of not only IL-1β and IL-18 but also cytoplasmic contents, resulting in the recruitment of immune cells and propagation of inflammation [17, 24]. Thus, pyroptosis is not a silent endpoint, but the extent to which this pathologic process influences the pathogenesis of cryopyrinopathies is unknown.\n\nKnockin mice harboring specific mutations found in CAPS patients were engineered in an attempt to generate preclinical disease-relevant models for genotype-phenotype relationship studies [25–28]. These models recapitulate some clinical features though disease manifestations are, in general, more severe in mice than in humans. Nonetheless, these seminal studies revealed that pyroptosis may be responsible for the persistent inflammatory responses in mice with impaired IL-1β and IL-18 signaling [8, 29]. Here, we used NOMID mice to determine the role that GSDMD and pyroptosis play in this disease model. NOMID mice exhibited systemic inflammation, stunt growth, and damage to multiple organs. These anomalies were absent in NOMID mice lacking GSDMD, which were indistinguishable from wild-type (WT) littermates. These results reveal a nonredundant function of GSDMD in the onset and progression of NOMID in mice.\n\nResults and discussion\n\nMaturation of GSDMD and IL-1β, and pyroptosis, occur constitutively in NOMID cells\n\nThe NLRP3 inflammasome complex—which comprises NLRP3 itself, the adapter protein, apoptosis-associated speck-like protein containing a CARD (ASC), and caspase-1—processes pro-IL-1β and pro-IL-18 into IL-1β and IL-18, respectively [1]. This inflammasome also cleaves GSDMD into GSDMD-N and GSDMD-C [14–16]. GSDMD-N forms pores at the plasma membranes through which IL-1β and IL-18 are secreted by living cells; excessive pore formation causes pyroptosis, a response that can be assessed in vitro by quantifying the release of lactate dehydrogenase (LDH) [18, 19]. Consistent with the literature, GSDMD was cleaved upon stimulation of WT mouse bone marrow–derived macrophages (BMMs) with lipopolysaccharide (LPS) and nigericin (Fig 1A). Two cleaved GSDMD fragments were detected; whether the larger fragment was further processed to generate the smaller fragment is not known. GSDMD maturation correlated with the release of not only IL-1β (Fig 1B and S1 Data) but also LDH (Fig 1C and S1 Data), indicating that BMMs undergo NLRP3 inflammasome-dependent pyroptosis under these experimental conditions. To reinforce this conclusion, GSDMD processing, cytokine production, and pyroptosis were determined using cells isolated from mice lacking GSDMD or components of either the NLRP3 canonical inflammasome (e.g., NLRP3 or caspase-1) or noncanonical inflammasome (e.g., caspase-11). Maturation of IL-1β and GSDMD was impaired in BMMs lacking any component of the classical NLRP3 inflammasome but was unaffected in Casp11 null cells (Fig 1A–1C), as expected. These results strengthen the view that GSDMD is a key effector of the NLRP3 inflammasome pathway.\n\nThe identification of more than 100 NLRP3 sequence variants underscores the challenges of genotype–phenotype relationship studies for CAPS [30]. In efforts to fill this gap, several preclinical CAPS-relevant models were developed [25–28]. They included knockin mice, which harbored a D301N NLRP3 mutation, the mouse ortholog of the human D303N mutation found in NOMID patients [25]. Mating of Nlrp3fl(D301N)/+ mice with lysozyme M-Cre−/+ (LysM-Cre−/+) mice yielded control and Nlrp3fl(D301N)/+;LysM-Cre−/+ mice, in which the autosomal dominant mutation in Nlrp3 was induced in myeloid cells; these mice are referred to as NOMID mice. We previously reported that the phenotype of NOMID mice with myeloid-restricted activation of NLRP3, which included systemic inflammation and skeletal anomalies, resembled that of mice broadly expressing the mutated protein [25, 31, 32]. This mouse model provided the opportunity to determine the impact of GSDMD deficiency in the pathogenesis of NOMID. Consistently, GSDMD cleavage in WT BMMs required priming and secondary signals triggered by LPS and nigericin, respectively (Fig 1D). By contrast, GSDMD proteolysis in NOMID BMMs was induced by LPS alone though the response was maximal in the presence of the ionophore. Likewise, secretion of IL-1β and LDH by WT cells necessitated the combined actions of LPS and nigericin, whereas these responses were significantly induced by the endotoxin alone in NOMID cells (Fig 1E and 1F; and S1 Data). Notably, secretion of IL-1β and LDH was abolished in cells lacking GSDMD. Thus, mature IL-1β is constitutively produced in NOMID cells, but its release requires GSDMD.\n\nAnomalies in NOMID mice are prevented by deletion of Gsdmd\n\nNOMID mice are runted, and they usually die by 2 to 3 weeks of age [25, 31], whereas Gsdmd null mice are apparently normal [16]. Consistent with these reports, NOMID pups were indistinguishable from WT and Gsdmd null littermates at birth but exhibited growth retardation and significantly lower body weight by 12 days of age (Fig 2A and 2B; S1A Fig and S1 Data). Additional macroscopic aberrations in NOMID mice included the presence of skin lesions (Fig 2A) and splenomegaly (Fig 2C and 2D; S1 Data). Skin and spleen abnormalities and the small body size phenotype of NOMID were all normalized in mutant mice lacking GSDMD (Fig 2A–2D). Growth delay, systemic inflammation, perinatal lethality, and spleen and skin abnormalities have been reported for other models of CAPS [26, 27, 29]. Deletion of Il-1 receptor completely abolished these outcomes in NOMID mice but not in FCAS and MWS mice [8, 29], findings that are consistent with the view that, in contrast to humans, FCAS and MWS are unexpectedly more severe than NOMID in mice. The release of not only IL-1β and IL-18 but also other pro-inflammatory factors during pyroptosis may be responsible for the persistent residual inflammatory responses in FCAS and MWS models. Thus, it will be informative to determine the effects of GSDMD deficiency on disease progression in other preclinical models of CAPS.\n\nWhile we were wrapping up this work, a report indicated that lack of GSDMD in mice prevented the onset and progression of Familial Mediterranean Fever, a disease in which aberrant pyrin inflammasome activities caused IL-1β oversecretion and pyroptosis [33]. Deficiency in GSDMD also protected mice against endotoxic shock, consistent with activation of this protein by intracellular LPS [14, 16]. A recent paper suggested an interplay between caspase-8 and caspase-11-GSDMD axis in the execution of endotoxic shock [34]. Collectively, these findings indicate that inactivation of GSDMD arrests pathogenic signals induced by various inflammasomes.\n\nSystemic inflammation and organ damage in NOMID mice are prevented by ablation of Gsdmd\n\nIL-1β propagates inflammation through various mechanisms, including perturbation of chemokine and cytokine signaling networks, responses that lead to the expansion and recruitment of neutrophils to several organs. This cytokine also promotes anemia owing to its negative effects on erythroid progenitors and erythropoietin signaling as well as alteration of the expression of ferritin and ferroportin [35–38]. Accordingly, NOMID mice produced higher levels of IL-1β in bone marrow compared to WT counterparts (Fig 3A and S1 Data), a response that correlated with excessive GSDMD processing in vivo in bone marrow, though the cleaved fragment was barely detected in this compartment (S1B Fig). This observation was not unexpected considering that excessive generation of GSDMD-N caused cytolysis; as a result, the cleaved fragment may have been lost during the sampling process. NOMID mice also exhibited peripheral leukocytosis (Fig 3B and S1 Data) driven by neutrophilia (Fig 3C and S1 Data) and anemia (Fig 3D; S1C Fig and S1 Data), as we previously reported [25, 32]. The identity of myeloid cell subpopulations, which are prone to pyroptosis and propagate inflammation, in this model is unknown, a knowledge gap that future studies should address. In any case, while Gsdmd ablation had no effect on the number of blood cells compared to WT mice, it abrogated or attenuated the onset of leukocytosis and anemia in NOMID mice (Fig 3A–3D). Accordingly, the bone marrow compartment of NOMID mice contained abnormally high levels of Gr1+/CD11b+ cells and low levels of Ter119+ cells (Fig 3E and 3F; S1 Data), responses that were normalized upon Gsdmd deletion.\n\nHistological analyses showed massive neutrophilic infiltration in the liver, dermal and hypodermal layers of the skin, and the spleen of NOMID mice compared to WT or Gsdmd−/− counterparts (Fig 4). Inflammation in the spleen was characterized by disorganized structures of white and red pulps. Because skeletal complications—including low bone mass—are hallmarks of NOMID, we investigated these outcomes in NOMID mice. Histological examinations of skeletal elements showed disorganized columns of chondrocytes with profoundly altered morphology. The epiphysis was hypocellular (Fig 4), a phenotype that was previously reported to be caused by massive chondrocyte death [25, 32] and reminiscent of the human disease [39]. The number of osteoclasts, cells responsible for bone resorption, was markedly increased in NOMID mice relative to control mice. Remarkably, all organs that were analyzed in NOMID;Gsdmd−/− mice were all spared from inflammation-induced damage (Fig 4). Thus, deletion of GSDMD abolishes inflammatory responses and organ demise in NOMID mice.\n\nBlockade of IL-1 activity has been the main strategy for neutralizing pathogenic signals induced by this cytokine in CAPS and other autoinflammatory disorders. However, these drugs have shortcomings, including high cost and the requirement for parenteral administration. Thus, there is still a medical need for the development of safe and affordable drugs for the treatment of autoinflammatory diseases. Breakthrough research demonstrating that GSDMD-mediated pyroptosis releases cytoplasmic contents, including IL-1β and IL-18, offers a novel node for therapeutic intervention. Stemming from its mechanisms of action, blockade of GSDMD and subsequently pyroptosis should, in theory, provide superior efficacy compared with targeted blockade of IL-1β. The compelling evidence indicating that inactivation of GSDMD blocks inflammatory responses induced by the NLRP3 inflammasome lends support to discovery efforts aimed at identifying selective inhibitors of GSDMD actions.\n\nMaterials and methods\n\nEthics statement\n\nAll procedures were approved by the Institutional Animal Care and Use Committee (IACUC) of Washington University School of Medicine in St. Louis, Missouri. All experiments were performed in accordance with the relevant guidelines and regulations described in the IACUC-approved protocol number 20160245.\n\nMice\n\nGsdmd−/− mice [16] were kindly provided by Dr. V. M. Dixit (Genentech, South San Francisco, CA). Nlrp3−/−, Casp1−/−, and Nlrp3fl(D301N)/+ mice and lysozyme M (LysM)-Cre mice have previously been described [25, 31, 40, 41]. Casp11−/− mice were purchased from The Jackson Laboratory. All mice were on the C57BL6J background, and mouse genotyping was performed by PCR.\n\nPeripheral blood and bone marrow analyses\n\nComplete blood counts were performed by the Washington University School of Medicine DCM Diagnostic Laboratory as previously described [31]. Bone marrow cells were flushed out as previously described, and photographed [31].\n\nCell cultures\n\nBMMs were obtained by culturing mouse bone marrow cells in culture media containing a 1:25 dilution of supernatant from the fibroblastic cell line CMG 14–12 as a source of M-CSF, a mitogenic factor for BMMs, for approximately 5 days in a 10-cm dish following the procedures that we published [42]. Nonadherent cells were removed by vigorous washes with PBS, and adherent BMMs were detached with trypsin-EDTA and were cultured in culture media containing a 1:50 dilution of CMG at 4 × 104/well in a 96-wells plate (for the analysis of IL-1β and LDH) or 1.2 × 106/well in a 6-wells plate (for Western blot analysis).\n\nWestern blot\n\nBMMs were treated with 100 ng/mL LPS for 3 hours, then with 15 μM nigericin for 30 minutes. Extracts from BMMs or bone marrow cells were prepared by lysing cells or cell pellets, respectively, with RIPA buffer (50 mM Tris, 150 mM NaCl, 1 mM EDTA, 0.5% NaDOAc, 0.1% SDS, and 1.0% NP-40) plus phosphatase inhibitors and Complete Protease Inhibitor Cocktail (Roche, Brighton, MA). Protein concentrations were determined by the Bio-Rad method, and equal amounts of proteins were subjected to SDS-PAGE gels (12%). Proteins were transferred onto nitrocellulose membranes and incubated with GSDMD antibody (1:1,000, ab209845, Abcam, Cambridge, MA) or β-actin (1:5,000, sc-47778, Santa Cruz Biotechnology, Dallas, Texas) overnight at 4°C, followed by a 1-hour incubation with secondary goat anti-mouse IgG (1:5,000, A21058, Thermo Fisher Scientific, Grand Island, NY) or goat anti-rabbit IgG (1:5,000, A21109, Thermo Fisher Scientific), respectively. The results were visualized using Li-Cor Odyssey Infrared Imaging System (LI-COR Biosciences, Lincoln, Nebraska).\n\nFlow cytometry\n\nMouse bone marrow cells were flushed from femur and tibia. For flow cytometry analysis of the leukocytes, red blood cells (RBCs) were depleted with RBC lysis buffer (Roche, Brighton, MA). Cells (0.5–1 × 106) were incubated with Fc block (anti-mouse CD16/32, BioLegend, San Diego, CA) to block nonspecific Fc binding, stained with isotype control or APC-anti-mouse Ter119 (BioLegend, San Diego, CA), FITC-anti-mouse CD11b (eBioscience, Grand Island, NY), and PE-anti-mouse Ly-6G/Ly-6C (Gr1) antibody (BioLegend, San Diego, CA) according to the supplier’s instructions. Flow cytometry was performed using BD LSRFortessa or BD FACSCanto II Flow Cytometer system, followed by analysis with FlowJo software (Tree Star, Ashland, Oregon).\n\nHistology\n\nAll tissues were harvested and fixed in 10% formalin. Long bones were decalcified in 14% (w/v) EDTA for 5 days at room temperature. All tissues were embedded in paraffin, sectioned at 5 μm thickness, and mounted on glass slides. Sections were stained with hematoxylin–eosin (HE) or TRAP as previously described [42].\n\nCytotoxicity assay and IL-1β ELISA\n\nBMMs were treated with 100 ng/mL LPS for 3 hours, then with 15 μM nigericin for 30 minutes.\n\nCell death was assessed by the release of LDH using LDH Cytotoxicity Detection Kit (TaKaRa, Mountain View, CA). IL-1β levels in conditioned media were measured by ELISA (eBiosciences, Grand Island, NY). For IL-1β measurements in bone marrow, flushed bone marrow was centrifuged, and the supernatants were collected as described previously [42]. IL-1β levels were quantified using the eBioscience ELISA kit.\n\nStatistical analysis\n\nStatistical analysis was performed using one-way ANOVA with Tukey's multiple comparisons test or two-way ANOVA with Tukey's multiple comparisons test in GraphPad Prism 7.\n\nSupporting information"
+}

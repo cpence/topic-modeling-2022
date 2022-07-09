@@ -1,0 +1,179 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.2005970",
+  "doi": "10.1371/journal.pbio.2005970",
+  "externalIds": [
+    "pii:pbio.2005970",
+    "pmid:29969450",
+    "pmcid:PMC6029841"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "CellProfiler 3.0: Next-generation image processing for biology",
+  "authors": [
+    {
+      "name": "Claire McQuin",
+      "first": "Claire",
+      "last": "McQuin",
+      "affiliation": "Imaging Platform, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Allen Goodman",
+      "first": "Allen",
+      "last": "Goodman",
+      "affiliation": "Imaging Platform, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Vasiliy Chernyshev",
+      "first": "Vasiliy",
+      "last": "Chernyshev",
+      "affiliation": "Skolkovo Institute of Science and Technology, Skolkovo, Moscow Region, Russia; Moscow Institute of Physics and Technology, Dolgoprudny, Moscow Region, Russia"
+    },
+    {
+      "name": "Lee Kamentsky",
+      "first": "Lee",
+      "last": "Kamentsky",
+      "affiliation": "Imaging Platform, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Beth A. Cimini",
+      "first": "Beth A.",
+      "last": "Cimini",
+      "affiliation": "Imaging Platform, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Kyle W. Karhohs",
+      "first": "Kyle W.",
+      "last": "Karhohs",
+      "affiliation": "Imaging Platform, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Minh Doan",
+      "first": "Minh",
+      "last": "Doan",
+      "affiliation": "Imaging Platform, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Liya Ding",
+      "first": "Liya",
+      "last": "Ding",
+      "affiliation": "Allen Institute for Cell Science, Seattle, Washington, United States of America"
+    },
+    {
+      "name": "Susanne M. Rafelski",
+      "first": "Susanne M.",
+      "last": "Rafelski",
+      "affiliation": "Allen Institute for Cell Science, Seattle, Washington, United States of America"
+    },
+    {
+      "name": "Derek Thirstrup",
+      "first": "Derek",
+      "last": "Thirstrup",
+      "affiliation": "Allen Institute for Cell Science, Seattle, Washington, United States of America"
+    },
+    {
+      "name": "Winfried Wiegraebe",
+      "first": "Winfried",
+      "last": "Wiegraebe",
+      "affiliation": "Allen Institute for Cell Science, Seattle, Washington, United States of America"
+    },
+    {
+      "name": "Shantanu Singh",
+      "first": "Shantanu",
+      "last": "Singh",
+      "affiliation": "Imaging Platform, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Tim Becker",
+      "first": "Tim",
+      "last": "Becker",
+      "affiliation": "Imaging Platform, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Juan C. Caicedo",
+      "first": "Juan C.",
+      "last": "Caicedo",
+      "affiliation": "Imaging Platform, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    },
+    {
+      "name": "Anne E. Carpenter",
+      "first": "Anne E.",
+      "last": "Carpenter",
+      "affiliation": "Imaging Platform, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of America"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2018-07-03",
+  "dateAccepted": "2018-05-25",
+  "dateReceived": "2018-03-09",
+  "volume": "16",
+  "number": "7",
+  "pages": "e2005970",
+  "tags": [
+    "Algorithms",
+    "Applied mathematics",
+    "Biologists",
+    "Blastocysts",
+    "Careers in research",
+    "Cell staining",
+    "Computer software",
+    "Developmental biology",
+    "Discipline-v3/Algorithms",
+    "Discipline-v3/Applied mathematics",
+    "Discipline-v3/Biologists",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Blastocysts",
+    "Discipline-v3/Careers in research",
+    "Discipline-v3/Cell staining",
+    "Discipline-v3/Computer and information sciences",
+    "Discipline-v3/Computer software",
+    "Discipline-v3/Developmental biology",
+    "Discipline-v3/Embryology",
+    "Discipline-v3/Engineering and technology",
+    "Discipline-v3/Image analysis",
+    "Discipline-v3/Image processing",
+    "Discipline-v3/Imaging techniques",
+    "Discipline-v3/Mathematics",
+    "Discipline-v3/Open science",
+    "Discipline-v3/Open source software",
+    "Discipline-v3/People and places",
+    "Discipline-v3/Physical sciences",
+    "Discipline-v3/Population groupings",
+    "Discipline-v3/Professions",
+    "Discipline-v3/Research and analysis methods",
+    "Discipline-v3/Science and technology workforce",
+    "Discipline-v3/Science policy",
+    "Discipline-v3/Scientists",
+    "Discipline-v3/Signal processing",
+    "Discipline-v3/Simulation and modeling",
+    "Discipline-v3/Software engineering",
+    "Discipline-v3/Software tools",
+    "Discipline-v3/Specimen preparation and treatment",
+    "Discipline-v3/Staining",
+    "Embryology",
+    "Image analysis",
+    "Image processing",
+    "Imaging techniques",
+    "Mathematics",
+    "Open science",
+    "Open source software",
+    "Population groupings",
+    "Professions",
+    "Science and technology workforce",
+    "Scientists",
+    "Signal processing",
+    "Simulation and modeling",
+    "Software engineering",
+    "Software tools",
+    "Specimen preparation and treatment",
+    "Staining",
+    "Type/Methods and Resources"
+  ],
+  "abstract": "CellProfiler has enabled the scientific research community to create flexible, modular image analysis pipelines since its release in 2005. Here, we describe CellProfiler 3.0, a new version of the software supporting both whole-volume and plane-wise analysis of three-dimensional (3D) image stacks, increasingly common in biomedical research. CellProfiler’s infrastructure is greatly improved, and we provide a protocol for cloud-based, large-scale image processing. New plugins enable running pretrained deep learning models on images. Designed by and for biologists, CellProfiler equips researchers with powerful computational tools via a well-documented user interface, empowering biologists in all fields to create quantitative, reproducible image analysis workflows.",
+  "fullText": "Introduction\n\nBioimaging software ecosystem\n\nImage analysis software is now used throughout biomedical research in order to reduce subjective bias and quantify subtle phenotypes when working with microscopy images. Automated microscopes are further transforming modern research. Experiments testing chemical compounds or genetic perturbations can reach a scale of many thousands of perturbations, and multidimensional imaging (time-lapse and three-dimensional [3D]) also produces enormous data sets that require automated analysis. In light of this data scale, computer algorithms must deliver accurate identification of cells, subcompartments, or organisms and extract necessary descriptive features (metrics) for each identified object.\n\nRacing to keep up with the advancement of automated microscopy are several classes of biologist-focused image analysis software, such as companion packages bundled with imaging instruments (e.g., MetaMorph—Molecular Devices, Elements—Nikon), stand-alone commercial image processing tools (e.g., Imaris—Bitplane), and free open-source packages (e.g., ImageJ/Fiji, CellProfiler, Icy, KNIME). Commercial software is often convenient to use, especially when bundled with a microscope. Although cost and lack of flexibility may limit adoption, there is a focus on usability, particularly for applications of interest to the pharmaceutical industry. Still, the proprietary nature of the code in commercial software limits researchers from knowing how their data is being analyzed or modifying the strategy of a given algorithm, if desired.\n\nThe open-source biological image analysis software ecosystem is thriving [1]. ImageJ [2] was the first and is still the most widely used package for bioimage analysis; several other packages are based on its codebase (most notably, Fiji). ImageJ excels at the analysis of individual images, with a user interface analogous to Adobe Photoshop. Its major strength is its community of users and developers who contribute plugins, although an associated drawback is the sheer number of plugins, with varying degrees of functional overlap, usability, and documentation. Multitasking toolboxes like KNIME [3] offer a more modular approach, which is better suited to automated workflows. KNIME equips users with a wide breadth of powerful utility, from performing image analysis to data analytics.\n\nCellProfiler\n\nCellProfiler, our open-source software for measuring and analyzing cell images, has been cited more than 6,000 times, currently at a rate of more than 1,000 per year. The first version of CellProfiler was introduced in 2005 and published in 2006 [4]. It is widely adopted worldwide, enabling biologists without training in computer vision or programming to quantitatively measure phenotypes robustly from thousands of images. A second major version of CellProfiler, rewritten in Python from its original MATLAB implementation, was published in 2011 [5] and included methods for tracking cells in movies and measuring neurons, worms, and tissue samples. In 2015, a laboratory unaffiliated with our team rigorously compared 15 free software tools for biological image analysis: CellProfiler was ranked first for both usability and functionality [6].\n\nCellProfiler provides advanced algorithms for image analysis, organized as individual modules that can be placed in sequential order to form a pipeline. This pipeline is then used to identify and measure cells or other biological objects and their morphological features. CellProfiler’s modular design and carefully curated library of image processing and analysis modules benefits biologists in several ways:\n\nReproducibility at scale: CellProfiler is designed to produce high-content information for each cell or other object of interest in each image and to apply the same objective analysis in high-throughput, e.g., across thousands or millions of images.\n\nFlexible feature extraction: Individual modules measure standard morphological features such as size, shape, intensity, and texture. Customized combinations of modules can extract even more complex information. As such, CellProfiler is commonly used for morphological profiling experiments such as Cell Painting [7,8], which is being adopted in pharmaceutical companies to speed several steps in drug discovery [9].\n\nEasy to learn: Each of the 70+ modules includes carefully crafted documentation, curated by both imaging and biology experts, to make image processing more approachable and understandable for the average scientist. Further, each individual setting is explained in practical terms to aid researchers in configuring it. The number of modules and settings is carefully limited to avoid overwhelming users, while a plugin system allows the flexibility of a larger array of contributed modules.\n\nCommunity: CellProfiler has an active community of more than 3,000 people on its online question and answer forum. With more than 15,000 posts, users provide feedback that fuels improvements to CellProfiler, find pipelines related to their area of research, interact with developers, get input on challenging problems, and improve image analysis skills and knowledge by helping other users design solutions.\n\nResults\n\nIn the CellProfiler 3.0 release, we introduced methods for analyzing 3D images, using deep learning architectures and cloud computing resources, and other improvements to CellProfiler’s usability and capabilities.\n\nHigh-throughput 3D analysis\n\nThis new version of CellProfiler has support for analysis of 3D images in many of its modules (S1 Fig). Although open-source software tuned to 3D problems exists (e.g., Vaa3D, BioImageXD, Slicer) [10], it often emphasizes visualization and rendering; these new 3D capabilities of CellProfiler meet the community’s demand for modular high-throughput 3D analysis. CellProfiler 3.0 can apply image processing, segmentation, and feature extraction algorithms to entire image volumes (volumetric analysis), in addition to the more typical iterative and separate analysis of two-dimensional slices from a 3D volume (“plane-wise” analysis). Whole-volume algorithms consider 3D neighborhoods and incorporate information from surrounding planes, yielding more accurate results, but require more available memory, particularly for large files. CellProfiler’s volumetric algorithms can be configured to account for anisotropic data (in which the distance between Z planes does not match the distance between pixels in the X and Y dimensions). While we focused on adding 3D capability to most of our image processing and feature extraction modules, we will continue increasing the number of CellProfiler modules that support image volumes for situations in which it is not computationally prohibitive.\n\nWe developed 3D pipelines to identify cells and subcompartments of cells for a number of experimental situations and sample types across a number of laboratories. We identified nuclei based on a DNA stain (Fig 1A) in 3D image stacks of human induced pluripotent stem cells (hiPSCs). After processing by several CellProfiler modules (Fig 1C), the final results agree well with manually annotated nuclei (Fig 1D). Results for a variety of images with a range of complexity are shown in Fig 2, with more detailed views in S2–S5 Figs. We characterized CellProfiler’s segmentation accuracy in two ways: in the first, we used real microscopy images (Fig 1A, Fig 2A, Fig 2B) whose ground truth was manually annotated by an expert image analyst; such images are realistic, but the manual annotation introduces some subjectivity. We therefore also used synthetic images (Fig 2C, Fig 2D)[11,12], which, depending on the model used to create them, may not perfectly represent real microscopy images but whose ground truth can be unambiguously known.\n\nTo determine how well the segmented objects agreed with ground truth, CellProfiler’s “MeasureImageOverlap” module was used to calculate the plane-wise Rand index [13], a performance metric of accuracy (Fig 1B, Fig 2E). Rand index values showed good agreement (0.919–0.976) between each tested image and its ground truth. The results produced by CellProfiler 3.0 were comparable to results produced by the commonly used Fiji plugin MorphoLibJ (0.930–0.977) (Fig 1B, Fig 2E and S2–S5 Figs; the MorphoLibJ macro codes are provided in S1 Table). We demonstrate several kinds of analysis, including analyses of cell count in a time series that was synthetically generated [11,14](S5 Fig); identification and quantification of children objects inside parent objects, such as speckles of transcripts within cells (Fig 3); and measurement of various features of hiPSCs located at the center and the edge of the cell colony (Fig 4).\n\nAll pipelines, annotated with notes to understand the function of each module, are provided at https://github.com/carpenterlab/2018_mcquin_PLOSBio. All raw images, together with ground truth annotations used to test CellProfiler 3.0 performance, are publicly available for further community algorithm development in the Broad Bioimage Benchmark Collection [15], as indicated in the legends for Fig 1 and S2–S5 Figs.\n\nSupport for deep learning\n\nConvolutional neural networks (CNNs) are a type of deep learning model that transforms input images into outputs specified by the problem type [16]. For instance, image classification models transform images into categorical labels [17], while image segmentation models transform images into segmentation masks [18]. CNNs are now widely used to solve many computer vision tasks, given their ability to produce accurate outputs after learning from examples. CellProfiler now can be configured to make use of cutting-edge CNNs to analyze biomedical images. While CellProfiler does not yet incorporate user-friendly functionalities to train neural networks, various models that have been already trained by researchers can be run inside CellProfiler.\n\nRunning neural network models requires the installation of certain deep learning frameworks that are distributed separately, such as TensorFlow or Caffe. TensorFlow [19] is an open-source software library for machine learning that interfaces with Python and is compatible with CellProfiler when installed from source on Linux, Mac, and more recently, Windows. Caffe [20] is a deep learning framework designed for high-performance neural networks and is primarily available for Linux systems. Some network models may need special graphics processing units (GPUs) installed and configured in the system to run the computations efficiently, but this is not always required. Fortunately, both TensorFlow and Caffe can easily switch between running on GPUs and traditional central processing units (CPUs) just by changing the corresponding configuration.\n\nWe created the CellProfiler 3.0 module ClassifyPixels-Unet to segment nuclei in images stained with DNA labels (https://github.com/CellProfiler/CellProfiler-plugins). This plugin implements a U-Net[18] model using TensorFlow and can be run on CPUs. We have also provided the network architecture with training routines in case users have their own annotated images to learn a segmentation model for different images and objects of interest (https://github.com/carpenterlab/unet4nuclei). The ClassifyPixels-Unet module classifies pixels into one of three classes: background, nucleus interior, or nuclear boundary (S7 Fig). A pretrained network for nuclei segmentation is available for download and is automatically loaded by the plugin; a pipeline and image to run this are available as S4 File.\n\nWe also created a CellProfiler 3.0 module, MeasureImageFocus, in collaboration with Google Accelerated Science, who trained a model to detect focus in images [21]. The module displays a table with the predicted focus score and certainty for the whole image, as well as a figure with the focus scores and corresponding certainties of individual 84 × 84 patches represented by color and opaqueness. It uses TensorFlow as its underlying deep learning framework. Independently, Sadanandan and colleagues created a CellProfiler 2.2.0 module—CellProfiler-Caffe bridge—that enables running a pretrained model for cell segmentation within a CellProfiler pipeline [22].\n\nCloud computing\n\nWe created Distributed-CellProfiler (https://github.com/CellProfiler/Distributed-CellProfiler), a script-based interface that allows running thousands of batches of images through CellProfiler in parallel on Amazon Web Services (AWS; S8 Fig). While Distributed-CellProfiler does require basic knowledge of AWS and interaction with the command line, it is well documented and has been successfully run by biologists without formal computational training. The script handles infrastructure creation and removal as well as creation and storage of logs, allowing users without access to a local cluster computing environment to analyze large data sets with only minimal time devoted to having to set up those resources. Sample pipelines and configuration files are available as S5 File.\n\nImprovements for CellProfiler 3.0\n\nPlug-ins: CellProfiler-plugins is a new repository for the community to share and distribute new CellProfiler modules (https://github.com/CellProfiler/CellProfiler-plugins).\n\nDocumentation: All of CellProfiler’s documentation was updated for content and readability; detailed help is available for 100% of module configuration options (excluding plugins).\n\nNew image processing features: CellProfiler 3.0 introduces an extended suite of modules for feature detection, feature extraction, filtering and noise reduction, image processing, image segmentation, and mathematical morphology operations.\n\nInfrastructure improvements: The project team reengineered major core components of CellProfiler. CellProfiler’s codebase was trimmed down, in part because of better integration with Python’s scientific community. We have adopted and contributed to the standard libraries of the scientific Python community, including NumPy, SciPy, and scikit-image. CellProfiler’s code is now 100% Python, which improves interoperability with the robust Python scientific ecosystem and simplifies third-party contributions. As well, we upgraded support to 64-bit on Linux, MacOS, and Windows, and a continuous integration process ensures the software is well tested on a variety of platforms.\n\nWe made substantial progress simplifying CellProfiler’s installation. In addition to our previously existing Mac and Windows builds, a Python wheel is now available from the Python Package Index, and a Docker image is now available from Docker Hub. In an effort to expand CellProfiler’s flexibility, we made CellProfiler much simpler to compile on a variety of familiar and unusual platforms by requiring fewer dependencies and only using ubiquitous build systems.\n\nEducational resources: CellProfiler’s many examples and tutorials are now publicly available on GitHub (https://github.com/CellProfiler/examples and https://github.com/CellProfiler/tutorials) and have been updated for compatibility with CellProfiler 3.0.\n\nSpeed: CellProfiler 3.0’s processing speed is faster than version 2.2 on the most common types of pipelines; the degree of difference depends on the exact modules involved: CellProfiler 3.0 ran at a comparable or faster speed than CellProfiler 2.2 for 11 of 16 example pipelines tested (S9 Fig). While the total amount of time needed to run the five pipelines shown in S9 Fig was comparable between CellProfiler and MorphoLibJ (482 versus 542 seconds), the relative speed was highly specific to the individual pipeline (S6 File), ranging from 2× faster in CellProfiler to 6× faster in MorphoLibJ (S2 Table). In addition, CellProfiler can run multiple images in parallel, depending on the individual’s number of threads, computing power, and access to cloud computing resources, making it suited to large-scale experiments. As well, CellProfiler’s modules enable more readily configurable complex analyses than MorphoLibJ, such as associating cytoplasm regions (as in Fig 3), transcripts (as in Fig 3), and other entities to nuclei and measuring a wide variety of morphological properties of each, including intensities, shapes, textures, colocalization metrics, and neighborhood relationships (as in Fig 4).\n\nFuture directions\n\nCellProfiler is mature software serving a large community and making an impact through its thousands of users’ biological discoveries. It has been involved in the discovery of potential life-saving drugs for infectious diseases, leukemia, and cerebral cavernous malformation [23–27] and in clinical trials for hematological malignancies [28] and will continue to fuel basic and applied research around the world.\n\nCellProfiler can readily generate a large amount of morphological information for each biological entity that is measured. We see advancements in data mining, downstream and apart from CellProfiler, as blossoming in the coming years. Already, 20 laboratories in the field of morphological profiling have gathered for two annual meetings/hackathons (now called CytoData) [29], collaborated to outline best practices [30], and begun a community library (Cytominer, https://github.com/cytomining/cytominer). In addition to our user-friendly tool for classical machine learning based on measured features, CellProfiler Analyst [31], we have begun creating Deepometry (http://github.com/broadinstitute/deepometry), a tool that enables scientists without training in machine learning to perform single-cell phenotype classification using deep learning and other advanced downstream data analytics. Interoperability of CellProfiler with popular notebook tools like Jupyter would allow seamless workflows involving other complementary software tools.\n\nFinally, deep learning has revolutionized computer vision and other fields in the past few years [16,32], and bioimaging will be no exception. As noted, already some models trained for specific tasks can be used via CellProfiler, and we expect that over time, more generalizable models will be created that can accomplish useful tasks such as detecting common cellular structures across diverse types of images and experimental setups, as in, for example, the 2018 Data Science Bowl challenge. Community-driven collections of images and ground truth, as well as “model zoos,” will be instrumental for this. We have also begun creating libraries (Keras-ResNet [https://github.com/broadinstitute/keras-resnet] and Keras-RCNN [https://github.com/broadinstitute/keras-rcnn]) that will provide the foundation for interfaces that allow biologists to annotate, train, and use deep learning models. We expect that over time, these models will reduce the amount of time biologists spend tuning classical image processing algorithms to identify biological entities of interest in images.\n\nMaterials and methods\n\nBlastocyst and trophoblast cell imaging\n\nImages were kindly provided by Javier Frias Aldeguer and Nicolas Rivron of Hubrecht Institute for Developmental Biology and Stem Cell Research and Li Linfeng of MERLN Institute for Technology-Inspired Regenerative Medicine. As per Rivron and colleagues [33], mouse embryos (3.5 dpc) were fixed right after isolation from the mother’s uterus. Fixation was performed using 4% PFA in RNAse-free PBS containing 1% acetic acid. ViewRNA ISH Cell Assay kit (cat# QVC0001) was used for performing smFISH on the embryos. The protocol includes steps of permeabilization and protease treatment as well as probes, preamplifier, amplifier, and label hybridizations. Embryos were then mounted in Slowfade reagent (Thermofisher cat# S36937) and directly imaged in a PerkinElmer Ultraview VoX spinning disk microscope in confocal mode by using a 63×/1.40 NA oil immersion lens.\n\nhiPSC culture, staining and imaging\n\nImages were acquired by collaborators from the Allen Institute for Cell Science, Seattle, as per Roberts and colleagues [34]. Briefly, wild-type C (WTC) hiPSCs were cultured in a feeder-free system on tissue culture dishes or plates coated with GFR Matrigel (Corning) diluted 1:30 in cold DMEM/F12 (Gibco). Undifferentiated cells were maintained with phenol red containing mTeSR1 media (85850, STEMCELL Technologies) supplemented with 1% (v/v) penicillin-streptomycin (P/S; Gibco). Cells were not allowed to reach confluency greater than 85% and are passaged every 3–4 days by dissociation into single-cell suspension using StemPro Accutase (Gibco). When in single-cell suspension, cells were counted using a Vi-CELL Series Cell Viability Analyzer (Beckman Coulter). After passaging, cells were replated in mTeSR1 supplemented with 1% P/S and 10 μM ROCK inhibitor (Stemolecule Y-27632, Stemgent) for 24 hours. Media is replenished with fresh mTeSR1 media supplemented with 1% P/S daily. Cells were maintained at 37°C and 5% CO2. Cells were maintained with phenol red–free mTeSR1 media (05876, STEMCELL Technologies) 1 day prior to live cell imaging.\n\nThree to four days after cells are plated and mature and healthy colonies are observed on 96- and 24-well imaging plates, the cells are stained with NucBlue Live ready probe reagent (R37605, ThermoFisher) and CellMask Deep Red plasma membrane stain (C10046, ThermoFisher) to visualize DNA and plasma membrane, respectively. The protocol is available online: http://www.allencell.org/uploads/8/1/9/9/81996008/sop_for_cellmask-and-nucblue_v1.0_1.pdf. Phenol red–free mTeSR1 is preequilibrated to 37°C and 5% CO2. 1X NucBlue solution made in preequilibrated phenol red–free mTeSR1 is spun for 60 minutes at 20,000 g. The 2X and 10X working stocks of CellMask Deep Red lot #1730970 and #1813792, respectively, are made in 1X NucBlue solution. All solutions are kept at 37°C and 5% CO2 until used. The 100 μL and 400 μL of NucBlue solution are added per well of 96-well imaging plates and 24-well imaging plates, respectively, and incubated at 37°C and 5% CO2 for 20 minutes. An equal amount of CellMask Deep Red working stock is added to the wells containing NucBlue solution. Final dye concentrations in the wells are 1X NucBlue and 1X and 5X CellMask Deep Red lots #1730970 and #1813792, respectively. Cells are incubated at 37°C and 5% CO2 for 10 minutes and gently washed with preequilibrated phenol red–free mTeSR1. Fields of view as shown in Fig 4 that are acquired near the edge (and the center as a control) of hiPSC colonies receive an additional photoprotective cocktail treatment which serves to minimize singlet oxygen and free radical formation. The photoprotective cocktail is used at a working concentration of 0.3 U/ml (1:100) OxyFluor as defined by the OxyFluor product insert, with the addition of 10 mM sodium lactate and 1 mM ascorbic acid (OxyFluor OF-0005, Oxyrase).\n\nAs per Roberts and colleagues [34], cells were imaged on a Carl Zeiss spinning disk microscope with a Carl Zeiss 20×/0.8 NA plan APOCHROMAT or 100×/1.25 W C-APOCHROMAT Korr UV Vis IR objective, a CSU-X1 Yokogawa spinning disk head, and Hamamatsu Orca Flash 4.0 camera. Microscopes were outfitted with a humidified environmental chamber to maintain cells at 37°C with 5% CO2 during imaging. Cells are imaged immediately following the wash step and for up to 2.5 hours after dye addition on a Zeiss spinning disk microscope at 100× with the following general settings: 405 nm at 0.28 mW, 200 ms exposure; 638 nm at 2.4 mW, 200 ms exposure; acquiring each channel at each z-step.\n\nGeneration of ground truth annotations\n\nExperienced bioimage analysts drew outlines around nuclear boundaries on each slice of the 3D images and labeled background regions in a different color with GIMP (https://www.gimp.org), an open-source drawing and annotation software. These annotated layers were then exported from GIMP as an image. This outline image is converted to 3D objects via a CellProfiler pipeline (https://github.com/CellProfiler/tutorials/tree/master/Annotation), and an object label matrix image is exported, in which each object’s voxels are assigned a unique integer value. These label images are referenced as ground truth.\n\nSupporting information"
+}

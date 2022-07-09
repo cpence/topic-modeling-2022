@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1000006",
+  "doi": "10.1371/journal.pbio.1000006",
+  "externalIds": [
+    "pii:08-PLBI-S-4978",
+    "pmid:20076700",
+    "pmcid:PMC2605934"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Gal4 Gets Genes to Loosen Up",
+  "authors": [
+    {
+      "name": "Caitlin Sedwick",
+      "first": "Caitlin",
+      "last": "Sedwick"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2008-12",
+  "dateElectronic": "2008-12-23",
+  "volume": "6",
+  "number": "12",
+  "pages": "e1000006",
+  "tags": [
+    "Discipline/Molecular Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "Eukaryotic nuclei are jam-packed with information: if all the nuclear DNA in typical mammalian cell was unspooled and laid out in a straight line, it would stretch for about 2 meters. To fit into tiny cell nuclei, all this DNA must be tightly packed. This is accomplished by winding DNA around histones (eight-subunit protein complexes) to form structures called nucleosomes, which decorate genomic DNA much like beads on a string.\n\nIn order to get information out of genes, DNA must be transcribed into RNA. This happens with the help of transcriptional activators: proteins that bind to specific sites on DNA and recruit the transcriptional machinery to the gene. But nucleosomes present a problem: the transcriptional machinery can't be brought to the beginning of the gene if that DNA is wrapped into nucleosomes. In this issue of PLoS Biology, Gene Bryant, Mark Ptashne, and colleagues show that the process of gene activation proceeds in at least two steps: first, the activator recruits an enzyme that removes nucleosomes, and then it recruits the transcriptional machinery. The researchers also provide new insights into the role of nucleosome reformation as genes are repressed.\n\nTo study gene activation and repression, the authors turned to a well-studied system: the GAL genes of yeast. Yeast commonly digest two sugars: glucose and galactose. In yeast cells feeding on glucose, genes involved in galactose metabolism are transcriptionally silenced. Switching the sugar source from glucose to galactose frees the transcriptional activator Gal4 from its inhibitor, Gal80. This exposes Gal4's activating region, allowing the DNA-bound Gal4 to recruit the transcriptional machinery (SAGA, Mediator, etc.) to activate transcription. The authors wondered whether Gal4 might also govern the removal of nucleosomes from its target genes, helping these genes accept the recruited transcriptional machinery.\n\nThe tight wrapping of DNA into nucleosomes protects DNA from cleavage by nucleases; only DNA without nucleosomes, or the DNA that spans the space between nucleosomes (the naked “string” between “beads”), can be readily cut by nucleases. By subjecting DNA to nuclease cleavage and then sequencing the resulting fragments, it's possible to identify which segments of DNA have nucleosomes on them. Bryant and colleagues took this concept one step further and developed a method that reveals, for any given point in time, what fraction of a specific DNA fragment bears a nucleosome. The researchers found that DNA sequences differ significantly in the frequency with which they form nucleosomes. This approach also allowed them to follow nucleosome removal and reformation upon gene activation and repression.\n\nThe group found that Gal4 removes nucleosomes from genes involved in galactose metabolism, and that this Gal4-mediated nucleosome removal could occur in two ways. In the most efficient method, Gal4 recruits a protein complex called SWI/SNF, a nucleosome-remodeling complex that rapidly strips nucleosomes off DNA. The second, but less-efficient method, operates when SWI/SNF is absent (for example, when the genes encoding these factors have been experimentally deleted from cells). In this case, the transcriptional machinery recruited by Gal4 must compete with nucleosomes for binding to the gene. Eventually, the transcriptional machinery wins out and transcription proceeds. But this process is much slower than when SWI/SNF is available to help strip off nucleosomes. It takes a long time to reach peak transcription rates using this method; the ability of Gal4 to remove nucleosomes without SWI/SNF had previously lead other groups to conclude that SWI/SNF was not involved.\n\nIf nucleosome removal is needed for peak transcription of galactose metabolism genes, what role might nucleosome restoration play in repressing transcription from these genes when glucose is once again made available to the cells? Glucose rapidly shuts down transcription from galactose metabolism genes, even when galactose is present. But the authors found that as long as galactose is also present, Gal4 (together with SWI/SNF) still removes nucleosomes from DNA; only when galactose is removed are nucleosomes able to reform. The authors speculate that glucose may somehow destabilize the transcriptional machinery, but how this is accomplished remains to be explored. In any case, these data demonstrate that nucleosome reformation is not required to quickly shut down gene transcription—something that should spur further inquiry."
+}

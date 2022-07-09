@@ -1,0 +1,55 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0050147",
+  "doi": "10.1371/journal.pbio.0050147",
+  "externalIds": [
+    "pii:07-PLBI-CN-0783"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Public Domain declaration which stipulates that, once placed in the public domain, this work may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Correction: A Map of Recent Positive Selection in the Human Genome",
+  "authors": [
+    {
+      "name": "Benjamin F Voight",
+      "first": "Benjamin F",
+      "last": "Voight"
+    },
+    {
+      "name": "Sridhar Kudaravalli",
+      "first": "Sridhar",
+      "last": "Kudaravalli"
+    },
+    {
+      "name": "Xiaoquan Wen",
+      "first": "Xiaoquan",
+      "last": "Wen"
+    },
+    {
+      "name": "Jonathan K Pritchard",
+      "first": "Jonathan K",
+      "last": "Pritchard"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2007-06",
+  "dateElectronic": "2007-06-12",
+  "volume": "5",
+  "number": "6",
+  "pages": "e147",
+  "tags": [
+    "Discipline/Computational Biology",
+    "Discipline/Evolutionary Biology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Mathematics",
+    "System Taxonomy/Homo (human)",
+    "System Taxonomy/Mammals",
+    "System Taxonomy/Primates",
+    "Type/Correction"
+  ],
+  "fullText": "In PLoS Biology, volume 4, issue 3: doi: 10.1371/journal.pbio.0040072\n\n1. In the supplementary materials, the intended simulation models for the population growth scenarios in the Yoruba were incorrectly specified. The corrected command lines, matching the models that were the intended simulations, are as follows:\n\nExponential growth from initial size NA to N0, occurring tonset generations in the past.\n\nNA = 11156, N0 = 11156, tonset = 1000: ms 120 1 -s S -r ρ L -G 0 -eG 0.02241 0.0\n\nNA = 10659, N0 = 22600, tonset = 1000: ms 120 1 -s S -r ρ L -G 67.94 -eG 0.011062 0.0\n\nNA = 7834, N0 = 57900, tonset = 4000: ms 120 1 -s S -r ρ L -G 115.81 -eG 0.017271 0.0\n\nNA = 10424, N0 = 938000, tonset = 500: ms 120 1 -s S -r ρ L -G 33765.3 -eG 0.00013326 0.0\n\nNA = 9944, N0 = 44600, tonset = 1500: ms 120 1 -s S -r ρ L -G 178.49 -eG 0.008408 0.0\n\nNA = 11020, N00 = 23300, tonset = 250: ms 120 1 -s S -r ρ L -G 279.13 -eG 0.002682 0.0\n\nNA = 9912, N0 = 199000, tonset = 1000: ms 120 1 -s S -r ρ L -G 2387.65 -eG 0.0012563 0.0\n\nNA = 10018, N0 = 1910000, tonset = 750: ms 120 1 -s S -r ρ L -G 53484.84 -eG 9.8167E-5 0.0\n\n2. As a result of the above, Figure 4 as presented in the manuscript is incorrect, and the revision is presented below. The fundamental result and interpretation of the figure as they pertain to the manuscript are unchanged: The observed iHS scores for the Yoruban Hapmap sample are more extreme than under the (correctly) simulated growth models presented above.\n\nWe regret any confusion this may have caused readers."
+}

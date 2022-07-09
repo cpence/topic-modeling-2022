@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001053",
+  "doi": "10.1371/journal.pbio.1001053",
+  "externalIds": [
+    "pii:PBIOLOGY-D-11-01007",
+    "pmid:21541366",
+    "pmcid:PMC3082518"
+  ],
+  "license": "This is an open-access article distributed under\n                the terms of the Creative Commons Attribution License, which permits unrestricted\n                use, distribution, and reproduction in any medium, provided the original author and\n                source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A Yeast Model for Understanding ALS: Fast, Cheap, and Easy to\n                    Control",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson",
+      "affiliation": "Freelance Science Writer, Sherborn, Massachusetts, United States of\n                    America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2011-04",
+  "volume": "9",
+  "number": "4",
+  "pages": "e1001053",
+  "tags": [
+    "Discipline-v2/Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "Amyotrophic lateral sclerosis (ALS) is\n                a neurodegenerative disease in which the motor neurons of the central nervous\n                system—those cells of the brain and spinal cord that control muscles—die\n                off. The resulting paralysis typically leads to death within 3–5 years of\n                onset. The cause of the disease in the majority of cases is completely unknown, and\n                there is no treatment that halts or significantly slows the disease. In the United\n                States ALS is often known as Lou Gehrig's Disease, after the baseball player\n                who famously suffered from it.\n\nSeveral genes have been linked to ALS. The most recent, called FUS (fused in sarcoma,\n                a reference to the context of its discovery), is the subject of two new studies in\n                this issue of PLoS Biology, one by Zhihui Sun, Zamia Diaz, James\n                Shorter, Aaron Gitler, and colleagues, and the other by Shulin Ju, Gregory Petsko,\n                Dagmar Ringe, and colleagues. Both explore FUS biology in yeast, and highlight the\n                potential for modeling elements of complex diseases in this simplest of eukaryotic\n                cell systems. Results from both studies suggest that defects in RNA processing and\n                transport may be a central element of ALS pathophysiology.\n\nWithin the cytoplasm of motor neurons in ALS patients, proteins aggregate to form\n                insoluble clumps, called inclusions, which can include both FUS and another\n                ALS-causing protein, called TDP-43. When the two research groups overexpressed human\n                FUS in yeast, they observed cytoplasmic inclusions. Inclusions form in most of the\n                neurodegenerative diseases, including Alzheimer's disease and Parkinson's\n                disease, suggesting that common defects in protein handling may link all of\n                them.\n\nIn humans, FUS is found predominantly in the nucleus, and at least some\n                ALS-associated mutations reduce the nuclear/cytoplasmic ratio of the protein,\n                suggesting that its mislocalization to the cytoplasm, rather than mutation per se,\n                may be an important step in disease pathogenesis. Supporting that hypothesis, both\n                groups found that restricting overexpressed wild-type FUS to the nucleus mitigated\n                its toxic effect.\n\nBoth FUS and TDP-43 are RNA-binding proteins. But Sun et al. found that purified FUS\n                is far more prone to aggregation than purified TDP-43, and both groups showed that\n                the molecular features that are critical for aggregation differed between the two\n                proteins, which may indicate that the disease-causing mechanism also differs between\n                them, despite their broadly similar functions.\n\nBoth groups conducted genome-wide screens to identify genes that specifically\n                mitigate toxicity. Gratifyingly, despite differences in lab and protocol details,\n                there was a large overlap between the two sets of candidates, suggesting these genes\n                play central roles in bypassing whatever the toxic pathways are. The handful of\n                identified genes included ones coding for other DNA/RNA binding proteins. One,\n                called ECM32, has a human homolog, hUPF1, that Ju et al. found also rescued\n                toxicity. One function of hUPF1 is in messenger RNA quality control, strengthening\n                the case that RNA handling is defective in FUS-caused ALS. Interestingly, expression\n                of hUPF1 was able to rescue FUS toxicity in yeast without driving FUS out of the\n                inclusions or sending it back to the nucleus, suggesting that it may be possible to\n                overcome the effects of mislocalized FUS therapeutically without solving the\n                difficult problem of restoring it to its proper compartment.\n\nThese two studies have at least two important consequences. By identifying new genes\n                that can lessen ALS-linked toxicity, they point the way to exploration of new\n                therapeutics based on RNA processing. Perhaps just as importantly, they demonstrate\n                that yeast has the potential to be a versatile system for modeling aspects of ALS\n                that previously have only been modeled in mice. Since testing ideas about\n                pathogenesis and treatment is much faster and cheaper in yeast, these results may\n                open the way for more rapid progress in understanding the disease, its treatment,\n                and the role of this new gene in ALS development.\n\n        Sun Z, Diaz Z, Fang X, Hart MP, Chesi A, et al. (2011) Molecular Determinants\n                    and Genetic Modifiers of Aggregation and Toxicity for the ALS Disease Protein\n                    FUS/TLS. doi: 10.1371/journal.pbio.1000614\n\n        Ju S, Tardiff DF, Han H, Divya K, Zhong Q, et al. (2011) A Yeast Model of\n                    FUS/TLS-Dependent Cytotoxicity. doi:10.1371/journal.pbio.1001052"
+}

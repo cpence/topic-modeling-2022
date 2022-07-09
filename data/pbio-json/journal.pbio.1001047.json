@@ -1,0 +1,39 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001047",
+  "doi": "10.1371/journal.pbio.1001047",
+  "externalIds": [
+    "pii:PBIOLOGY-D-11-00689",
+    "pmid:21526225",
+    "pmcid:PMC3079588"
+  ],
+  "license": "This is an open-access article distributed under\n                the terms of the Creative Commons Attribution License, which permits unrestricted\n                use, distribution, and reproduction in any medium, provided the original author and\n                source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A Two-Step Process Gets mRNA Loaded and Ready to Go",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson",
+      "affiliation": "Freelance Science Writer, Sherborn, Massachusetts, United States of\n                    America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2011-04",
+  "volume": "9",
+  "number": "4",
+  "pages": "e1001047",
+  "tags": [
+    "Biochemistry",
+    "Discipline-v2/Biochemistry",
+    "Discipline-v2/Biology",
+    "Discipline/Biochemistry",
+    "Type/Synopsis"
+  ],
+  "fullText": "Proteins are the workhorses of the\n                cell, but to get the most work out of them, they need to be in the right place. In\n                neurons, for example, proteins needed at axons differ from those needed at\n                dendrites, while in budding yeast cells, the daughter cell needs proteins the mother\n                cell does not. In each case, one strategy for making sure a protein gets where it\n                belongs is to shuttle its messenger RNA to the right spot before translating it.\n\nThe destination for such an mRNA is encoded in a set of so-called\n                “zipcode” elements, which loop out of the RNA string to link up with\n                RNA-binding proteins. In yeast, these proteins join up with a myosin motor that\n                taxis the complex to the encoded location. While this general picture has become\n                clear in the past several years, details of the transport complex itself have\n                remained murky. In this issue of PLoS Biology, Marisa Müller,\n                Dierk Niessing, and colleagues show that the complex forms in stages, with the final\n                protein added only in the cytoplasm, an event crucial to ensuring the transport\n                complex doesn't pick up passengers who weren't meant to travel.\n\nThe authors began by showing that a known zipcode element binding protein, called\n                She2p, bound in a similar way to RNAs without the elements as to those with them,\n                suggesting that the job of keeping non-transported RNAs out of the transport complex\n                fell to another protein. Tests of another known complex protein, called Puf6p, were\n                negative, leading the authors to look elsewhere.\n\nOne candidate was She3p, known to link the complex to the myosin motor. They found\n                that She3p co-purified with She2p, indicating they linked together, and that\n                together they bound tightly to zipcode-containing mRNAs, but not to other RNAs\n                without the address sequences. She3p also interacted with RNAs by itself, albeit\n                weakly, which was a surprise, since its sequence bore no resemblance to other\n                RNA-binding proteins. When She2p was mutated to prevent its linkage to RNA, the\n                ability of the RNA–protein complex to reach its destination was impaired.\n\nShe2p binds to its target RNAs in the nucleus, but She3p was thought to be a\n                cytoplasmic protein. To test that belief, they examined its distribution in a cell\n                with a temperature-sensitive defect in nuclear export, and saw that even at high\n                temperatures, when nuclear export was shut down, She3p was found only in the\n                cytoplasm, indicating that it, unlike She2p, waits for the nascent transport complex\n                to enter the cytoplasm before it binds on.\n\nBased on their results, the authors propose a two-step model of transport complex\n                formation. Within the nucleus, She2p binds to the mRNA as it is transcribed, and\n                then shuttles it to the cytoplasm. She2p binds loosely and promiscuously, though,\n                catching up mRNAs both with and without zipcodes. Once in the cytoplasm, She3p joins\n                on, tightening the grip on mRNAs that contain zipcodes while booting out those\n                without them. With the myosin motor attached to She3p, the complex motors off to its\n                destination elsewhere in the cell.\n\nThe results in this study indicate that quality control in mRNA transport relies on a\n                reciprocal action: the complex proteins together ensure that only those mRNAs with a\n                destination tag are incorporated into the transport complex, and the mRNA, by\n                binding to each of the proteins in the complex, ensures that all are on board before\n                the journey starts.\n\nThese findings are an important step forward to understand how mRNAs are transported\n                to their chosen destination in yeast, and opens up the possibility that a similar\n                strategy is followed in other organisms.\n\n                Müller M, Gerhard Heym R, Mayer A, Kramer K, Schmid M, et al. (2011) A\n                    Cytoplasmic Complex Mediates Specific mRNA Recognition and Localization in\n                    Yeast. doi:10.1371/journal.pbio.1000611"
+}

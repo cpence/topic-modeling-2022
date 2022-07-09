@@ -1,0 +1,70 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3000320",
+  "doi": "10.1371/journal.pbio.3000320",
+  "externalIds": [
+    "pii:PBIOLOGY-D-19-01125",
+    "pmid:31226105",
+    "pmcid:PMC6588204"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Pleiotropy and synergistic cooperation",
+  "authors": [
+    {
+      "name": "David C. Queller",
+      "first": "David C.",
+      "last": "Queller",
+      "affiliation": "Department of Biology, Washington University in St. Louis, St. Louis, Missouri, United States of America; Wissenschaftskolleg zu Berlin, Berlin, Germany",
+      "externalIds": [
+        "orcid:http://orcid.org/0000-0002-5464-1984"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2019-06-21",
+  "dateAccepted": "2019-05-29",
+  "dateReceived": "2019-04-22",
+  "volume": "17",
+  "number": "6",
+  "pages": "e3000320",
+  "tags": [
+    "Antibiotic susceptibility testing",
+    "Applied mathematics",
+    "Discipline-v3/Antibiotic susceptibility testing",
+    "Discipline-v3/Applied mathematics",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Evolutionary biology",
+    "Discipline-v3/Evolutionary processes",
+    "Discipline-v3/Game theory",
+    "Discipline-v3/Genetic linkage",
+    "Discipline-v3/Genetics",
+    "Discipline-v3/Heredity",
+    "Discipline-v3/Mathematics",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Natural selection",
+    "Discipline-v3/Pharmacologic analysis",
+    "Discipline-v3/Pharmacology",
+    "Discipline-v3/Physical sciences",
+    "Discipline-v3/Synergy testing",
+    "Evolutionary biology",
+    "Evolutionary processes",
+    "Game theory",
+    "Genetic linkage",
+    "Genetics",
+    "Heredity",
+    "Mathematics",
+    "Natural selection",
+    "Pharmacologic analysis",
+    "Pharmacology",
+    "Synergy testing",
+    "Type/Formal Comment"
+  ],
+  "abstract": "Some forms of stable cooperation can evolve though pleiotropy with a beneficial private trait. This Formal Comment addresses a recent challenge to this idea, arguing that for synergistic, frequency-dependent cooperation, pleiotropy can raise the frequency up to a point where cooperation is favoured on its own.",
+  "fullText": "Costly cooperation can be difficult to evolve because noncooperators or cheaters do not pay the cost but reap the rewards of their neighbors’ cooperation. One suggested mechanism is for cooperation to be associated, by pleiotropy or linkage, with some private beneficial trait [1] that noncooperators lack. Despite a number of putative examples, dos Santos and colleagues [2] argue that such cooperation is not stable, because the traits can eventually be dissociated by changes in regulation or by recombination.\n\nThe argument is an example of Hammerstein’s [3] &quot;streetcar&quot; theory. He argued that models with genetic details—in this case pleiotropy or linkage—can sometimes mislead, given that these details can change. Though one could argue that some constraints may be permanent, this is a reasonable argument against pleiotropy permanently stabilizing cooperation.\n\nBut pleiotropy or linkage can be crucial in a different and unappreciated way for a large class of cooperative behaviors—those with positive frequency-dependent selection owing to positive synergistic selection. Fig 1a shows a simple example, in which an individual’s (inclusive) fitness depends of the frequency of the cooperative trait in the population. In positive frequency-dependent selection, fitness increases with frequency, so in some cases, an allele is favored only if it can become sufficiently common, crossing the frequency threshold beyond which fitness is positive.\n\nHere, the possible role for pleiotropy or linkage is simple. A mutant allele that is both cooperative and associated by linkage or pleiotropy with a sufficiently beneficial private trait will increase in frequency. The association may ultimately be temporary, but if selection has pushed the cooperation gene across the fitness threshold, the association is no longer needed; the cooperation allele is then favored on its own merits. And because both traits are favorable at this point, there will be no selection for breaking the association.\n\nFrequency-dependent selection occurs because of nonadditive fitness interactions [4]. I have called this &quot;kind selection&quot; because the effect of one’s own behavior depends on the kind of partner one has [5]. In the simplest case, suppose a cooperator loses c additive fitness units from its own behavior, gains an additive b units if its partner cooperates, and if both cooperate, gets a further d units, a nonadditive or synergistic term. This results in a version of Hamilton’s rule that says cooperation is favored when −c + rb + sd, where r is relatedness and s is a synergism coefficient that is an increasing function of both relatedness and population frequency [4, 5]. For the case in which the behavior is caused by a single gene with complete penetrance, s=r+(1−r)p¯, where p¯ is the population frequency of the cooperation allele and trait [4]. Thus, even at a low frequency, a positive r can make the synergistic effect positive and select for cooperation. (For a low-penetrance allele whose partners will not express cooperation, s=p¯, so such invasion will not work, but once a high-penetrance allele makes the frequency of cooperators p¯ high, then a low-penetrance allele also favors cooperation, so cooperation will be stable).\n\nSome versions of Hamilton’s rule, such as those using partial regression coefficients for b and c, assimilate the synergism term into the cost and benefit terms [6]. This is legitimate and useful for some purposes, but folding the frequency dependence into the partial regressions does tend to obscure it. Breaking out the synergistic frequency dependence reminds us to think about its special effect.\n\nSuch synergism must be quite common. The entire application of game theory to biology rests on either positive or negative synergistic effects (or similar nonadditivities in more complex models, such as with multiple players [7]). For example, in the classic hawk–dove game (or hawk–mouse [8]), doves cooperatively share a resource instead of fighting over it, but being a dove doesn’t pay unless they are at sufficiently high frequency. In real biology, positive synergism emerges from common phenomena, including division of labor and economies of scale [9].\n\nDos Santos and colleagues [2] noted that cheaters could also benefit from an association with a beneficial private trait. This remains a good point under positive frequency dependence. Fig 1b illustrates this by rotating Fig 1a 180°, reversing the axes to give the cheater’s point of view for the same fitness parameters. Just like cooperators, cheaters win only if they are sufficiently common, and they might reach that threshold via association with a private advantage. For the particular line in Fig 1, it is easier for a cooperator to reach its threshold frequency than it is for a cheater, though the reverse can be true for other lines. But noncooperation is generally the default state and is therefore not viewed as needing any special explanation. Cooperation does need special explanations, and the pleiotropy-linkage argument, coupled with synergism, gives one such explanation.\n\nIn summary, although pleiotropy and linkage may not usually stabilize cooperation in the long term [2], they can be important in a different way. When they can pull synergistic cooperation to the point at which it is stable on its own, then it doesn’t matter if the pleiotropy and linkage break down, because the cooperation is stabilized by there being many cooperators. Moreover, there would be no selection for such a breakdown, so we might expect to observe a continuing association in nature between cooperation and beneficial nonsocial traits. However, the model makes the testable prediction that any such association in nature will primarily involve positively synergistic cooperation."
+}

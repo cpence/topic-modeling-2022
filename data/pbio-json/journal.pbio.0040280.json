@@ -1,0 +1,38 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0040280",
+  "doi": "10.1371/journal.pbio.0040280",
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Wnt Sets the Stage for Spinal Cord Patterning in the Chick",
+  "authors": [
+    {
+      "name": "Françoise Chanut",
+      "first": "Françoise",
+      "last": "Chanut"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2006-08",
+  "dateElectronic": "2006-07-18",
+  "volume": "4",
+  "number": "8",
+  "pages": "e280",
+  "tags": [
+    "Discipline/Cell Biology",
+    "Discipline/Developmental Biology",
+    "Discipline/Neuroscience",
+    "System Taxonomy/Chicken",
+    "Type/Synopsis"
+  ],
+  "fullText": "The spinal cord and brain harbor a variety of motor neurons that innervate limbs, thorax, neck, or face. Different classes of motor neurons reside at different locations along the head-to-tail (rostrocaudal) axis of the nervous system, reflecting a patterning that arises early in embryonic development, when the nervous system is but a simple tube. Indeed, different sections of the neural tube begin expressing distinct subsets of genes thought to govern cell fate, such as members of the \n\t\t\t\tHox gene family, shortly after the tube forms. The question is how this patterned gene expression arises. Ulrika Nordström, Thomas Edlund, and their colleagues have tackled this problem in the chick embryo. They report that rostrocaudal patterning of the spinal cord and hindbrain is under the influence of the signaling molecule Wnt. Other signals refine Wnt patterning and create distinct sections in which different types of motor neurons eventually differentiate.\n\nThe embryonic nervous system of vertebrates is shaped by signals coming from surrounding tissues, in particular from the mesoderm, which gives rise to skeletal bones and muscles. The mesodermal signal fibroblast growth factor (FGF), for instance, imposes caudal fates on the developing nervous system, whereas Wnt and FGF in combination pattern the middle portions of the prospective brain. Since Wnt remains abundant in regions where the spinal cord will start to grow behind the nascent brain, Nordström and her colleagues reasoned that it might also pattern the posterior regions of the embryo’s nervous system.\n\nThe researchers cut out small fragments (called “explants”) of prospective neural tissue from chick embryos that had reached different developmental stages and observed the explants’ development in culture. At developmental stage 4, the chick embryo is a pin-head-size disc of cells that lies atop the yolk. Its most prominent feature is the primitive streak, a thin furrow that starts as an anterior dimple known as Hensen’s node and runs all the way to the embryo’s posterior end. Cells destined to become neural occupy a horseshoe-shaped halo around Hensen’s node. The anterior and middle portions of the brain derive from the horseshoe’s arch, whereas hindbrain and spinal cord come from its branches.\n\nThe researchers found that stage 4 explants taken from the horseshoe’s branch expressed \n\t\t\t\tHoxc9, \n\t\t\t\tHoxb8 and \n\t\t\t\tHoxb4 in its caudal half and \n\t\t\t\tKrox20 in its rostral half after a day in culture. The \n\t\t\t\tHox gene combination is characteristic of the lumbar and tail region of the spinal cord, whereas expression of \n\t\t\t\tKrox20 marks the anterior hindbrain. When cultured in the presence of an inhibitor of Wnt signaling, the explants failed to turn on \n\t\t\t\tKrox20 and the \n\t\t\t\tHox genes, and instead expressed \n\t\t\t\tOtx2, a marker of the forebrain. Therefore, Wnt signaling appears necessary for the neural tube to adopt the posterior characteristics of hindbrain and spinal cord.\n\nMissing from the cultured explants, however, were cells expressing a combination of \n\t\t\t\tHoxb8 and \n\t\t\t\tHoxb4, which mark the thoracic and neck regions of the spinal cord, or \n\t\t\t\tHoxb4 alone, which marks the posterior hindbrain. By contrast, these cells appeared readily in cultured explants taken from stage 8 embryos. By this stage, mesoderm has crept through the backward-sliding Hensen’s node to lie under the elongating neural tube, where it begins to organize into somites, the precursors of vertebrae and ribs. The researchers reasoned that retinoic acid, a signal secreted by somites, might combine with Wnt to specify hindbrain and anterior spinal cord fates.\n\nAdding retinoic acid to cultures of stage 4 explants confirmed this hypothesis. retinoic acid suppressed the expression of \n\t\t\t\tKrox20 and \n\t\t\t\tHoxc9, while inducing the appearance of cells expressing \n\t\t\t\tHoxb8 and \n\t\t\t\tHoxb4, or \n\t\t\t\tHoxb4 alone. If the cultures also contained FGF, which normally diffuses from the primitive streak, the explants turned mostly into \n\t\t\t\tHoxb8/b4-expressing cells. Culturing stage 4 explants from the forebrain region in the presence of various combinations of Wnt with retinoic acid or FGF also led to the appearance of distinct rostrocaudal subsets of spinal cord markers.\n\nThe researchers propose that, during normal development, early Wnt signaling steers the growing neural tube toward posterior fates, while retinoic acid and FGF later subdivide it into smaller rostrocaudal domains from which distinct motor neurons emerge.",
+  "externalIds": [
+    "pmid:20076624",
+    "pmcid:PMC1502143"
+  ]
+}

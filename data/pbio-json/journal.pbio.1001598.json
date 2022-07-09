@@ -1,0 +1,52 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1001598",
+  "doi": "10.1371/journal.pbio.1001598",
+  "externalIds": [
+    "pii:PBIOLOGY-D-13-01722",
+    "pmid:23843743",
+    "pmcid:PMC3699443"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Palmitoylation: A New Regulatory Role in Meiosis",
+  "authors": [
+    {
+      "name": "Caitlin Sedwick",
+      "first": "Caitlin",
+      "last": "Sedwick",
+      "affiliation": "Freelance Science Writer, San Diego, California, United States of America"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2013-07",
+  "volume": "11",
+  "number": "7",
+  "pages": "e1001598",
+  "tags": [
+    "Biochemistry",
+    "Cell division",
+    "Discipline-v2/Biochemistry",
+    "Discipline-v2/Biology",
+    "Discipline-v2/Cell division",
+    "Discipline-v2/Enzyme regulation",
+    "Discipline-v2/Enzymes",
+    "Discipline-v2/Fats",
+    "Discipline-v2/Lipids",
+    "Discipline-v2/Meiosis",
+    "Discipline-v2/Molecular cell biology",
+    "Enzyme regulation",
+    "Enzymes",
+    "Fats",
+    "Lipids",
+    "Meiosis",
+    "Molecular cell biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "The addition of lipid moieties to a protein can alter its localization, activity, and ability to associate with other proteins within the cell. There are several types of lipid modifications cells can employ on their proteins, but only one of these, palmitoylation (the addition of a palmitate chain), is reversible. This fact has led scientists to conjecture that cells may be able to fine tune the palmitoylation of their proteins in the same way that they can protein phosphorylation. If this were so, it would mean that cells have an entire regulatory scheme that is currently poorly understood. But, to what extent such regulation occurs and how it takes place is currently unknown, so Mingzi Zhang, Howard Hang, and colleagues decided to take a closer look at protein palmitoylation in their article published in PLOS Biology.\n\nZhang et al. studied protein palmitoylation in the fission yeast, Schizosaccharomyces pombe. Fission yeast cells possess three chromosomes and normally undergo what's called vegetative growth. In vegetative growth, yeast cells undergo mitosis; each chromosome is copied once and the genetic material is then divvied up evenly between two daughter cells. But, when starved of nutrients, fission yeast can enter a different growth program wherein two cells combine to generate “diploid&quot; cells with six chromosomes. After copying their chromosomes once, diploids undergo two rounds of meiotic divisions to generate four daughter cells—each with three chromosomes but a different genetic makeup and different shot at survival than either parent cell. Several proteins must cooperate to trigger and control this alternative growth program, and the authors wondered whether protein palmitoylation patterns might change during meiotic division.\n\nTo detect palmitoylated proteins, the group employed a fatty acid reporter that can be installed onto target proteins by endogenous enzymes in living cells and sequentially visualized using bioorthogonal chemical methods. By applying this technology to cultures of a mutant yeast strain in which meiotic division can be synchronously induced in all cells, the researchers demonstrated that different proteins are palmitoylated during meiosis than in vegetative growth.\n\nProtein palmitoylation is carried out by a family of enzymes called palmitoyltransferases, and Zhang et al. observed that expression of one particular palmitoyltransferase, Erf2, increases during meiosis. So, they postulated that Erf2 might be involved in creating the meiotic palmitoylation pattern. Indeed, they observed that protein palmitoylation is drastically altered and meiosis is delayed in meiotic cells lacking the genes for either Erf2 or its enzymatic cofactor Erf4. This was not the case in cells lacking other palmitoyltransferases the group tested.\n\nTo find out which proteins Erf2 modifies during meiosis, the authors immunoprecipitated fatty acid reporter-tagged proteins and identified them by mass spectrometry. This analysis turned up three proteins that are prominently palmitoylated in meiotic cells: Ras1, Isp3, and Rho3. The researchers decided to focus on Ras1 and Rho3, as these small GTPases are often important for cell signaling.\n\nRas1 and Rho3 are expressed in both vegetative and meiotic cells. But, Zhang and colleagues showed that Ras1 is palmitoylated to the same extent in meiotic cells as it is in vegetative cells, whereas Rho3 is only palmitoylated in meiotic cells by Erf2. This suggests that acute palmitoylation of Rho3 but not of Ras1 is important for meiosis.\n\nZhang et al. then demonstrate that simply changing the expression levels of the palmitoyltransferase Erf2 is sufficient to increase the palmitoylation levels and subsequent behavior of specific substrates such Rho3. This in turn can affect major cell transitions such as meiosis. To what extent other layers of regulation—such as changes to palmitoyltransferase localization or activity—affect cellular palmitoylation patterns remains to be seen, but this work gives us a glimpse of the possibilities.\n\nZhang MM, Wu P-YJ, Kelly FD, Nurse P, Hang HC (2013) Quantitative Control of Protein S-Palmitoylation Regulates Meiotic Entry in Fission Yeast. doi:10.1371/journal.pbio.1001597"
+}

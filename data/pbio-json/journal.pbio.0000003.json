@@ -1,0 +1,29 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0000003",
+  "doi": "10.1371/journal.pbio.0000003",
+  "license": "This is an open-access article distributed under the terms of the Public Library of Science Open-Access License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Gene Chip for Viral Discovery",
+  "journal": "PLoS Biology",
+  "date": "2003-11",
+  "dateElectronic": "2003-11-17",
+  "volume": "1",
+  "number": "2",
+  "pages": "e3",
+  "tags": [
+    "Discipline/Biotechnology",
+    "Discipline/Computational Biology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Infectious Diseases",
+    "Discipline/Virology",
+    "System Taxonomy/Viruses",
+    "Type/Synopsis"
+  ],
+  "fullText": "West Nile virus. Monkey pox. SARS. If the ever-growing list of public health scares has taught us anything, it's that we need quick, effective tools for detecting emerging viral threats. Researchers led by Joseph DeRisi of the University of California at San Francisco have combined genome databases of sequenced viruses with DNA microarray technology to create such tools.\n\nThe viral gene chip they created can rapidly identify known viruses and classify new ones based on their genetic makeup. This was validated in March when the viral chip contributed to the identification of the cause for severe acute respiratory syndrome (SARS) as a novel coronavirus. In the article published in this issue, the researchers describe the chip (or microarray), how it was used in the classification of the SARS virus, and how it provides direct access to viral genomic sequence.\n\nMicroarray technology works by taking advantage of the structural properties of DNA. DNA molecules normally exist as double helices, two complementary strands of nucleotides wrapped around each other. The microarray consists of a large number of single DNA strands attached to a solid base. These probes (which in case of the viral chip represent sequences from all fully sequenced reference viruses) can be used to interrogate unknown sequences: if a solution containing such sequences is passed over the chip, similar sequences will “hybridize,” or bond in a signature double helix.\n\nKnown viruses hybridize in a characteristic pattern and can be identified quickly. Because bonding occurs even when the match between probe and sample sequence is not perfect, new relatives of known viruses can be identified as belonging to a particular family (such as coronaviruses, in the case of SARS).\n\nTo quickly obtain more information on a novel virus, it is then possible to “syphon off” those viral sequences that stuck to their respective counterparts on the chip and to use the material to determine part of the genomic sequence. Such sequence information provides more detail on how the new virus relates to known ones, which might provide clues about its origin and possible treatment strategies."
+}

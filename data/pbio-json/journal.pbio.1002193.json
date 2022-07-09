@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.1002193",
+  "doi": "10.1371/journal.pbio.1002193",
+  "externalIds": [
+    "pii:PBIOLOGY-D-15-01428",
+    "pmid:26158526",
+    "pmcid:PMC4497641"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Selective Reduction of THC’s Unwanted Effects through Serotonin Receptor Inhibition",
+  "authors": [
+    {
+      "name": "Richard Robinson",
+      "first": "Richard",
+      "last": "Robinson",
+      "affiliation": "Freelance Science Writer, Sherborn, Massachusetts, United States of America"
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2015-07-09",
+  "volume": "13",
+  "number": "7",
+  "pages": "e1002193",
+  "tags": [
+    "Type/Synopsis"
+  ],
+  "abstract": "How can we harness the beneficial effects of cannabis on pain without the harmful effects on memory? A new study shows that the harmful effects are specifically mediated by a partnership between cannabinoid and serotonin receptors, with pharmaceutical implications.",
+  "fullText": "If it’s true that if you can remember the 1960s, then you weren’t there, it is likely in large part because of delta-9-tetrahydrocannabinol (THC), the major psychoactive ingredient in marijuana, one of whose effects is memory impairment. While recreational marijuana users may seek the full range of its effects, broad medical use of THC—including for pain, nausea, and anxiety—is hindered by them. In a new study, Xavier Viñals, Estefania Moreno, Peter McCormick, Rafael Maldonado, Patricia Robledo, and colleagues demonstrate that the cognitive effects of THC are triggered by a pathway separate from some of its other effects. That pathway involves both a cannabinoid receptor and a serotonin receptor, and when this pathway is blocked, THC can still exert several beneficial effects, including analgesia, while avoiding impairment of memory.\n\nThe recognition that there might be a connection between the two receptor systems is relatively recent. It is based on the fact that the two receptors are found in many of the same regions of the brain, that activation of the serotonin 5HT2A receptor (5HT2AR) causes release of one type of endocannabinoid (a group of lipids that signal through cannabinoid receptors), and that loss of the cannabinoid CB1 receptor (CB1R) in mice disrupts serotonin-related activity in the prefrontal cortex.\n\nThis led the authors to explore whether the two receptors interacted at the molecular level. Using multiple assays, including a bioluminescent resonance energy transfer assay whose output signal reveals the proximity of two labeled molecules, they showed that 5HT2AR and CB1R form heteromers, binding with each other specifically and directly. When cells that expressed both receptors were treated with agonists for each, the authors found that downstream signaling was decreased by the combination of each agonist. Some of those downstream effects were synergistic for the two agonists, while others were not; full explanations of these varied effects will await further work.\n\nThe two receptors also displayed cross antagonism, in which an antagonist to CB1R prevented 5HT2AR signaling, and vice versa, further strengthening the case that the two receptors bind directly to each other. The authors convincingly argue that the cross antagonistic effect arises because each antagonist stabilizes the membrane-bound heterodimer in a conformation in which it cannot bind an intracellular G protein, required for transmitting the extracellular signal of THC or serotonin into the cellular interior.\n\nThe authors explored the behavioral consequences of this dual-receptor signaling using both 5HT2AR knockout mice and 5HT2AR antagonists in mice (Fig 1). In both cases, absence of 5HT2AR signaling reduced the amnesic effects of THC in a standard memory test; the anxiolytic effects, based on the amount of time the mice spent in an open aversive compartment; and the social facilitation effects, based on the amount of time the mice spent interacting with littermates. Reduction of all these effects could also be induced by administering a synthetic peptide that specifically prevented formation of the heterodimer, indicating its crucial role in mediating this subset of THC’s effects. But treatment to reduce 5HT2AR signaling did not change other effects of THC, including reduced movement, hypothermia, and analgesia, indicating that these effects are not mediated through the heterodimer.\n\nThe results of this study are potentially highly important, in that they identify a way to reduce some of what are usually thought of as THC’s unwanted side effects when used for medicinal purposes while maintaining several important benefits, including pain relief. The widening acceptance of a role for THC in medicine may be accelerated by the option to reduce those side effects by selective pharmacological disruption or blocking of the heteromer."
+}

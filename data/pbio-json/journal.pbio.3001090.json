@@ -1,0 +1,182 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.3001090",
+  "doi": "10.1371/journal.pbio.3001090",
+  "externalIds": [
+    "pii:PBIOLOGY-D-20-02208",
+    "pmid:33591965",
+    "pmcid:PMC7909636"
+  ],
+  "license": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "The protease corin regulates electrolyte homeostasis in eccrine sweat glands",
+  "authors": [
+    {
+      "name": "Meiling He",
+      "first": "Meiling",
+      "last": "He",
+      "affiliation": "Cyrus Tang Hematology Center, Collaborative Innovation Center of Hematology, State Key Laboratory of Radiation Medicine and Prevention, the First Affiliated Hospital, Soochow University, Suzhou, China; Department of Nephrology, the People’s Hospital of Suzhou New District, Suzhou, China"
+    },
+    {
+      "name": "Tiantian Zhou",
+      "first": "Tiantian",
+      "last": "Zhou",
+      "affiliation": "Cyrus Tang Hematology Center, Collaborative Innovation Center of Hematology, State Key Laboratory of Radiation Medicine and Prevention, the First Affiliated Hospital, Soochow University, Suzhou, China"
+    },
+    {
+      "name": "Yayan Niu",
+      "first": "Yayan",
+      "last": "Niu",
+      "affiliation": "Cyrus Tang Hematology Center, Collaborative Innovation Center of Hematology, State Key Laboratory of Radiation Medicine and Prevention, the First Affiliated Hospital, Soochow University, Suzhou, China; MOH Key Laboratory of Thrombosis and Hemostasis, Jiangsu Institute of Hematology, the First Affiliated Hospital of Soochow University, Suzhou, China"
+    },
+    {
+      "name": "Wansheng Feng",
+      "first": "Wansheng",
+      "last": "Feng",
+      "affiliation": "Cyrus Tang Hematology Center, Collaborative Innovation Center of Hematology, State Key Laboratory of Radiation Medicine and Prevention, the First Affiliated Hospital, Soochow University, Suzhou, China"
+    },
+    {
+      "name": "Xiabing Gu",
+      "first": "Xiabing",
+      "last": "Gu",
+      "affiliation": "Cyrus Tang Hematology Center, Collaborative Innovation Center of Hematology, State Key Laboratory of Radiation Medicine and Prevention, the First Affiliated Hospital, Soochow University, Suzhou, China; MOH Key Laboratory of Thrombosis and Hemostasis, Jiangsu Institute of Hematology, the First Affiliated Hospital of Soochow University, Suzhou, China"
+    },
+    {
+      "name": "Wenting Xu",
+      "first": "Wenting",
+      "last": "Xu",
+      "affiliation": "International Peace Maternity and Child Health Hospital of China Welfare Institute, Shanghai, China"
+    },
+    {
+      "name": "Shengnan Zhang",
+      "first": "Shengnan",
+      "last": "Zhang",
+      "affiliation": "Cyrus Tang Hematology Center, Collaborative Innovation Center of Hematology, State Key Laboratory of Radiation Medicine and Prevention, the First Affiliated Hospital, Soochow University, Suzhou, China; MOH Key Laboratory of Thrombosis and Hemostasis, Jiangsu Institute of Hematology, the First Affiliated Hospital of Soochow University, Suzhou, China"
+    },
+    {
+      "name": "Zhiting Wang",
+      "first": "Zhiting",
+      "last": "Wang",
+      "affiliation": "Cyrus Tang Hematology Center, Collaborative Innovation Center of Hematology, State Key Laboratory of Radiation Medicine and Prevention, the First Affiliated Hospital, Soochow University, Suzhou, China"
+    },
+    {
+      "name": "Yue Zhang",
+      "first": "Yue",
+      "last": "Zhang",
+      "affiliation": "Cyrus Tang Hematology Center, Collaborative Innovation Center of Hematology, State Key Laboratory of Radiation Medicine and Prevention, the First Affiliated Hospital, Soochow University, Suzhou, China"
+    },
+    {
+      "name": "Can Wang",
+      "first": "Can",
+      "last": "Wang",
+      "affiliation": "Cyrus Tang Hematology Center, Collaborative Innovation Center of Hematology, State Key Laboratory of Radiation Medicine and Prevention, the First Affiliated Hospital, Soochow University, Suzhou, China",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0001-5332-6248"
+      ]
+    },
+    {
+      "name": "Liang Dong",
+      "first": "Liang",
+      "last": "Dong",
+      "affiliation": "Cyrus Tang Hematology Center, Collaborative Innovation Center of Hematology, State Key Laboratory of Radiation Medicine and Prevention, the First Affiliated Hospital, Soochow University, Suzhou, China"
+    },
+    {
+      "name": "Meng Liu",
+      "first": "Meng",
+      "last": "Liu",
+      "affiliation": "Cyrus Tang Hematology Center, Collaborative Innovation Center of Hematology, State Key Laboratory of Radiation Medicine and Prevention, the First Affiliated Hospital, Soochow University, Suzhou, China"
+    },
+    {
+      "name": "Ningzheng Dong",
+      "first": "Ningzheng",
+      "last": "Dong",
+      "affiliation": "Cyrus Tang Hematology Center, Collaborative Innovation Center of Hematology, State Key Laboratory of Radiation Medicine and Prevention, the First Affiliated Hospital, Soochow University, Suzhou, China; MOH Key Laboratory of Thrombosis and Hemostasis, Jiangsu Institute of Hematology, the First Affiliated Hospital of Soochow University, Suzhou, China"
+    },
+    {
+      "name": "Qingyu Wu",
+      "first": "Qingyu",
+      "last": "Wu",
+      "affiliation": "Cyrus Tang Hematology Center, Collaborative Innovation Center of Hematology, State Key Laboratory of Radiation Medicine and Prevention, the First Affiliated Hospital, Soochow University, Suzhou, China; Cardiovascular & Metabolic Sciences, Lerner Research Institute, Cleveland Clinic, Cleveland, United States of America",
+      "externalIds": [
+        "orcid:https://orcid.org/0000-0003-0561-9315"
+      ]
+    }
+  ],
+  "journal": "PLOS Biology",
+  "date": "2021-02-16",
+  "dateAccepted": "2021-01-04",
+  "dateReceived": "2020-07-22",
+  "volume": "19",
+  "number": "2",
+  "pages": "e3001090",
+  "tags": [
+    "Aldosterone",
+    "Anatomy",
+    "Atrial natriuretic peptide",
+    "Biochemistry",
+    "Bioengineering",
+    "Biotechnology",
+    "Body fluids",
+    "Chemical compounds",
+    "Chemistry",
+    "Diet",
+    "Discipline-v3/Aldosterone",
+    "Discipline-v3/Anatomy",
+    "Discipline-v3/Atrial natriuretic peptide",
+    "Discipline-v3/Biochemistry",
+    "Discipline-v3/Bioengineering",
+    "Discipline-v3/Biology and life sciences",
+    "Discipline-v3/Biotechnology",
+    "Discipline-v3/Body fluids",
+    "Discipline-v3/Chemical compounds",
+    "Discipline-v3/Chemistry",
+    "Discipline-v3/Diet",
+    "Discipline-v3/Engineering and technology",
+    "Discipline-v3/Excretion",
+    "Discipline-v3/Exocrine glands",
+    "Discipline-v3/Genetic engineering",
+    "Discipline-v3/Genetically modified animals",
+    "Discipline-v3/Genetically modified organisms",
+    "Discipline-v3/Hormones",
+    "Discipline-v3/Integumentary system",
+    "Discipline-v3/Lipid hormones",
+    "Discipline-v3/Medicine and health sciences",
+    "Discipline-v3/Natriuretic peptide",
+    "Discipline-v3/Nutrition",
+    "Discipline-v3/Peptide hormones",
+    "Discipline-v3/Physical sciences",
+    "Discipline-v3/Physiological processes",
+    "Discipline-v3/Physiology",
+    "Discipline-v3/Salts",
+    "Discipline-v3/Skin",
+    "Discipline-v3/Sodium chloride",
+    "Discipline-v3/Sweat",
+    "Discipline-v3/Sweat glands",
+    "Excretion",
+    "Exocrine glands",
+    "Genetic engineering",
+    "Genetically modified animals",
+    "Genetically modified organisms",
+    "Hormones",
+    "Integumentary system",
+    "Lipid hormones",
+    "Natriuretic peptide",
+    "Nutrition",
+    "Peptide hormones",
+    "Physiological processes",
+    "Physiology",
+    "Salts",
+    "Skin",
+    "Sodium chloride",
+    "Sweat",
+    "Sweat glands",
+    "Type/Short Reports"
+  ],
+  "abstract": "Sweating is a basic skin function in body temperature control. In sweat glands, salt excretion and reabsorption are regulated to avoid electrolyte imbalance. To date, the mechanism underlying such regulation is not fully understood. Corin is a transmembrane protease that activates atrial natriuretic peptide (ANP), a cardiac hormone essential for normal blood volume and pressure. Here, we report an unexpected role of corin in sweat glands to promote sweat and salt excretion in regulating electrolyte homeostasis. In human and mouse eccrine sweat glands, corin and ANP are expressed in the luminal epithelial cells. In corin-deficient mice on normal- and high-salt diets, sweat and salt excretion is reduced. This phenotype is associated with enhanced epithelial sodium channel (ENaC) activity that mediates Na+ and water reabsorption. Treatment of amiloride, an ENaC inhibitor, normalizes sweat and salt excretion in corin-deficient mice. Moreover, treatment of aldosterone decreases sweat and salt excretion in wild-type (WT), but not corin-deficient, mice. These results reveal an important regulatory function of corin in eccrine sweat glands to promote sweat and salt excretion.",
+  "fullText": "Introduction\n\nA constant normal body temperature is essential in health. In humans, eccrine sweat gland–mediated sweating is critical for preventing overheating [1,2]. Among all mammals, humans have the highest density of eccrine sweat glands [3,4], offering an evolutionary advantage to survive in hot environments and to engage in strenuous physical activities such as hunting and long-distance running [5–7].\n\nThe initial sweat produced in eccrine glands is isotonic to plasma. Ion reabsorption in the eccrine glands prevents salt loss and electrolyte imbalance. Despite the vital importance of such a basic skin function, how ion excretion and reabsorption are regulated in eccrine sweat glands remains poorly understood.\n\nCorin is a protease that activates atrial natriuretic peptide (ANP), a hormone that regulates salt–water balance via its receptor, natriuretic peptide receptor-A (NPR-A) [8,9]. In addition to the heart, corin is also expressed in the kidney, where corin and ANP were reported to inhibit epithelial sodium channel (ENaC) that is essential for sodium reabsorption [10–12]. In mouse and tiger skins, corin has been shown to regulate coat color in an agouti-dependent pathway [13–15]. In humans, corin-positive cells were found in dermal progenitor populations [16]. Deleterious CORIN variants were also identified in individuals with hypertension [17–20]. However, there is no evidence to indicate a role of corin in determining human hair color.\n\nIn this study, we examined dermal corin expression in humans and mice. Unexpectedly, we detected corin and ANP expression in the luminal epithelial cells of eccrine sweat glands. We studied sweat and ion excretion in wild-type (WT) and corin knockout (KO) mice. Our results indicate that corin plays an important role in the eccrine sweat gland to promote sweat and ion excretion.\n\nResults\n\nCorin expression in human skin\n\nConsistent with previous findings in mice [14], we detected corin staining in human hair follicles by immunostaining (S1 Fig). Unexpectedly, we also found corin staining in both secretory and ductal epithelial cells of eccrine sweat glands (Fig 1A and 1B). In the secretory coil portion, corin expression was in the luminal epithelial cells, but not the peripheral myoepithelial cells that were α-smooth muscle actin (SMA) positive (Fig 1C).\n\nCorin converts pro-ANP to ANP, which, in turn, activates its receptor, NPR-A [9,21]. We next examined ANP and NPR-A expression in human eccrine sweat glands. (Here, the term “ANP” refers to both pro-ANP and ANP, as the antibody used did not distinguish pro-ANP from mature ANP). By immunohistochemistry, we found ANP and NPR-A staining in the epithelial cells of human eccrine sweat glands (Fig 1D). These results suggest a potential role of corin and ANP in eccrine sweat glands.\n\nCorin, ANP, and NPR-A expression in mouse eccrine sweat glands\n\nWe next examined corin expression in mouse footpad eccrine sweat glands (Fig 1E). By reverse transcription PCR (RT-PCR) (Fig 1F) and western blotting (Fig 1G), we detected corin mRNA and protein in footpads and hearts (positive control), but not livers (negative control), in WT mice. In corin KO mice (S2 Fig), corin expression was not found in the tissues examined (Fig 1F and 1G). By immunohistochemistry, corin, ANP, and NPR-A expression was detected in eccrine gland epithelial cells in WT mouse footpads (S3A–S3C Fig). In co-immunofluorescent staining, corin expression was found in the luminal epithelial cells but not the SMA-positive peripheral myoepithelial cells (Fig 1H). In the luminal epithelial cells, corin staining overlapped with those of ANP (Fig 1I) and NPR-A (Fig 1J). These results are consistent with the findings in human skins, suggesting that corin and ANP may have a function in eccrine sweat glands.\n\nReduced sweat excretion in corin KO mice\n\nTo test this hypothesis, we did histological analysis in footpads and found no morphological differences regarding eccrine sweat gland structure and numbers between WT and corin KO mice (S3D Fig). We next did an iodine–starch test [22, 23] with pilocarpine (a muscarinic receptor agonist that stimulates sweat excretion) injection to examine sweat response (S3E Fig). At 1 min after pilocarpine injection, similar numbers of black dots were found in footpads between WT and corin KO mice (7.7 ± 0.3 versus 7.6 ± 0.3 /mm2 of paw skin, n = 10; P = 0.969) (S3F and S3G Fig).\n\nCompared to WT mice, however, corin KO mice had reduced sweat excretion, as indicated by smaller black-staining areas in footpads, analyzed at 2 min after pilocarpine injection (3.0 ± 0.3 versus 4.6 ± 0.3% of paw skin area, n = 14 to 17; P &lt; 0.001) (Fig 2A and 2B). Using a digital camera method to examine the number and size of sweat droplets and calculate sweat volume [24], we found reduced sweat volumes in corin KO mice compared to those in WT mice (3.1 ± 0.1 versus 4.0 ± 0.1 nL/mm2 of paw skin, n = 7 to 8; P &lt; 0.001) (Fig 2C and 2D), indicating that corin deficiency impairs sweat excretion.\n\nTo understand if the role of corin in sweat excretion is mediated by the endocrine function of cardiac corin or a local function of corin in the skin, we examined sweat excretion in heart-conditional corin KO (hcKO) mice, in which the Corin gene was disrupted specifically in the heart (Fig 2E). In the iodine–starch test, we found similar sweat excretion in WT and corin hcKO mice (6.4 ± 0.5 versus 6.1 ± 0.4% of paw skin area, n = 12 to 13; P = 0.908) (Fig 2F and 2G), indicating that cardiac corin is unnecessary for sweat excretion.\n\nReduced sweat and Na+ and Cl− excretion in corin KO mice on normal- and high-salt diets\n\nIn humans, sweat Na+ levels positively correlate with dietary salt intakes [25–27]. We examined sweat and ion (Na+ and Cl−) excretion in WT and corin KO mice on normal- (0.3% NaCl) and high-salt (4% NaCl) diets. Increased sweat excretion was found in WT and corin KO mice on high-salt diet (Fig 2H). Compared to those in WT mice, levels of sweat excretion were approximately 25% to 35% lower in corin KO mice on both normal- and high-salt diets. Sweat Na+ (Fig 2I) and Cl− (Fig 2J) levels were also approximately 7% to 14% lower in corin KO mice, whether on the normal- or high-salt diet, supporting a role of corin in promoting sweat and ion excretion.\n\nEffects of amiloride on sweat and Na+ excretion\n\nIn the kidney, ANP inhibits ENaC activity to increase natriuresis [28,29]. In humans, ENaC mediates Na+ reabsorption in eccrine sweat glands [30]. By immunohistochemistry (Fig 3A) and co-immunofluorescent staining (Fig 3B), we detected eccrine gland epithelial β-ENaC expression in WT and corin KO mice. Levels of Scnn1b (encoding β-ENaC) mRNA and β-ENaC protein were similar in footpads between WT and corin KO mice, as assessed by quantitative RT-PCR and western blotting, respectively (S4A and S4B Fig). We treated the mice with amiloride, an ENaC inhibitor. In corin KO mice on normal- and high-salt diets, sweat excretion increased to similar levels in WT mice after amiloride treatment (Fig 3C and 3D). Amiloride treatment also normalized sweat Na+ (Fig 3E) and Cl− (Fig 3F) levels between WT and corin KO mice. These results indicate that enhanced ENaC activity is likely responsible for the reduced sweat and Na+ excretion in corin KO mice.\n\nCorin KO mice develop salt-sensitive hypertension [12]. As reported previously [12] and verified in this study (S4C Fig), amiloride treatment lowered blood pressure in corin KO mice on the high-salt diet. To exclude the possibility that the observed effect of amiloride on sweat excretion in corin KO mice was caused indirectly by blood pressure lowering, we treated WT and corin KO mice with amlodipine, a calcium channel blocker that lowers blood pressure [12], which decreased blood pressures in WT and corin KO mice to comparable levels (S4D Fig). However, sweat excretion remained low in corin KO mice without or with amlodipine treatment (S4E Fig), indicating that sweat excretion is not directly linked to systemic blood pressure levels in our experiments.\n\nEffects of CFTR inhibition on sweat and Cl− excretion\n\nIn addition to reduced sweat Na+ levels, reduced sweat Cl− levels were observed in corin KO mice. In humans, cystic fibrosis transmembrane conductance regulator (CFTR) is the primary Cl− channel in eccrine sweat glands [31]. Consistently, we detected epithelial CFTR expression in eccrine sweat glands in WT and corin KO mice (Fig 3G and 3H). In quantitative RT-PCR, similar Cftr mRNA levels were found in footpads between WT and corin KO mice (S4F Fig). When corin KO mice were treated with CFTR(inh)-172, a CFTR inhibitor [32], sweat excretion increased and became comparable to that in similarly treated WT mice on the normal- and high-salt diets (Fig 3I and 3J). Sweat Cl− (Fig 3K) and Na+ (Fig 3L) levels also became comparable between WT and corin KO mice, indicating that CFTR activity is increased in corin KO mouse eccrine sweat glands.\n\nEffects of aldosterone on sweat and Na+ and Cl− excretion\n\nAldosterone promotes Na+ reabsorption in eccrine sweat glands by enhancing ENaC activity [33]. To test if corin antagonizes aldosterone in promoting sweat and ion excretion, we treated WT and corin KO mice with aldosterone and examined sweat and Na+ and Cl− excretion. Decreased sweat excretion was observed in WT, but not corin KO, mice on normal- and high-salt diets, resulting in similar sweat excretion levels between WT and corin KO mice (Fig 4A and 4B). Sweat Na+ (Fig 4C) and Cl− (Fig 4D) levels also became similar between WT and corin KO mice treated with aldosterone. These results support a role of corin in antagonizing aldosterone, thereby promoting sweat and salt excretion in eccrine glands.\n\nDiscussion\n\nIn this study, we examined corin expression in the skin. In agreement with previous reports in mice and tigers [13–15,34], we detected corin expression in human hair follicles. It remains unclear if corin plays a role in hair growth and/or pigmentation in humans. Unexpectedly, we detected corin expression in the luminal epithelial cells of human and mouse eccrine sweat glands. As a transmembrane protease [35], corin is expected to function at expression sites. In supporting this hypothesis, we found reduced sweat and salt excretion in corin KO mice on normal- and high-salt diets. This defect was associated with enhanced ENaC activity, as indicated by the studies with amiloride, which normalized sweat and salt excretion in corin KO mice on normal- and high-salt diets. ANP is known to inhibit ENaC activity via NPR-A signaling [21,28,29,36]. In eccrine sweat glands, ENaC mediates Na+ reabsorption [30]. Consistently, we detected overlapping corin, ANP, and NPR-A expression in the epithelial cells of eccrine sweat glands. Possibly, the lack of corin in the KO mice prevents ANP activation and hence ENaC inhibition, resulting in increased ENaC activity and reduced sweat and salt excretion. Previously, we and others reported a potential role of corin and ANP in the kidney to inhibit ENaC activity, thereby promoting salt and urine excretion [10,12]. The results in this study indicate that a similar corin–ANP-mediated ENaC inhibitory mechanism operates independently in the eccrine sweat glands to regulate sweat and salt excretion. Additional studies with eccrine sweat gland–specific KO mice will be important to verify our results.\n\nThe natriuretic peptides were evolved in early vertebrates to regulate salt–water balance [37,38]. In marine birds, nasal salt glands expel excessive salt [39]. Similar nasal salt glands are preserved in aquatic birds. ANP antigen was detected in the nasal salt glands in Pekin ducks [40], in which circulating ANP was shown to modulate the angiotensin–aldosterone system [41]. In humans, ANP is part of the cardiac endocrine function [42,43]. Previously, ANP-like immunoreactivity was reported in the nerves around human eccrine sweat glands, but not the epithelial cells in the glands [44]. NPR-A (also called guanylyl cyclase-A) activity was also detected in epithelial cell membranes of human eccrine sweat glands [45].\n\nIn this study, we found reduced sweat and salt excretion in corin KO mice, but not in corin hcKO mice that lacked cardiac corin, indicating that the circulating ANP generated by cardiac corin in unnecessary for sweat and salt excretion in the skin. These results suggest that the corin function in the skin, likely mediated by local ANP activation, is part of an autocrine mechanism in promoting salt excretion in mammalian eccrine sweat glands. Salt reabsorption occurs mostly in the sweat duct. At this time, the significance of corin expression in the sweat secretory portion remains to be determined. Previously, intradermal introduction of exogenous ANP, through microdialysis fibers, into the interstitial fluid did not alter sweating and cutaneous vasodilatation in men [46]. The reason for the lack of response is unclear. Possibly, exogenous ANP in the interstitial space cannot reach the eccrine sweat gland lumen and the microvasculature to activate NPR-A on the surface of epithelial and endothelial cells [46]. Further studies are needed to verify such a possibility.\n\nCFTR mediates sweat Cl− reabsorption. In patients with cystic fibrosis, CFTR mutations cause high sweat Cl− levels, which, in turn, inhibit ENaC-mediated Na+ reabsorption [31]. In corin KO mice, both sweat Na+ and Cl− levels were reduced. Amiloride or CFTR(inh)-172 treatment increased sweat Na+ and Cl− levels in corin KO mice, reflecting the functional coupling of Na+ and Cl− regulation in eccrine sweat glands [30]. Previously, exogenous ANP treatment up-regulated intestinal CFTR expression in rats and stimulated CFTR activity in Xenopus oocytes [47,48]. In our study, we found similar Scnn1b (encoding β-ENaC) and Cftr mRNA levels in footpads between WT and corin KO mice, but increased sweat gland ENaC and CFTR activities in corin KO mice. These results indicate that the function of endogenous corin and ANP in mouse footpads is mediated primarily by regulating ENaC and CFTR activity but not expression levels. Further studies are required to understand if the apparent different results in rat intestines and Xenopus oocytes were due to different experimental settings.\n\nIn sweat glands, aldosterone-enhanced ENaC activity and Na+ reabsorption are important for salt conservation [33]. Physiologically, hormonal actions are tightly controlled. To date, how aldosterone action in sweat glands is counterbalanced remains unknown. We showed that aldosterone treatment reduced sweat excretion in WT mice but not corin KO mice. Possibly, salt excretion promoted by corin and salt reabsorption promoted by aldosterone were in equilibrium in WT mice. Exogenous aldosterone treatment tilted the balance, increasing salt reabsorption and reducing sweat and salt excretion. In corin KO mice, on the other hand, endogenous aldosterone apparently reached the maximal effect in sweat glands. As a result, exogenous aldosterone treatment had little effect on sweat and salt excretion in corin KO mice. These results indicate that corin functions as an aldosterone-antagonizing mechanism in eccrine sweat glands. Additional studies will be important to verify this hypothesis.\n\nIn summary, sweating is an important skin function. Regulation of Na+ and Cl− excretion in sweat glands prevents excessive salt loss and electrolyte imbalance. Corin is known for its role in the cardiac endocrine function to regulate blood volume and pressure. By studying human skin tissues and mouse models, we have uncovered a crucial role of corin in eccrine sweat glands to promote salt and sweat excretion. Our results indicate that this corin function serves as an aldosterone-antagonizing mechanism in eccrine sweat glands. These findings provide new insights into the physiological mechanism that regulates skin function.\n\nMaterials and methods\n\nHuman tissues\n\nNormal scalp tissues from anonymous donors were from a biobank from the Pathology Department, which was approved by the Ethics Committee of Soochow University (ECSU-201800052) and conducted according to the principles of expressed in the Declaration of Helsinki. The experiments were done according to the approved guidelines.\n\nMice\n\nExperiments in WT C57BL/6 mice and corin KO and hcKO mice, as described in S1 Text, were approved by the Animal Use and Care Committee of Soochow University (201708A105) and conducted in accordance with the guidelines for the ethical treatment and handling of animals in research.\n\nImmune staining\n\nParaformaldehyde-fixed tissues in paraffin were cut and stained with primary antibodies against corin, pro-ANP/ANP, NPR-A, β-ENaC, CFTR, SMA, and cytokeratin 18. Horseradish peroxidase (HRP)-conjugated or Alexa 488 (green)- or 594 (red)-labeled secondary antibodies were used for immunohistochemistry and immunofluorescent staining, respectively. Experimental details are described in S1 Text. Stained sections were examined with light (Leica DM2000 LED, Leica Microsystems, Wetzlar, Germany) and confocal (Olympus FV1000, Olympus, Tokyo, Japan) microscopes.\n\nRT-PCR\n\nRT-PCR and quantitative PCR were used to analyze Corin, Scnn1b (encoding β-ENaC), Cftr, Npr1, and Pcsk6 expression in mouse tissues. Glyceraldehyde 3-phosphate dehydrogenase (Gapdh) expression was analyzed in parallel as a control. Experimental conditions and primer sequences are described in the Supporting information Methods and Table A in S1 Text, respectively.\n\nWestern blotting\n\nCorin protein in tissues was examined by western blotting. Tissues were homogenized in 1% Triton X-100 (v/v), 50 mM Tris-HCl, pH 8.0, 150 mM NaCl, and a protease inhibitor mixture (Roche Diagnostics, Indianapolis, Indiana, United States of America, 1:100 dilution). Proteins were quantified using a BCA protein assay (Thermo Fisher Scientific, Waltham, Massachusetts, USA) and analyzed by SDS-PAGE and western blotting with an anti-corin antibody (1:1,000 dilution) [17] or anti-β-ENaC antibody (1:1,000 dilution).\n\nSweat response\n\nAn iodine–starch method [22,23] was used to examine sweat response. Mice were anesthetized. A hind paw was painted with an iodine solution (Fluka, Ronkonkoma, New York, USA) and starch (Adamas, Emeryville, California, USA) in mineral oil, as described in S1 Text. Pilocarpine (5 mg/kg of body weight), an agonist that acts on muscarinic receptor M3 subtype to stimulate sweat excretion, was injected, s.c. When sweat is excreted and encounters iodine–starch, it turns into black color. At different times, photos were taken. Black dot counts (for eccrine sweat gland numbers at 1 min) and black-staining areas (for sweat excretion at 2 min) were quantified using Image-Pro-Plus software. To measure sweat volume, a stereomicroscope (Olympus, SZX16) and digital camera method were used [24]. A hind paw was immersed in water-saturated mineral oil. At 10 min post-pilocarpine injection, photos were taken, and sweat droplet numbers and diameters were quantified by Image-Pro-Plus software to calculate sweat volume.\n\nSweat Na+ and Cl−\n\nMice were injected with pilocarpine. After 10 min, sweat droplets on footpads immersed in water-saturated mineral oil were mixed with double distilled water (30 μL/per 8 paws) and collected. Na+ and Cl− concentrations were measured by an electrolyte analyzer (Shelf Scientific, Los Angeles, California, USA, 6230M). Data from each 30-μL diluted sweat collection were recorded as 1 data point.\n\nTreatment of ENaC and CFTR inhibitors and aldosterone\n\nMice (males and females, 8 to 10 weeks old) were fed 0.3 or 4% NaCl diet. After 2 weeks, the mice were treated with amiloride (ENaC inhibitor) (Abcam, Cambridge, Massachusetts, USA, 3 mg/kg of body weight, i.p.; daily × 5), CFTR(inh)-172 (CFTR inhibitor) (MedChemExpress, Monmouth Junction, New Jersey, USA, 0.3 mg/kg of body weight, i.p.; daily × 3), or aldosterone (APExBIO, Houston, Texas, USA, 0.2 mg/kg of body weight, i.p.; daily × 3). After the treatment, sweat responses and levels of Na+ and Cl− were analyzed.\n\nBlood pressure\n\nA computerized tail-cuff system (Visitech Systems, Apex, North Carolina, USA, BP-2000) was used to measure blood pressure [49]. Mice were acclimated to the instrument. Tails were inserted in the cuff for blood pressure measurements, which included 5 preconditioning cycles and 20 regular cycles with 5 s between 2 cycles and maximal cuff pressure of 150 mmHg.\n\nStatistical analysis\n\nData were analyzed using SPSS 17.0 and Prism 8.0 (GraphPad) software. Two-tailed Student t test was used to compare 2 groups if the data passed the normality and equal variance tests. If the data did not pass the normality or equal variance test, Mann–Whitney test was used for 2 independent sample comparisons. One-way ANOVA followed by Tukey post hoc analysis was used to compare 3 or more groups. Data are presented as means ± SEM. P values of &lt;0.05 were considered to be significant.\n\nSupporting information"
+}

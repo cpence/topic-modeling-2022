@@ -1,0 +1,52 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0040154",
+  "doi": "10.1371/journal.pbio.0040154",
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "Correction: A Map of Recent Positive Selection in the Human Genome",
+  "authors": [
+    {
+      "name": "Benjamin F Voight",
+      "first": "Benjamin F",
+      "last": "Voight"
+    },
+    {
+      "name": "Sridhar Kudaravalli",
+      "first": "Sridhar",
+      "last": "Kudaravalli"
+    },
+    {
+      "name": "Xiaoquan Wen",
+      "first": "Xiaoquan",
+      "last": "Wen"
+    },
+    {
+      "name": "Jonathan K Pritchard",
+      "first": "Jonathan K",
+      "last": "Pritchard"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2006-04",
+  "dateElectronic": "2006-04-11",
+  "volume": "4",
+  "number": "4",
+  "pages": "e154",
+  "tags": [
+    "Discipline/Computational Biology",
+    "Discipline/Evolutionary Biology",
+    "Discipline/Genetics and Genomics",
+    "Discipline/Mathematics/Statistics",
+    "System Taxonomy/Homo (human)",
+    "System Taxonomy/Mammals",
+    "System Taxonomy/Primates",
+    "Type/Correction"
+  ],
+  "fullText": "In\n\t\t\t\tPLoS Biology, volume 4, issue 3, DOI:\n\t\t\t\t10.1371/journal.pbio.0040072\n\nBecause of a typesetting error, the symbol “σ” is incorrectly displayed as “s” in the legends of Figures 1, 2, and 5.\n\nIn the Results section, the sentence “These data consist of ∼800,000 polymorphic SNPs in a total of 309 unrelated individuals” should be “These data consist of ∼800,000 polymorphic SNPs in a total of 209 unrelated individuals.”\n\nIn the section “Widespread Signals of Recent Selection,” the sentence “For example, in simulations matching aspects of the Yoruba data, only 0.1% of windows of 50 consecutive SNPs had more than 16 SNPs with |iHS| &gt; 20” should be “For example, in simulations matching aspects of the Yoruba data, only 0.1% of windows of 50 consecutive SNPs had more than 16 SNPs with |iHS| &gt; 2.0.”"
+}

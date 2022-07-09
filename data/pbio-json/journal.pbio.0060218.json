@@ -1,0 +1,36 @@
+{
+  "schema": "https://data.sciveyor.com/schema",
+  "version": 5,
+  "id": "doi:10.1371/journal.pbio.0060218",
+  "doi": "10.1371/journal.pbio.0060218",
+  "externalIds": [
+    "pii:08-PLBI-S-3077",
+    "pmid:20076721",
+    "pmcid:PMC2525692"
+  ],
+  "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "dataSource": "Public Library of Science",
+  "dataSourceUrl": "https://data.sciveyor.com/source/plos",
+  "dataSourceVersion": 1,
+  "type": "article",
+  "title": "A New Role for a Long-Studied DNA-Wrangling Enzyme",
+  "authors": [
+    {
+      "name": "Liza Gross",
+      "first": "Liza",
+      "last": "Gross"
+    }
+  ],
+  "journal": "PLoS Biology",
+  "date": "2008-08",
+  "dateElectronic": "2008-08-26",
+  "volume": "6",
+  "number": "8",
+  "pages": "e218",
+  "tags": [
+    "Discipline/Cell Biology",
+    "Type/Synopsis"
+  ],
+  "fullText": "In the ongoing search for promising cancer drugs, researchers often discover effective therapies before knowing precisely how they work. Such was the case with a class of chemotherapy drugs called topoisomerase inhibitors. Topoisomerases are enzymes that function during cell division, when a cell duplicates its genome and distributes identical copies to each daughter cell, pulling apart single (topoisomerase I) or double (topoisomerase II) strands of entwined DNA to make sure the replication machinery can access the genome. The enzymes then rejoin the broken strands to protect genomic integrity, as unrepaired strand breaks can release checks on cell growth and lead to cancer if cell death programs fail to destroy the compromised cells. Topoisomerase inhibitors, commonly used to treat a wide range of cancers, appear to trigger cell death in tumor cells by blocking the enzyme's ability to repair strand breaks.\n\nIn a new study, Paula Coelho et al. investigated the role of topoisomerase II (TOPO II) in a critically important step in the cell cycle—the separation of the duplicated chromosomes—and made a surprising discovery. Not only does the enzyme ensure proper separation of the duplicated chromosomes—held in tightly bound pairs (called sister chromatids) until they separate—it also regulates an enzyme that inspects the fulcrum of the structural apparatus that pulls the chromosomes apart.\n\nSeveral classes of proteins manipulate the replicated chromosomes in preparation for mitosis, when each genome is sequestered in its own nucleus. Condensins compress the chromatids into packets for easier handling, and organize an axial platform to support TOPO II activity. Cohesins tie the sister chromatids together for alignment and attachment to the mitotic spindle—a spider-like array of microtubule proteins—via specialized structures called kinetochores, protein complexes that bind the chromosome's centromere to connect sister chromatids to the spindle. For chromosomes to segregate properly, sister kinetochores must hook up to microtubules from spindle poles oriented toward opposite poles. As soon as the chromosomes are properly aligned, cohesions must quickly release the sister chromatids to facilitate their hasty retreat to the opposite poles of the mitotic spindle.\n\nHow the cell coordinates sister chromatid separation with the process of condensing and untangling chromosomal DNA has long puzzled researchers. Since TOPO II not only detaches DNA tangles but also appears to help centromeres maintain their structure, Coelho et al. suspected that the enzyme may play a coordinating role. To investigate this possibility, the researchers interfered with TOPO II activity in living cells by blocking expression of the enzyme with RNA interference (RNAi) and used high-resolution, time-lapse fluorescent microscopy to track the process of mitosis in the cells to see what might go wrong.\n\nIn the first set of experiments, reducing TOPO II proteins to “barely detectable levels” seriously impaired sister chromatid segregation. To determine whether the TOPO II–related defects stemmed from problems with centromere function, the researchers depleted the enzyme in cells that expressed fluorescent tags on both chromosomal proteins (chromatin) and centromeres. Though chromosomes paired up normally in the TOPO II–depleted cells, sister chromatid centromeres misaligned, failed to split, and moved toward the same, rather than to opposite, poles. Furthermore, most sister kinetochores were inappropriately attached to the same spindle pole. When the researchers inhibited TOPO II activity after normal chromatid attachment to bipolar spindles, however, they saw no problems with kinetochore–microtubule interactions.\n\nTaken together, these results show that without TOPO II, sister centromeres fail to separate, which in turn prevents chromosomes from orienting and segregating properly during mitosis. These defects appear to arise from dysregulation of a critical enzyme, Aurora B. The absence of TOPO II disrupts the proper localization and activity of Aurora B, which promotes the dismantling of inappropriate microtubule-kinetochore attachments. In control cells, Aurora B localizes to the inner centromere when the chromosomes attach to their spindles and then migrates toward the middle of the spindle poles as the chromatids are pulled apart. The researchers conclude that by detaching DNA tangles, TOPO II causes structural changes that organize the inner centromere in a way that promotes the normal activation and localization of the Aurora B regulatory complex, which then removes abnormal kinetochore-microtubule attachments.\n\nOverexpression of Aurora B, which can lead to uncontrolled cell divisions with unequal chromosome distributions, is often detected in tumors. Cancer researchers have been investigating strategies to disrupt the enzyme by interfering with its binding or activation partners, though Aurora B inhibitors haven't performed as well in the clinic as researchers had hoped. By revealing a link between Aurora B and TOPO II—the target of some of the most widely used cancer drugs—this study not only sheds light on an essential cell cycle checkpoint mechanism. It also provides an intriguing and potentially important link between two important cancer drug targets. Researchers aren't sure why topoisomerase inhibitors prove so effective on some tumors, but maybe they generate a one-two punch—by inhibiting topoisomerase, they indirectly target Aurora B. With new evidence of a dual role for a critical regulator of genomic integrity, researchers can further explore what cells need to safely navigate the rigors of mitosis, and identify new strategies to contain the damage that eludes the highly regulated checkpoints."
+}
