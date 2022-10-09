@@ -3,6 +3,10 @@
 This repository contains some basic code for the topic modeling course that I
 taught at the Vienna Models & Methods summer school, July, 2022.
 
+**I'm leaving this repository here, since it's a URL that some people may have
+bookmarked, but [development on this notebook is continuing on
+Codeberg,](https://codeberg.org/cpence/topic-modeling-tutorial) not here.**
+
 ## LICENSE
 
 All code here is licensed under the MIT License. See the LICENSE file. The
